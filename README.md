@@ -14,7 +14,7 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 	- Two Reasons Why You Found Learning Haskell Hard https://schooloffp.co/2020/12/27/two-reasons-why-you-found-learning-haskell-hard.html | #programaciónfuncional #Haskell
 		- Nota: En este breve artículo se explica el porqué es difícil aprender Haskell y, lo contrapone, con el estilo imperativo (mostrando algunos ejemplos de código).
 	- How to Teach Mathematical Disciplines for IT Specialties https://cacm.acm.org/blogs/blog-cacm/257923-how-to-teach-mathematical-disciplines-for-it-specialties/fulltext | [[Sukhov, Andrei]]
-		- Nota: Una propuesta sobre las áreas matemáticas que necesita un informático, y cómo estás, puede ser de utilidad para construir sistemas prácticos.
+		- Nota: Una propuesta sobre las áreas matemáticas que necesita un informático, y cómo estas, pueden ser de utilidad para construir herramientas.
 - 21/01/2022
 	- How to Learn Machine Learning https://read.deeplearning.ai/the-batch/issue-128/
 		- Nota: Conjunto de breves artículos que te inspiran a aprender IA, escritos por expertos en el campo.
