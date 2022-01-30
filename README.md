@@ -53,7 +53,7 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 	- Intro to graph neural networks (ML Tech Talks) https://www.youtube.com/watch?v=8owQBFAHw7E | [[Veličković, Petar]] | #PhD
 		- Nota: Una elegante charla sobre las GNNs, pues, las animaciones que aparecen en la presentación están muy bien. Al final escribe código en TensorFlow (Python) y algunas sugerencias para ahondar más en el tema. Extra: ese canal de YouTube contiene bastantes joyas que las iré explorando en los próximos días.
 	- Introducción a la programación funcional con Haskell https://youtu.be/7-FDTFPGSsI | [[Alonso, José A.]]
-		- Nota: Una lista de videos para aprender Haskell y programación funcional desde un académico. Muy recomendado. Quizá los mejores videos en español para aprender Haskell.
+		- Nota: Una lista de videos para aprender Haskell y programación funcional desde un académico. Muy recomendado. Quizá de los mejores videos en español para aprender Haskell.
 	- Memoria entre dos mundos | [[Bunge, Mario]] | #Filosofía
 		- Nota: Una autobiografía de Mario Bunge. Estuve releyendo algunos fragmentos que me parecen estimulantes e inspiradores.
 	- Manuel de vida - Pasajes escogidos | [[Epicteto]] | #Filosofía
