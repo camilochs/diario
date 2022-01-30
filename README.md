@@ -38,7 +38,7 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 	- Ricardo Piglia analiza vida y obra de Jorge Luis Borges https://youtu.be/8GgSyKTQ_2k | [[Piglia, Ricardo]] | #literatura
 		- Nota: Una maravillosa charla sobre la vida y obra de Borges. Esta charla me ha suscitado un gran interés por Piglia.
 	- Los tónicos de la voluntad - Reglas y consejos sobre investigación científica | [[Ramón y Cajal, Santiago]] | Editorial: Gadir | #ciencia #Filosofía
-		- Nota: He vuelto a releer algunos apartados que me parecen brillantes. Un excelente libro para cualquier que aspire ser científico.
+		- Nota: He vuelto a releer algunos apartados que me parecen brillantes. Un excelente libro para cualquiera que aspire a ser científico.
 - 27/01/2022
 	- A Gentle Introduction to Graph Neural Networks https://distill.pub/2021/gnn-intro/#graph-to-tensor | #PhD
 		- Nota: Genial introducción a GNNs, conceptual y con hermosos ejemplos visuales, fácil y amena. No contiene ejemplos de código.
