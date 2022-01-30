@@ -1,5 +1,6 @@
-# Aprendizaje: lecturas y videos y otros.
-Lista recursos que he ido estudiando día tras día. Mi repositorio de aprendizaje.
+# Mi aprendizaje: lecturas, videos y otros.
+
+Lista recursos que he ido estudiando día tras día. 
 
 - 20/01/2022
 	- Two Reasons Why You Found Learning Haskell Hard https://schooloffp.co/2020/12/27/two-reasons-why-you-found-learning-haskell-hard.html | #programaciónfuncional #Haskell
