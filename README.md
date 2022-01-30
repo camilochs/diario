@@ -1,6 +1,6 @@
 # Mi aprendizaje: lecturas, videos y otros.
 
-Lista de recursos —de diversos formatos y temáticas— que he ido estudiando día tras día. Cada uno contiene una sucinta reseña según lo que considero importante recalcar. (Formato de la fecha: dd/mm/yyyy.)
+Lista de recursos —de diversos formatos y temáticas— que he ido estudiando día tras día. Cada uno contiene una sucinta reseña de lo que considero importante recalcar. (Formato de la fecha: dd/mm/yyyy.)
 
 - 20/01/2022
 	- Two Reasons Why You Found Learning Haskell Hard https://schooloffp.co/2020/12/27/two-reasons-why-you-found-learning-haskell-hard.html | #programaciónfuncional #Haskell
