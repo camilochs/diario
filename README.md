@@ -59,7 +59,7 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 	- Manuel de vida - Pasajes escogidos | [[Epicteto]] | #Filosofía
 		- Nota: Nunca viene mal leer algunos pasajes de la filosofía estoica. Este es un libro breve y conciso, pero que refleja muy bien cómo piensan los estoicos.
 - 30/01/2022
-	- Tutorial: Graph Neural Networks for Social Networks Using PyTorch https://dev.to/t/machinelearning | [[Ahmed, Awadelrahman M. A.]] | #PhD
+	- Tutorial: Graph Neural Networks for Social Networks Using PyTorch https://dev.to/awadelrahman/tutorial-graph-neural-networks-for-social-networks-using-pytorch-2kf | [[Ahmed, Awadelrahman M. A.]] | #PhD
 		- Nota: Muy buen tutorial, excelente complemento práctico para lo leído sobre GNNs en los días anteriores (véase los días: 27/01/2022 y 29/01/2022).
 
 
