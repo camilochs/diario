@@ -1,6 +1,6 @@
 # Mi aprendizaje: lecturas, videos y otros.
 
-Lista recursos que he ido estudiando día tras día. 
+Lista recursos —de diverso formato y tematicas— que he ido estudiando día tras día:
 
 - 20/01/2022
 	- Two Reasons Why You Found Learning Haskell Hard https://schooloffp.co/2020/12/27/two-reasons-why-you-found-learning-haskell-hard.html | #programaciónfuncional #Haskell
@@ -35,7 +35,7 @@ Lista recursos que he ido estudiando día tras día.
 	- A Gentle Introduction to Graph Neural Networks https://distill.pub/2021/gnn-intro/#graph-to-tensor | #PhD
 		- Nota: Genial introducción a GNNs, conceptual y con hermosos ejemplos visuales, fácil y amena. No contiene ejemplos de código.
 	- A Practical Tutorial on Graph Neural Networks: What are the fundamental motivations and mechanics that drive Graph Neural Networks, what are the different variants, and what are their applications? | [[Ward, Isaac Ronald]]; [[Joyner, Jack]]; [[Lickfold, Casey]]; [[Guo, Yulan]]; [[Bennamoun, Mohammed]] | #PhD
-		- Nota: una amplia introducción a GNNs, extensa y con muchos detalles. Se centra en explicar los conceptos claves junto a su definición matemática.
+		- Nota: Extensa introducción a GNNs. Se centra en explicar los conceptos claves junto a su definición matemática. Enfocado a personas que quieran investigar en el tema.
 - 28/01/2022
 	- Abstractions, their algorithms, and their compilers https://cacm.acm.org/magazines/2022/2/258231-abstractions-their-algorithms-and-their-compilers/fulltext | [[Aho, Alfred]]; [[Ullman, Jeffrey]]
 		- Nota: Una maravillosa exposición de lo qué es la abstracción en la computación, tomando como ejemplos diversas estructuras, entre ellas, las que son más representativas del trabajo de los autores: los compiladores.
