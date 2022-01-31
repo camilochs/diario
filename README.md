@@ -11,7 +11,7 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 ## Recursos 
 - 31/01/2022
 	- A new language for quantum computing https://news.mit.edu/2022/new-language-quantum-computing-twist-0124 | [[Gordon, Rachel]]
-		- Nota: Uno de los principales problemas de la computación cuántica radica en los errores que se producen a nivel de qubit producto de lo que se llama "entrelazamiento". Así, en este artículo se presenta Twist, un lenguaje de programación cuántico que ayuda a detectar cuando los datos (qubits) estarán entrelazados o no, ayudando a escribir programar menos proclives a errores. Esto me recuerda a los lenguajes de verificación de la computación clásica, a saber: TLA+ o Coq.
+		- Nota: Uno de los principales problemas de la computación cuántica radica en los errores que se producen a nivel de qubit producto de lo que se llama "entrelazamiento". Así, en este artículo se presenta Twist (¿será el nombre un guiño a la "Twistor Theory" de Penrose?) un lenguaje de programación cuántico que ayuda a detectar cuando los datos (qubits) estarán entrelazados o no, ayudando a escribir programar menos proclives a errores. Esto me recuerda a los lenguajes de verificación de la computación clásica, a saber: TLA+ o Coq.
 	- Theoretical Foundations of Graph Neural Networks https://www.youtube.com/watch?v=uF53xsT7mjc | [[Veličković, Petar]] | #PhD
 		- Nota: Esta es una genial charla, pues, es un complemento de la que vi el 29/01/2022 (del mismo autor). Es, un deber mirar, para seguir profundizando en la GNNs.
 - 30/01/2022
