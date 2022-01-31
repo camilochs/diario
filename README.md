@@ -61,5 +61,6 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 - 30/01/2022
 	- Tutorial: Graph Neural Networks for Social Networks Using PyTorch https://dev.to/awadelrahman/tutorial-graph-neural-networks-for-social-networks-using-pytorch-2kf | [[Ahmed, Awadelrahman M. A.]] | #PhD
 		- Nota: Muy buen tutorial, excelente complemento práctico para lo leído sobre GNNs en los días anteriores (véase los días: 27/01/2022 y 29/01/2022).
-
-
+- 31/01/2022
+	- Theoretical Foundations of Graph Neural Networks https://www.youtube.com/watch?v=uF53xsT7mjc | [[Veličković, Petar]] | #PhD
+		- Nota: Esta es una genial charla, pues, es un complemento de la que vi el 29/01/2022 (del mismo autor). Es, un deber mirar, para seguir profundizando en la GNNs.
