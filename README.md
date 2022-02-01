@@ -8,12 +8,17 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 - Algunos recursos he considerado relevante añadir un hashtag con la temática. 
 - Hay recursos sin un enlace adjunto, esto se debe a que son libros o artículos que los compré o tengo acceso a ellos a través de alguna subcripción personal. Por tanto, no se encuentran disponibles de manera pública.
 
-## Recursos 
+## Recursos
+- 01/02/2022
+	- Seminario: Ciencia en la narrativa | [[Meseguer, Pedro]]
+		- Nota: Este es un seminario que dieron en el IIIA-CSIC. Conoci algunos libros que le pueden interesar a personas con ciertas inquietudes cientificas y que les guste la literatura. Algunas obras mencionadas por Pedro: El siglo de las luces (Alejo Carpenter, 1962); Cien años de soledad (Gabriel García Márquez, 1967); Seda (Alessandro Baricco, 1996); Máquinas como yo (Ian McEwan, 2019). Solo una breve critica: hubo algo de spoiler jeje.
+	- El buen caracter - Claves para sacarle partido a tu forma de ser | [[Rabbani, Rosa]]
+		- Este libro escrito, por una doctora en psicología social y terapeuta familiar, es un buen libro sobre cómo cultivar un buen caracter. Esto es útil porque a medidas que se va aumentando en conocimiento se va aumentado (en cierto grado) en arrogancia o en ser demasiado crítico con otras personas (careciendo de empatía). No hay que olvidar que relacionarse con otras personas es fundamental para tener una buena vida. Por todo ello: es un libro recomendado.
 - 31/01/2022
 	- A new language for quantum computing https://news.mit.edu/2022/new-language-quantum-computing-twist-0124 | [[Gordon, Rachel]]
 		- Nota: Uno de los principales problemas de la computación cuántica radica en los errores que se producen a nivel de qubit producto de lo que se llama "entrelazamiento". Así, en este artículo se presenta Twist (¿será el nombre un guiño a la "Twistor Theory" de Penrose?) un lenguaje de programación cuántico que ayuda a detectar cuando los datos (qubits) estarán entrelazados o no, ayudando a escribir programar menos proclives a errores. Esto me recuerda a los lenguajes de verificación de la computación clásica, a saber: TLA+ o Coq.
 	- Theoretical Foundations of Graph Neural Networks https://www.youtube.com/watch?v=uF53xsT7mjc | [[Veličković, Petar]] | #PhD
-		- Nota: Esta es una genial charla, pues, es un complemento de la que vi el 29/01/2022 (del mismo autor). Es, un deber mirar, para seguir profundizando en GNNs. Algunos conceptos interesantes de la charla son: invariante de permutación sobre matrices (esto presume que el orden de los nodos en un grafo no importa, y, por tanto, independiente de la posición que se encuentren en la permutación el resultado será siempre el mismo).
+		- Nota: Esta es una genial charla, pues, es un complemento de la que vi el 29/01/2022 (del mismo autor). Es, un deber mirar, para seguir profundizando en GNNs. Algunos conceptos interesantes de la charla son (1) invariante de permutación sobre matrices: esto presume que el orden de los nodos en un grafo no importa, y, por tanto, independiente de la posición que se encuentren en la permutación el resultado será siempre el mismo, aquí se encuentra presente el concepto de agregación (suma o promedio o máximo); (2) permutación de equivalencia: esto se utiliza para clasificar a nivel de nodos (la salida), en cambio, en el caso de (1) la agregación hace perder la identificación de cada nodo. 
 - 30/01/2022
 	- Tutorial: Graph Neural Networks for Social Networks Using PyTorch https://dev.to/awadelrahman/tutorial-graph-neural-networks-for-social-networks-using-pytorch-2kf | [[Ahmed, Awadelrahman M. A.]] | #PhD
 		- Nota: Muy buen tutorial, excelente complemento práctico para lo leído sobre GNNs en los días anteriores (véase los días: 27/01/2022 y 29/01/2022).
