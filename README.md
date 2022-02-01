@@ -10,7 +10,7 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 
 ## Recursos
 - 01/02/2022 
-	- Graph Representation Learning Book https://www.cs.mcgill.ca/~wlh/grl_book/ | [[Hamilton, William L.]]
+	- Graph Representation Learning Book https://www.cs.mcgill.ca/~wlh/grl\_book/ | [[Hamilton, William L.]]
 		- Nota: [[Veličković, Petar]] recomendó --en algunas de las charlas que he visto-- fuertemente este libro sobre GNN. (Sobre todo el cap. 7, pues, es donde se presenta la teoría detrás de las GNN). Por lo poco que he leído es una excelente introducción.
 	- Seminario: Ciencia en la narrativa | [[Meseguer, Pedro]]
 		- Nota: Este es un seminario que dieron en el IIIA-CSIC. Conocí algunos libros que le pueden interesar a personas con ciertas inquietudes cientificas y que, además, les guste la literatura. Algunas obras mencionadas por Pedro: El siglo de las luces (Alejo Carpenter, 1962); Cien años de soledad (Gabriel García Márquez, 1967); Seda (Alessandro Baricco, 1996); Máquinas como yo (Ian McEwan, 2019). Solo una breve critica: hubo algo de spoiler jeje.
