@@ -11,7 +11,7 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 ## Recursos
 - 01/02/2022
 	- Seminario: Ciencia en la narrativa | [[Meseguer, Pedro]]
-		- Nota: Este es un seminario que dieron en el IIIA-CSIC. Conoci algunos libros que le pueden interesar a personas con ciertas inquietudes cientificas y que les guste la literatura. Algunas obras mencionadas por Pedro: El siglo de las luces (Alejo Carpenter, 1962); Cien años de soledad (Gabriel García Márquez, 1967); Seda (Alessandro Baricco, 1996); Máquinas como yo (Ian McEwan, 2019). Solo una breve critica: hubo algo de spoiler jeje.
+		- Nota: Este es un seminario que dieron en el IIIA-CSIC. Conocí algunos libros que le pueden interesar a personas con ciertas inquietudes cientificas y que, además, les guste la literatura. Algunas obras mencionadas por Pedro: El siglo de las luces (Alejo Carpenter, 1962); Cien años de soledad (Gabriel García Márquez, 1967); Seda (Alessandro Baricco, 1996); Máquinas como yo (Ian McEwan, 2019). Solo una breve critica: hubo algo de spoiler jeje.
 	- El buen caracter - Claves para sacarle partido a tu forma de ser | [[Rabbani, Rosa]]
 		- Este libro escrito, por una doctora en psicología social y terapeuta familiar, es un buen libro sobre cómo cultivar un buen caracter. Esto es útil porque a medidas que se va aumentando en conocimiento se va aumentado (en cierto grado) en arrogancia o en ser demasiado crítico con otras personas (careciendo de empatía). No hay que olvidar que relacionarse con otras personas es fundamental para tener una buena vida. Por todo ello: es un libro recomendado.
 - 31/01/2022
