@@ -9,6 +9,9 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 - Hay recursos sin un enlace adjunto, esto se debe a que son libros o artículos que los compré o tengo acceso a ellos a través de alguna subcripción personal. Por tanto, no se encuentran disponibles de manera pública.
 
 ## Recursos
+- 02/02/2022
+	- Ones And Zeros: Understanding Boolean Algebra, Digital Circuits, and the Logic of Sets | [[Gregg, John R.]]
+		- Nota: En mi búsqueda de libros que expliquen el algebra de Boole (es un tema que trato en mi prox. libro), me encontré con este maravilloso texto. No tan solo expone muy bien esta cuestión, además, no omite la historia del campo, menciona quienes fueron las personas que hicieron los principales aportes. De lectura amena. (El libro fue publicado en 1998; según mi experiencia nunca se debe omitir un libro por la fecha de publicación, sobre todo, si trata temas relacionados a las matemáticas.)
 - 01/02/2022 
 	- Graph Representation Learning Book https://www.cs.mcgill.ca/~wlh/grl\_book/ | [[Hamilton, William L.]]
 		- Nota: [[Veličković, Petar]] recomendó --en algunas de las charlas que he visto-- fuertemente este libro sobre GNN. (Sobre todo el cap. 7, pues, es donde se presenta la teoría detrás de las GNN). Por lo poco que he leído es una excelente introducción.
