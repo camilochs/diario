@@ -7,6 +7,7 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 - El nombre de los autores viene entre doble corchetes "[[]]", primero el apellido luego el nombre (separado por una coma).
 - Algunos recursos he considerado relevante añadir un hashtag con la temática. 
 - Hay recursos sin un enlace adjunto, esto se debe a que son libros o artículos que los compré o tengo acceso a ellos a través de alguna subcripción personal. Por tanto, no se encuentran disponibles de manera pública.
+- Iré añadiendo solo recursos que considero importantes, los que lea y no me gusten, los omitiré.
 
 ## Recursos
 - 03/02/2022
