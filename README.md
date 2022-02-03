@@ -11,6 +11,8 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 
 ## Recursos
 - 03/02/2022
+- 	- Interpretable Machine Learning - Moving from mythos to diagnostics https://queue.acm.org/detail.cfm?id=3511299 | [[Chen, Valerie]]; [[Li, Jeffrey]]; [[Kim, Joon Sik]]; [[Plumb, Gregory]]; [[Talwalkar, Ameet]]
+		- Nota: Artículo interesante porque explica con claridad de qué trata el IML (interpretable machine learning), qué es, la búsqueda de mayor confianza en los modelos predictivos, mejores herramientas para depurarlos y mejores formas de presentarlos a personas que toman decisiones (en general, no técnicas).
 	- Music and Mathematics: From Pythagoras to Fractals |  [[Fauvel, John]]; [[Flood, Raymond]]; [[Wilson, Robin]]
 		- Nota: Por casualidad he comenzado a leer este libro, encontrado por casualidad mientras buscaba material sobre grafos. Muy interesante para las personas que esten interesadas en la conexión de las matemáticas con la música. (Wilson a escrito un libro sobre teoría de grafos.)
 - 02/02/2022
