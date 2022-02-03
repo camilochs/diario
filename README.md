@@ -9,6 +9,9 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 - Hay recursos sin un enlace adjunto, esto se debe a que son libros o artículos que los compré o tengo acceso a ellos a través de alguna subcripción personal. Por tanto, no se encuentran disponibles de manera pública.
 
 ## Recursos
+- 03/02/2022
+	- Music and Mathematics: From Pythagoras to Fractals |  [[Fauvel, John]]; [[Flood, Raymond]]; [[Wilson, Robin]]
+		- Nota: Por casualidad he comenzado a leer este libro, encontrado por casualidad mientras buscaba material sobre grafos. Muy interesante para las personas que esten interesadas en la conexión de las matemáticas con la música. (Wilson a escrito un libro sobre teoría de grafos.)
 - 02/02/2022
 	- Ones And Zeros: Understanding Boolean Algebra, Digital Circuits, and the Logic of Sets | [[Gregg, John R.]]
 		- Nota: En mi búsqueda de libros que expliquen el algebra de Boole (es un tema que trato en mi prox. libro), me encontré con este maravilloso texto. No tan solo expone muy bien esta cuestión, además, no omite la historia del campo, menciona quienes fueron las personas que hicieron los principales aportes. De lectura amena. (El libro fue publicado en 1998; según mi experiencia nunca se debe omitir un libro por la fecha de publicación, sobre todo, si trata temas relacionados a las matemáticas.)
