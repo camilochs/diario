@@ -10,6 +10,9 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 - Iré añadiendo solo recursos que considero importantes, los que lea y no me gusten, los omitiré.
 
 ## Recursos
+- 04/02/2022
+	- Solving for Why https://cacm.acm.org/magazines/2022/2/258218-solving-for-why/fulltext | [[Krakovsky, Marina]]
+		- Nota: Se explica de qué trata la inferencia causal y su posible importancia en los sistemas de aprendizaje (IA), en la búsqueda de el porqué de las decisiones de los modelos predictivos. Hay un enlace a un libro que, por lo que he visto en las primeras páginas, se ve bastante bien: https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2021/03/ciwhatif_hernanrobins_30mar21.pdf
 - 03/02/2022
 - 	- Interpretable Machine Learning - Moving from mythos to diagnostics https://queue.acm.org/detail.cfm?id=3511299 | [[Chen, Valerie]]; [[Li, Jeffrey]]; [[Kim, Joon Sik]]; [[Plumb, Gregory]]; [[Talwalkar, Ameet]]
 		- Nota: Artículo interesante porque explica con claridad de qué trata el IML (interpretable machine learning), qué es, la búsqueda de mayor confianza en los modelos predictivos, mejores herramientas para depurarlos y mejores formas de presentarlos a personas que toman decisiones (en general, no técnicas).
