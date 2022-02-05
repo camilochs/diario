@@ -10,6 +10,9 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 - Iré añadiendo solo recursos que considero importantes, los que lea y no me gusten, los omitiré.
 
 ## Recursos
+- 05/02/2022
+	- Tu futuro: Consejos de una Premio Nobel a los jóvenes | [[Levi-Montalcini, Rita]]
+		- Nota: Estoy comenzando a leer este libro y se ve bastante interesante, pues, la autora tuvo una extraordinaria carrera cientifica y, en este libro, revela varios consejos a personas jóvenes (útil, a pesar de que yo ya no lo soy tanto jeje).
 - 04/02/2022
 	- Solving for Why https://cacm.acm.org/magazines/2022/2/258218-solving-for-why/fulltext | [[Krakovsky, Marina]]
 		- Nota: Se explica de qué trata la inferencia causal y su posible importancia en los sistemas de aprendizaje (IA), en la búsqueda de el porqué de las decisiones de los modelos predictivos. Hay un enlace a un libro que, por lo que he visto en las primeras páginas, se ve bastante bien: https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2021/03/ciwhatif_hernanrobins_30mar21.pdf
