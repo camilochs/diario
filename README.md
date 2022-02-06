@@ -11,7 +11,7 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 
 ## Recursos
 - 05/02/2022
- 	- The Essentials of Modern Software Engineering: Free the Practices from the Method Prisons! | [[Jacobson, Ivar]]; [[Lawson, Harold "Bud"]]; [[Ng, Pan-Wei]]
+ 	- The Essentials of Modern Software Engineering: Free the Practices from the Method Prisons! | [[Jacobson, Ivar]]; [[Lawson, Harold "Bud"]]; [[Ng, Pan-Wei]] | #softwareengineering
 		- Nota: Este libro me ha atrapado desde el prólogo; la prosa y la forma en qué presenta el libro se ve "con un sabor distinto" a todos los demás libros de ingeniería de software que he leído con anterioridad.	  
 	- Tu futuro: Consejos de una Premio Nobel a los jóvenes | [[Levi-Montalcini, Rita]]
 		- Nota: Estoy comenzando a leer este libro y se ve bastante interesante, pues, la autora tuvo una extraordinaria carrera científica y, en este libro, revela varios consejos a personas jóvenes (útil, a pesar de que yo ya no lo soy tanto jeje).
