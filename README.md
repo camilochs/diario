@@ -10,6 +10,9 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 - Iré añadiendo solo recursos que considero importantes, los que lea y no me gusten, los omitiré.
 
 ## Recursos
+- 06/02/2022
+	- El camino de Ida | [[Piglia, Ricardo]]
+		- Nota: Hoy comencé con esta novela. Estoy muy interesando en Piglia y en la forma que une la realidad con la ficción en sus textos. Además en esta novela, uno de sus personajes, se encuentra inspirado en Unabomber, lo cual lo hace aún más atractivo.
 - 05/02/2022
  	- The Essentials of Modern Software Engineering: Free the Practices from the Method Prisons! | [[Jacobson, Ivar]]; [[Lawson, Harold "Bud"]]; [[Ng, Pan-Wei]] | #softwareengineering
 		- Nota: Este libro me ha atrapado desde el prólogo; la prosa y la forma en qué presenta el libro se ve "con un sabor distinto" a todos los demás libros de ingeniería de software que he leído con anterioridad.	  
