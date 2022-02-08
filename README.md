@@ -10,6 +10,9 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 - Iré añadiendo solo recursos que considero importantes, los que lea y no me gusten, los omitiré.
 
 ## Recursos
+- 07/02/2022
+	- Leaving Academia: A Practical Guide | [[Caterine, Christopher L.]]
+		- Nota: Interesante para toda persona que este realizando un doctorado o ya lo obtuvo. Te hace reflexionar que, en caso de no continuar tu vida profesional en la academia, la vida no termina.
 - 06/02/2022
 	- El camino de Ida | [[Piglia, Ricardo]]
 		- Nota: Hoy comencé con esta novela. Estoy muy interesando en Piglia y en la forma que une la realidad con la ficción en sus textos. Además en esta novela, uno de sus personajes, se encuentra inspirado en Unabomber, lo cual lo hace aún más atractivo.
