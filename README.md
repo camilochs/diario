@@ -10,6 +10,9 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 - Iré añadiendo solo recursos que considero importantes, los que lea y no me gusten, los omitiré.
 
 ## Recursos
+- 09/02/2022 
+	- [Mentes geniales. La vida y obra de 12 grandes informáticos](https://www.amazon.es/Mentes-geniales-vida-grandes-inform%C3%A1ticos/dp/8426733573/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=4BITZ4BFOJZP&keywords=mentes+geniales&qid=1644497593&sprefix=mentes+geniale%2Caps%2C97&sr=8-1) | [[Chacón Sartori, Camilo]]
+		- Nota: Dado que hoy tengo una presentación de mi libro, tuve que leer algunos párrafos del mismo. Recursidad pura.
 - 07/02/2022
 	- Leaving Academia: A Practical Guide | [[Caterine, Christopher L.]]
 		- Nota: Interesante para toda persona que este realizando un doctorado o ya lo obtuvo. Te hace reflexionar que, en caso de no continuar tu vida profesional en la academia, la vida no termina.
