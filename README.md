@@ -10,6 +10,9 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 - Iré añadiendo solo recursos que considero importantes, los que lea y no me gusten, los omitiré.
 
 ## Recursos
+- 11/02/2022
+	- [Mente & Cerebro | Revista | Edición Enero/Febrero 2022](https://www.investigacionyciencia.es/revistas/mente-y-cerebro/el-reto-de-medir-la-inteligencia-852)
+		- Nota: Es una revista que me encanta pues trata temas muy interesante relacionados con la psicología, el buen funcionamiento del cerebro, la creatividad, la inteligencia, etc. 
 - 09/02/2022 
 	- [Mentes geniales. La vida y obra de 12 grandes informáticos](https://www.amazon.es/Mentes-geniales-vida-grandes-inform%C3%A1ticos/dp/8426733573/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=4BITZ4BFOJZP&keywords=mentes+geniales&qid=1644497593&sprefix=mentes+geniale%2Caps%2C97&sr=8-1) | [[Chacón Sartori, Camilo]]
 		- Nota: Dado que hoy tengo una presentación de mi libro, tuve que leer algunos párrafos del mismo. Recursidad pura.
