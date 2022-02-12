@@ -10,6 +10,9 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 - Iré añadiendo solo recursos que considero importantes, los que lea y no me gusten, los omitiré.
 
 ## Recursos
+- 12/02/2022
+	- [Why not rust](https://matklad.github.io/2020/09/20/why-not-rust.html) | [[Kladov, Aleksey]]
+		- Nota: Es artículo que te hace reflexionar sobre algunos puntos cuestionable de Rust con respecto a otros lenguajes.
 - 11/02/2022
  	- [Competitive programming with AlphaCode](https://www.deepmind.com/blog/article/Competitive-programming-with-AlphaCode) | DeepMind
  		- Nota: Un nuevo modelo predicivo que permite generar código que responde a problemas de programación competitiva. Muy recomendado ya que podría ser una tecnología que, automatice, muchas tareas cotidianas de la programación.
