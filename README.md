@@ -11,6 +11,8 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 
 ## Recursos
 - 11/02/2022
+ 	- [Competitive programming with AlphaCode](https://www.deepmind.com/blog/article/Competitive-programming-with-AlphaCode) | DeepMind
+ 		- Nota: Un nuevo modelo predicivo que permite generar código que responde a problemas de programación competitiva. Muy recomendado ya que podría ser una tecnología que, automatice, muchas tareas cotidianas de la programación.
 	- [Mente & Cerebro | Revista | Edición Enero/Febrero 2022](https://www.investigacionyciencia.es/revistas/mente-y-cerebro/el-reto-de-medir-la-inteligencia-852)
 		- Nota: Es una revista que me encanta pues trata temas muy interesante relacionados con la psicología, el buen funcionamiento del cerebro, la creatividad, la inteligencia, etc. 
 - 09/02/2022 
