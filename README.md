@@ -10,6 +10,9 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 - Iré añadiendo solo recursos que considero importantes, los que lea y no me gusten, los omitiré.
 
 ## Recursos
+- 13/02/2022
+	- [Bots and Beasts - What Makes Machines, Animals, and People Smart?](https://mitpress.mit.edu/books/bots-and-beasts) | [[Thagard, Paul]]
+		- Nota: Hoy he comenzado a leer este libro, es el primero que conozco que trata cómo se relaciona la inteligencia entre los humanos, máquinas y animales. Además, Thagard escribe y organiza muy bien sus libros.
 - 12/02/2022
 	- [Why not rust](https://matklad.github.io/2020/09/20/why-not-rust.html) | [[Kladov, Aleksey]]
 		- Nota: Es artículo que te hace reflexionar sobre algunos puntos cuestionable de Rust con respecto a otros lenguajes.
