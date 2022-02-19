@@ -8,8 +8,14 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 - Hay recursos sin un enlace adjunto, esto se debe a que son libros o artículos que los compré o tengo acceso a ellos a través de alguna subcripción personal. Por tanto, no se encuentran disponibles de manera pública.
 - Iré añadiendo solo recursos que considero importantes, los que lea y no me gusten, los omitiré.
 ## Recursos
-- [[Mon, 14-02-2022]]
-	-
+- [[Wed, 16-02-2022]] al [[Sat, 19-02-2022]]
+	- Sparks of Genius: The Thirteen Thinking Tools of the World's Most Creative People | [[Root-Bernstein, Robert]]; [[Root-Bernstein, Michelle]]
+		- Nota: Un libro maravilloso sobre la creatividad. Lo he estado releyendo estos días, es sin duda, una inagotable fuente de inspiración.
+- [[Tue, 15-02-2022]]
+	- [MIT Develops New Programming Language for High-Performance Computers](https://scitechdaily.com/mit-develops-new-programming-language-for-high-performance-computers/)
+		- Nota: Un nuevo lenguaje de programación basado en tensores, es decir, para trabajar directamente con matrices y vectores. Pensado, sin duda, para [[Deep Learning]].
+	- https://usesthis.com
+		- Nota: Un excelente sitio web que recopila entrevista a diversos profesionales. ¿Lo genial? Mencionan que hardware y software usan a diario... muy interesante para descubrir herramientas.
 - 13/02/2022
 	- [Bots and Beasts - What Makes Machines, Animals, and People Smart?](https://mitpress.mit.edu/books/bots-and-beasts) | [[Thagard, Paul]]
 		- Nota: Hoy he comenzado a leer este libro, es el primero que conozco que trata cómo se relaciona la inteligencia entre los humanos, máquinas y animales. Además, Thagard escribe y organiza muy bien sus libros.
