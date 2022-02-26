@@ -8,6 +8,8 @@ Lista de recursos —de diversos formatos y temáticas— que he ido estudiando 
 - Hay recursos sin un enlace adjunto, esto se debe a que son libros o artículos que los compré o tengo acceso a ellos a través de alguna subcripción personal. Por tanto, no se encuentran disponibles de manera pública.
 - Iré añadiendo solo recursos que considero importantes, los que lea y no me gusten, los omitiré.
 ## Recursos
+- [[Sat, 20-02-2022]] al [[Sat, 25-02-2022]]
+	- Nota: No tengo ninguna lectura nueva, simplemente he estado leyendo algunos libros y material que he mencionado en días anteriores.
 - [[Wed, 16-02-2022]] al [[Sat, 19-02-2022]]
 	- Sparks of Genius: The Thirteen Thinking Tools of the World's Most Creative People | [[Root-Bernstein, Robert]]; [[Root-Bernstein, Michelle]]
 		- Nota: Un libro maravilloso sobre la creatividad. Lo he estado releyendo estos días, es sin duda, una inagotable fuente de inspiración.
