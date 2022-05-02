@@ -1,13 +1,7 @@
-# Mi aprendizaje: lecturas, videos y otros.
-
-Lista de recursos —de diversos formatos y temáticas— que he ido estudiando día tras día. Cada uno contiene una sucinta reseña de lo que considero importante recalcar.
-## Información preliminar
-- Formato de la fecha: [[day, dd-mm-yyyy]], ordenadas de manera descendente (la más actual va primero).
-- El nombre de los autores viene entre doble corchetes "[[]]", primero el apellido luego el nombre (separado por una coma).
-- Algunos recursos he considerado relevante añadir un hashtag con la temática.
-- Hay recursos sin un enlace adjunto, esto se debe a que son libros o artículos que los compré o tengo acceso a ellos a través de alguna subcripción personal. Por tanto, no se encuentran disponibles de manera pública.
-- Iré añadiendo solo recursos que considero importantes, los que lea y no me gusten, los omitiré.
-## Recursos
+- [[26-02-2022]] a [[Mon, 02-05-2022]]
+	- He hecho muchas cosas en estos meses. He avanzado en mi libro «Principios de programación» aunque no tanto como yo quisiera. No he avanzado tanto en el doctorado como me gustaría, me falta ordenarme más, pues tengo muchos intereses, muchos proyectos.
+	- He conocido a Fernando Pessoa, me encantó. ¿Cómo lo conoci? Por mi futuro viaje a Lisboa en Julio (para ver a Metallica).
+	-
 - [[Sat, 20-02-2022]] al [[Sat, 25-02-2022]]
 	- Nota: No tengo ninguna lectura nueva, simplemente he estado leyendo algunos libros y material que he mencionado en días anteriores.
 - [[Wed, 16-02-2022]] al [[Sat, 19-02-2022]]
