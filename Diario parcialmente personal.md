@@ -1,6 +1,8 @@
 - [[26-02-2022]] a [[Mon, 02-05-2022]]
 	- He hecho muchas cosas en estos meses. He avanzado en mi libro «Principios de programación» aunque no tanto como yo quisiera. No he avanzado tanto en el doctorado como me gustaría, me falta ordenarme más, pues tengo muchos intereses, muchos proyectos.
-	- He conocido a Fernando Pessoa, me encantó. ¿Cómo lo conoci? Por mi futuro viaje a Lisboa en Julio (para ver a Metallica).
+	- El podcast sigue su rumbo, he realizado varias entrevistas y ya he coordinado con otras personas para entrevistas futuras.
+	- He conocido a Fernando Pessoa, me encantó. ¿Cómo lo conoci? Por mi futuro viaje a Lisboa a Julio (para ver a Metallica).
+	-
 	-
 - [[Sat, 20-02-2022]] al [[Sat, 25-02-2022]]
 	- Nota: No tengo ninguna lectura nueva, simplemente he estado leyendo algunos libros y material que he mencionado en días anteriores.
