@@ -3,7 +3,6 @@
 	- El podcast sigue su rumbo, he realizado varias entrevistas. Y ya he coordinado con otras personas para entrevistas futuras.
 	- He conocido a Fernando Pessoa, me encantó. ¿Cómo lo conoci? Por mi futuro viaje a Lisboa a Julio (para ver a Metallica).
 	-
-	-
 - [[Sat, 20-02-2022]] al [[Sat, 25-02-2022]]
 	- Nota: No tengo ninguna lectura nueva, simplemente he estado leyendo algunos libros y material que he mencionado en días anteriores.
 - [[Wed, 16-02-2022]] al [[Sat, 19-02-2022]]
