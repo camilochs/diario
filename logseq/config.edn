@@ -163,7 +163,7 @@
  :ui/show-brackets? false
  :feature/enable-timetracking? false
  :feature/enable-journals? false
- :default-home {:page "README"}
+ :default-home {:page "DIARIO"}
  :favorites ["diario"]
  :graph/settings {:journal? false}
  :publishing/all-pages-public? true
