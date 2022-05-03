@@ -52,9 +52,6 @@
  {:block/name "deep learning",
   :block/created-at 1651493260228,
   :block/updated-at 1651493260228}
- {:block/name "diario parcialmente personal",
-  :block/created-at 1644843240331,
-  :block/updated-at 1651495435048}
  {:block/name "doing",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -154,6 +151,9 @@
  {:block/name "now",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "pessoa, fernando",
+  :block/created-at 1651578170939,
+  :block/updated-at 1651578170939}
  {:block/name "phd",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -172,6 +172,9 @@
  {:block/name "ramón y cajal, santiago",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "readme",
+  :block/created-at 1644843240331,
+  :block/updated-at 1651607676363}
  {:block/name "root-bernstein, michelle",
   :block/created-at 1651493260228,
   :block/updated-at 1651493260228}
@@ -202,6 +205,9 @@
  {:block/name "todo",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "tue, 03-05-2022",
+  :block/created-at 1651576851159,
+  :block/updated-at 1651576851159}
  {:block/name "tue, 15-02-2022",
   :block/created-at 1644883200000,
   :block/updated-at 1644883200000}

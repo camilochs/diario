@@ -162,10 +162,10 @@
  :journal/page-title-format "E, dd-MM-yyyy"
  :ui/show-brackets? false
  :feature/enable-timetracking? false
- :feature/enable-journals? true
+ :feature/enable-journals? false
  :default-home {:page "README"}
  :favorites ["readme"]
- :graph/settings {:journal? true}
+ :graph/settings {:journal? false}
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
