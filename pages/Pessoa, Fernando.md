@@ -1,1 +1,1 @@
-- Un maravilloso escritor. Eso sí. No es para almas que no ven la belleza en la tristeza, o, se abruman con ciertos pasajes negativos. En cambio, para mi no es pesimista sino realista. Una gran lucidez detrás de una prosa limpia.
+- Un maravilloso escritor. Eso sí. No es para almas que no ven la belleza en la tristeza, o, se abruman con ciertos pasajes negativos. Para mi no es pesimista sino realista. Una gran lucidez detrás de una prosa limpia.
