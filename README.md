@@ -1,3 +1,4 @@
+- Este es el diario de C. Chasar. Contiene ideas completas e incompletas y reflexiones aleatorias.
 - [[Tue, 03-05-2022]]
 	- He comenzado a leer «Libro del desasosiego» de [[Pessoa, Fernando]]; la traducción y edición de Ángel Crespo, editorial Seix Barral. Tristemente hermoso.
 	- Soy un informático humanista. Porque todo lo humano me interesa, me apasiona y me genera curiosidad. De la informática rescato la búsqueda de aspirar a ser mejores, de poder ocupar la tecnología para hacer un mundo mejor. Pero, sí, soy humanista, luego informático. Si solo fuera informático viviría triste y apagado, cómo aquel que no tiene un sentido para vivir. La informática le da luz a la vida  -o al menos a mi vida-, y creo, o aspiro, a que cualquier informático pueda mejorar nuestra área tomando lo mejor de las letras.
