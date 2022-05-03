@@ -164,7 +164,7 @@
  :feature/enable-timetracking? true
  :feature/enable-journals? false
  :default-home {:page "README"}
- :favorites ["readme"]
+ :favorites ["diario"]
  :graph/settings {:journal? false}
  :publishing/all-pages-public? true
 
