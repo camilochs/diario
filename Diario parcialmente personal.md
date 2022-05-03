@@ -1,3 +1,5 @@
+- [[Tue, 03-05-2022]]
+	- Soy un informático humanista. Porque todo lo humano me interesa, me apasiona y me genera curiosidad. De la informática rescato la búsqueda de aspirar a ser mejores,
 - [[26-02-2022]] a [[Mon, 02-05-2022]]
 	- He hecho muchas cosas en estos meses. He leído mucho. He avanzado en mi libro «Principios de programación» aunque no tanto como yo quisiera. No he avanzado tanto en el doctorado como me gustaría, me falta ordenarme más, pues tengo muchos intereses, muchos proyectos.
 	- El podcast sigue su rumbo, he realizado varias entrevistas. Y ya he coordinado con otras personas para entrevistas futuras.
