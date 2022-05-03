@@ -161,7 +161,7 @@
  :ref/default-open-blocks-level 2
  :journal/page-title-format "E, dd-MM-yyyy"
  :ui/show-brackets? false
- :feature/enable-timetracking? true
+ :feature/enable-timetracking? false
  :feature/enable-journals? false
  :default-home {:page "README"}
  :favorites ["diario"]
