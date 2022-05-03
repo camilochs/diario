@@ -1,1 +1,1 @@
-- Un maravilloso escritor. Eso sí. No es para almas que no ven la belleza de la tristeza y cómo el mismo dice: «Desasosiego».
+- Un maravilloso escritor. Eso sí. No es para almas que no ven la belleza en la tristeza, o, se abruman con ciertos pasajes que pueden parecer negativos. En cambio, para mi no es pesimista; e
