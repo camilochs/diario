@@ -1,6 +1,6 @@
 - ### Este es mi diario parcialmente personal. Contiene reflexiones aleatorias de mi vida.
 - [[Wed, 04-05-2022]]
-	- Gris y con un poco de calor. Así está ía de Barcelona
+	- Gris y con un poco de calor. Así está el día en Barcelona. Ayer comencé a leer el libro de [[Arendt, Hannah]]: «Eichmann en Jerusalén», es
 - [[Tue, 03-05-2022]]
 	- Soy un informático humanista. Porque todo lo humano me interesa, me apasiona y me genera curiosidad. De la informática rescato la búsqueda de aspirar a ser mejores, de poder ocupar la tecnología para hacer un mundo mejor. Pero, sí, soy humanista, luego informático. Si solo fuera informático viviría triste y apagado, cómo aquel que no tiene un sentido para vivir. La informática le da luz a la vida  -o al menos a mi vida-, y creo, o aspiro, a que cualquier informático pueda mejorar nuestra área tomando lo mejor de las letras.
 	- He comenzado a #leer «Libro del desasosiego» de [[Pessoa, Fernando]]; la traducción y edición de Ángel Crespo, editorial Seix Barral. Tristemente hermoso.
