@@ -1,7 +1,8 @@
 - ### Este es mi diario parcialmente personal. Contiene reflexiones aleatorias de mi vida.
 - [[Thu, 05-05-2022]]
 	- Hoy el clima en Barcelona fue curioso: sol, lluvía y luego sol. Extraño.
-	- He estado trabajando junto a
+	- He estado trabajando junto a mi supervisor en el paper que debemos enviar a un conferencia.
+	- Hay un libro que me ha llamado la atención: «An Experiential Introduction to Principles of Programming Languages».
 - [[Wed, 04-05-2022]]
 	- Gris y con un poco de calor. Así está el día en Barcelona. Con ganas de salir a andar en bici. Ayer comencé a leer el libro de [[Arendt, Hannah]]: «Eichmann en Jerusalén», interesante y revelador, sumado a su clara prosa.
 	- También he terminado el borrador de mi primer paper en inglés. Estoy convencido que en unos meses más mi estilo en inglés mejorará. Por ahora a aguantar la tortuosa escritura.
