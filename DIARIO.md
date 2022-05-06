@@ -1,6 +1,6 @@
 - ### Este es mi diario parcialmente personal. Contiene reflexiones aleatorias de mi vida.
 - [[Fri, 06-05-2022]]
-	-
+	- He comenzado a escribir un artículo sobre filosofía de la informática que me tiene muy entusiasmado. Pretendo enviar a una revista de filosofía.
 - [[Thu, 05-05-2022]]
 	- Hoy el clima en Barcelona fue curioso: sol, lluvía y luego sol. Extraño.
 	- He estado trabajando junto a mi supervisor en el paper que debemos enviar a un conferencia.
@@ -8,7 +8,7 @@
 - [[Wed, 04-05-2022]]
 	- Gris y con un poco de calor. Así está el día en Barcelona. Con ganas de salir a andar en bici. Ayer comencé a leer el libro de [[Arendt, Hannah]]: «Eichmann en Jerusalén», interesante y revelador, sumado a su clara prosa.
 	- También he terminado el borrador de mi primer paper en inglés. Estoy convencido que en unos meses más mi estilo en inglés mejorará. Por ahora a aguantar la tortuosa escritura.
-	- Alguien -hace un tiempo- me recomendó el libro: «Dar y recibir: Por qué ayudar a los demás conduce al éxito», lo he comenzado a leer y me he llevado una grata sorpresa, está muy muy bien.
+	- Alguien —hace un tiempo— me recomendó el libro: «Dar y recibir: Por qué ayudar a los demás conduce al éxito», lo he comenzado a leer y me he llevado una grata sorpresa, está muy muy bien.
 - [[Tue, 03-05-2022]]
 	- Soy un informático humanista. Porque todo lo humano me interesa, me apasiona y me genera curiosidad. De la informática rescato la búsqueda de aspirar a ser mejores, de poder ocupar la tecnología para hacer un mundo mejor. Pero, sí, soy humanista, luego informático. Si solo fuera informático viviría triste y apagado, cómo aquel que no tiene un sentido para vivir. La informática le da luz a la vida  -o al menos a mi vida-, y creo, o aspiro, a que cualquier informático pueda mejorar nuestra área tomando lo mejor de las letras.
 	- He comenzado a #leer «Libro del desasosiego» de [[Pessoa, Fernando]]; la traducción y edición de Ángel Crespo, editorial Seix Barral. Tristemente hermoso.
