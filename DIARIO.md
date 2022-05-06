@@ -1,7 +1,7 @@
 - ### Este es mi diario parcialmente personal. Contiene reflexiones aleatorias de mi vida.
 - [[Fri, 06-05-2022]]
 	- He comenzado a escribir un artículo sobre filosofía de la informática que me tiene muy entusiasmado.
-		- No obstante debo leer
+		- No obstante debo leer bastante —y con cuidado—.
 	-
 	-
 - [[Thu, 05-05-2022]]
