@@ -1,6 +1,7 @@
 - ### Este es mi diario parcialmente personal. Contiene reflexiones aleatorias de mi vida.
 - [[Fri, 06-05-2022]]
-	- He comenzado a escribir un artículo sobre filosofía de la informática que me tiene muy entusiasmado. Pretendo enviarlo a una revista de filosofía.
+	- He comenzado a escribir un artículo sobre filosofía de la informática que me tiene muy entusiasmado.
+	-
 	-
 - [[Thu, 05-05-2022]]
 	- Hoy el clima en Barcelona fue curioso: sol, lluvía y luego sol. Extraño.
