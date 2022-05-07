@@ -4,7 +4,7 @@
 		- No obstante debo leer bastante —y con cuidado—.
 	- Esquema conceptual sobre lo que estoy escribiendo. ![image.png](./assets/image_1651943607104_0.png)
 	  id:: 62767bbb-0a3c-4bb2-a4ee-531260447998
-	- Hoy estuve en el Parc de la Ciutadella (Barcelona), estuvo bien, un lindo atardecer.
+	- Hoy estuve leyendo un libro sobre argumentación en el Parc de la Ciutadella (Barcelona), estuvo bien, un lindo atardecer. Un día tranquilo, suave, reconfortante.
 	-
 - [[Thu, 05-05-2022]]
 	- Hoy el clima en Barcelona fue curioso: sol, lluvía y luego sol. Extraño.
