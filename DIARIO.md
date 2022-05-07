@@ -2,8 +2,8 @@
 - [[Fri, 06-05-2022]]
 	- He comenzado a escribir un artículo sobre filosofía de la informática que me tiene bastante entusiasmado.
 		- No obstante debo leer bastante —y con cuidado—.
-	- Esquema conceptual sobre lo que estoy escribiendo. ![image.png](./assets/image_1651943607104_0.png)
-	  id:: 62767bbb-0a3c-4bb2-a4ee-531260447998
+		- El esquema conceptual sobre lo que estoy escribiendo. ![image.png](./assets/image_1651943607104_0.png)
+		  id:: 62767bbb-0a3c-4bb2-a4ee-531260447998
 	- Hoy estuve leyendo un libro sobre argumentación en el Parc de la Ciutadella (Barcelona), estuvo bien, viví un lindo atardecer. Día tranquilo, suave, reconfortante.
 	-
 - [[Thu, 05-05-2022]]
