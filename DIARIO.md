@@ -4,7 +4,7 @@
 		- No obstante debo leer bastante —y con cuidado—.
 		- El esquema conceptual sobre lo que estoy escribiendo. ![image.png](./assets/image_1651943607104_0.png)
 		  id:: 62767bbb-0a3c-4bb2-a4ee-531260447998
-	- Hoy estuve leyendo un libro sobre argumentación en el Parc de la Ciutadella (Barcelona), estuvo bien, viví un lindo atardecer. Día tranquilo, suave, reconfortante. El libro se llama
+	- Hoy estuve leyendo el libro «Las claves de la argumentación» de Anthony Weston, en el Parc de la Ciutadella (Barcelona), estuvo bien, viví un lindo atardecer. Día tranquilo, suave, reconfortante.
 - [[Thu, 05-05-2022]]
 	- Hoy el clima en Barcelona fue curioso: sol, lluvía y luego sol. Extraño.
 	- He estado trabajando junto a mi supervisor en el paper que debemos enviar a un conferencia.
