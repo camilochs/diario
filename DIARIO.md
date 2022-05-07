@@ -2,7 +2,8 @@
 - [[Fri, 06-05-2022]]
 	- He comenzado a escribir un artículo sobre filosofía de la informática que me tiene muy entusiasmado.
 		- No obstante debo leer bastante —y con cuidado—.
-	-
+	- ![image.png](./assets/image_1651943607104_0.png)
+	  id:: 62767bbb-0a3c-4bb2-a4ee-531260447998
 	-
 - [[Thu, 05-05-2022]]
 	- Hoy el clima en Barcelona fue curioso: sol, lluvía y luego sol. Extraño.
