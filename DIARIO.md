@@ -1,4 +1,4 @@
-- ### Este es mi diario parcialmente personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
+- ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
 - [[Fri, 06-05-2022]]
 	- He comenzado a escribir un artículo sobre filosofía de la informática que me tiene muy entusiasmado.
 		- No obstante debo leer bastante —y con cuidado—.
