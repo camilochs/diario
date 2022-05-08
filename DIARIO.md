@@ -1,7 +1,7 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
 - [[Sun, 08-05-2022]]
 	- Viendo una entrevista a Hannah Arendt: https://www.youtube.com/watch?v=WDovm3A1wI4
-	-
+	- Hoy me junté con dos amigos, hablamos de la vida, de la sociedad, de
 - [[Sat, 07-05-2022]]
 	- He comenzado a escribir un artículo sobre filosofía de la informática que me tiene bastante entusiasmado.
 		- No obstante debo leer bastante —y con cuidado—.
