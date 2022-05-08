@@ -3,7 +3,7 @@
 	- Viendo una entrevista a Hannah Arendt: https://www.youtube.com/watch?v=WDovm3A1wI4
 	- Hoy me junté con una amiga y un amigo, hablamos de la vida, de la sociedad, de la informática y de varias cosas interesantes.
 	- También discutí con una amiga (o ex-amiga) porque no le gustan las historias que subo a ig, me dio a entender que intento mostrarme —ante los demás—como un ser perfecto y sin autocritica. Me dolío. Comentarios de ese tipo me dan igual si vienen de desconocidos, pero, cuando vienen de personas que yo creía amigos...
-	-
+	- Entrevisté a Rafael Goméz en el podcast. Fue interesante y divertido. Algo que me quedo de la entrevista fue la mención que hizo Rafael sobre la importancia de que un informática debe saber comunicarse (habilidades blandas).
 - [[Sat, 07-05-2022]]
 	- He comenzado a escribir un artículo sobre filosofía de la informática que me tiene bastante entusiasmado.
 		- No obstante debo leer bastante —y con cuidado—.
