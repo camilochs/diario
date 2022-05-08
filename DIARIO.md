@@ -6,6 +6,9 @@
 	- He comenzado a escribir un artículo sobre filosofía de la informática que me tiene bastante entusiasmado.
 		- No obstante debo leer bastante —y con cuidado—.
 	- Hoy estuve leyendo el libro «Las claves de la argumentación» de Anthony Weston, en el Parc de la Ciutadella (Barcelona), estuvo bien, viví un lindo atardecer. Día tranquilo, suave, reconfortante.
+- [[Fri, 06-05-2022]]
+	- Cumpleaños de Bogdan.
+	- No leí ni escribí nada.
 - [[Thu, 05-05-2022]]
 	- Hoy el clima en Barcelona fue curioso: sol, lluvía y luego sol. Extraño.
 	- He estado trabajando junto a mi supervisor en el paper que debemos enviar a un conferencia.
