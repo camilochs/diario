@@ -1,8 +1,8 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
 - [[Sun, 08-05-2022]]
 	- Viendo una entrevista a Hannah Arendt: https://www.youtube.com/watch?v=WDovm3A1wI4
-	- Hoy me junté con una amiga y un amigo, hablamos de la vida, de la sociedad y de varias cosas interesantes.
-	- También discuti con una amiga (o ex-amiga) porque no le gustan las historias que subo a ig, me dio a entender que intento mostrarme —ante los demás—como un ser perfecto y sin autocritica. Me dolio. Comentarios así me da igual si vienen de desconocido, pero, de personas que yo creía amigos...
+	- Hoy me junté con una amiga y un amigo, hablamos de la vida, de la sociedad, de informática, y de varias cosas interesantes.
+	- También discutí con una amiga (o ex-amiga) porque no le gustan las historias que subo a ig, me dio a entender que intento mostrarme —ante los demás—como un ser perfecto y sin autocritica. Me dolío. Comentarios así me da igual si vienen de desconocidos, pero, cuando vienen de personas que yo creía amigos...
 	-
 - [[Sat, 07-05-2022]]
 	- He comenzado a escribir un artículo sobre filosofía de la informática que me tiene bastante entusiasmado.
