@@ -1,6 +1,7 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
 - [[Mon, 09-05-2022]]
-	-
+	- Comencé a hacer una app web para comparar la calidad de las soluciones de distintos algoritmos #PhD
+	- Sigo con el libro de
 - [[Sun, 08-05-2022]]
 	- Viendo una entrevista a Hannah Arendt: https://www.youtube.com/watch?v=WDovm3A1wI4
 	- Hoy me junté con una amiga y un amigo, hablamos de la vida, de la sociedad, de la informática y de varias cosas interesantes.
