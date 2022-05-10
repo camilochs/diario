@@ -31,7 +31,7 @@
 	- He hecho muchas cosas en estos meses. He leído mucho. He avanzado en mi libro «Principios de programación» aunque no tanto como yo quisiera. No he avanzado tanto en el doctorado como me gustaría, me falta ordenarme más, pues tengo muchos intereses, muchos proyectos.
 	- El podcast sigue su rumbo, he realizado varias entrevistas. Y ya he coordinado con otras personas para entrevistas futuras.
 	- He conocido a [[Pessoa, Fernando]], me encantó. ¿Cómo lo conoci? Por mi futuro viaje a Lisboa en Julio (para ver a Metallica).
-	- He dejado el alcohol, no me divierte, y lo que no suma en la vida es mejor decirle adiós.
+	- He dejado el alcohol (el [[Fri, 22-04-2022]] ), no me divierte, y lo que no suma en la vida es mejor decirle adiós.
 	- Hice un video sobre recomendaciones de 5 libros de informática y lógica: https://youtu.be/_EjvnXw0kdI
 	- He escrito —de manera ociosa— historias en instagram... sin un motivo más que el deseo de escribir y expresarme.
 - [[Sat, 20-02-2022]] al [[Sat, 25-02-2022]]
