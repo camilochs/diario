@@ -1,7 +1,7 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
 - [[Mon, 09-05-2022]]
 	- Comencé a hacer una app web para comparar la calidad de las soluciones de distintos algoritmos #PhD
-	- Sigo con el libro de [[Weston, Anthony]] de argumentación, muy bueno y práctico.
+	- Sigo con el libro de [[Weston, Anthony]] de argumentación, muy bueno y práctico. En efecto, este libro te enseña a crear argumentos consistentes. Algo útil pues estoy escribiendo un paper de filosofía que, por definición, todo se contruye
 	-
 - [[Sun, 08-05-2022]]
 	- Viendo una entrevista a Hannah Arendt: https://www.youtube.com/watch?v=WDovm3A1wI4
