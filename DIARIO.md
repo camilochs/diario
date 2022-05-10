@@ -1,7 +1,8 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
 - [[Mon, 09-05-2022]]
 	- Comencé a hacer una app web para comparar la calidad de las soluciones de distintos algoritmos #PhD
-	- Sigo con el libro de
+	- Sigo con el libro de [[Weston, Anthony]] de argumentación, muy bueno y práctico.
+	-
 - [[Sun, 08-05-2022]]
 	- Viendo una entrevista a Hannah Arendt: https://www.youtube.com/watch?v=WDovm3A1wI4
 	- Hoy me junté con una amiga y un amigo, hablamos de la vida, de la sociedad, de la informática y de varias cosas interesantes.
@@ -10,7 +11,7 @@
 - [[Sat, 07-05-2022]]
 	- He comenzado a escribir un artículo sobre filosofía de la informática que me tiene bastante entusiasmado.
 		- No obstante debo leer bastante —y con cuidado—.
-	- Hoy estuve leyendo el libro «Las claves de la argumentación» de Anthony Weston, en el Parc de la Ciutadella (Barcelona), estuvo bien, viví un lindo atardecer. Día tranquilo, suave, reconfortante.
+	- Hoy estuve leyendo el libro «Las claves de la argumentación» de [[Weston, Anthony]] , en el Parc de la Ciutadella (Barcelona), estuvo bien, viví un lindo atardecer. Día tranquilo, suave, reconfortante.
 - [[Fri, 06-05-2022]]
 	- Cumpleaños de Bogdan.
 	- No leí ni escribí nada.
