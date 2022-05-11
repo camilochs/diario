@@ -2,7 +2,6 @@
 - [[Tue, 10-05-2022]]
 	- Continuo leyendo el libro de [[Weston, Anthony]].
 	- La app web para STNs ya permite comparar multiples algoritmos.
-	-
 - [[Mon, 09-05-2022]]
 	- Comencé a hacer una app web para comparar la calidad de las soluciones de distintos algoritmos (STNs) #PhD
 	- También envié mi primer artículo a la conferencia fedcsis. Veremos lo que pasa.
