@@ -1,6 +1,7 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
   title:: Diario
 - [[Wed, 11-05-2022]]
+	- He aquí algunas herramientas útiles para trabajar en Machine Learning (u otra área): https://towardsdatascience.com/nine-tools-i-wish-i-mastered-before-my-phd-in-machine-learning-708c6dcb2fb0
 	-
 - [[Tue, 10-05-2022]]
 	- Continuo leyendo el libro de [[Weston, Anthony]].
