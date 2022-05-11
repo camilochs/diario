@@ -1,6 +1,6 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
 - [[Tue, 10-05-2022]]
-	-
+	- Continuo le
 - [[Mon, 09-05-2022]]
 	- Comencé a hacer una app web para comparar la calidad de las soluciones de distintos algoritmos #PhD
 	- También envié mi primer artículo a la conferencia fedcsis. Veremos lo que pasa.
