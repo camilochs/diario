@@ -1,8 +1,10 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
 - [[Tue, 10-05-2022]]
-	- Continuo le
+	- Continuo leyendo el libro de [[Weston, Anthony]].
+	- La app web para STNs ya permite comparar multiples algoritmos.
+	-
 - [[Mon, 09-05-2022]]
-	- Comencé a hacer una app web para comparar la calidad de las soluciones de distintos algoritmos #PhD
+	- Comencé a hacer una app web para comparar la calidad de las soluciones de distintos algoritmos (STNs) #PhD
 	- También envié mi primer artículo a la conferencia fedcsis. Veremos lo que pasa.
 	- Sigo con el libro de [[Weston, Anthony]] de argumentación, muy bueno y práctico. En efecto, este libro te enseña a crear argumentos consistentes. Algo útil pues estoy escribiendo un paper de filosofía que, por definición, todo se contruye en base a las tesis expuestas y no tanto sobre datos de experimentación (como en la ciencia).
 - [[Sun, 08-05-2022]]
