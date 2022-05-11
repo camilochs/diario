@@ -1,4 +1,7 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
+  title:: Diario
+- [[Wed, 11-05-2022]]
+	-
 - [[Tue, 10-05-2022]]
 	- Continuo leyendo el libro de [[Weston, Anthony]].
 	- La app web para STNs ya permite comparar multiples algoritmos. 3
