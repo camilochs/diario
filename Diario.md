@@ -1,8 +1,11 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
   title:: Diario
+- [[Sun, 15-05-2022]]
+	- Hoy entreviste a José Cifuentes, interesante conversación sobre la educación en la informática.
+- [[Sat, 14-05-2022]]
+	-
 - [[Fri, 13-05-2022]]
 	- Día tranquilo, no salí a ningún sitio, por supuesto ir a la cafetería no cuenta :-)
-	-
 - [[Thu, 12-05-2022]]
 	- Plan de investigación en mi #PhD terminado. Encontré un *package* para LaTeX que permite crear una carta gantt: pdfgantt.
 	- El mejor Dürüm que he comido en mi vida se encuentra en un local llamado: La Caravana, en la zona de Gracia, Barcelona.
