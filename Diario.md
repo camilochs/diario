@@ -2,8 +2,9 @@
   title:: Diario
 - [[Sun, 15-05-2022]]
 	- Hoy entreviste a José Cifuentes, interesante conversación sobre la educación en la informática.
+	- Continué leyendo Dar y Recibir, muy buen libro.
 - [[Sat, 14-05-2022]]
-	-
+	- Una excelente entrevista a Mario Sotil, una gran conexión, fue como conversar con un amigo.
 - [[Fri, 13-05-2022]]
 	- Día tranquilo, no salí a ningún sitio, por supuesto ir a la cafetería no cuenta :-)
 - [[Thu, 12-05-2022]]
