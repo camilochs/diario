@@ -1,5 +1,5 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
-  title:: Diario
+-
 - [[Sun, 15-05-2022]]
 	- Hoy entreviste a José Cifuentes, interesante conversación sobre la educación en la informática.
 	- Continué leyendo Dar y Recibir, muy buen libro.
