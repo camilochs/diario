@@ -2,7 +2,7 @@
 - [[Tue, 17-05-2022]]
 	-
 - [[Mon, 16-05-2022]]
-	-
+	- Con gripe, sin apetito, y con dolores
 - [[Sun, 15-05-2022]]
 	- Hoy entreviste a José Cifuentes, interesante conversación sobre la educación en la informática.
 	- Continué leyendo Dar y Recibir, muy buen libro.
