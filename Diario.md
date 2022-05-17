@@ -1,8 +1,9 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
 - [[Tue, 17-05-2022]]
-	-
+	- Recuperado.
+	- Estuve leyendo parte del libro «Poemas y »
 - [[Mon, 16-05-2022]]
-	- Con gripe, sin apetito, y con dolores
+	- Con gripe, sin apetito y con dolores en todo el cuerpo. Aunque sin covid (según el test).
 - [[Sun, 15-05-2022]]
 	- Hoy entreviste a José Cifuentes, interesante conversación sobre la educación en la informática.
 	- Continué leyendo Dar y Recibir, muy buen libro.
