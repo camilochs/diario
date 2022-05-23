@@ -1,6 +1,6 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
 - [[Wed, 18-05-2022]] a [[Mon, 23-05-2022]]
-	- He estado leyendo algunos cuentos, por ejemplo, «Fracaso» y «Pequeñeces de la vida» de Antón Chéjov. Muy buenos. El trato agíl e incierto que muestra un poco las situaicones cotidianas de la vida.
+	- He estado leyendo algunos cuentos, por ejemplo, «Fracaso» y «Pequeñeces de la vida» de Antón Chéjov. Muy buenos. Sus cuentos muestran situaciones cotidianas de la vida a través de un trato agíl e incierto, con finales inconclusos
 	-
 - [[Tue, 17-05-2022]]
 	- Recuperado.
