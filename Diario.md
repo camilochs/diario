@@ -1,17 +1,18 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
 - [[Wed, 24-05-2022]] a [[Wed, 22-06-2022]]
-	- He seguido avanzando en mi libro: Principios de programación. Veo lento pero llegaré.
+	- He seguido avanzando en mi libro: Principios de programación. Veo lento pero llegaré. #escritura
+	-
 - [[Wed, 18-05-2022]] a [[Mon, 23-05-2022]]
-	- He estado leyendo algunos cuentos, por ejemplo, «Fracaso» y «Pequeñeces de la vida» de Antón Chéjov. Muy buenos. Sus cuentos muestran situaciones cotidianas de la vida a través de un trato agíl e incierto, con finales inconclusos en donde el lector es el responsable de llenar.
+	- He estado leyendo algunos cuentos, por ejemplo, «Fracaso» y «Pequeñeces de la vida» de Antón Chéjov. Muy buenos. Sus cuentos muestran situaciones cotidianas de la vida a través de un trato agíl e incierto, con finales inconclusos en donde el lector es el responsable de llenar. #leer
 	- Hoy, 23 de mayo, estuve dando vueltas al aire libre, en el campus de la UAB, hermoso y agradable.
 - [[Tue, 17-05-2022]]
 	- Recuperado.
-	- Estuve leyendo parte del libro «Poemas y antipoemas» de [[Parra, Nicanor]].
+	- Estuve leyendo parte del libro «Poemas y antipoemas» de [[Parra, Nicanor]]. #leer
 - [[Mon, 16-05-2022]]
 	- Con gripe, sin apetito y con dolores en todo el cuerpo. Aunque sin covid (según el test).
 - [[Sun, 15-05-2022]]
 	- Hoy entreviste a José Cifuentes, interesante conversación sobre la educación en la informática.
-	- Continué leyendo Dar y Recibir, muy buen libro.
+	- Continué leyendo Dar y Recibir, muy buen libro. #leer
 - [[Sat, 14-05-2022]]
 	- Una excelente entrevista a Mario Sotil, una gran conexión, fue como conversar con un amigo.
 - [[Fri, 13-05-2022]]
