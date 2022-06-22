@@ -57,7 +57,7 @@
   :block/updated-at 1651493260228}
  {:block/name "diario",
   :block/created-at 1651787489070,
-  :block/updated-at 1653339370505}
+  :block/updated-at 1655938455593}
  {:block/name "doing",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -67,6 +67,9 @@
  {:block/name "epicteto",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "escritura",
+  :block/created-at 1655937688596,
+  :block/updated-at 1655937688596}
  {:block/name "fauvel, john",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -109,6 +112,9 @@
  {:block/name "haskell",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "idea",
+  :block/created-at 1655937954648,
+  :block/updated-at 1655937954648}
  {:block/name "in-progress",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -133,6 +139,9 @@
  {:block/name "lawson, harold _bud_",
   :block/created-at 1651787489041,
   :block/updated-at 1651787489041}
+ {:block/name "lecturas",
+  :block/created-at 1655937875166,
+  :block/updated-at 1655937894653}
  {:block/name "leer",
   :block/created-at 1651787489029,
   :block/updated-at 1651787489029}
@@ -244,6 +253,9 @@
  {:block/name "thu, 12-05-2022",
   :block/created-at 1653338926327,
   :block/updated-at 1653338926327}
+ {:block/name "thu, 23-06-2022",
+  :block/created-at 1655937767382,
+  :block/updated-at 1655937767382}
  {:block/name "todo",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -259,6 +271,9 @@
  {:block/name "tue, 17-05-2022",
   :block/created-at 1653339041239,
   :block/updated-at 1653339041239}
+ {:block/name "tue, 24-05-2022",
+  :block/created-at 1655937636479,
+  :block/updated-at 1655937636479}
  {:block/name "ullman, jeffrey",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -286,6 +301,9 @@
  {:block/name "wed, 18-05-2022",
   :block/created-at 1653339050997,
   :block/updated-at 1653339050997}
+ {:block/name "wed, 22-06-2022",
+  :block/created-at 1655937652940,
+  :block/updated-at 1655937652940}
  {:block/name "weston, anthony",
   :block/created-at 1653338926337,
   :block/updated-at 1653338926337}
