@@ -1,5 +1,6 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
--
+- [[Wed, 24-05-2022]] a [[Wed, 22-06-2022]]
+	- He seguido avanzando en mi libro: Principios de programación. Veo lento pero llegaré.
 - [[Wed, 18-05-2022]] a [[Mon, 23-05-2022]]
 	- He estado leyendo algunos cuentos, por ejemplo, «Fracaso» y «Pequeñeces de la vida» de Antón Chéjov. Muy buenos. Sus cuentos muestran situaciones cotidianas de la vida a través de un trato agíl e incierto, con finales inconclusos en donde el lector es el responsable de llenar.
 	- Hoy, 23 de mayo, estuve dando vueltas al aire libre, en el campus de la UAB, hermoso y agradable.
