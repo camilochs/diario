@@ -28,7 +28,7 @@
 - [[Mon, 09-05-2022]]
 	- Comencé a hacer una app web para comparar la calidad de las soluciones de distintos algoritmos (STNs) #PhD
 	- También envié mi primer artículo a la conferencia fedcsis. Veremos lo que pasa.
-	- Sigo con el libro de [[Weston, Anthony]] de argumentación, muy bueno y práctico. En efecto, este libro te enseña a crear argumentos consistentes. Algo útil pues estoy escribiendo un paper de filosofía que, por definición, todo se contruye en base a las tesis expuestas y no tanto sobre datos de experimentación (como en la ciencia).
+	- Sigo con el libro de [[Weston, Anthony]] de argumentación, muy bueno y práctico. En efecto, este libro te enseña a crear argumentos consistentes. Algo útil pues estoy escribiendo un paper de filosofía que, por definición, todo se contruye en base a las tesis expuestas y no tanto sobre datos de experimentación (como en la ciencia). #leer
 - [[Sun, 08-05-2022]]
 	- Viendo una entrevista a Hannah Arendt: https://www.youtube.com/watch?v=WDovm3A1wI4
 	- Hoy me junté con una amiga y un amigo, hablamos de la vida, de la sociedad, de la informática y de varias cosas interesantes.
@@ -46,11 +46,11 @@
 	- He estado trabajando junto a mi supervisor en el paper que debemos enviar a un conferencia.
 	- Hay un libro que me ha llamado la atención: «An Experiential Introduction to Principles of Programming Languages», espero poder pronto leerlo. https://mitpress.mit.edu/books/experiential-introduction-principles-programming-languages
 - [[Wed, 04-05-2022]]
-	- Gris y con un poco de calor. Así está el día en Barcelona. Con ganas de salir a andar en bici. Ayer comencé a leer el libro de [[Arendt, Hannah]]: «Eichmann en Jerusalén», interesante y revelador, sumado a su clara prosa.
+	- Gris y con un poco de calor. Así está el día en Barcelona. Con ganas de salir a andar en bici. Ayer comencé a leer el libro de [[Arendt, Hannah]]: «Eichmann en Jerusalén», interesante y revelador, sumado a su clara prosa. #leer
 	- También he terminado el borrador de mi primer paper en inglés. Estoy convencido que en unos meses más mi estilo en inglés mejorará. Por ahora a aguantar la tortuosa escritura.
 	- Alguien —hace un tiempo— me recomendó el libro: «Dar y recibir: Por qué ayudar a los demás conduce al éxito», lo he comenzado a leer y me he llevado una grata sorpresa, está muy muy bien.
 - [[Tue, 03-05-2022]]
-	- Soy un informático humanista. Porque todo lo humano me interesa, me apasiona y me genera curiosidad. De la informática rescato la búsqueda de aspirar a ser mejores, de poder ocupar la tecnología para hacer un mundo mejor. Pero, sí, soy humanista, luego informático. Si solo fuera informático viviría triste y apagado, cómo aquel que no tiene un sentido para vivir. La informática le da luz a la vida  -o al menos a mi vida-, y creo, o aspiro, a que cualquier informático pueda mejorar nuestra área tomando lo mejor de las letras.
+	- Soy un informático humanista. Porque todo lo humano me interesa, me apasiona y me genera curiosidad. De la informática rescato la búsqueda de aspirar a ser mejores, de poder ocupar la tecnología para hacer un mundo mejor. Pero, sí, soy humanista, luego informático. Si solo fuera informático viviría triste y apagado, cómo aquel que no tiene un sentido para vivir. La informática le da luz a la vida  -o al menos a mi vida-, y creo, o aspiro, a que cualquier informático pueda mejorar nuestra área tomando lo mejor de las letras. #idea
 	- He comenzado a #leer «Libro del desasosiego» de [[Pessoa, Fernando]]; la traducción y edición de Ángel Crespo, editorial Seix Barral. Tristemente hermoso.
 	- Hoy estuve en el Parc de la Ciutadella (Barcelona), leyendo el libro del desasosiego de Pessoa. Cuando nos acercamos al verano es, siempre grato, caminar y relajarse en un parque.
 - [[26-02-2022]] a [[Mon, 02-05-2022]]
