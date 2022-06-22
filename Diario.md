@@ -143,7 +143,7 @@
 - 26/01/2022
 	- Ricardo Piglia analiza vida y obra de Jorge Luis Borges https://youtu.be/8GgSyKTQ_2k | [[Piglia, Ricardo]] | #literatura
 		- Nota: Una maravillosa charla sobre la vida y obra de Borges. Esta charla me ha suscitado un gran interés por Piglia.
-	- Los tónicos de la voluntad - Reglas y consejos sobre investigación científica | [[Ramón y Cajal, Santiago]] | Editorial: Gadir | #ciencia #Filosofía
+	- Los tónicos de la voluntad - Reglas y consejos sobre investigación científica | [[Ramón y Cajal, Santiago]] | Editorial: Gadir | #ciencia #Filosofía #leer
 		- Nota: He vuelto a releer algunos apartados que me parecen brillantes. Un excelente libro para cualquiera que aspire a ser científico.
 - 25/01/2022
 	- Computers Were Originally Humans https://cacm.acm.org/blogs/blog-cacm/256056-computers-were-originally-humans/fulltext | [[Bruderer, Herbert]]
