@@ -1,7 +1,8 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
 - [[Thu, 23-06-2022]]
 	- ¡He vuelto a logseq!
-	- Hoy a conocer el MareNostrum en el BSC. Una invitación de Patricio.
+	- Hoy voy a conocer el MareNostrum en el BSC. Una invitación de Patricio.
+	- ![image.png](./assets/image_1655972091823_0.png)
 - [[Wed, 24-05-2022]] a [[Wed, 22-06-2022]]
 	- He seguido avanzando en mi libro: Principios de programación. Veo lento pero llegaré. #escritura
 - [[Wed, 18-05-2022]] a [[Mon, 23-05-2022]]
