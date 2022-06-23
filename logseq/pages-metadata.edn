@@ -57,7 +57,7 @@
   :block/updated-at 1651493260228}
  {:block/name "diario",
   :block/created-at 1651787489070,
-  :block/updated-at 1655938455593}
+  :block/updated-at 1656028279634}
  {:block/name "doing",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -91,6 +91,9 @@
  {:block/name "fri, 22-04-2022",
   :block/created-at 1653338926345,
   :block/updated-at 1653338926345}
+ {:block/name "fri, 24-06-2022",
+  :block/created-at 1656021602248,
+  :block/updated-at 1656021602248}
  {:block/name "fri, 25-02-2022",
   :block/created-at 1645747200000,
   :block/updated-at 1645747200000}
@@ -199,6 +202,9 @@
  {:block/name "programaciónfuncional",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "prólogo libro andros",
+  :block/created-at 1656027635035,
+  :block/updated-at 1656027799579}
  {:block/name "rabbani, rosa",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
