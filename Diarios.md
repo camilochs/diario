@@ -1,4 +1,5 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
+  title:: Diarios
 - [[Thu, 23-06-2022]]
 	- ¡He vuelto a logseq!
 	- Hoy voy a conocer el MareNostrum en el BSC. Una invitación de Patricio.
