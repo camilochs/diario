@@ -2,6 +2,8 @@
 - [[Thu, 23-06-2022]]
 	- ¡He vuelto a logseq!
 	- Hoy voy a conocer el MareNostrum en el BSC. Una invitación de Patricio.
+		- Estuvo bastante entretenido. Me quedo con esto: que en una capilla haya un superordenador ya es raro y brutal jaja
+		-
 - [[Wed, 24-05-2022]] a [[Wed, 22-06-2022]]
 	- He seguido avanzando en mi libro: Principios de programación. Veo lento pero llegaré. #escritura
 - [[Wed, 18-05-2022]] a [[Mon, 23-05-2022]]
