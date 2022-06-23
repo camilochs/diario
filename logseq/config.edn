@@ -165,7 +165,7 @@
  :feature/enable-journals? true
  :default-home {:page "DIARIO"}
  :favorites ["diario"]
- :graph/settings {:journal? false}
+ :graph/settings {:journal? true}
  :publishing/all-pages-public? true
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
