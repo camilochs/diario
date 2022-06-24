@@ -3,7 +3,7 @@
   En esta ocasión fui la tercera opción, en otras ocasiones, ni siquiera fui una opción  (no entraré en detalles sobre mi vida privada). Por tanto, las cosas han mejorado.
   
   
-  Andros Fellonosa --el fulano-- es un experto de Python. Me atrever
+  Andros Fellonosa --el fulano-- es un experto de Python. Me atrevería a decir que él ama más Python que a su familia. No lo sé. Pero tengo mis dudas cada vez que veo su Twitter. Este es un libro sobre una
 -
 -
 -
