@@ -1,6 +1,6 @@
 - Que usted esté leyendo este prólogo es una mera casualidad. Pues para serle sincero fui la tercera opción de este fulano -o sea el autor de este libro-, pero no es la primera vez que me ocurre. En esta ocasión fui la tercera opción, en otras ocasiones, ni siquiera fui una opción  (no entraré en detalles sobre mi vida privada). Por tanto, las cosas han mejorado.
-  
-  Andros Fellonosa --el fulano autor del libro-- es un experto de Python. Me atrevería a decir que él ama más a Python que a su familia. No lo sé. Pero tengo mis dudas cada vez que veo su Twitter. Cualquiera sea el caso este es un libro sobre una alternativa a Javascript para crear SPA,  alguien mal pensado podría decir que Andros a iniciado una cruzada en contra de Javacript -y me parecía una inteligente decisión, yo me uniria-, pero no es el caso. Más bien su interes es explicar el poder de Python usando HTML sobre WebSocket para crear aplicaciones en tiempo real. Presentar una alternativa.
+- Andros Fenollosa --el fulano autor del libro-- es un experto de Python. Me atrevería a decir que él ama más a Python que a su familia. No lo sé. No lo juzgaría. Pero tengo mis dudas cada vez que veo su Twitter. Cualquiera sea el caso este es un libro sobre una alternativa a Javascript para crear SPA; alguien mal pensado podría decir que Andros ha iniciado una cruzada en contra de Javacript -y me parecía una inteligente decisión, yo me uniría-, pero no es el caso. Más bien su interés es explicar el poder de Python usando HTML sobre WebSocket para producir aplicaciones en tiempo real.
+- Las aplicaciones en tiempo real son...
 -
 -
 -
