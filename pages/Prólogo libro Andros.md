@@ -3,7 +3,7 @@
   En esta ocasión fui la tercera opción, en otras ocasiones, ni siquiera fui una opción  (no entraré en detalles sobre mi vida privada). Por tanto, las cosas han mejorado.
   
   
-  Andros Fellonosa --el fulano--
+  Andros Fellonosa --el fulano-- es un experto de Python. Me atrever
 -
 -
 -
