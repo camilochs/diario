@@ -1,0 +1,17 @@
+- ## Paper
+  background-color:: #49767b
+	- **Metadata**:
+		- **Author**:
+		- **Journal**:
+		- **Language**:
+		- **Type**:
+		- **Category**:
+		- **Year**:
+		- **Status:**
+		- **Start:**
+		- **End:**
+		- **Link**:
+		- **Content**:
+			- **Abstract**:
+	- **Notes:**
+-
