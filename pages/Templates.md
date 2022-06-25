@@ -1,3 +1,4 @@
+- Paper
 - **Metadata**:
 	- **Status:**
 	- **Author**:
@@ -10,6 +11,5 @@
 	- **Content**:
 		- **Abstract**:
 - **Notes:**
-	-
 -
 -
