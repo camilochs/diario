@@ -3,7 +3,7 @@
 - [[Sat, 25-06-2022]]
 	- DONE Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 19288, objetivo: > 20288. #libro #escribir #principiosdeprogramación
 		- Hoy estaré escribiendo sobre recursión.
-	- TODO Traducir el prólogo de Andros.
+	- DONE Traducir el prólogo de Andros.
 	- TODO Revisar propuesta de la plataforma Catalyst.
 	- TODO Escribir 5 entradas al diccionario.
 	- TODO Escribir las preguntas de la entrevista a Pato.
