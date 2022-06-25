@@ -22,6 +22,7 @@
 	  Title:: 
 	  Author::
 	  Edition::
+	  Editorial::
 	  Cover::
 	  Language::
 	  Type::

@@ -2,13 +2,14 @@
   background-color:: #49767b
 	- ## Metadata
 	  Title:: 
-	  Author::
+	  Author:: [[Ariely, Daniel]]
+	  Editorial:: [[Planeta]]
 	  Edition::
 	  Cover::
-	  Language::
+	  Language:: [[Español]]
 	  Type::
 	  Keywords::
-	  Year::
+	  Year:: 2013
 	  Status::
 	  Start::
 	  End::
