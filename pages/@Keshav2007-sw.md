@@ -1,10 +1,11 @@
 - ## Paper
   background-color:: #49767b
 	- **Metadata**:
-		- **Author**:
+		- **Title:** How to Read a Paper
+		- **Author**: [[Keshav, S. ]]
 		- **Journal**:
-		- **Language**:
-		- **Type**:
+		- **Language**: [[Inglés]]
+		- **Type**: [[Papers]]
 		- **Category**:
 		- **Year**:
 		- **Status:**
@@ -14,4 +15,3 @@
 		- **Content**:
 			- **Abstract**:
 	- **Notes:**
--
