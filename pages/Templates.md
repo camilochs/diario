@@ -2,6 +2,7 @@ template:: Paper
 **Title:**
 
 	- **Metadata**:
+		- **Status:**
 		- **Author**:
 		- **Journal**:
 		- **Language**:
