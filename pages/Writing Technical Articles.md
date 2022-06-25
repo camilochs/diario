@@ -11,9 +11,17 @@
 	  Status::
 	  Start::
 	  End::
-	  Link::
+	  Link:: https://www.cs.columbia.edu/~hgs/etc/writing-style.html
 	- ## Abstract
+		- The notes below apply to technical papers in computer science and electrical engineering, with emphasis on papers in systems and networks.
+		  
+		  Read Strunk and White, Elements of Style. Again.
+		  
+		  Give the paper to somebody else to read. If you can, find two people: one person familiar with the technical matter, another only generally familiar with the area.
+		  
+		  Papers can be divided roughly into two categories, namely original research papers and survey papers. There are papers that combine the two elements, but most publication venues either only accept one or the other type or require the author to identify whether the paper should be evaluated as a research contribution or a survey paper. (Most research papers contain a "related work" section that can be considered a survey, but it is usually brief compared to the rest of the paper and only addresses a much narrower slice of the field.)
 	- ## Notes
+		-
 	-
 - **Título**: Writing Technical Articles
 - **Metadata**:
