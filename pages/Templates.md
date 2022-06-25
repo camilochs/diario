@@ -1,4 +1,4 @@
-template:: Paper**
+template:: Paper
 **Title:**
 
 	- **Metadata**:
@@ -12,6 +12,20 @@ template:: Paper**
 		- **Content**:
 			- **Abstract**:
 	- **Notes:**
-	-
+		-
 -
+-
+- **Title:**
+	- **Metadata**:
+		- **Author**:
+		- **Journal**:
+		- **Language**:
+		- **Year**:
+		- **Type**:
+		- **Category**:
+		- **Link**:
+		- **Content**:
+			- **Abstract**:
+	- **Notes:**
+		-
 -
