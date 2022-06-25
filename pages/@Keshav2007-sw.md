@@ -18,21 +18,21 @@
 		- El método descrito para leer efectivamente paper se basa en tres pasos:
 			- 1. El primer paso es tener una idea general del paper. Hay que hacer una vista rápida al paper, aquí tú decides si necesitas continuar a los siguientes pasos. Esto podría tardar entre 5-10 minutos.
 				- ![image.png](../assets/image_1656166748740_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/o3iooK6H8)
-				- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/36EzqFSZJ)
+				- ![image.png](../assets/image_1656166759019_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/36EzqFSZJ)
 				- Una vez realizados estos tres sub pasos del paso uno, entonces debes preguntarte lo siguiente:
-					- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/1UCPoylG_)
+					- ![image.png](../assets/image_1656166766737_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/1UCPoylG_)
 					- Teniendo estas cinco C en cuenta puede decidir si leer o no el paper.
 			- 2\. Te adentras en el contenido, pero no en los detalles. Ahora debes leer el paper con más cuidado, pero ignorando detalles como las demostraciones matemáticas (en mi caso sería: algoritmos). Es buena idea comentar en los márgenes según lo que vas leyendo.
-				- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/LHe8ArZG7)
+				- ![image.png](../assets/image_1656166788438_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/LHe8ArZG7)
 				- Este paso puede tomar una hora (dependiendo del paper, claro). Se debería resumir los principales puntos.
 				- Hay ocasiones que incluso al final de este paso (segundo) no entiendes totalmente el paper. Puedes ocurrir porque el tema es nuevo para ti, o el autor puede usar alguna demostración o algoritmo que no entiendes, también el paper puede estar mal escrito, o solo estás trabajando de noche y estás cansado.Hay tres opciones para tratar con esto:
 					- 1. Dejar el paper a un lado y esperar no necesitarlo en un futuro.
 					  2. volver al paper al otro día, quizás leyendo otros papers.
 					  3. perseverar e ir al punto 3.
-					- 3\. Te ayuda a entender el paper en profundidad. Sobre todo si eres un revisor. La clave de esta fase en virtualmente reimplementar el paper. Intentar recrear el trabajo de los autores. Con esto puedes identificar las innovaciones el paper, si no también, algunos errores o falsas afirmaciones.
-						- Este paso requiere gran atención en los detalles. Se debería anotar cada afirmación que dan los autores para buscar que no existen contradicciones.
-						- Podría en este paso encontrar nuevas ideas para futuros trabajos.
-						- Puede encontrar puntos fuertes y débiles.
+				- 3\. Te ayuda a entender el paper en profundidad. Sobre todo si eres un revisor. La clave de esta fase en virtualmente reimplementar el paper. Intentar recrear el trabajo de los autores. Con esto puedes identificar las innovaciones el paper, si no también, algunos errores o falsas afirmaciones.
+					- Este paso requiere gran atención en los detalles. Se debería anotar cada afirmación que dan los autores para buscar que no existen contradicciones.
+					- Podría en este paso encontrar nuevas ideas para futuros trabajos.
+					- Puede encontrar puntos fuertes y débiles.
 					- Lo siguiente es hacer una revisión de la literatura (tres pasos):
 						- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/fSeUUzkqj)
 						- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/G5uVbMfTQ)
