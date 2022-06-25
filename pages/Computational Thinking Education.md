@@ -7,7 +7,7 @@
 	  Cover::
 	  Journal::
 	  Language::
-	  Type::
+	  Type:: [[Book]]
 	  Keywords::
 	  Year:: 2019
 	  Status::
