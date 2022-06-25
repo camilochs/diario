@@ -1,19 +1,30 @@
 template:: Paper
 **Title:**
+**Metadata**:
 
-	- **Metadata**:
-		- **Status:**
-		- **Author**:
-		- **Journal**:
-		- **Language**:
-		- **Year**:
-		- **Type**:
-		- **Category**:
-		- **Link**:
-		- **Content**:
-			- **Abstract**:
-	- **Notes:**
-		-
+	- **Status:**
+	- **Author**:
+	- **Journal**:
+	- **Language**:
+	- **Year**:
+	- **Type**:
+	- **Category**:
+	- **Link**:
+	- **Content**:
+		- **Abstract**:
+- **Notes:**
+	-
 -
 -
--
+- **Title:**
+  **Metadata**:
+	- **Status:**
+	- **Author**:
+	- **Journal**:
+	- **Language**:
+	- **Year**:
+	- **Type**:
+	- **Category**:
+	- **Link**:
+	- **Content**:
+		- **Abstract**:
