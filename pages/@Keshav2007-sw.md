@@ -34,7 +34,21 @@
 					- Podría en este paso encontrar nuevas ideas para futuros trabajos.
 					- Puede encontrar puntos fuertes y débiles.
 					- Lo siguiente es hacer una revisión de la literatura (tres pasos):
-						- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/fSeUUzkqj)
-						- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/G5uVbMfTQ)
-						- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/On8qYNEgV)
+						- ![image.png](../assets/image_1656166819910_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/fSeUUzkqj)
+						- ![image.png](../assets/image_1656166828300_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/G5uVbMfTQ)
+						- ![image.png](../assets/image_1656166834957_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/On8qYNEgV)
+			- ![image.png](../assets/image_1656166844653_0.png)
+			- Referencias:
+				- [1] S. Peyton Jones, “Research Skills,”
+				  http://research.microsoft.com/ simonpj/Papers/givinga-talk/giving-a-talk.htm.
+				  [2] T. Roscoe, “Writing Reviews for Systems
+				  Conferences,”
+				  http://people.inf.ethz.ch/troscoe/pubs/reviewwriting.pdf.
+				  [3] H. Schulzrinne, “Writing Technical Articles,”
+				  https://www.cs.columbia.edu/~hgs/etc/writing-style.html
+					- [4] G.M. Whitesides, “Whitesides’ Group: Writing a
+					  Paper,”
+					  http://www.che.iitm.ac.in/misc/dd/writepaper.pdf
+					  [5] ACM SIGCOMM Computer Communication Review
+					  Online, http://www.sigcomm.org/ccr/drupal/.
 -
