@@ -1,5 +1,6 @@
--
-- **Título**:
+template:: Paper**
+:Título:
+
 - **Metadata**:
 	- **Autor**:
 	- **Revista**:
