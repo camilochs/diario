@@ -18,16 +18,16 @@
 - ## Book
   background-color:: #49767b
 	- **Metadata**:
+		- **Author**:
+		- **Journal**:
+		- **Edition:**
+		- **Language**:
+		- **Type**:
+		- **Category**:
+		- **Year**:
 		- **Status:**
 		- **Start:**
 		- **End:**
-		- **Author**:
-		- **Edition:**
-		- **Journal**:
-		- **Language**:
-		- **Year**:
-		- **Type**:
-		- **Category**:
 		- **Link**:
 		- **Content**:
 			- **Abstract**:
