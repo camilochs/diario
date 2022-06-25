@@ -19,22 +19,22 @@
 		- Hay sistemas de AI que puede pintar como van Gogh, escribir música como los Beatles, escribir su propio lenguaje de criptografía, identificar tejidos de cancer.
 		- ![image.png](../assets/image_1656170046335_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/AcuuSQq88)
 			- ¿Falso dilema?
-		- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/cneR5O60-)
+		- ![image.png](../assets/image_1656170054124_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/cneR5O60-)
 		- En la actualidad existe la especifica IA (_narrow AI_) que significa que en la actualidad solo se desarrollan sistemas de IA para tareas específicas; aún no hemos llegado a las IA general (AGI) que sería capaz de realizar cualquier tarea que un humano pueda hacer. A esta última también se le conoce como IA fuerte (strong AI).
 			- La especulación dice que si esos sistemas llegaran a existir podrían **automejorarse** y desarrollar la _explosión de inteligencia_ o  _singularidad_, que excedería la capacidad humana.
-			- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/2czTMCtGZ)
+			- ![image.png](../assets/image_1656170067914_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/2czTMCtGZ)
 		- Se distinguen dos IA:
 			- Vulnerabilidades ML: Limitaciones actuales de los sistemas ML.
 				- ML necesita muchos datos.
 				- Un sistema de ML es tan bueno como los datos de los cuales aprende. Si los datos son malos, el modelo también lo será.
 				- Incluso con datos buenos, si se selecciona un algoritmo incorrecto, entonces, el modelo no hará buenas predicciones: creando el sobreajuste o infrautilización.
-					- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/ZGcHNBCPq)
+					- ![image.png](../assets/image_1656170077160_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/ZGcHNBCPq)
 				- DL es una caja negra que plantea cuestiones como la interpretabilidad, explicabilidad y confianza en lo que se está haciendo.
-					- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/vqaDBcw4l)
+					- ![image.png](../assets/image_1656170085410_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/vqaDBcw4l)
 					- Existen algunos intentos para lograr una mayor interpretabilidad:
-						- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/Eq95bUDzD)
+						- ![image.png](../assets/image_1656170097350_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/Eq95bUDzD)
 					- ¿Cómo se puede atacar a un sistema de DL?
-						- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/mZ0rfyhEL)
+						- ![image.png](../assets/image_1656170105020_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/mZ0rfyhEL)
 					- ML es una IA débil. No tienen conciencia  y ellos no puede pensar por sí mismos. Ellos no entiende realmente las características del mundo tales como la relaciones causales.
 						- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/7OZSjTn9Q)
 						- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/1btjmIRmN)
