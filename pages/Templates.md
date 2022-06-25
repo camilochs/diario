@@ -3,6 +3,8 @@
   background-color:: #49767b
 	- **Metadata**:
 		- **Status:**
+		- **Start:**
+		- **End:**
 		- **Author**:
 		- **Journal**:
 		- **Language**:
@@ -16,6 +18,8 @@
 - ## Book
 	- **Metadata**:
 		- **Status:**
+		- **Start:**
+		- **End:**
 		- **Author**:
 		- **Edition:**
 		- **Journal**:
