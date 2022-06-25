@@ -1,7 +1,4 @@
-template:: Paper
-**Title:**
-**Metadata**:
-
+- **Metadata**:
 	- **Status:**
 	- **Author**:
 	- **Journal**:
