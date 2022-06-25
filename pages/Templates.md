@@ -30,8 +30,6 @@
 	  Start::
 	  End::
 	  Link::
-	- ## Content
-		- **Abstract:**
 	- ## Notes
 -
 -

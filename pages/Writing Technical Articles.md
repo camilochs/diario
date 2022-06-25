@@ -1,4 +1,20 @@
--
+- ## Paper
+  background-color:: #49767b
+	- ## Metadata
+	  Title:: Writing Technical Articles
+	  Author::  [[Schulzrinne, Henning]]
+	  Journal::
+	  Language:: [[Inglés]]
+	  Type::
+	  Keywords::
+	  Year::
+	  Status::
+	  Start::
+	  End::
+	  Link::
+	- ## Abstract
+	- ## Notes
+	-
 - **Título**: Writing Technical Articles
 - **Metadata**:
 	- **Autor**:  [[Schulzrinne, Henning]]
