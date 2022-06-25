@@ -14,7 +14,7 @@
 	  End::
 	  Link::
 	- ## Content
-	  Abstract::
+		- **Abstract:**
 	- ## Notes
 - ## Book
   background-color:: #49767b

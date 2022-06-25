@@ -13,8 +13,7 @@
 	  End::
 	  Link:: https://paperpile.com/app/p/b7772a0a-eacf-0047-b29f-c8777a7b00fd
 	- ## Content
-		- Abstract
-			- Researchers spend a great deal of time reading research papers. However, this skill is rarely taught, leading to much wasted effort. This article outlines a practical and efficient three-pass method for reading research papers. I also describe how to use this method to do a literature survey.
+		- **Abstract**: Researchers spend a great deal of time reading research papers. However, this skill is rarely taught, leading to much wasted effort. This article outlines a practical and efficient three-pass method for reading research papers. I also describe how to use this method to do a literature survey.
 	- ## Notes
 	- El método descrito para leer efectivamente paper se basa en tres pasos:
 		- 1. El primer paso es tener una idea general del paper. Hay que hacer una vista rápida al paper, aquí tú decides si necesitas continuar a los siguientes pasos. Esto podría tardar entre 5-10 minutos.
