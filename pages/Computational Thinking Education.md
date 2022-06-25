@@ -4,7 +4,7 @@
 	  Title:: Computational Thinking Education
 	  Author:: [[Kong, Siu-Cheung]], [[Abelson, Harold]]
 	  Edition:: 1
-	  Cover::
+	  Cover:: ![image.png](../assets/image_1656169538603_0.png) 
 	  Journal::
 	  Language::
 	  Type:: [[Book]]
