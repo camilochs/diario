@@ -1,5 +1,5 @@
 - ## Paper
-  template:: Paper
+  template:: Paper template
   background-color:: #49767b
 	- **Metadata**:
 		- **Status:**
@@ -13,6 +13,19 @@
 		- **Content**:
 			- **Abstract**:
 	- **Notes:**
--
+- ## Book
+	- **Metadata**:
+		- **Status:**
+		- **Author**:
+		- **Edition:**
+		- **Journal**:
+		- **Language**:
+		- **Year**:
+		- **Type**:
+		- **Category**:
+		- **Link**:
+		- **Content**:
+			- **Abstract**:
+	- **Notes:**
 -
 -
