@@ -5,7 +5,7 @@
 	  Author:: [[Keshav, S. ]]
 	  Journal::
 	  Language:: [[Inglés]]
-	  Type::  [[Papers]]
+	  Type::  [[Paper]]
 	  Keywords::
 	  Year::
 	  Status::
