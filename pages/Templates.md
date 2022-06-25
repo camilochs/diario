@@ -1,4 +1,6 @@
 - ## Paper
+  template:: Paper
+  background-color:: #49767b
 	- **Metadata**:
 		- **Status:**
 		- **Author**:
