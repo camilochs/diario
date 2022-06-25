@@ -2,7 +2,7 @@
   template:: Paper template
   background-color:: #49767b
 	- **Metadata**:
-		- **Title:**
+		- **Title:**::
 		- **Author**:
 		- **Journal**:
 		- **Language**:
