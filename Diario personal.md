@@ -4,11 +4,12 @@
 	- DONE Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 19288, objetivo: > 20288. #libro #escribir #principiosdeprogramación
 		- Hoy estaré escribiendo sobre recursión.
 	- DONE Traducir el prólogo de Andros.
-	- TODO Revisar propuesta de la plataforma Catalyst.
+	- DONE Revisar propuesta de la plataforma Catalyst.
+		- Cree mi cuenta en la plataforma.
 	- TODO Escribir 5 entradas al diccionario.
 	- TODO Escribir las preguntas de la entrevista a Pato.
 	- TODO Escribir al menos una página del artículo sobre filosofía de la informática.
-	- TODO Comenzar a realizar la presentación del PhD en LaTeX.
+	- DONE Comenzar a realizar la presentación del PhD en LaTeX.
 	- TODO Leer al menos 10 páginas del libro de Blockchain.
 	- TODO Leer al menos 10 páginas del libro de Teoría de juegos.
 	- TODO Leer un capítulo de Computational Artefacts.
