@@ -17,7 +17,7 @@
 - If I could define Andros in one sentence it would be: passion for teaching.
 -
 - Querido lector estoy seguro de que usted podrá notar esa pasión en este libro, en cada página, en cada capítulo. Y que podrá, al final de este libro, transformarse en un desarrollador que se *mueva a tiempo real*.
-- Dear reader, I am sure that you will be able to notice that passion in this book, in every page, in every chapter. And that you will be able, at the end of this book, to transform yourself into a developer who *moves in real time*.
+- Dear reader, I am sure that you will be able to notice that passion in this book, on every page, on every chapter. And that you will be able, at the end of this book, to transform yourself into a developer who *moves in real time*.
 -
 - Me gustaría terminar este breve prólogo citando a Mario Bunge, un filósofo de la ciencia que admiro, «Haz tu propio intento. Tu recompensa será hacerlo, tu castigo haberlo hecho». Andros a ganado su castigo.
 - I would like to end this brief foreword by quoting Mario Bunge, a philosopher of science I admire, "Make your attempt. Your reward will be to have done it, your punishment will be to have done it". Andros has earned his punishment.
