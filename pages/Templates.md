@@ -13,9 +13,9 @@
 	  Start::
 	  End::
 	  Link::
-	- Content::
-	  Abstract**:
-	- **Notes:**
+	- ## Content
+	  Abstract::
+	- ## Notes
 - ## Book
   background-color:: #49767b
 	- **Metadata**:
