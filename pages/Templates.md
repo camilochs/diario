@@ -10,15 +10,8 @@ template:: Paper**
 		- **Category**:
 		- **Link**:
 		- **Content**:
-			- **Resumen**:
+			- **Abstract**:
+	- **Notes:**
+	-
 -
-- **Metadata**:
-	- **Autor**:
-	- **Revista**:
-	- **Idioma**:
-	- **Año**:
-	- **Tipo**:
-	- **Categorías**:
-	- **Enlace**:
-	- **Contenido**:
-		- **Resumen**:
+-
