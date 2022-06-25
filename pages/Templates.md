@@ -1,5 +1,8 @@
 template:: Paper**
-:Título:
+
+#+BEGIN_QUOTE
+
+#+END_QUOTE
 
 - **Metadata**:
 	- **Autor**:
