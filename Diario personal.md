@@ -1,7 +1,7 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
   title:: Diario personal
 - [[Sat, 25-06-2022]]
-	- TODO Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 19288, objetivo: 20288. #libro #escribir #principiosdeprogramación
+	- TODO Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 19288, objetivo: > 20288. #libro #escribir #principiosdeprogramación
 		- Hoy estaré escribiendo sobre recursión.
 	- TODO Traducir el prólogo de Andros.
 	- TODO Revisar propuesta de la plataforma Catalyst.
@@ -11,7 +11,7 @@
 	- TODO Comenzar a realizar la presentación del PhD en LaTeX.
 	- TODO Leer al menos 10 páginas del libro de Blockchain.
 	- TODO Leer al menos 10 páginas del libro de Teoría de juegos.
-	- TODO Seguir leyendo Computational Artefacts
+	- TODO Leer un capítulo de Computational Artefacts
 - [[Fri, 24-06-2022]]
 	- Me junte con Pato a tomar un café como siempre. Otra cuestión fue que Claudio me ofreció a ayudarme con el tema de la presentación de avance del PhD, sobre todo, con el tema del inglés.
 	- Terminé el prólogo del libro de Andros. Al menos la versión en español: ahora debo traducirlo.
