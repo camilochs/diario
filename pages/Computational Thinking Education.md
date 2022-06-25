@@ -2,7 +2,7 @@
   background-color:: #49767b
 	- ## Metadata
 	  Title:: Computational Thinking Education
-	  Author:: [[Kong, Siu-Cheung]]; [[Abelson, Harold]]
+	  Author:: [[Kong, Siu-Cheung]], [[Abelson, Harold]]
 	  Edition:: 1
 	  Cover::
 	  Journal::
@@ -16,8 +16,7 @@
 	  Link:: https://paperpile.com/app/p/333b9374-8360-06b0-8e4f-5c8fd5c2c9d0
 	- ## Notes
 	- Este libro está organizado como un conjunto de artículos.
-	- Cap. 1: Introduction to Computational Thinking
-	  Education
+	- **Cap. 1: Introduction to Computational Thinking Education**
 		- Las ideas del pensamiento computacional (CT) surgieron con [[Papert, Seymour]] y el trabajo de [[Wing, Jeanette]], la cual mencionó que este conocimiento puede ser útil para todos.
 		- El término fue utilizado en el siglo XIX como el analisis cuantitativo en ciencia y, hace enfasis en la enseñanza del razonamiento aritmetico.
 			- [[Papert, Seymour]] fue el responsable de enlazar este concepto a los computadores y a la educación.

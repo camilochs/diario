@@ -4,7 +4,7 @@ title:: Machine learning at the service of meta-heuristics for solving combinato
   background-color:: #49767b
 	- ## Metadata
 	  Title:: Machine learning at the service of meta-heuristics for solving combinatorial optimization problems: A state-of-the-art
-	  Author:: [[Karimi-Mamaghan, Maryam]]; [[Mohammadi, Mehrdad]]; [[Meyer, Patrick]]; [[Karimi-Mamaghan, Amir Mohammad]]; [[Talbi, El-Ghazali]]
+	  Author:: [[Karimi-Mamaghan, Maryam]], [[Mohammadi, Mehrdad]], [[Meyer, Patrick]], [[Karimi-Mamaghan, Amir Mohammad]]; [[Talbi, El-Ghazali]]
 	  Journal:: [[Eur. J. Oper. Res.]]
 	  Language:: [[Inglés]] 
 	  Type:: [[Paper]] 
