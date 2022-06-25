@@ -20,11 +20,9 @@
 - Dear reader, I am sure that you will be able to notice that passion in this book, in every page, in every chapter. And that you will be able, at the end of this book, to transform yourself into a developer who *moves in real time*.
 -
 - Me gustaría terminar este breve prólogo citando a Mario Bunge, un filósofo de la ciencia que admiro, «Haz tu propio intento. Tu recompensa será hacerlo, tu castigo haberlo hecho». Andros a ganado su castigo.
-- I would like to end this brief foreword by quoting Mario Bunge, a philosopher of science I admire, "Make your own attempt. Your reward will be to have done it, your punishment will be to have done it."
+- I would like to end this brief foreword by quoting Mario Bunge, a philosopher of science I admire, "Make your own attempt. Your reward will be to have done it, your punishment will be to have done it". Andros has earned his punishment.
 -
-- Andros has earned his punishment.
--
-- - Camilo Chacón Sartori, desde una cafetería en algún rincon de Barcelona.
+- - Camilo Chacón Sartori, from a coffee shop somewhere in Barcelona.
 - PhD (c) in Artificial Intelligence.
 -
 - Inglés:
