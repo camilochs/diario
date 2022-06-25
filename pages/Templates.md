@@ -18,20 +18,21 @@
 	- ## Notes
 - ## Book
   background-color:: #49767b
-	- **Metadata**:
-		- **Author**:
-		- **Journal**:
-		- **Edition:**
-		- **Language**:
-		- **Type**:
-		- **Keywords**:
-		- **Year**:
-		- **Status:**
-		- **Start:**
-		- **End:**
-		- **Link**:
-		- **Content**:
-			- **Abstract**:
-	- **Notes:**
+	- ## Metadata
+	  Title:: 
+	  Author::
+	  
+	  Journal::
+	  Language::
+	  Type::
+	  Keywords::
+	  Year::
+	  Status::
+	  Start::
+	  End::
+	  Link::
+	- ## Content
+		- **Abstract:**
+	- ## Notes
 -
 -
