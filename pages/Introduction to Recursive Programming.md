@@ -3,9 +3,8 @@
 	- ## Metadata
 	  Title:: Introduction to Recursive Programming
 	  Author:: [[Sánchez, Manuel Rubio]]
-	  Edition::
-	  Cover::
-	  Journal::
+	  Edition:: 1
+	  Cover:: ![image.png](../assets/image_1656174287863_0.png) 
 	  Language:: [[Inglés]] 
 	  Type:: [[Book]] 
 	  Keywords:: [[Programming]], [[Recursive]]

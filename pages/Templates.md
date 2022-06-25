@@ -23,7 +23,6 @@
 	  Author::
 	  Edition::
 	  Cover::
-	  Journal::
 	  Language::
 	  Type::
 	  Keywords::
