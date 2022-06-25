@@ -1,99 +1,2247 @@
 [{:block/name "\"caterine, christopher l.\"",
   :block/created-at 1656149187062,
   :block/updated-at 1656149187062}
+ {:block/name "(totalidad + tipos dependientes) = agda",
+  :block/created-at 1656162049656,
+  :block/updated-at 1656162049656}
+ {:block/name "1",
+  :block/created-at 1656162024939,
+  :block/updated-at 1656162024939}
+ {:block/name "10",
+  :block/created-at 1656162025247,
+  :block/updated-at 1656162025247}
+ {:block/name "100",
+  :block/created-at 1656162049480,
+  :block/updated-at 1656162049480}
+ {:block/name "101",
+  :block/created-at 1656162049491,
+  :block/updated-at 1656162049491}
+ {:block/name "102",
+  :block/created-at 1656162049564,
+  :block/updated-at 1656162049564}
+ {:block/name "103",
+  :block/created-at 1656162049587,
+  :block/updated-at 1656162049587}
+ {:block/name "104",
+  :block/created-at 1656162049609,
+  :block/updated-at 1656162049609}
+ {:block/name "105",
+  :block/created-at 1656162049637,
+  :block/updated-at 1656162049637}
+ {:block/name "107",
+  :block/created-at 1656162049626,
+  :block/updated-at 1656162049626}
+ {:block/name "107/haba una vez un algoritmo//",
+  :block/created-at 1656162238777,
+  :block/updated-at 1656162238777}
+ {:block/name "108",
+  :block/created-at 1656162049666,
+  :block/updated-at 1656162049666}
+ {:block/name "109",
+  :block/created-at 1656162049693,
+  :block/updated-at 1656162049693}
+ {:block/name "11",
+  :block/created-at 1656162025033,
+  :block/updated-at 1656162025033}
+ {:block/name "110",
+  :block/created-at 1656162049707,
+  :block/updated-at 1656162049707}
+ {:block/name "111",
+  :block/created-at 1656162049723,
+  :block/updated-at 1656162049723}
+ {:block/name "112",
+  :block/created-at 1656162052440,
+  :block/updated-at 1656162052440}
+ {:block/name "113",
+  :block/created-at 1656162052473,
+  :block/updated-at 1656162052473}
+ {:block/name "114",
+  :block/created-at 1656162052497,
+  :block/updated-at 1656162052497}
+ {:block/name "115",
+  :block/created-at 1656162052510,
+  :block/updated-at 1656162052510}
+ {:block/name "116",
+  :block/created-at 1656162052529,
+  :block/updated-at 1656162052529}
+ {:block/name "117",
+  :block/created-at 1656162052544,
+  :block/updated-at 1656162052544}
+ {:block/name "118",
+  :block/created-at 1656162052566,
+  :block/updated-at 1656162052566}
+ {:block/name "119",
+  :block/created-at 1656162052584,
+  :block/updated-at 1656162052584}
+ {:block/name "12",
+  :block/created-at 1656162025294,
+  :block/updated-at 1656162025294}
+ {:block/name "120",
+  :block/created-at 1656162052597,
+  :block/updated-at 1656162052597}
+ {:block/name "121",
+  :block/created-at 1656162052607,
+  :block/updated-at 1656162052607}
+ {:block/name "122",
+  :block/created-at 1656162052620,
+  :block/updated-at 1656162052620}
+ {:block/name "123",
+  :block/created-at 1656162052646,
+  :block/updated-at 1656162052646}
+ {:block/name "124",
+  :block/created-at 1656162052699,
+  :block/updated-at 1656162052699}
+ {:block/name "125",
+  :block/created-at 1656162052690,
+  :block/updated-at 1656162052690}
+ {:block/name "126",
+  :block/created-at 1656162052710,
+  :block/updated-at 1656162052710}
+ {:block/name "127",
+  :block/created-at 1656162052726,
+  :block/updated-at 1656162052726}
+ {:block/name "128",
+  :block/created-at 1656162052759,
+  :block/updated-at 1656162052759}
+ {:block/name "129",
+  :block/created-at 1656162052630,
+  :block/updated-at 1656162052630}
+ {:block/name "13",
+  :block/created-at 1656162025307,
+  :block/updated-at 1656162025307}
+ {:block/name "130",
+  :block/created-at 1656162052670,
+  :block/updated-at 1656162052670}
+ {:block/name "131",
+  :block/created-at 1656162052680,
+  :block/updated-at 1656162052680}
+ {:block/name "132",
+  :block/created-at 1656162052859,
+  :block/updated-at 1656162052859}
+ {:block/name "133",
+  :block/created-at 1656162052877,
+  :block/updated-at 1656162052877}
+ {:block/name "134",
+  :block/created-at 1656162052748,
+  :block/updated-at 1656162052748}
+ {:block/name "135",
+  :block/created-at 1656162052792,
+  :block/updated-at 1656162052792}
+ {:block/name "136",
+  :block/created-at 1656162052802,
+  :block/updated-at 1656162052802}
+ {:block/name "137",
+  :block/created-at 1656162052825,
+  :block/updated-at 1656162052825}
+ {:block/name "138",
+  :block/created-at 1656162052843,
+  :block/updated-at 1656162052843}
+ {:block/name "139",
+  :block/created-at 1656162052885,
+  :block/updated-at 1656162052885}
+ {:block/name "14",
+  :block/created-at 1656162025320,
+  :block/updated-at 1656162025320}
+ {:block/name "140",
+  :block/created-at 1656162052899,
+  :block/updated-at 1656162052899}
+ {:block/name "141",
+  :block/created-at 1656162052915,
+  :block/updated-at 1656162052915}
+ {:block/name "142",
+  :block/created-at 1656162052941,
+  :block/updated-at 1656162052941}
+ {:block/name "143",
+  :block/created-at 1656162052960,
+  :block/updated-at 1656162052960}
+ {:block/name "144",
+  :block/created-at 1656162052967,
+  :block/updated-at 1656162052967}
+ {:block/name "145",
+  :block/created-at 1656162053023,
+  :block/updated-at 1656162053023}
+ {:block/name "146",
+  :block/created-at 1656162053110,
+  :block/updated-at 1656162053110}
+ {:block/name "147",
+  :block/created-at 1656162053124,
+  :block/updated-at 1656162053124}
+ {:block/name "148",
+  :block/created-at 1656162053151,
+  :block/updated-at 1656162053151}
+ {:block/name "149",
+  :block/created-at 1656162053166,
+  :block/updated-at 1656162053166}
+ {:block/name "15",
+  :block/created-at 1656162025385,
+  :block/updated-at 1656162025385}
+ {:block/name "150",
+  :block/created-at 1656162053178,
+  :block/updated-at 1656162053178}
+ {:block/name "151",
+  :block/created-at 1656162053187,
+  :block/updated-at 1656162053187}
+ {:block/name "152",
+  :block/created-at 1656162053196,
+  :block/updated-at 1656162053196}
+ {:block/name "153",
+  :block/created-at 1656162053212,
+  :block/updated-at 1656162053212}
+ {:block/name "154",
+  :block/created-at 1656162053279,
+  :block/updated-at 1656162053279}
+ {:block/name "155",
+  :block/created-at 1656162053364,
+  :block/updated-at 1656162053364}
+ {:block/name "156",
+  :block/created-at 1656162053401,
+  :block/updated-at 1656162053401}
+ {:block/name "157",
+  :block/created-at 1656162053411,
+  :block/updated-at 1656162053411}
+ {:block/name "158",
+  :block/created-at 1656162053421,
+  :block/updated-at 1656162053421}
+ {:block/name "159",
+  :block/created-at 1656162053429,
+  :block/updated-at 1656162053429}
+ {:block/name "16",
+  :block/created-at 1656162025159,
+  :block/updated-at 1656162025159}
+ {:block/name "160",
+  :block/created-at 1656162053439,
+  :block/updated-at 1656162053439}
+ {:block/name "161",
+  :block/created-at 1656162053447,
+  :block/updated-at 1656162053447}
+ {:block/name "161/eurj",
+  :block/created-at 1656162053448,
+  :block/updated-at 1656162053448}
+ {:block/name "161/eurj/ oper",
+  :block/created-at 1656162053449,
+  :block/updated-at 1656162053449}
+ {:block/name "162",
+  :block/created-at 1656162053459,
+  :block/updated-at 1656162053459}
+ {:block/name "163",
+  :block/created-at 1656162053467,
+  :block/updated-at 1656162053467}
+ {:block/name "164",
+  :block/created-at 1656162053518,
+  :block/updated-at 1656162053518}
+ {:block/name "165",
+  :block/created-at 1656162053553,
+  :block/updated-at 1656162053553}
+ {:block/name "166",
+  :block/created-at 1656162053562,
+  :block/updated-at 1656162053562}
+ {:block/name "167",
+  :block/created-at 1656162053594,
+  :block/updated-at 1656162053594}
+ {:block/name "168",
+  :block/created-at 1656162053578,
+  :block/updated-at 1656162053578}
+ {:block/name "169",
+  :block/created-at 1656162053603,
+  :block/updated-at 1656162053603}
+ {:block/name "17",
+  :block/created-at 1656162025446,
+  :block/updated-at 1656162025446}
+ {:block/name "170",
+  :block/created-at 1656162053610,
+  :block/updated-at 1656162053610}
+ {:block/name "171",
+  :block/created-at 1656162053629,
+  :block/updated-at 1656162053629}
+ {:block/name "172",
+  :block/created-at 1656162053644,
+  :block/updated-at 1656162053644}
+ {:block/name "173",
+  :block/created-at 1656162053664,
+  :block/updated-at 1656162053664}
+ {:block/name "174",
+  :block/created-at 1656162053713,
+  :block/updated-at 1656162053713}
+ {:block/name "175",
+  :block/created-at 1656162053739,
+  :block/updated-at 1656162053739}
+ {:block/name "176",
+  :block/created-at 1656162053750,
+  :block/updated-at 1656162053750}
+ {:block/name "177",
+  :block/created-at 1656162053769,
+  :block/updated-at 1656162053769}
+ {:block/name "178",
+  :block/created-at 1656162053760,
+  :block/updated-at 1656162053760}
+ {:block/name "179",
+  :block/created-at 1656162053654,
+  :block/updated-at 1656162053654}
+ {:block/name "18",
+  :block/created-at 1656162025470,
+  :block/updated-at 1656162025470}
+ {:block/name "181",
+  :block/created-at 1656162053675,
+  :block/updated-at 1656162053675}
+ {:block/name "182",
+  :block/created-at 1656162053844,
+  :block/updated-at 1656162053844}
+ {:block/name "182/historiadel silencio",
+  :block/created-at 1656162053845,
+  :block/updated-at 1656162053845}
+ {:block/name "183",
+  :block/created-at 1656162053869,
+  :block/updated-at 1656162053869}
+ {:block/name "184",
+  :block/created-at 1656162053877,
+  :block/updated-at 1656162053877}
+ {:block/name "185",
+  :block/created-at 1656162053894,
+  :block/updated-at 1656162053894}
+ {:block/name "186",
+  :block/created-at 1656162053884,
+  :block/updated-at 1656162053884}
+ {:block/name "187",
+  :block/created-at 1656162053791,
+  :block/updated-at 1656162053791}
+ {:block/name "188",
+  :block/created-at 1656162053815,
+  :block/updated-at 1656162053815}
+ {:block/name "189",
+  :block/created-at 1656162053862,
+  :block/updated-at 1656162053862}
+ {:block/name "19",
+  :block/created-at 1656162025276,
+  :block/updated-at 1656162025276}
+ {:block/name "190",
+  :block/created-at 1656162053986,
+  :block/updated-at 1656162053986}
+ {:block/name "190/graylinga",
+  :block/created-at 1656162053986,
+  :block/updated-at 1656162053986}
+ {:block/name "191",
+  :block/created-at 1656162053999,
+  :block/updated-at 1656162053999}
+ {:block/name "192",
+  :block/created-at 1656162054011,
+  :block/updated-at 1656162054011}
+ {:block/name "194",
+  :block/created-at 1656162053909,
+  :block/updated-at 1656162053909}
+ {:block/name "195",
+  :block/created-at 1656162053939,
+  :block/updated-at 1656162053939}
+ {:block/name "196",
+  :block/created-at 1656162053962,
+  :block/updated-at 1656162053962}
+ {:block/name "197",
+  :block/created-at 1656162053976,
+  :block/updated-at 1656162053976}
+ {:block/name "197/mentesgeniales",
+  :block/created-at 1656162053977,
+  :block/updated-at 1656162053977}
+ {:block/name "198",
+  :block/created-at 1656162054109,
+  :block/updated-at 1656162054109}
+ {:block/name "199",
+  :block/created-at 1656162054021,
+  :block/updated-at 1656162054021}
+ {:block/name "2",
+  :block/created-at 1656162024988,
+  :block/updated-at 1656162024988}
+ {:block/name "20",
+  :block/created-at 1656162025285,
+  :block/updated-at 1656162025285}
+ {:block/name "200",
+  :block/created-at 1656162054052,
+  :block/updated-at 1656162054052}
+ {:block/name "201",
+  :block/created-at 1656162054064,
+  :block/updated-at 1656162054064}
+ {:block/name "202",
+  :block/created-at 1656162054084,
+  :block/updated-at 1656162054084}
  {:block/name "2022-05-07t21_50_45",
   :block/created-at 1656063942331,
   :block/updated-at 1656063942331}
+ {:block/name "203",
+  :block/created-at 1656162054071,
+  :block/updated-at 1656162054071}
+ {:block/name "204",
+  :block/created-at 1656162054095,
+  :block/updated-at 1656162054095}
+ {:block/name "205",
+  :block/created-at 1656162054306,
+  :block/updated-at 1656162054306}
+ {:block/name "206",
+  :block/created-at 1656162054125,
+  :block/updated-at 1656162054125}
+ {:block/name "207",
+  :block/created-at 1656162054208,
+  :block/updated-at 1656162054208}
+ {:block/name "208",
+  :block/created-at 1656162054291,
+  :block/updated-at 1656162054291}
+ {:block/name "209",
+  :block/created-at 1656162054277,
+  :block/updated-at 1656162054277}
+ {:block/name "21",
+  :block/created-at 1656162025545,
+  :block/updated-at 1656162025545}
+ {:block/name "210",
+  :block/created-at 1656162054332,
+  :block/updated-at 1656162054332}
+ {:block/name "211",
+  :block/created-at 1656162054320,
+  :block/updated-at 1656162054320}
+ {:block/name "212",
+  :block/created-at 1656162054375,
+  :block/updated-at 1656162054375}
+ {:block/name "213",
+  :block/created-at 1656162054446,
+  :block/updated-at 1656162054446}
+ {:block/name "214",
+  :block/created-at 1656162054430,
+  :block/updated-at 1656162054430}
+ {:block/name "215",
+  :block/created-at 1656162054396,
+  :block/updated-at 1656162054396}
+ {:block/name "216",
+  :block/created-at 1656162054409,
+  :block/updated-at 1656162054409}
+ {:block/name "217",
+  :block/created-at 1656162054420,
+  :block/updated-at 1656162054420}
+ {:block/name "218",
+  :block/created-at 1656162054438,
+  :block/updated-at 1656162054438}
+ {:block/name "219",
+  :block/created-at 1656162054462,
+  :block/updated-at 1656162054462}
+ {:block/name "22",
+  :block/created-at 1656162025406,
+  :block/updated-at 1656162025406}
+ {:block/name "220",
+  :block/created-at 1656162054469,
+  :block/updated-at 1656162054469}
+ {:block/name "221",
+  :block/created-at 1656162054479,
+  :block/updated-at 1656162054479}
+ {:block/name "222",
+  :block/created-at 1656162054537,
+  :block/updated-at 1656162054537}
+ {:block/name "223",
+  :block/created-at 1656162054579,
+  :block/updated-at 1656162054579}
+ {:block/name "224",
+  :block/created-at 1656162054588,
+  :block/updated-at 1656162054588}
+ {:block/name "225",
+  :block/created-at 1656162054454,
+  :block/updated-at 1656162054454}
+ {:block/name "226",
+  :block/created-at 1656162054604,
+  :block/updated-at 1656162054604}
+ {:block/name "227",
+  :block/created-at 1656162054620,
+  :block/updated-at 1656162054620}
+ {:block/name "228",
+  :block/created-at 1656162054636,
+  :block/updated-at 1656162054636}
+ {:block/name "229",
+  :block/created-at 1656162054666,
+  :block/updated-at 1656162054666}
+ {:block/name "23",
+  :block/created-at 1656162025575,
+  :block/updated-at 1656162025575}
+ {:block/name "230",
+  :block/created-at 1656162054650,
+  :block/updated-at 1656162054650}
+ {:block/name "231",
+  :block/created-at 1656162054595,
+  :block/updated-at 1656162054595}
+ {:block/name "232",
+  :block/created-at 1656162054658,
+  :block/updated-at 1656162054658}
+ {:block/name "233",
+  :block/created-at 1656162054612,
+  :block/updated-at 1656162054612}
+ {:block/name "234",
+  :block/created-at 1656162054628,
+  :block/updated-at 1656162054628}
+ {:block/name "235",
+  :block/created-at 1656162054643,
+  :block/updated-at 1656162054643}
+ {:block/name "236",
+  :block/created-at 1656162054731,
+  :block/updated-at 1656162054731}
+ {:block/name "237",
+  :block/created-at 1656162054756,
+  :block/updated-at 1656162054756}
+ {:block/name "238",
+  :block/created-at 1656162054692,
+  :block/updated-at 1656162054692}
+ {:block/name "239",
+  :block/created-at 1656162054704,
+  :block/updated-at 1656162054704}
+ {:block/name "24",
+  :block/created-at 1656162025426,
+  :block/updated-at 1656162025426}
+ {:block/name "240",
+  :block/created-at 1656162054714,
+  :block/updated-at 1656162054714}
+ {:block/name "241",
+  :block/created-at 1656162054722,
+  :block/updated-at 1656162054722}
+ {:block/name "242",
+  :block/created-at 1656162054745,
+  :block/updated-at 1656162054745}
+ {:block/name "243",
+  :block/created-at 1656162054767,
+  :block/updated-at 1656162054767}
+ {:block/name "244",
+  :block/created-at 1656162054807,
+  :block/updated-at 1656162054807}
+ {:block/name "245",
+  :block/created-at 1656162054840,
+  :block/updated-at 1656162054840}
+ {:block/name "246",
+  :block/created-at 1656162054882,
+  :block/updated-at 1656162054882}
+ {:block/name "247",
+  :block/created-at 1656162054890,
+  :block/updated-at 1656162054890}
+ {:block/name "248",
+  :block/created-at 1656162054875,
+  :block/updated-at 1656162054875}
+ {:block/name "249",
+  :block/created-at 1656162054866,
+  :block/updated-at 1656162054866}
+ {:block/name "25",
+  :block/created-at 1656162025615,
+  :block/updated-at 1656162025615}
+ {:block/name "250",
+  :block/created-at 1656162054856,
+  :block/updated-at 1656162054856}
+ {:block/name "251",
+  :block/created-at 1656162055314,
+  :block/updated-at 1656162055314}
+ {:block/name "252",
+  :block/created-at 1656162055238,
+  :block/updated-at 1656162055238}
+ {:block/name "253",
+  :block/created-at 1656162055252,
+  :block/updated-at 1656162055252}
+ {:block/name "254",
+  :block/created-at 1656162055323,
+  :block/updated-at 1656162055323}
+ {:block/name "255",
+  :block/created-at 1656162055153,
+  :block/updated-at 1656162055153}
+ {:block/name "256",
+  :block/created-at 1656162055188,
+  :block/updated-at 1656162055188}
+ {:block/name "257",
+  :block/created-at 1656162055264,
+  :block/updated-at 1656162055264}
+ {:block/name "258",
+  :block/created-at 1656162055277,
+  :block/updated-at 1656162055277}
+ {:block/name "259",
+  :block/created-at 1656162055300,
+  :block/updated-at 1656162055300}
+ {:block/name "26",
+  :block/created-at 1656162025489,
+  :block/updated-at 1656162025489}
  {:block/name "26-02-2022",
   :block/created-at 1651494648547,
   :block/updated-at 1651494648547}
+ {:block/name "260",
+  :block/created-at 1656162057336,
+  :block/updated-at 1656162057336}
+ {:block/name "261",
+  :block/created-at 1656162057285,
+  :block/updated-at 1656162057285}
+ {:block/name "262",
+  :block/created-at 1656162057348,
+  :block/updated-at 1656162057348}
+ {:block/name "262/keshavs",
+  :block/created-at 1656162057348,
+  :block/updated-at 1656162057348}
+ {:block/name "263",
+  :block/created-at 1656162057447,
+  :block/updated-at 1656162057447}
+ {:block/name "264",
+  :block/created-at 1656162057229,
+  :block/updated-at 1656162057229}
+ {:block/name "265",
+  :block/created-at 1656162057373,
+  :block/updated-at 1656162057373}
+ {:block/name "266",
+  :block/created-at 1656162057413,
+  :block/updated-at 1656162057413}
+ {:block/name "267",
+  :block/created-at 1656162057457,
+  :block/updated-at 1656162057457}
+ {:block/name "268",
+  :block/created-at 1656162057383,
+  :block/updated-at 1656162057383}
+ {:block/name "269",
+  :block/created-at 1656162057360,
+  :block/updated-at 1656162057360}
+ {:block/name "27",
+  :block/created-at 1656162025507,
+  :block/updated-at 1656162025507}
+ {:block/name "271",
+  :block/created-at 1656162058936,
+  :block/updated-at 1656162058936}
+ {:block/name "272",
+  :block/created-at 1656162058991,
+  :block/updated-at 1656162058991}
+ {:block/name "273",
+  :block/created-at 1656162059039,
+  :block/updated-at 1656162059039}
+ {:block/name "274",
+  :block/created-at 1656162059080,
+  :block/updated-at 1656162059080}
+ {:block/name "275",
+  :block/created-at 1656162059121,
+  :block/updated-at 1656162059121}
+ {:block/name "276",
+  :block/created-at 1656162059136,
+  :block/updated-at 1656162059136}
+ {:block/name "277",
+  :block/created-at 1656162059167,
+  :block/updated-at 1656162059167}
+ {:block/name "28",
+  :block/created-at 1656162025520,
+  :block/updated-at 1656162025520}
+ {:block/name "280",
+  :block/created-at 1656162059153,
+  :block/updated-at 1656162059153}
+ {:block/name "281",
+  :block/created-at 1656162059271,
+  :block/updated-at 1656162059271}
+ {:block/name "282",
+  :block/created-at 1656162059388,
+  :block/updated-at 1656162059388}
+ {:block/name "283",
+  :block/created-at 1656162059428,
+  :block/updated-at 1656162059428}
+ {:block/name "284",
+  :block/created-at 1656162059446,
+  :block/updated-at 1656162059446}
+ {:block/name "285",
+  :block/created-at 1656162059476,
+  :block/updated-at 1656162059476}
+ {:block/name "286",
+  :block/created-at 1656162059465,
+  :block/updated-at 1656162059465}
+ {:block/name "287",
+  :block/created-at 1656162059485,
+  :block/updated-at 1656162059485}
+ {:block/name "288",
+  :block/created-at 1656162059504,
+  :block/updated-at 1656162059504}
+ {:block/name "289",
+  :block/created-at 1656162059409,
+  :block/updated-at 1656162059409}
+ {:block/name "29",
+  :block/created-at 1656162025534,
+  :block/updated-at 1656162025534}
+ {:block/name "290",
+  :block/created-at 1656162059438,
+  :block/updated-at 1656162059438}
+ {:block/name "291",
+  :block/created-at 1656162059419,
+  :block/updated-at 1656162059419}
+ {:block/name "292",
+  :block/created-at 1656162059456,
+  :block/updated-at 1656162059456}
+ {:block/name "293",
+  :block/created-at 1656162059494,
+  :block/updated-at 1656162059494}
+ {:block/name "294",
+  :block/created-at 1656162059545,
+  :block/updated-at 1656162059545}
+ {:block/name "295",
+  :block/created-at 1656162059554,
+  :block/updated-at 1656162059554}
+ {:block/name "296",
+  :block/created-at 1656162059512,
+  :block/updated-at 1656162059512}
+ {:block/name "297",
+  :block/created-at 1656162059521,
+  :block/updated-at 1656162059521}
+ {:block/name "298",
+  :block/created-at 1656162059530,
+  :block/updated-at 1656162059530}
+ {:block/name "299",
+  :block/created-at 1656162059537,
+  :block/updated-at 1656162059537}
+ {:block/name "3",
+  :block/created-at 1656162025008,
+  :block/updated-at 1656162025008}
+ {:block/name "30",
+  :block/created-at 1656162025558,
+  :block/updated-at 1656162025558}
+ {:block/name "300",
+  :block/created-at 1656162059564,
+  :block/updated-at 1656162059564}
+ {:block/name "301",
+  :block/created-at 1656162059782,
+  :block/updated-at 1656162059782}
+ {:block/name "302",
+  :block/created-at 1656162059640,
+  :block/updated-at 1656162059640}
+ {:block/name "303",
+  :block/created-at 1656162059937,
+  :block/updated-at 1656162059937}
+ {:block/name "304",
+  :block/created-at 1656162059627,
+  :block/updated-at 1656162059627}
+ {:block/name "305",
+  :block/created-at 1656162059714,
+  :block/updated-at 1656162059714}
+ {:block/name "306",
+  :block/created-at 1656162059707,
+  :block/updated-at 1656162059707}
+ {:block/name "307",
+  :block/created-at 1656162059753,
+  :block/updated-at 1656162059753}
+ {:block/name "308",
+  :block/created-at 1656162059679,
+  :block/updated-at 1656162059679}
+ {:block/name "309",
+  :block/created-at 1656162059728,
+  :block/updated-at 1656162059728}
+ {:block/name "31",
+  :block/created-at 1656162025593,
+  :block/updated-at 1656162025593}
+ {:block/name "310",
+  :block/created-at 1656162059795,
+  :block/updated-at 1656162059795}
+ {:block/name "311",
+  :block/created-at 1656162059863,
+  :block/updated-at 1656162059863}
+ {:block/name "312",
+  :block/created-at 1656162059831,
+  :block/updated-at 1656162059831}
+ {:block/name "313",
+  :block/created-at 1656162059769,
+  :block/updated-at 1656162059769}
+ {:block/name "314",
+  :block/created-at 1656162059892,
+  :block/updated-at 1656162059892}
+ {:block/name "314/notetaking during a phd",
+  :block/created-at 1656162210738,
+  :block/updated-at 1656162210738}
+ {:block/name "315",
+  :block/created-at 1656162059919,
+  :block/updated-at 1656162059919}
+ {:block/name "316",
+  :block/created-at 1656162059977,
+  :block/updated-at 1656162059977}
+ {:block/name "317",
+  :block/created-at 1656162059929,
+  :block/updated-at 1656162059929}
+ {:block/name "318",
+  :block/created-at 1656162060645,
+  :block/updated-at 1656162060645}
+ {:block/name "319",
+  :block/created-at 1656162060780,
+  :block/updated-at 1656162060780}
+ {:block/name "32",
+  :block/created-at 1656162025603,
+  :block/updated-at 1656162025603}
+ {:block/name "320",
+  :block/created-at 1656162060903,
+  :block/updated-at 1656162060903}
+ {:block/name "321",
+  :block/created-at 1656162060979,
+  :block/updated-at 1656162060979}
+ {:block/name "322",
+  :block/created-at 1656162061095,
+  :block/updated-at 1656162061095}
+ {:block/name "323",
+  :block/created-at 1656162061120,
+  :block/updated-at 1656162061120}
+ {:block/name "324",
+  :block/created-at 1656162060621,
+  :block/updated-at 1656162060621}
+ {:block/name "325",
+  :block/created-at 1656162060658,
+  :block/updated-at 1656162060658}
+ {:block/name "325/computoper",
+  :block/created-at 1656162060658,
+  :block/updated-at 1656162060658}
+ {:block/name "326",
+  :block/created-at 1656162060924,
+  :block/updated-at 1656162060924}
+ {:block/name "327",
+  :block/created-at 1656162060823,
+  :block/updated-at 1656162060823}
+ {:block/name "328",
+  :block/created-at 1656162061005,
+  :block/updated-at 1656162061005}
+ {:block/name "329",
+  :block/created-at 1656162061057,
+  :block/updated-at 1656162061057}
+ {:block/name "33",
+  :block/created-at 1656162025736,
+  :block/updated-at 1656162025736}
+ {:block/name "330",
+  :block/created-at 1656162060613,
+  :block/updated-at 1656162060613}
+ {:block/name "331",
+  :block/created-at 1656162060695,
+  :block/updated-at 1656162060695}
+ {:block/name "332",
+  :block/created-at 1656162060935,
+  :block/updated-at 1656162060935}
+ {:block/name "333",
+  :block/created-at 1656162060858,
+  :block/updated-at 1656162060858}
+ {:block/name "334",
+  :block/created-at 1656162060915,
+  :block/updated-at 1656162060915}
+ {:block/name "335",
+  :block/created-at 1656162061110,
+  :block/updated-at 1656162061110}
+ {:block/name "336",
+  :block/created-at 1656162061068,
+  :block/updated-at 1656162061068}
+ {:block/name "337",
+  :block/created-at 1656162060533,
+  :block/updated-at 1656162060533}
+ {:block/name "338",
+  :block/created-at 1656162060637,
+  :block/updated-at 1656162060637}
+ {:block/name "339",
+  :block/created-at 1656162060765,
+  :block/updated-at 1656162060765}
+ {:block/name "34",
+  :block/created-at 1656162025634,
+  :block/updated-at 1656162025634}
+ {:block/name "340",
+  :block/created-at 1656162061020,
+  :block/updated-at 1656162061020}
+ {:block/name "341",
+  :block/created-at 1656162060887,
+  :block/updated-at 1656162060887}
+ {:block/name "342",
+  :block/created-at 1656162061045,
+  :block/updated-at 1656162061045}
+ {:block/name "343",
+  :block/created-at 1656162061083,
+  :block/updated-at 1656162061083}
+ {:block/name "344",
+  :block/created-at 1656162060580,
+  :block/updated-at 1656162060580}
+ {:block/name "344/anunciomentes geniales",
+  :block/created-at 1656162060581,
+  :block/updated-at 1656162060581}
+ {:block/name "345",
+  :block/created-at 1656162060629,
+  :block/updated-at 1656162060629}
+ {:block/name "346",
+  :block/created-at 1656162060849,
+  :block/updated-at 1656162060849}
+ {:block/name "347",
+  :block/created-at 1656162060873,
+  :block/updated-at 1656162060873}
+ {:block/name "348",
+  :block/created-at 1656162061035,
+  :block/updated-at 1656162061035}
+ {:block/name "35",
+  :block/created-at 1656162025651,
+  :block/updated-at 1656162025651}
+ {:block/name "350",
+  :block/created-at 1656162063849,
+  :block/updated-at 1656162063849}
+ {:block/name "351",
+  :block/created-at 1656162064361,
+  :block/updated-at 1656162064361}
+ {:block/name "352",
+  :block/created-at 1656162063626,
+  :block/updated-at 1656162063626}
+ {:block/name "353",
+  :block/created-at 1656162063566,
+  :block/updated-at 1656162063566}
+ {:block/name "354",
+  :block/created-at 1656162063579,
+  :block/updated-at 1656162063579}
+ {:block/name "355",
+  :block/created-at 1656162063696,
+  :block/updated-at 1656162063696}
+ {:block/name "356",
+  :block/created-at 1656162063617,
+  :block/updated-at 1656162063617}
+ {:block/name "357",
+  :block/created-at 1656162063637,
+  :block/updated-at 1656162063637}
+ {:block/name "358",
+  :block/created-at 1656162063652,
+  :block/updated-at 1656162063652}
+ {:block/name "359",
+  :block/created-at 1656162063670,
+  :block/updated-at 1656162063670}
+ {:block/name "36",
+  :block/created-at 1656162025672,
+  :block/updated-at 1656162025672}
+ {:block/name "360",
+  :block/created-at 1656162063602,
+  :block/updated-at 1656162063602}
+ {:block/name "361",
+  :block/created-at 1656162065266,
+  :block/updated-at 1656162065266}
+ {:block/name "362",
+  :block/created-at 1656162063681,
+  :block/updated-at 1656162063681}
+ {:block/name "363",
+  :block/created-at 1656162063711,
+  :block/updated-at 1656162063711}
+ {:block/name "364",
+  :block/created-at 1656162063748,
+  :block/updated-at 1656162063748}
+ {:block/name "365",
+  :block/created-at 1656162063881,
+  :block/updated-at 1656162063881}
+ {:block/name "366",
+  :block/created-at 1656162063724,
+  :block/updated-at 1656162063724}
+ {:block/name "367",
+  :block/created-at 1656162063768,
+  :block/updated-at 1656162063768}
+ {:block/name "368",
+  :block/created-at 1656162063777,
+  :block/updated-at 1656162063777}
+ {:block/name "369",
+  :block/created-at 1656162063736,
+  :block/updated-at 1656162063736}
+ {:block/name "37",
+  :block/created-at 1656162025688,
+  :block/updated-at 1656162025688}
+ {:block/name "370",
+  :block/created-at 1656162063990,
+  :block/updated-at 1656162063990}
+ {:block/name "371",
+  :block/created-at 1656162063904,
+  :block/updated-at 1656162063904}
+ {:block/name "372",
+  :block/created-at 1656162063806,
+  :block/updated-at 1656162063806}
+ {:block/name "373",
+  :block/created-at 1656162064224,
+  :block/updated-at 1656162064224}
+ {:block/name "374",
+  :block/created-at 1656162064132,
+  :block/updated-at 1656162064132}
+ {:block/name "375",
+  :block/created-at 1656162063815,
+  :block/updated-at 1656162063815}
+ {:block/name "376",
+  :block/created-at 1656162063860,
+  :block/updated-at 1656162063860}
+ {:block/name "377",
+  :block/created-at 1656162063827,
+  :block/updated-at 1656162063827}
+ {:block/name "378",
+  :block/created-at 1656162063840,
+  :block/updated-at 1656162063840}
+ {:block/name "379",
+  :block/created-at 1656162063894,
+  :block/updated-at 1656162063894}
+ {:block/name "38",
+  :block/created-at 1656162025701,
+  :block/updated-at 1656162025701}
+ {:block/name "380",
+  :block/created-at 1656162063871,
+  :block/updated-at 1656162063871}
+ {:block/name "381",
+  :block/created-at 1656162063927,
+  :block/updated-at 1656162063927}
+ {:block/name "382",
+  :block/created-at 1656162063947,
+  :block/updated-at 1656162063947}
+ {:block/name "383",
+  :block/created-at 1656162063938,
+  :block/updated-at 1656162063938}
+ {:block/name "384",
+  :block/created-at 1656162063916,
+  :block/updated-at 1656162063916}
+ {:block/name "385",
+  :block/created-at 1656162064008,
+  :block/updated-at 1656162064008}
+ {:block/name "386",
+  :block/created-at 1656162063958,
+  :block/updated-at 1656162063958}
+ {:block/name "387",
+  :block/created-at 1656162064018,
+  :block/updated-at 1656162064018}
+ {:block/name "388",
+  :block/created-at 1656162064095,
+  :block/updated-at 1656162064095}
+ {:block/name "389",
+  :block/created-at 1656162063971,
+  :block/updated-at 1656162063971}
+ {:block/name "39",
+  :block/created-at 1656162025716,
+  :block/updated-at 1656162025716}
+ {:block/name "390",
+  :block/created-at 1656162064043,
+  :block/updated-at 1656162064043}
+ {:block/name "391",
+  :block/created-at 1656162064102,
+  :block/updated-at 1656162064102}
+ {:block/name "392",
+  :block/created-at 1656162064123,
+  :block/updated-at 1656162064123}
+ {:block/name "393",
+  :block/created-at 1656162064113,
+  :block/updated-at 1656162064113}
+ {:block/name "394",
+  :block/created-at 1656162064062,
+  :block/updated-at 1656162064062}
+ {:block/name "395",
+  :block/created-at 1656162064141,
+  :block/updated-at 1656162064141}
+ {:block/name "396",
+  :block/created-at 1656162064151,
+  :block/updated-at 1656162064151}
+ {:block/name "397",
+  :block/created-at 1656162064170,
+  :block/updated-at 1656162064170}
+ {:block/name "398",
+  :block/created-at 1656162064233,
+  :block/updated-at 1656162064233}
+ {:block/name "399",
+  :block/created-at 1656162064214,
+  :block/updated-at 1656162064214}
+ {:block/name "4",
+  :block/created-at 1656162025076,
+  :block/updated-at 1656162025076}
+ {:block/name "40",
+  :block/created-at 1656162025727,
+  :block/updated-at 1656162025727}
+ {:block/name "400",
+  :block/created-at 1656162064161,
+  :block/updated-at 1656162064161}
+ {:block/name "401",
+  :block/created-at 1656162064188,
+  :block/updated-at 1656162064188}
+ {:block/name "402",
+  :block/created-at 1656162064205,
+  :block/updated-at 1656162064205}
+ {:block/name "403",
+  :block/created-at 1656162063233,
+  :block/updated-at 1656162063233}
+ {:block/name "404",
+  :block/created-at 1656162063249,
+  :block/updated-at 1656162063249}
+ {:block/name "405",
+  :block/created-at 1656162063282,
+  :block/updated-at 1656162063282}
+ {:block/name "406",
+  :block/created-at 1656162063259,
+  :block/updated-at 1656162063259}
+ {:block/name "407",
+  :block/created-at 1656162063302,
+  :block/updated-at 1656162063302}
+ {:block/name "408",
+  :block/created-at 1656162064516,
+  :block/updated-at 1656162064516}
+ {:block/name "409",
+  :block/created-at 1656162064495,
+  :block/updated-at 1656162064495}
+ {:block/name "41",
+  :block/created-at 1656162025767,
+  :block/updated-at 1656162025767}
+ {:block/name "410",
+  :block/created-at 1656162064842,
+  :block/updated-at 1656162064842}
+ {:block/name "411",
+  :block/created-at 1656162064504,
+  :block/updated-at 1656162064504}
+ {:block/name "412",
+  :block/created-at 1656162064536,
+  :block/updated-at 1656162064536}
+ {:block/name "413",
+  :block/created-at 1656162064572,
+  :block/updated-at 1656162064572}
+ {:block/name "414",
+  :block/created-at 1656162064563,
+  :block/updated-at 1656162064563}
+ {:block/name "415",
+  :block/created-at 1656162064670,
+  :block/updated-at 1656162064670}
+ {:block/name "416",
+  :block/created-at 1656162065028,
+  :block/updated-at 1656162065028}
+ {:block/name "417",
+  :block/created-at 1656162064790,
+  :block/updated-at 1656162064790}
+ {:block/name "418",
+  :block/created-at 1656162065298,
+  :block/updated-at 1656162065298}
+ {:block/name "419",
+  :block/created-at 1656162065074,
+  :block/updated-at 1656162065074}
+ {:block/name "42",
+  :block/created-at 1656162025784,
+  :block/updated-at 1656162025784}
+ {:block/name "420",
+  :block/created-at 1656162064994,
+  :block/updated-at 1656162064994}
+ {:block/name "421",
+  :block/created-at 1656162065017,
+  :block/updated-at 1656162065017}
+ {:block/name "422",
+  :block/created-at 1656162065185,
+  :block/updated-at 1656162065185}
+ {:block/name "423",
+  :block/created-at 1656162065135,
+  :block/updated-at 1656162065135}
+ {:block/name "424",
+  :block/created-at 1656162065224,
+  :block/updated-at 1656162065224}
+ {:block/name "425",
+  :block/created-at 1656162064948,
+  :block/updated-at 1656162064948}
+ {:block/name "426",
+  :block/created-at 1656162065061,
+  :block/updated-at 1656162065061}
+ {:block/name "427",
+  :block/created-at 1656162065197,
+  :block/updated-at 1656162065197}
+ {:block/name "428",
+  :block/created-at 1656162065085,
+  :block/updated-at 1656162065085}
+ {:block/name "429",
+  :block/created-at 1656162065100,
+  :block/updated-at 1656162065100}
+ {:block/name "43",
+  :block/created-at 1656162025799,
+  :block/updated-at 1656162025799}
+ {:block/name "430",
+  :block/created-at 1656162065115,
+  :block/updated-at 1656162065115}
+ {:block/name "431",
+  :block/created-at 1656162065159,
+  :block/updated-at 1656162065159}
+ {:block/name "432",
+  :block/created-at 1656162065247,
+  :block/updated-at 1656162065247}
+ {:block/name "433",
+  :block/created-at 1656162065398,
+  :block/updated-at 1656162065398}
+ {:block/name "434",
+  :block/created-at 1656162065451,
+  :block/updated-at 1656162065451}
+ {:block/name "435",
+  :block/created-at 1656162065425,
+  :block/updated-at 1656162065425}
+ {:block/name "436",
+  :block/created-at 1656162065485,
+  :block/updated-at 1656162065485}
+ {:block/name "437",
+  :block/created-at 1656162065374,
+  :block/updated-at 1656162065374}
+ {:block/name "438",
+  :block/created-at 1656162065385,
+  :block/updated-at 1656162065385}
+ {:block/name "439",
+  :block/created-at 1656162065346,
+  :block/updated-at 1656162065346}
+ {:block/name "44",
+  :block/created-at 1656162025812,
+  :block/updated-at 1656162025812}
+ {:block/name "440",
+  :block/created-at 1656162065478,
+  :block/updated-at 1656162065478}
+ {:block/name "441",
+  :block/created-at 1656162065470,
+  :block/updated-at 1656162065470}
+ {:block/name "442",
+  :block/created-at 1656162065494,
+  :block/updated-at 1656162065494}
+ {:block/name "443",
+  :block/created-at 1656162064381,
+  :block/updated-at 1656162064381}
+ {:block/name "444",
+  :block/created-at 1656162064252,
+  :block/updated-at 1656162064252}
+ {:block/name "445",
+  :block/created-at 1656162064242,
+  :block/updated-at 1656162064242}
+ {:block/name "447",
+  :block/created-at 1656162064553,
+  :block/updated-at 1656162064553}
+ {:block/name "448",
+  :block/created-at 1656162065257,
+  :block/updated-at 1656162065257}
+ {:block/name "449",
+  :block/created-at 1656162064483,
+  :block/updated-at 1656162064483}
+ {:block/name "45",
+  :block/created-at 1656162025822,
+  :block/updated-at 1656162025822}
+ {:block/name "450",
+  :block/created-at 1656162064442,
+  :block/updated-at 1656162064442}
+ {:block/name "451",
+  :block/created-at 1656162065175,
+  :block/updated-at 1656162065175}
+ {:block/name "452",
+  :block/created-at 1656162065444,
+  :block/updated-at 1656162065444}
+ {:block/name "453",
+  :block/created-at 1656162063758,
+  :block/updated-at 1656162063758}
+ {:block/name "454",
+  :block/created-at 1656162064316,
+  :block/updated-at 1656162064316}
+ {:block/name "455",
+  :block/created-at 1656162064976,
+  :block/updated-at 1656162064976}
+ {:block/name "456",
+  :block/created-at 1656162064406,
+  :block/updated-at 1656162064406}
+ {:block/name "457",
+  :block/created-at 1656162065038,
+  :block/updated-at 1656162065038}
+ {:block/name "458",
+  :block/created-at 1656162065461,
+  :block/updated-at 1656162065461}
+ {:block/name "459",
+  :block/created-at 1656162063590,
+  :block/updated-at 1656162063590}
+ {:block/name "46",
+  :block/created-at 1656162025830,
+  :block/updated-at 1656162025830}
+ {:block/name "460",
+  :block/created-at 1656162063791,
+  :block/updated-at 1656162063791}
+ {:block/name "461",
+  :block/created-at 1656162064394,
+  :block/updated-at 1656162064394}
+ {:block/name "462",
+  :block/created-at 1656162064720,
+  :block/updated-at 1656162064720}
+ {:block/name "463",
+  :block/created-at 1656162064919,
+  :block/updated-at 1656162064919}
+ {:block/name "465",
+  :block/created-at 1656162065886,
+  :block/updated-at 1656162065886}
+ {:block/name "466",
+  :block/created-at 1656162066110,
+  :block/updated-at 1656162066110}
+ {:block/name "467",
+  :block/created-at 1656162066179,
+  :block/updated-at 1656162066179}
+ {:block/name "468",
+  :block/created-at 1656162065770,
+  :block/updated-at 1656162065770}
+ {:block/name "469",
+  :block/created-at 1656162065791,
+  :block/updated-at 1656162065791}
+ {:block/name "47",
+  :block/created-at 1656162025839,
+  :block/updated-at 1656162025839}
+ {:block/name "470",
+  :block/created-at 1656162065827,
+  :block/updated-at 1656162065827}
+ {:block/name "471",
+  :block/created-at 1656162065970,
+  :block/updated-at 1656162065970}
+ {:block/name "472",
+  :block/created-at 1656162066094,
+  :block/updated-at 1656162066094}
+ {:block/name "473",
+  :block/created-at 1656162066151,
+  :block/updated-at 1656162066151}
+ {:block/name "474",
+  :block/created-at 1656162066170,
+  :block/updated-at 1656162066170}
+ {:block/name "475",
+  :block/created-at 1656162066204,
+  :block/updated-at 1656162066204}
+ {:block/name "476",
+  :block/created-at 1656162065802,
+  :block/updated-at 1656162065802}
+ {:block/name "477",
+  :block/created-at 1656162065898,
+  :block/updated-at 1656162065898}
+ {:block/name "478",
+  :block/created-at 1656162065944,
+  :block/updated-at 1656162065944}
+ {:block/name "479",
+  :block/created-at 1656162066042,
+  :block/updated-at 1656162066042}
+ {:block/name "48",
+  :block/created-at 1656162025867,
+  :block/updated-at 1656162025867}
+ {:block/name "480",
+  :block/created-at 1656162066188,
+  :block/updated-at 1656162066188}
+ {:block/name "481",
+  :block/created-at 1656162065728,
+  :block/updated-at 1656162065728}
+ {:block/name "482",
+  :block/created-at 1656162065741,
+  :block/updated-at 1656162065741}
+ {:block/name "483",
+  :block/created-at 1656162065860,
+  :block/updated-at 1656162065860}
+ {:block/name "484",
+  :block/created-at 1656162065959,
+  :block/updated-at 1656162065959}
+ {:block/name "485",
+  :block/created-at 1656162066101,
+  :block/updated-at 1656162066101}
+ {:block/name "486",
+  :block/created-at 1656162066119,
+  :block/updated-at 1656162066119}
+ {:block/name "487",
+  :block/created-at 1656162066196,
+  :block/updated-at 1656162066196}
+ {:block/name "488",
+  :block/created-at 1656162066888,
+  :block/updated-at 1656162066888}
+ {:block/name "489",
+  :block/created-at 1656162066897,
+  :block/updated-at 1656162066897}
+ {:block/name "49",
+  :block/created-at 1656162025857,
+  :block/updated-at 1656162025857}
+ {:block/name "490",
+  :block/created-at 1656162067846,
+  :block/updated-at 1656162067846}
+ {:block/name "491",
+  :block/created-at 1656162068002,
+  :block/updated-at 1656162068002}
+ {:block/name "492",
+  :block/created-at 1656162067856,
+  :block/updated-at 1656162067856}
+ {:block/name "493",
+  :block/created-at 1656162067877,
+  :block/updated-at 1656162067877}
+ {:block/name "494",
+  :block/created-at 1656162067867,
+  :block/updated-at 1656162067867}
+ {:block/name "495",
+  :block/created-at 1656162067983,
+  :block/updated-at 1656162067983}
+ {:block/name "496",
+  :block/created-at 1656162067908,
+  :block/updated-at 1656162067908}
+ {:block/name "497",
+  :block/created-at 1656162067898,
+  :block/updated-at 1656162067898}
+ {:block/name "498",
+  :block/created-at 1656162067951,
+  :block/updated-at 1656162067951}
+ {:block/name "499",
+  :block/created-at 1656162067888,
+  :block/updated-at 1656162067888}
+ {:block/name "5",
+  :block/created-at 1656162025056,
+  :block/updated-at 1656162025056}
+ {:block/name "50",
+  :block/created-at 1656162025891,
+  :block/updated-at 1656162025891}
+ {:block/name "500",
+  :block/created-at 1656162067925,
+  :block/updated-at 1656162067925}
+ {:block/name "501",
+  :block/created-at 1656162067960,
+  :block/updated-at 1656162067960}
+ {:block/name "502",
+  :block/created-at 1656162067916,
+  :block/updated-at 1656162067916}
+ {:block/name "503",
+  :block/created-at 1656162067934,
+  :block/updated-at 1656162067934}
+ {:block/name "504",
+  :block/created-at 1656162067942,
+  :block/updated-at 1656162067942}
+ {:block/name "505",
+  :block/created-at 1656162068020,
+  :block/updated-at 1656162068020}
+ {:block/name "506",
+  :block/created-at 1656162067993,
+  :block/updated-at 1656162067993}
+ {:block/name "507",
+  :block/created-at 1656162067968,
+  :block/updated-at 1656162067968}
+ {:block/name "508",
+  :block/created-at 1656162068029,
+  :block/updated-at 1656162068029}
+ {:block/name "509",
+  :block/created-at 1656162068012,
+  :block/updated-at 1656162068012}
+ {:block/name "51",
+  :block/created-at 1656162025879,
+  :block/updated-at 1656162025879}
+ {:block/name "510",
+  :block/created-at 1656162068037,
+  :block/updated-at 1656162068037}
+ {:block/name "511",
+  :block/created-at 1656162068082,
+  :block/updated-at 1656162068082}
+ {:block/name "512",
+  :block/created-at 1656162068073,
+  :block/updated-at 1656162068073}
+ {:block/name "513",
+  :block/created-at 1656162068112,
+  :block/updated-at 1656162068112}
+ {:block/name "513/ahmedawadelrahman m",
+  :block/created-at 1656162068113,
+  :block/updated-at 1656162068113}
+ {:block/name "514",
+  :block/created-at 1656162068146,
+  :block/updated-at 1656162068146}
+ {:block/name "515",
+  :block/created-at 1656162068064,
+  :block/updated-at 1656162068064}
+ {:block/name "516",
+  :block/created-at 1656162068093,
+  :block/updated-at 1656162068093}
+ {:block/name "516/mooreg",
+  :block/created-at 1656162068094,
+  :block/updated-at 1656162068094}
+ {:block/name "517",
+  :block/created-at 1656162068103,
+  :block/updated-at 1656162068103}
+ {:block/name "518",
+  :block/created-at 1656162068125,
+  :block/updated-at 1656162068125}
+ {:block/name "519",
+  :block/created-at 1656162068154,
+  :block/updated-at 1656162068154}
+ {:block/name "52",
+  :block/created-at 1656162025916,
+  :block/updated-at 1656162025916}
+ {:block/name "520",
+  :block/created-at 1656162068135,
+  :block/updated-at 1656162068135}
+ {:block/name "521",
+  :block/created-at 1656162068215,
+  :block/updated-at 1656162068215}
+ {:block/name "522",
+  :block/created-at 1656162068173,
+  :block/updated-at 1656162068173}
+ {:block/name "523",
+  :block/created-at 1656162068163,
+  :block/updated-at 1656162068163}
+ {:block/name "524",
+  :block/created-at 1656162068204,
+  :block/updated-at 1656162068204}
+ {:block/name "525",
+  :block/created-at 1656162068241,
+  :block/updated-at 1656162068241}
+ {:block/name "526",
+  :block/created-at 1656162068184,
+  :block/updated-at 1656162068184}
+ {:block/name "527",
+  :block/created-at 1656162068193,
+  :block/updated-at 1656162068193}
+ {:block/name "528",
+  :block/created-at 1656162068227,
+  :block/updated-at 1656162068227}
+ {:block/name "529",
+  :block/created-at 1656162068265,
+  :block/updated-at 1656162068265}
+ {:block/name "53",
+  :block/created-at 1656162025944,
+  :block/updated-at 1656162025944}
+ {:block/name "530",
+  :block/created-at 1656162068284,
+  :block/updated-at 1656162068284}
+ {:block/name "531",
+  :block/created-at 1656162068304,
+  :block/updated-at 1656162068304}
+ {:block/name "531/teora de las categorías",
+  :block/created-at 1656162068305,
+  :block/updated-at 1656162068305}
+ {:block/name "532",
+  :block/created-at 1656162068333,
+  :block/updated-at 1656162068333}
+ {:block/name "533",
+  :block/created-at 1656162068351,
+  :block/updated-at 1656162068351}
+ {:block/name "534",
+  :block/created-at 1656162068342,
+  :block/updated-at 1656162068342}
+ {:block/name "535",
+  :block/created-at 1656162068323,
+  :block/updated-at 1656162068323}
+ {:block/name "536",
+  :block/created-at 1656162068361,
+  :block/updated-at 1656162068361}
+ {:block/name "537",
+  :block/created-at 1656162068390,
+  :block/updated-at 1656162068390}
+ {:block/name "538",
+  :block/created-at 1656162068372,
+  :block/updated-at 1656162068372}
+ {:block/name "539",
+  :block/created-at 1656162068517,
+  :block/updated-at 1656162068517}
+ {:block/name "54",
+  :block/created-at 1656162025902,
+  :block/updated-at 1656162025902}
+ {:block/name "540",
+  :block/created-at 1656162068484,
+  :block/updated-at 1656162068484}
+ {:block/name "541",
+  :block/created-at 1656162068437,
+  :block/updated-at 1656162068437}
+ {:block/name "542",
+  :block/created-at 1656162068417,
+  :block/updated-at 1656162068417}
+ {:block/name "543",
+  :block/created-at 1656162068407,
+  :block/updated-at 1656162068407}
+ {:block/name "544",
+  :block/created-at 1656162068427,
+  :block/updated-at 1656162068427}
+ {:block/name "545",
+  :block/created-at 1656162068499,
+  :block/updated-at 1656162068499}
+ {:block/name "546",
+  :block/created-at 1656162068790,
+  :block/updated-at 1656162068790}
+ {:block/name "547",
+  :block/created-at 1656162068451,
+  :block/updated-at 1656162068451}
+ {:block/name "548",
+  :block/created-at 1656162068470,
+  :block/updated-at 1656162068470}
+ {:block/name "549",
+  :block/created-at 1656162068746,
+  :block/updated-at 1656162068746}
+ {:block/name "55",
+  :block/created-at 1656162025932,
+  :block/updated-at 1656162025932}
+ {:block/name "550",
+  :block/created-at 1656162068508,
+  :block/updated-at 1656162068508}
+ {:block/name "551",
+  :block/created-at 1656162068541,
+  :block/updated-at 1656162068541}
+ {:block/name "552",
+  :block/created-at 1656162068616,
+  :block/updated-at 1656162068616}
+ {:block/name "553",
+  :block/created-at 1656162068530,
+  :block/updated-at 1656162068530}
+ {:block/name "554",
+  :block/created-at 1656162068586,
+  :block/updated-at 1656162068586}
+ {:block/name "555",
+  :block/created-at 1656162068567,
+  :block/updated-at 1656162068567}
+ {:block/name "556",
+  :block/created-at 1656162068632,
+  :block/updated-at 1656162068632}
+ {:block/name "557",
+  :block/created-at 1656162068595,
+  :block/updated-at 1656162068595}
+ {:block/name "558",
+  :block/created-at 1656162068646,
+  :block/updated-at 1656162068646}
+ {:block/name "559",
+  :block/created-at 1656162068841,
+  :block/updated-at 1656162068841}
+ {:block/name "56",
+  :block/created-at 1656162025848,
+  :block/updated-at 1656162025848}
+ {:block/name "560",
+  :block/created-at 1656162068660,
+  :block/updated-at 1656162068660}
+ {:block/name "561",
+  :block/created-at 1656162068755,
+  :block/updated-at 1656162068755}
+ {:block/name "562",
+  :block/created-at 1656162068767,
+  :block/updated-at 1656162068767}
+ {:block/name "563",
+  :block/created-at 1656162068676,
+  :block/updated-at 1656162068676}
+ {:block/name "564",
+  :block/created-at 1656162068779,
+  :block/updated-at 1656162068779}
+ {:block/name "565",
+  :block/created-at 1656162068730,
+  :block/updated-at 1656162068730}
+ {:block/name "566",
+  :block/created-at 1656162068820,
+  :block/updated-at 1656162068820}
+ {:block/name "567",
+  :block/created-at 1656162068800,
+  :block/updated-at 1656162068800}
+ {:block/name "568",
+  :block/created-at 1656162068811,
+  :block/updated-at 1656162068811}
+ {:block/name "569",
+  :block/created-at 1656162068879,
+  :block/updated-at 1656162068879}
+ {:block/name "57",
+  :block/created-at 1656162026005,
+  :block/updated-at 1656162026005}
+ {:block/name "570",
+  :block/created-at 1656162068860,
+  :block/updated-at 1656162068860}
+ {:block/name "58",
+  :block/created-at 1656162026013,
+  :block/updated-at 1656162026013}
+ {:block/name "59",
+  :block/created-at 1656162026021,
+  :block/updated-at 1656162026021}
+ {:block/name "6",
+  :block/created-at 1656162025092,
+  :block/updated-at 1656162025092}
+ {:block/name "60",
+  :block/created-at 1656162026029,
+  :block/updated-at 1656162026029}
+ {:block/name "61",
+  :block/created-at 1656162026037,
+  :block/updated-at 1656162026037}
+ {:block/name "62",
+  :block/created-at 1656162026045,
+  :block/updated-at 1656162026045}
+ {:block/name "63",
+  :block/created-at 1656162025964,
+  :block/updated-at 1656162025964}
+ {:block/name "64",
+  :block/created-at 1656162026076,
+  :block/updated-at 1656162026076}
+ {:block/name "65",
+  :block/created-at 1656162026090,
+  :block/updated-at 1656162026090}
+ {:block/name "67",
+  :block/created-at 1656162048923,
+  :block/updated-at 1656162048923}
+ {:block/name "68",
+  :block/created-at 1656162048954,
+  :block/updated-at 1656162048954}
+ {:block/name "69",
+  :block/created-at 1656162048994,
+  :block/updated-at 1656162048994}
+ {:block/name "7",
+  :block/created-at 1656162025109,
+  :block/updated-at 1656162025109}
+ {:block/name "70",
+  :block/created-at 1656162049037,
+  :block/updated-at 1656162049037}
+ {:block/name "71",
+  :block/created-at 1656162049068,
+  :block/updated-at 1656162049068}
+ {:block/name "72",
+  :block/created-at 1656162049081,
+  :block/updated-at 1656162049081}
+ {:block/name "73",
+  :block/created-at 1656162049093,
+  :block/updated-at 1656162049093}
+ {:block/name "74",
+  :block/created-at 1656162049202,
+  :block/updated-at 1656162049202}
+ {:block/name "75",
+  :block/created-at 1656162049120,
+  :block/updated-at 1656162049120}
+ {:block/name "76",
+  :block/created-at 1656162049132,
+  :block/updated-at 1656162049132}
+ {:block/name "77",
+  :block/created-at 1656162049154,
+  :block/updated-at 1656162049154}
+ {:block/name "78",
+  :block/created-at 1656162049144,
+  :block/updated-at 1656162049144}
+ {:block/name "79",
+  :block/created-at 1656162049167,
+  :block/updated-at 1656162049167}
+ {:block/name "8",
+  :block/created-at 1656162025208,
+  :block/updated-at 1656162025208}
+ {:block/name "80",
+  :block/created-at 1656162049186,
+  :block/updated-at 1656162049186}
+ {:block/name "81",
+  :block/created-at 1656162049217,
+  :block/updated-at 1656162049217}
+ {:block/name "82",
+  :block/created-at 1656162049238,
+  :block/updated-at 1656162049238}
+ {:block/name "83",
+  :block/created-at 1656162049252,
+  :block/updated-at 1656162049252}
+ {:block/name "84",
+  :block/created-at 1656162049276,
+  :block/updated-at 1656162049276}
+ {:block/name "85",
+  :block/created-at 1656162049264,
+  :block/updated-at 1656162049264}
+ {:block/name "86",
+  :block/created-at 1656162049292,
+  :block/updated-at 1656162049292}
+ {:block/name "87",
+  :block/created-at 1656162049305,
+  :block/updated-at 1656162049305}
+ {:block/name "88",
+  :block/created-at 1656162049318,
+  :block/updated-at 1656162049318}
+ {:block/name "89",
+  :block/created-at 1656162049351,
+  :block/updated-at 1656162049351}
+ {:block/name "9",
+  :block/created-at 1656162025226,
+  :block/updated-at 1656162025226}
+ {:block/name "90",
+  :block/created-at 1656162049368,
+  :block/updated-at 1656162049368}
+ {:block/name "91",
+  :block/created-at 1656162049379,
+  :block/updated-at 1656162049379}
+ {:block/name "92",
+  :block/created-at 1656162049399,
+  :block/updated-at 1656162049399}
+ {:block/name "93",
+  :block/created-at 1656162049391,
+  :block/updated-at 1656162049391}
+ {:block/name "95",
+  :block/created-at 1656162049441,
+  :block/updated-at 1656162049441}
+ {:block/name "96",
+  :block/created-at 1656162049462,
+  :block/updated-at 1656162049462}
+ {:block/name "97",
+  :block/created-at 1656162049453,
+  :block/updated-at 1656162049453}
+ {:block/name "98",
+  :block/created-at 1656162049470,
+  :block/updated-at 1656162049470}
+ {:block/name "99",
+  :block/created-at 1656162049502,
+  :block/updated-at 1656162049502}
+ {:block/name "@ahrens2013-qv",
+  :block/created-at 1656162052821,
+  :block/updated-at 1656162052821}
+ {:block/name "@andrejczuk2019-mx",
+  :block/created-at 1656162065940,
+  :block/updated-at 1656162065940}
+ {:block/name "@blum2009-nv",
+  :block/created-at 1656162060900,
+  :block/updated-at 1656162060900}
+ {:block/name "@blum2018-uj",
+  :block/created-at 1656162065942,
+  :block/updated-at 1656162065942}
+ {:block/name "@djukanovic2019-en",
+  :block/created-at 1656162059974,
+  :block/updated-at 1656162059974}
+ {:block/name "@djukanovic2020-da",
+  :block/created-at 1656162065941,
+  :block/updated-at 1656162065941}
+ {:block/name "@huber_2021",
+  :block/created-at 1656162063693,
+  :block/updated-at 1656162063693}
+ {:block/name "@karimi-mamaghan2021-qo",
+  :block/created-at 1656162052823,
+  :block/updated-at 1656162052823}
+ {:block/name "@keshav2007-sw",
+  :block/created-at 1656162057333,
+  :block/updated-at 1656162057333}
+ {:block/name "@krishnamurthi2008-ba",
+  :block/created-at 1656162053663,
+  :block/updated-at 1656162053663}
+ {:block/name "@matthew_liao2020-zs",
+  :block/created-at 1656162055212,
+  :block/updated-at 1656162055212}
+ {:block/name "@sun_2021",
+  :block/created-at 1656162063970,
+  :block/updated-at 1656162063970}
  {:block/name "a",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "a first course in graph theory",
+  :block/created-at 1656162025107,
+  :block/updated-at 1656162025107}
+ {:block/name "a fondo (tv)",
+  :block/created-at 1656162025670,
+  :block/updated-at 1656162025670}
+ {:block/name "abelson, harold",
+  :block/created-at 1656162054795,
+  :block/updated-at 1656162054795}
+ {:block/name "acantilado",
+  :block/created-at 1656162053838,
+  :block/updated-at 1656162053838}
+ {:block/name "acm sigplan",
+  :block/created-at 1656162053703,
+  :block/updated-at 1656162053703}
+ {:block/name "aco",
+  :block/created-at 1656162064040,
+  :block/updated-at 1656162064040}
+ {:block/name "agda",
+  :block/created-at 1656162048988,
+  :block/updated-at 1656162048988}
  {:block/name "ahmed, awadelrahman m. a.",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
  {:block/name "aho, alfred",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "ahrens, sönke",
+  :block/created-at 1656162052822,
+  :block/updated-at 1656162052822}
+ {:block/name "ai",
+  :block/created-at 1656162068468,
+  :block/updated-at 1656162068468}
+ {:block/name "alba",
+  :block/created-at 1656162025440,
+  :block/updated-at 1656162025440}
+ {:block/name "algoritmos",
+  :block/created-at 1656162064533,
+  :block/updated-at 1656162064533}
+ {:block/name "algoritmos y heurísticas y las estructuras recursivas",
+  :block/created-at 1656162049662,
+  :block/updated-at 1656162049662}
+ {:block/name "alibri",
+  :block/created-at 1656162053809,
+  :block/updated-at 1656162053809}
  {:block/name "alonso, josé a.",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "anand, amit",
+  :block/created-at 1656162059249,
+  :block/updated-at 1656162059249}
+ {:block/name "anaximandro",
+  :block/created-at 1656162054520,
+  :block/updated-at 1656162054520}
+ {:block/name "anaxímenes",
+  :block/created-at 1656162054519,
+  :block/updated-at 1656162054519}
+ {:block/name "andrejczuk, ewa",
+  :block/created-at 1656162066145,
+  :block/updated-at 1656162066145}
+ {:block/name
+  "anuncio: mentes geniales. la vida y obra de 12 grandes informáticos",
+  :block/created-at 1656162049658,
+  :block/updated-at 1656162049658}
+ {:block/name "applied soft computing",
+  :block/created-at 1656162065765,
+  :block/updated-at 1656162065765}
  {:block/name "arendt, hannah",
   :block/created-at 1651787489027,
   :block/updated-at 1651787489027}
+ {:block/name "argentina",
+  :block/created-at 1656162025052,
+  :block/updated-at 1656162025052}
+ {:block/name "ariely, daniel",
+  :block/created-at 1656162025149,
+  :block/updated-at 1656162025149}
+ {:block/name "arte",
+  :block/created-at 1656162025403,
+  :block/updated-at 1656162025403}
+ {:block/name "artistas",
+  :block/created-at 1656162025961,
+  :block/updated-at 1656162025961}
+ {:block/name "artículo",
+  :block/created-at 1656162049605,
+  :block/updated-at 1656162049605}
+ {:block/name
+  "artículo de algoritmo de hormigas (divulgación, the conversation)",
+  :block/created-at 1656162065493,
+  :block/updated-at 1656162065493}
+ {:block/name "august 19, 2021",
+  :block/created-at 1656162053516,
+  :block/updated-at 1656162053516}
+ {:block/name "august 20, 2021",
+  :block/created-at 1656162053640,
+  :block/updated-at 1656162053640}
+ {:block/name "august 22, 2021",
+  :block/created-at 1656162053960,
+  :block/updated-at 1656162053960}
+ {:block/name "august 29, 2021",
+  :block/created-at 1656162054050,
+  :block/updated-at 1656162054050}
+ {:block/name "autores españoles",
+  :block/created-at 1656162025666,
+  :block/updated-at 1656162025666}
  {:block/name "b",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "bach, joscha",
+  :block/created-at 1656162054406,
+  :block/updated-at 1656162054406}
+ {:block/name "bacon, francis",
+  :block/created-at 1656162054525,
+  :block/updated-at 1656162054525}
+ {:block/name "bagaria, shreeram",
+  :block/created-at 1656162059240,
+  :block/updated-at 1656162059240}
+ {:block/name "barish, barry",
+  :block/created-at 1656162054369,
+  :block/updated-at 1656162054369}
+ {:block/name "bayod, jordi",
+  :block/created-at 1656162053842,
+  :block/updated-at 1656162053842}
+ {:block/name "beam search",
+  :block/created-at 1656162064357,
+  :block/updated-at 1656162064357}
+ {:block/name "behera, bikash k",
+  :block/created-at 1656162059237,
+  :block/updated-at 1656162059237}
  {:block/name "bennamoun, mohammed",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "bezanson, jeff",
+  :block/created-at 1656162049032,
+  :block/updated-at 1656162049032}
+ {:block/name "biamonte, jacob",
+  :block/created-at 1656162060687,
+  :block/updated-at 1656162060687}
+ {:block/name "bistaffa, filippo",
+  :block/created-at 1656162066145,
+  :block/updated-at 1656162066145}
+ {:block/name "blesa, maria j",
+  :block/created-at 1656162060969,
+  :block/updated-at 1656162060969}
+ {:block/name "blog",
+  :block/created-at 1656162053933,
+  :block/updated-at 1656162053933}
+ {:block/name "blum, christian",
+  :block/created-at 1656162060971,
+  :block/updated-at 1656162060971}
  {:block/name "bonnefon, jean-francois",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "borges, jorge luis",
+  :block/created-at 1656162054374,
+  :block/updated-at 1656162054374}
+ {:block/name "brabazon, tara",
+  :block/created-at 1656162058933,
+  :block/updated-at 1656162058933}
  {:block/name "bruderer, herbert",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
  {:block/name "bunge, mario",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "búsqueda de patrones",
+  :block/created-at 1656162025781,
+  :block/updated-at 1656162025781}
  {:block/name "c",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
  {:block/name "card",
   :block/created-at 1651494487013,
   :block/updated-at 1651494487013}
+ {:block/name "carnap, rudolf",
+  :block/created-at 1656162054526,
+  :block/updated-at 1656162054526}
  {:block/name "caterine, christopher l.",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "centralidad de cercanía",
+  :block/created-at 1656162025004,
+  :block/updated-at 1656162025004}
+ {:block/name "centralidad de la interrelación",
+  :block/created-at 1656162025005,
+  :block/updated-at 1656162025005}
  {:block/name "chacón sartori, camilo",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "chartrand, gary",
+  :block/created-at 1656162025030,
+  :block/updated-at 1656162025030}
+ {:block/name "chatterjee, yagnik",
+  :block/created-at 1656162059242,
+  :block/updated-at 1656162059242}
+ {:block/name "chaudhary, smit",
+  :block/created-at 1656162059239,
+  :block/updated-at 1656162059239}
+ {:block/name "chen, guihai",
+  :block/created-at 1656162065854,
+  :block/updated-at 1656162065854}
  {:block/name "chen, valerie",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "church, alonzo",
+  :block/created-at 1656162025876,
+  :block/updated-at 1656162025876}
+ {:block/name "ciberseguridad",
+  :block/created-at 1656162049692,
+  :block/updated-at 1656162049692}
  {:block/name "ciencia",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "ciencia de datos",
+  :block/created-at 1656162025503,
+  :block/updated-at 1656162025503}
+ {:block/name "citas",
+  :block/created-at 1656162054331,
+  :block/updated-at 1656162054331}
+ {:block/name "clase de voz",
+  :block/created-at 1656162053907,
+  :block/updated-at 1656162053907}
+ {:block/name "clojure",
+  :block/created-at 1656162065422,
+  :block/updated-at 1656162065422}
+ {:block/name "cockx, jesper",
+  :block/created-at 1656162053573,
+  :block/updated-at 1656162053573}
+ {:block/name "combinatorial optimization",
+  :block/created-at 1656162059974,
+  :block/updated-at 1656162059974}
+ {:block/name "compusofía",
+  :block/created-at 1656162053935,
+  :block/updated-at 1656162053935}
+ {:block/name "comput. oper. res.",
+  :block/created-at 1656162060972,
+  :block/updated-at 1656162060972}
+ {:block/name "computación cuántica",
+  :block/created-at 1656162049690,
+  :block/updated-at 1656162049690}
+ {:block/name "computación gráfica",
+  :block/created-at 1656162049691,
+  :block/updated-at 1656162049691}
+ {:block/name "computación numérica",
+  :block/created-at 1656162049688,
+  :block/updated-at 1656162049688}
+ {:block/name "computación y programación funcional",
+  :block/created-at 1656162053908,
+  :block/updated-at 1656162053908}
+ {:block/name
+  "computational artefacts: towards a philosophy of computer science",
+  :block/created-at 1656162049562,
+  :block/updated-at 1656162049562}
+ {:block/name "computerscience",
+  :block/created-at 1656162068565,
+  :block/updated-at 1656162068565}
+ {:block/name "concurrencia",
+  :block/created-at 1656162049290,
+  :block/updated-at 1656162049290}
+ {:block/name "consejos para ser productivos",
+  :block/created-at 1656162058983,
+  :block/updated-at 1656162058983}
  {:block/name "contents",
   :block/created-at 1653339006634,
   :block/updated-at 1653339006634}
+ {:block/name "contratos inteligentes",
+  :block/created-at 1656162065341,
+  :block/updated-at 1656162065341}
+ {:block/name "coq",
+  :block/created-at 1656162049249,
+  :block/updated-at 1656162049249}
+ {:block/name "coquand, catarina",
+  :block/created-at 1656162053510,
+  :block/updated-at 1656162053510}
+ {:block/name "corbin, alain",
+  :block/created-at 1656162053837,
+  :block/updated-at 1656162053837}
+ {:block/name "cosas divertidas de la programación",
+  :block/created-at 1656162049661,
+  :block/updated-at 1656162049661}
+ {:block/name
+  "crítica a la óptica de los paradigmas de la programación",
+  :block/created-at 1656162053628,
+  :block/updated-at 1656162053628}
+ {:block/name "cálculo lambda",
+  :block/created-at 1656162025779,
+  :block/updated-at 1656162025779}
+ {:block/name "d",
+  :block/created-at 1656162065218,
+  :block/updated-at 1656162065218}
+ {:block/name "dalei, priyanka",
+  :block/created-at 1656162059238,
+  :block/updated-at 1656162059238}
+ {:block/name "data structures",
+  :block/created-at 1656162063988,
+  :block/updated-at 1656162063988}
  {:block/name "deep learning",
   :block/created-at 1651493260228,
   :block/updated-at 1651493260228}
+ {:block/name "demostración interactiva de teoremas",
+  :block/created-at 1656162053514,
+  :block/updated-at 1656162053514}
+ {:block/name "desarrollo de software",
+  :block/created-at 1656162065217,
+  :block/updated-at 1656162065217}
+ {:block/name "deusebio, enrico",
+  :block/created-at 1656162025377,
+  :block/updated-at 1656162025377}
  {:block/name "diario personal",
   :block/created-at 1656063942331,
-  :block/updated-at 1656151904639}
+  :block/updated-at 1656159760686}
+ {:block/name "diarios",
+  :block/created-at 1656159534383,
+  :block/updated-at 1656159534383}
+ {:block/name "dibujo",
+  :block/created-at 1656162025958,
+  :block/updated-at 1656162025958}
+ {:block/name "diccionario de informática",
+  :block/created-at 1656162053906,
+  :block/updated-at 1656162053906}
+ {:block/name "dinero",
+  :block/created-at 1656162025157,
+  :block/updated-at 1656162025157}
+ {:block/name "djukanovic, marko",
+  :block/created-at 1656162064355,
+  :block/updated-at 1656162064355}
+ {:block/name "documentos phd",
+  :block/created-at 1656162053937,
+  :block/updated-at 1656162053937}
  {:block/name "doing",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
  {:block/name "done",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "dutta, sanchayan",
+  :block/created-at 1656162059246,
+  :block/updated-at 1656162059246}
+ {:block/name "economía conductual",
+  :block/created-at 1656162025091,
+  :block/updated-at 1656162025091}
+ {:block/name "economía estandar",
+  :block/created-at 1656162025245,
+  :block/updated-at 1656162025245}
+ {:block/name "edelman, alan",
+  :block/created-at 1656162049033,
+  :block/updated-at 1656162049033}
+ {:block/name "eden, ammon h.",
+  :block/created-at 1656162049603,
+  :block/updated-at 1656162049603}
+ {:block/name "educación",
+  :block/created-at 1656162054800,
+  :block/updated-at 1656162054800}
+ {:block/name
+  "el reinado de los grafos: su pasado, su presente y su futuro",
+  :block/created-at 1656162049660,
+  :block/updated-at 1656162049660}
+ {:block/name "emacs",
+  :block/created-at 1656162053514,
+  :block/updated-at 1656162053514}
+ {:block/name "entrevista a  josé luis mendoza marquez",
+  :block/created-at 1656162064481,
+  :block/updated-at 1656162064481}
+ {:block/name "entrevista a andros fenollosa",
+  :block/created-at 1656162065396,
+  :block/updated-at 1656162065396}
+ {:block/name "entrevista a andrés léon",
+  :block/created-at 1656162065384,
+  :block/updated-at 1656162065384}
+ {:block/name "entrevista a antonio cabrera",
+  :block/created-at 1656162049664,
+  :block/updated-at 1656162049664}
+ {:block/name "entrevista a daphne gallardo",
+  :block/created-at 1656162068203,
+  :block/updated-at 1656162068203}
+ {:block/name "entrevista a josé antonio alonso",
+  :block/created-at 1656162064708,
+  :block/updated-at 1656162064708}
+ {:block/name "entrevista a josé cifuentes",
+  :block/created-at 1656162068765,
+  :block/updated-at 1656162068765}
+ {:block/name "entrevista a manuel rubio",
+  :block/created-at 1656162049663,
+  :block/updated-at 1656162049663}
+ {:block/name "entrevista a manuel rubio-sánchez",
+  :block/created-at 1656162064479,
+  :block/updated-at 1656162064479}
+ {:block/name "entrevista a mario sotil",
+  :block/created-at 1656162068778,
+  :block/updated-at 1656162068778}
+ {:block/name "entrevista a orlando mendez",
+  :block/created-at 1656162064480,
+  :block/updated-at 1656162064480}
+ {:block/name "entrevista a pamela bustamante",
+  :block/created-at 1656162068225,
+  :block/updated-at 1656162068225}
+ {:block/name "entrevista a uma zalakain",
+  :block/created-at 1656162068360,
+  :block/updated-at 1656162068360}
+ {:block/name "entrevistas",
+  :block/created-at 1656162065219,
+  :block/updated-at 1656162065219}
  {:block/name "entrevistas podcast",
   :block/created-at 1656149045097,
   :block/updated-at 1656149045097}
+ {:block/name "envío de mensajes",
+  :block/created-at 1656162025797,
+  :block/updated-at 1656162025797}
+ {:block/name "envío múltiple",
+  :block/created-at 1656162049031,
+  :block/updated-at 1656162049031}
+ {:block/name "envío múltiple/múltiple dispatch",
+  :block/created-at 1656162049031,
+  :block/updated-at 1656162049031}
  {:block/name "epicteto",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "erlang",
+  :block/created-at 1656162065293,
+  :block/updated-at 1656162065293}
+ {:block/name
+  "es imposible para el cerebro humano huir de las tentaciones cuando se encuentra en una situación particular",
+  :block/created-at 1656162025156,
+  :block/updated-at 1656162025156}
  {:block/name "escribir",
   :block/created-at 1656150122677,
   :block/updated-at 1656150122677}
  {:block/name "escritura",
   :block/created-at 1655937688596,
   :block/updated-at 1655937688596}
+ {:block/name "español",
+  :block/created-at 1656162025150,
+  :block/updated-at 1656162025150}
+ {:block/name "especificación formal",
+  :block/created-at 1656162049250,
+  :block/updated-at 1656162049250}
+ {:block/name "estrategias",
+  :block/created-at 1656162025629,
+  :block/updated-at 1656162025629}
+ {:block/name "estrategias/modelos",
+  :block/created-at 1656162025629,
+  :block/updated-at 1656162025629}
+ {:block/name "estructura de datos compactas",
+  :block/created-at 1656162049659,
+  :block/updated-at 1656162049659}
+ {:block/name "eur. j. oper. res.",
+  :block/created-at 1656162053353,
+  :block/updated-at 1656162053353}
  {:block/name "fauvel, john",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
  {:block/name "favorites",
   :block/created-at 1651494487013,
   :block/updated-at 1651494487013}
+ {:block/name "filología",
+  :block/created-at 1656162025050,
+  :block/updated-at 1656162025050}
  {:block/name "filosofía",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "filosofía científica",
+  :block/created-at 1656162054407,
+  :block/updated-at 1656162054407}
+ {:block/name "filosofía de la información",
+  :block/created-at 1656162025614,
+  :block/updated-at 1656162025614}
+ {:block/name "filosofía de la informática",
+  :block/created-at 1656162025568,
+  :block/updated-at 1656162025568}
  {:block/name "flood, raymond",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "floridi, luciano",
+  :block/created-at 1656162052560,
+  :block/updated-at 1656162052560}
+ {:block/name "francés",
+  :block/created-at 1656162053843,
+  :block/updated-at 1656162053843}
  {:block/name "fri, 06-05-2022",
   :block/created-at 1651932091220,
   :block/updated-at 1651932091220}
@@ -109,75 +2257,322 @@
  {:block/name "fri, 25-02-2022",
   :block/created-at 1645747200000,
   :block/updated-at 1645747200000}
+ {:block/name "funcional",
+  :block/created-at 1656162025627,
+  :block/updated-at 1656162025627}
+ {:block/name "funciones de primer orden",
+  :block/created-at 1656162025783,
+  :block/updated-at 1656162025783}
+ {:block/name "funciones puras",
+  :block/created-at 1656162025782,
+  :block/updated-at 1656162025782}
+ {:block/name "física",
+  :block/created-at 1656162025856,
+  :block/updated-at 1656162025856}
+ {:block/name "gaiman, neil",
+  :block/created-at 1656162054368,
+  :block/updated-at 1656162054368}
+ {:block/name "gao, xiaofeng",
+  :block/created-at 1656162065854,
+  :block/updated-at 1656162065854}
+ {:block/name "geometría",
+  :block/created-at 1656162025405,
+  :block/updated-at 1656162025405}
+ {:block/name "geometría computacional",
+  :block/created-at 1656162026074,
+  :block/updated-at 1656162026074}
+ {:block/name "gharat, rakshit",
+  :block/created-at 1656162059244,
+  :block/updated-at 1656162059244}
+ {:block/name "godin, seth",
+  :block/created-at 1656162054123,
+  :block/updated-at 1656162054123}
  {:block/name "gordon, rachel",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
  {:block/name "gosling, emily",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "grado de centralidad",
+  :block/created-at 1656162025003,
+  :block/updated-at 1656162025003}
+ {:block/name "graph machine learning",
+  :block/created-at 1656162025293,
+  :block/updated-at 1656162025293}
+ {:block/name "grayling, a. c.",
+  :block/created-at 1656162053809,
+  :block/updated-at 1656162053809}
  {:block/name "gregg, john r.",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
  {:block/name "guo, yulan",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "gupta, sabhyata",
+  :block/created-at 1656162059245,
+  :block/updated-at 1656162059245}
+ {:block/name "había una vez un algoritmo...",
+  :block/created-at 1656162052406,
+  :block/updated-at 1656162052406}
  {:block/name "hamilton, william l.",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
  {:block/name "haskell",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "historia",
+  :block/created-at 1656162053841,
+  :block/updated-at 1656162053841}
+ {:block/name "how to complete your phd",
+  :block/created-at 1656162059861,
+  :block/updated-at 1656162059861}
+ {:block/name "huber, m",
+  :block/created-at 1656162059971,
+  :block/updated-at 1656162059971}
+ {:block/name "hugué, manolo",
+  :block/created-at 1656162025699,
+  :block/updated-at 1656162025699}
+ {:block/name "humanidades",
+  :block/created-at 1656162025543,
+  :block/updated-at 1656162025543}
  {:block/name "idea",
   :block/created-at 1655937954648,
   :block/updated-at 1655937954648}
+ {:block/name "ideas para el podcast",
+  :block/created-at 1656162053626,
+  :block/updated-at 1656162053626}
+ {:block/name "ideas para escribir libros",
+  :block/created-at 1656162063825,
+  :block/updated-at 1656162063825}
+ {:block/name "ideas para yt",
+  :block/created-at 1656162054082,
+  :block/updated-at 1656162054082}
+ {:block/name "imperativo",
+  :block/created-at 1656162049029,
+  :block/updated-at 1656162049029}
+ {:block/name "imperativo/estructurado",
+  :block/created-at 1656162049028,
+  :block/updated-at 1656162049028}
  {:block/name "in-progress",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "informática",
+  :block/created-at 1656162025484,
+  :block/updated-at 1656162025484}
+ {:block/name "ingeniería de software",
+  :block/created-at 1656162025631,
+  :block/updated-at 1656162025631}
+ {:block/name "inglés",
+  :block/created-at 1656162025602,
+  :block/updated-at 1656162025602}
+ {:block/name "inmutabilidad",
+  :block/created-at 1656162025780,
+  :block/updated-at 1656162025780}
+ {:block/name "inteligencia artificial",
+  :block/created-at 1656162025487,
+  :block/updated-at 1656162025487}
  {:block/name "jacobson, ivar",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "johnston, nathaniel",
+  :block/created-at 1656162063839,
+  :block/updated-at 1656162063839}
  {:block/name "joyner, jack",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "julia",
+  :block/created-at 1656162048986,
+  :block/updated-at 1656162048986}
+ {:block/name "kapil, manik",
+  :block/created-at 1656162059250,
+  :block/updated-at 1656162059250}
+ {:block/name "karimi-mamaghan, amir mohammad",
+  :block/created-at 1656162053350,
+  :block/updated-at 1656162053350}
+ {:block/name "karimi-mamaghan, maryam",
+  :block/created-at 1656162053352,
+  :block/updated-at 1656162053352}
+ {:block/name "karpinski, stefan",
+  :block/created-at 1656162049033,
+  :block/updated-at 1656162049033}
+ {:block/name "kernighan, brian ",
+  :block/created-at 1656162054371,
+  :block/updated-at 1656162054371}
+ {:block/name "keshav, s. ",
+  :block/created-at 1656162057275,
+  :block/updated-at 1656162057275}
  {:block/name "kim, joon sik",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
  {:block/name "kladov, aleksey",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "knuth, donald",
+  :block/created-at 1656162052509,
+  :block/updated-at 1656162052509}
+ {:block/name "kohan, silvia",
+  :block/created-at 1656162025438,
+  :block/updated-at 1656162025438}
+ {:block/name "kong, siu-cheung",
+  :block/created-at 1656162054795,
+  :block/updated-at 1656162054795}
  {:block/name "krakovsky, marina",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "krishnamurthi, shriram",
+  :block/created-at 1656162053702,
+  :block/updated-at 1656162053702}
+ {:block/name "kumar jain, valay",
+  :block/created-at 1656162059241,
+  :block/updated-at 1656162059241}
+ {:block/name "lamport, leslie",
+  :block/created-at 1656162049274,
+  :block/updated-at 1656162049274}
+ {:block/name "lang, serge",
+  :block/created-at 1656162063723,
+  :block/updated-at 1656162063723}
+ {:block/name "las trampas del deseo",
+  :block/created-at 1656162025090,
+  :block/updated-at 1656162025090}
  {:block/name "later",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "latex",
+  :block/created-at 1656162049290,
+  :block/updated-at 1656162049290}
+ {:block/name "laughlin, terry",
+  :block/created-at 1656162054368,
+  :block/updated-at 1656162054368}
  {:block/name "lawson, harold \"bud\"",
   :block/created-at 1656149185643,
   :block/updated-at 1656149185643}
+ {:block/name "lcs",
+  :block/created-at 1656162064358,
+  :block/updated-at 1656162064358}
  {:block/name "lecturas",
   :block/created-at 1655937875166,
   :block/updated-at 1655937894653}
  {:block/name "leer",
   :block/created-at 1651787489029,
   :block/updated-at 1651787489029}
+ {:block/name "lenguajes de especificación",
+  :block/created-at 1656162025630,
+  :block/updated-at 1656162025630}
+ {:block/name "lenguajes de programación",
+  :block/created-at 1656162025628,
+  :block/updated-at 1656162025628}
  {:block/name "levi-montalcini, rita",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "levitin, daniel",
+  :block/created-at 1656162054766,
+  :block/updated-at 1656162054766}
+ {:block/name "li, fangqi",
+  :block/created-at 1656162065855,
+  :block/updated-at 1656162065855}
  {:block/name "li, jeffrey",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "li, xueyan",
+  :block/created-at 1656162065856,
+  :block/updated-at 1656162065856}
  {:block/name "libro",
   :block/created-at 1656150122679,
   :block/updated-at 1656150122679}
  {:block/name "lickfold, casey",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "linear algebra",
+  :block/created-at 1656162063838,
+  :block/updated-at 1656162063838}
  {:block/name "literatura",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "lloyd, seth",
+  :block/created-at 1656162060683,
+  :block/updated-at 1656162060683}
+ {:block/name "logos",
+  :block/created-at 1656162054521,
+  :block/updated-at 1656162054521}
+ {:block/name "luhmann, niklas",
+  :block/created-at 1656162052470,
+  :block/updated-at 1656162052470}
+ {:block/name "lógica",
+  :block/created-at 1656162025504,
+  :block/updated-at 1656162025504}
+ {:block/name "lógica formal",
+  :block/created-at 1656162025913,
+  :block/updated-at 1656162025913}
+ {:block/name "lógica temporal",
+  :block/created-at 1656162049275,
+  :block/updated-at 1656162049275}
+ {:block/name "lógico",
+  :block/created-at 1656162049182,
+  :block/updated-at 1656162049182}
+ {:block/name "lópez-ibáñez, manuel",
+  :block/created-at 1656162060968,
+  :block/updated-at 1656162060968}
+ {:block/name "machine learning",
+  :block/created-at 1656162025383,
+  :block/updated-at 1656162025383}
+ {:block/name "maji, rituparna",
+  :block/created-at 1656162059238,
+  :block/updated-at 1656162059238}
+ {:block/name "marzullo, aldo",
+  :block/created-at 1656162025379,
+  :block/updated-at 1656162025379}
+ {:block/name "matemáticas",
+  :block/created-at 1656162025486,
+  :block/updated-at 1656162025486}
+ {:block/name "matthew liao, s",
+  :block/created-at 1656162055142,
+  :block/updated-at 1656162055142}
+ {:block/name "mejorar escritura",
+  :block/created-at 1656162025444,
+  :block/updated-at 1656162025444}
+ {:block/name
+  "mentes geniales. la vida y obra de 12 grandes informáticos",
+  :block/created-at 1656162053931,
+  :block/updated-at 1656162053931}
  {:block/name "meseguer, pedro",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "metaheuristics",
+  :block/created-at 1656162053355,
+  :block/updated-at 1656162053355}
+ {:block/name "metaprogramación",
+  :block/created-at 1656162049030,
+  :block/updated-at 1656162049030}
+ {:block/name "meyer, patrick",
+  :block/created-at 1656162053350,
+  :block/updated-at 1656162053350}
+ {:block/name "microeconomía",
+  :block/created-at 1656162025244,
+  :block/updated-at 1656162025244}
+ {:block/name "minds and machines",
+  :block/created-at 1656162049603,
+  :block/updated-at 1656162049603}
+ {:block/name "mis objetivos para el 2021",
+  :block/created-at 1656162052496,
+  :block/updated-at 1656162052496}
+ {:block/name "mis proyectos",
+  :block/created-at 1656162054274,
+  :block/updated-at 1656162054274}
+ {:block/name "mishra, nilima",
+  :block/created-at 1656162059248,
+  :block/updated-at 1656162059248}
+ {:block/name "mishra, nimish",
+  :block/created-at 1656162059250,
+  :block/updated-at 1656162059250}
+ {:block/name "modelos de computación",
+  :block/created-at 1656162025877,
+  :block/updated-at 1656162025877}
+ {:block/name "modularidad",
+  :block/created-at 1656162024985,
+  :block/updated-at 1656162024985}
+ {:block/name "mohammadi, mehrdad",
+  :block/created-at 1656162053351,
+  :block/updated-at 1656162053351}
  {:block/name "mon, 02-05-2022",
   :block/created-at 1651494635192,
   :block/updated-at 1651494635192}
@@ -193,54 +2588,264 @@
  {:block/name "moore, g. e.",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "mukhopadhyay, sabyasachi",
+  :block/created-at 1656162059236,
+  :block/updated-at 1656162059236}
+ {:block/name "máquina de turing",
+  :block/created-at 1656162025878,
+  :block/updated-at 1656162025878}
+ {:block/name "métricas de centralidad",
+  :block/created-at 1656162025465,
+  :block/updated-at 1656162025465}
+ {:block/name "métricas de integración",
+  :block/created-at 1656162025466,
+  :block/updated-at 1656162025466}
+ {:block/name "métricas de segregación",
+  :block/created-at 1656162025467,
+  :block/updated-at 1656162025467}
+ {:block/name "métricas  de resilencia",
+  :block/created-at 1656162025465,
+  :block/updated-at 1656162025465}
+ {:block/name "nature",
+  :block/created-at 1656162060688,
+  :block/updated-at 1656162060688}
+ {:block/name "navarro, gonzalo",
+  :block/created-at 1656162063858,
+  :block/updated-at 1656162063858}
+ {:block/name "neurociencia",
+  :block/created-at 1656162025242,
+  :block/updated-at 1656162025242}
  {:block/name "ng, pan-wei",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "ni, runbo",
+  :block/created-at 1656162065857,
+  :block/updated-at 1656162065857}
+ {:block/name "nivel1",
+  :block/created-at 1656162025151,
+  :block/updated-at 1656162025151}
+ {:block/name "nivel2",
+  :block/created-at 1656162054274,
+  :block/updated-at 1656162054274}
+ {:block/name "nivel3",
+  :block/created-at 1656162054275,
+  :block/updated-at 1656162054275}
+ {:block/name "norell, ulf",
+  :block/created-at 1656162053510,
+  :block/updated-at 1656162053510}
+ {:block/name "note taking during a phd",
+  :block/created-at 1656162059766,
+  :block/updated-at 1656162059766}
  {:block/name "now",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "números aleatorios",
+  :block/created-at 1656162065114,
+  :block/updated-at 1656162065114}
+ {:block/name "objeto imposible",
+  :block/created-at 1656162025961,
+  :block/updated-at 1656162025961}
+ {:block/name "optimización",
+  :block/created-at 1656162052819,
+  :block/updated-at 1656162052819}
+ {:block/name "orientada a objetos",
+  :block/created-at 1656162025627,
+  :block/updated-at 1656162025627}
+ {:block/name "origami",
+  :block/created-at 1656162026073,
+  :block/updated-at 1656162026073}
+ {:block/name "oxford",
+  :block/created-at 1656162052561,
+  :block/updated-at 1656162052561}
+ {:block/name "packt",
+  :block/created-at 1656162025379,
+  :block/updated-at 1656162025379}
+ {:block/name "pancotti, nicola",
+  :block/created-at 1656162060685,
+  :block/updated-at 1656162060685}
+ {:block/name "panigrahi, prasanta k",
+  :block/created-at 1656162059236,
+  :block/updated-at 1656162059236}
+ {:block/name "paperpile",
+  :block/created-at 1656162052437,
+  :block/updated-at 1656162052437}
+ {:block/name "papert, seymour",
+  :block/created-at 1656162054804,
+  :block/updated-at 1656162054804}
+ {:block/name "parménides",
+  :block/created-at 1656162054523,
+  :block/updated-at 1656162054523}
  {:block/name "parra, nicanor",
   :block/created-at 1653338926322,
   :block/updated-at 1653338926322}
+ {:block/name "parte i - introducción",
+  :block/created-at 1656162054198,
+  :block/updated-at 1656162054198}
  {:block/name "patricio reyes",
   :block/created-at 1656149045095,
   :block/updated-at 1656149045095}
+ {:block/name "pensamiento computacional",
+  :block/created-at 1656162054800,
+  :block/updated-at 1656162054800}
+ {:block/name "perlis, alan ",
+  :block/created-at 1656162054372,
+  :block/updated-at 1656162054372}
  {:block/name "pessoa, fernando",
   :block/created-at 1651578170939,
   :block/updated-at 1651578170939}
+ {:block/name "petruccione, f",
+  :block/created-at 1656162060813,
+  :block/updated-at 1656162060813}
  {:block/name "phd",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
  {:block/name "piglia, ricardo",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "pinker, steven",
+  :block/created-at 1656162054367,
+  :block/updated-at 1656162054367}
+ {:block/name "pla, josep",
+  :block/created-at 1656162025698,
+  :block/updated-at 1656162025698}
+ {:block/name "planeta",
+  :block/created-at 1656162025149,
+  :block/updated-at 1656162025149}
+ {:block/name "plantillas",
+  :block/created-at 1656162053905,
+  :block/updated-at 1656162053905}
  {:block/name "plumb, gregory",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "podcast",
+  :block/created-at 1656162049623,
+  :block/updated-at 1656162049623}
+ {:block/name "podcastenespañol",
+  :block/created-at 1656162068562,
+  :block/updated-at 1656162068562}
+ {:block/name "popper, karl",
+  :block/created-at 1656162054532,
+  :block/updated-at 1656162054532}
+ {:block/name "positivismo lógico",
+  :block/created-at 1656162054527,
+  :block/updated-at 1656162054527}
+ {:block/name "prasad dash, aditya",
+  :block/created-at 1656162059245,
+  :block/updated-at 1656162059245}
+ {:block/name "premio turing",
+  :block/created-at 1656162049291,
+  :block/updated-at 1656162049291}
+ {:block/name "principios de la programación",
+  :block/created-at 1656162053932,
+  :block/updated-at 1656162053932}
  {:block/name "principiosdeprogramación",
   :block/created-at 1656150129961,
   :block/updated-at 1656150129961}
+ {:block/name "programación",
+  :block/created-at 1656162053708,
+  :block/updated-at 1656162053708}
+ {:block/name "programación concurrente",
+  :block/created-at 1656162065293,
+  :block/updated-at 1656162065293}
+ {:block/name "programación funcional",
+  :block/created-at 1656162065341,
+  :block/updated-at 1656162065341}
  {:block/name "programaciónfuncional",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "programming and proving in agda",
+  :block/created-at 1656162053515,
+  :block/updated-at 1656162053515}
  {:block/name "prólogo libro andros",
   :block/created-at 1656027635035,
   :block/updated-at 1656079949477}
+ {:block/name "psicología",
+  :block/created-at 1656162025243,
+  :block/updated-at 1656162025243}
+ {:block/name "psicología cognitiva",
+  :block/created-at 1656162025089,
+  :block/updated-at 1656162025089}
+ {:block/name "puntuación para escritores y no escritores",
+  :block/created-at 1656162025054,
+  :block/updated-at 1656162025054}
+ {:block/name "python",
+  :block/created-at 1656162048989,
+  :block/updated-at 1656162048989}
+ {:block/name "quantum computing",
+  :block/created-at 1656162059254,
+  :block/updated-at 1656162059254}
+ {:block/name "quantum machine learning",
+  :block/created-at 1656162059253,
+  :block/updated-at 1656162059253}
  {:block/name "rabbani, rosa",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "racket",
+  :block/created-at 1656162048990,
+  :block/updated-at 1656162048990}
+ {:block/name "raidl, günther r",
+  :block/created-at 1656162065822,
+  :block/updated-at 1656162065822}
+ {:block/name "raidl, günther r",
+  :block/created-at 1656162059970,
+  :block/updated-at 1656162059970}
+ {:block/name "raj, shivam",
+  :block/created-at 1656162059241,
+  :block/updated-at 1656162059241}
+ {:block/name "rakesh, hemant",
+  :block/created-at 1656162059249,
+  :block/updated-at 1656162059249}
  {:block/name "ramón y cajal, santiago",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "read",
+  :block/created-at 1656162057280,
+  :block/updated-at 1656162057280}
  {:block/name "readme",
   :block/created-at 1644843240331,
   :block/updated-at 1651607676363}
+ {:block/name "rebentrost, patrick",
+  :block/created-at 1656162060684,
+  :block/updated-at 1656162060684}
+ {:block/name "recursividad",
+  :block/created-at 1656162064313,
+  :block/updated-at 1656162064313}
+ {:block/name "research",
+  :block/created-at 1656162057281,
+  :block/updated-at 1656162057281}
+ {:block/name "revisión mentes geniales",
+  :block/created-at 1656162059120,
+  :block/updated-at 1656162059120}
+ {:block/name "rodríguez-aguilar, juan a",
+  :block/created-at 1656162066143,
+  :block/updated-at 1656162066143}
+ {:block/name "romero, gustavo e.",
+  :block/created-at 1656162054407,
+  :block/updated-at 1656162054407}
  {:block/name "root-bernstein, michelle",
   :block/created-at 1651493260228,
   :block/updated-at 1651493260228}
  {:block/name "root-bernstein, robert",
   :block/created-at 1651493260227,
   :block/updated-at 1651493260227}
+ {:block/name "roy, shuvarati",
+  :block/created-at 1656162059242,
+  :block/updated-at 1656162059242}
+ {:block/name "russell, bertrand",
+  :block/created-at 1656162054535,
+  :block/updated-at 1656162054535}
+ {:block/name "rust",
+  :block/created-at 1656162065342,
+  :block/updated-at 1656162065342}
+ {:block/name "s(aic)q(rtw)e?",
+  :block/created-at 1656162053813,
+  :block/updated-at 1656162053813}
+ {:block/name "sapolsky, robert",
+  :block/created-at 1656162055209,
+  :block/updated-at 1656162055209}
+ {:block/name "sarkar, soumya",
+  :block/created-at 1656162059247,
+  :block/updated-at 1656162059247}
  {:block/name "sat, 07-05-2022",
   :block/created-at 1653338926336,
   :block/updated-at 1653338926336}
@@ -253,12 +2858,76 @@
  {:block/name "sat, 25-06-2022",
   :block/created-at 1656117472363,
   :block/updated-at 1656117472363}
+ {:block/name "satisfacibilidad",
+  :block/created-at 1656162054530,
+  :block/updated-at 1656162054530}
+ {:block/name "schopenhauer, arthur",
+  :block/created-at 1656162054536,
+  :block/updated-at 1656162054536}
+ {:block/name "schuld, m",
+  :block/created-at 1656162060815,
+  :block/updated-at 1656162060815}
+ {:block/name "schulzrinne, henning",
+  :block/created-at 1656162057406,
+  :block/updated-at 1656162057406}
+ {:block/name "seres humanos",
+  :block/created-at 1656162025156,
+  :block/updated-at 1656162025156}
+ {:block/name "serrano, joaquín soler",
+  :block/created-at 1656162025670,
+  :block/updated-at 1656162025670}
+ {:block/name "shah, viral b.",
+  :block/created-at 1656162049034,
+  :block/updated-at 1656162049034}
  {:block/name "shakarian, paulo",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "sierra, carles",
+  :block/created-at 1656162066143,
+  :block/updated-at 1656162066143}
+ {:block/name "simetría",
+  :block/created-at 1656162025962,
+  :block/updated-at 1656162025962}
+ {:block/name "simon, herbert a.",
+  :block/created-at 1656162053710,
+  :block/updated-at 1656162053710}
+ {:block/name "sinayskiy, i",
+  :block/created-at 1656162060814,
+  :block/updated-at 1656162060814}
+ {:block/name "singh, vishwanath",
+  :block/created-at 1656162059239,
+  :block/updated-at 1656162059239}
+ {:block/name "sistemas de notas",
+  :block/created-at 1656162054304,
+  :block/updated-at 1656162054304}
+ {:block/name "sistemas distribuidos",
+  :block/created-at 1656162049289,
+  :block/updated-at 1656162049289}
+ {:block/name
+  "sobre la brevedad de la vida y el amor a la abstracción",
+  :block/created-at 1656162049661,
+  :block/updated-at 1656162049661}
+ {:block/name "sociología",
+  :block/created-at 1656162052642,
+  :block/updated-at 1656162052642}
  {:block/name "softwareengineering",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "springer",
+  :block/created-at 1656162054796,
+  :block/updated-at 1656162054796}
+ {:block/name "springer international publishing",
+  :block/created-at 1656162065824,
+  :block/updated-at 1656162065824}
+ {:block/name "sq3r",
+  :block/created-at 1656162053813,
+  :block/updated-at 1656162053813}
+ {:block/name "stamile, claudio",
+  :block/created-at 1656162025378,
+  :block/updated-at 1656162025378}
+ {:block/name "stewart, ian",
+  :block/created-at 1656162060872,
+  :block/updated-at 1656162060872}
  {:block/name "sukhov, andrei",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -271,12 +2940,58 @@
  {:block/name "sun, 20-02-2022",
   :block/created-at 1645315200000,
   :block/updated-at 1645315200000}
+ {:block/name "talbi, el-ghazali",
+  :block/created-at 1656162053349,
+  :block/updated-at 1656162053349}
+ {:block/name "tales de mileto",
+  :block/created-at 1656162054520,
+  :block/updated-at 1656162054520}
  {:block/name "talwalkar, ameet",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "tech",
+  :block/created-at 1656162068564,
+  :block/updated-at 1656162068564}
+ {:block/name "temporada nº3",
+  :block/created-at 1656162049624,
+  :block/updated-at 1656162049624}
+ {:block/name "teoría de conjuntos",
+  :block/created-at 1656162052724,
+  :block/updated-at 1656162052724}
+ {:block/name "teoría de grafos",
+  :block/created-at 1656162025106,
+  :block/updated-at 1656162025106}
+ {:block/name "teoría de la computabilidad",
+  :block/created-at 1656162052724,
+  :block/updated-at 1656162052724}
+ {:block/name "teoría de la computación",
+  :block/created-at 1656162025913,
+  :block/updated-at 1656162025913}
+ {:block/name "teoría de la demostración",
+  :block/created-at 1656162052722,
+  :block/updated-at 1656162052722}
+ {:block/name
+  "teoría de las categorías. ¿el último puente entre la programación y las matemáticas?",
+  :block/created-at 1656162068283,
+  :block/updated-at 1656162068283}
+ {:block/name "teoría de modelos",
+  :block/created-at 1656162052723,
+  :block/updated-at 1656162052723}
+ {:block/name "teoría política",
+  :block/created-at 1656162052746,
+  :block/updated-at 1656162052746}
+ {:block/name "teselado",
+  :block/created-at 1656162025960,
+  :block/updated-at 1656162025960}
+ {:block/name "tex",
+  :block/created-at 1656162049378,
+  :block/updated-at 1656162049378}
  {:block/name "thagard, paul",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "three paradigms of computer science",
+  :block/created-at 1656162049585,
+  :block/updated-at 1656162049585}
  {:block/name "thu, 05-05-2022",
   :block/created-at 1651932091222,
   :block/updated-at 1651932091222}
@@ -286,9 +3001,24 @@
  {:block/name "thu, 23-06-2022",
   :block/created-at 1655937767382,
   :block/updated-at 1655937767382}
+ {:block/name "tipos de datos abstractos",
+  :block/created-at 1656162025798,
+  :block/updated-at 1656162025798}
+ {:block/name "tipos dependientes",
+  :block/created-at 1656162053511,
+  :block/updated-at 1656162053511}
+ {:block/name "tla+",
+  :block/created-at 1656162049248,
+  :block/updated-at 1656162049248}
  {:block/name "todo",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "totalidad",
+  :block/created-at 1656162053512,
+  :block/updated-at 1656162053512}
+ {:block/name "transparencia referencial",
+  :block/created-at 1656162025782,
+  :block/updated-at 1656162025782}
  {:block/name "tue, 03-05-2022",
   :block/created-at 1651576851159,
   :block/updated-at 1651576851159}
@@ -304,12 +3034,33 @@
  {:block/name "tue, 24-05-2022",
   :block/created-at 1655937636479,
   :block/updated-at 1655937636479}
+ {:block/name "turing, alan",
+  :block/created-at 1656162025900,
+  :block/updated-at 1656162025900}
+ {:block/name "turner, raymond",
+  :block/created-at 1656162049721,
+  :block/updated-at 1656162049721}
+ {:block/name "técnica de feynman",
+  :block/created-at 1656162053997,
+  :block/updated-at 1656162053997}
+ {:block/name "técnicas de estudio",
+  :block/created-at 1656162052937,
+  :block/updated-at 1656162052937}
  {:block/name "ullman, jeffrey",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
  {:block/name "veličković, petar",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "viaje a granada - enero 2022",
+  :block/created-at 1656162063589,
+  :block/updated-at 1656162063589}
+ {:block/name "vida de manolo",
+  :block/created-at 1656162025667,
+  :block/updated-at 1656162025667}
+ {:block/name "video",
+  :block/created-at 1656162053021,
+  :block/updated-at 1656162053021}
  {:block/name "wait",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -319,6 +3070,12 @@
  {:block/name "ward, isaac ronald",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "warke, aakash",
+  :block/created-at 1656162059247,
+  :block/updated-at 1656162059247}
+ {:block/name "web",
+  :block/created-at 1656162057408,
+  :block/updated-at 1656162057408}
  {:block/name "wed, 04-05-2022",
   :block/created-at 1651787489027,
   :block/updated-at 1651787489027}
@@ -337,6 +3094,46 @@
  {:block/name "weston, anthony",
   :block/created-at 1653338926337,
   :block/updated-at 1653338926337}
+ {:block/name "why didn't i get that academic job?",
+  :block/created-at 1656162059166,
+  :block/updated-at 1656162059166}
+ {:block/name "wiebe, nathan",
+  :block/created-at 1656162060684,
+  :block/updated-at 1656162060684}
  {:block/name "wilson, robin",
-  :block/created-at 1644843240331, 
-  :block/updated-at 1644843240331}]
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "wing, jeanette",
+  :block/created-at 1656162054805,
+  :block/updated-at 1656162054805}
+ {:block/name "wittek, peter",
+  :block/created-at 1656162060686,
+  :block/updated-at 1656162060686}
+ {:block/name "zenón",
+  :block/created-at 1656162054524,
+  :block/updated-at 1656162054524}
+ {:block/name "zettelkasten",
+  :block/created-at 1656162052471,
+  :block/updated-at 1656162052471}
+ {:block/name "zhang, ping",
+  :block/created-at 1656162025029,
+  :block/updated-at 1656162025029}
+ {:block/name
+  "¿los robots podrán amar? los retos técnicos y filosóficos de nuestro siglo",
+  :block/created-at 1656162049664,
+  :block/updated-at 1656162049664}
+ {:block/name "¿por qué el concepto de \"paradigma\" ya no sirve?",
+  :block/created-at 1656162049657,
+  :block/updated-at 1656162049657}
+ {:block/name "¿por qué es importante julia?",
+  :block/created-at 1656162049655,
+  :block/updated-at 1656162049655}
+ {:block/name "¿qué es «quantum machine learning»?",
+  :block/created-at 1656162049657,
+  :block/updated-at 1656162049657}
+ {:block/name "áreas",
+  :block/created-at 1656162025573,
+  :block/updated-at 1656162025573}
+ {:block/name "ética",
+  :block/created-at 1656162055147, 
+  :block/updated-at 1656162055147}]
