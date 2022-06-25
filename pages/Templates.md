@@ -7,7 +7,7 @@
 		- **Journal**:
 		- **Language**:
 		- **Type**:
-		- **Category**:
+		- **Keywords**:
 		- **Year**:
 		- **Status:**
 		- **Start:**
@@ -24,7 +24,7 @@
 		- **Edition:**
 		- **Language**:
 		- **Type**:
-		- **Category**:
+		- **Keywords**:
 		- **Year**:
 		- **Status:**
 		- **Start:**
