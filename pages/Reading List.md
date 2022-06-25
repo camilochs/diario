@@ -1,2 +1,2 @@
-- {{query [[Papers]] }}
+- {{query [[Paper]] }}
   query-table:: true
