@@ -13,7 +13,7 @@
 	- TODO Leer al menos 10 páginas del libro de Teoría de juegos.
 	- TODO Leer un capítulo de Computational Artefacts.
 	- DONE Trasladar mis notas de Hypernote a Logseq.
-		- Acabo de crear la página de [[Templates]], contiene [[Paper]] y [[Book]].
+		- Acabo de crear la página de [[Templates]], contiene paper y book.
 - [[Fri, 24-06-2022]]
 	- Me junte con Pato a tomar un café como siempre. Otra cuestión fue que Claudio me ofreció a ayudarme con el tema de la presentación de avance del PhD, sobre todo, con el tema del inglés.
 	- Terminé el prólogo del libro de Andros. Al menos la versión en español: ahora debo traducirlo.
