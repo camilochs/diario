@@ -20,7 +20,7 @@ title:: Machine learning at the service of meta-heuristics for solving combinato
 	- ![image.png](../assets/image_1656168946641_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/yF4VmdzLI)
 		- Las ventajas de usar ML junto a MH para resolver problemas combinatorios nos ayuda en tres cuestiones: (1) calidad de solución, (2) ratio de convergencia, (3) solidez (robustness).
 		- Sobre las diversas técnicas de integración de ML en MH, se puede clasificar desde otro punto de vista:
-			- ![image.png](../assets/image_1656168946641_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/yF4VmdzLI)
+			- ![image.png](../assets/image_1656168982869_0.png)
 		- Este paper ayuda a integrar técnicas de ML a las siguientes partes de las MHs:
 			- Selección de algoritmo (Algorithm selection problem [ASP])
 				- Esto es útil cuando los recursos (ya sea tiempo o número de núcleos de un procesador) son limitados.
@@ -40,11 +40,10 @@ title:: Machine learning at the service of meta-heuristics for solving combinato
 			- Evolución
 				- Hay tres técnicas: (1) las que obtiene retroalimentación desde la información de los operadores durante el proceso de búsqueda para seleccionar el más apropiado; (2) las que proveen un modo de aprendizaje para generar buenas poblaciones (algoritmos evolutivos); (3) las que extraen propiedades de las buenas soluciones para generar nuevas soluciones.
 				- Selección del operador
-					- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/r18NvNQyfz)
+					- ![image.png](../assets/image_1656168994858_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/r18NvNQyfz)
 					- Las técnicas de ML son útiles porque permite asignar créditos a cada operador según su rendimiento histórico.
 			- Configuración de parámetros
 			- Cooperación
 		- Líneas posibles de investigación (conclusión):
-			- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/-5Y7IzXdR)
-	- null
+			- ![image.png](../assets/image_1656169002385_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/-5Y7IzXdR)
 -
