@@ -1,4 +1,10 @@
-[{:block/name "26-02-2022",
+[{:block/name "\"caterine, christopher l.\"",
+  :block/created-at 1656149187062,
+  :block/updated-at 1656149187062}
+ {:block/name "2022-05-07t21_50_45",
+  :block/created-at 1656063942331,
+  :block/updated-at 1656063942331}
+ {:block/name "26-02-2022",
   :block/created-at 1651494648547,
   :block/updated-at 1651494648547}
  {:block/name "a",
@@ -55,18 +61,24 @@
  {:block/name "deep learning",
   :block/created-at 1651493260228,
   :block/updated-at 1651493260228}
- {:block/name "diario",
-  :block/created-at 1651787489070,
-  :block/updated-at 1656028279634}
+ {:block/name "diario personal",
+  :block/created-at 1656063942331,
+  :block/updated-at 1656151904639}
  {:block/name "doing",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
  {:block/name "done",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "entrevistas podcast",
+  :block/created-at 1656149045097,
+  :block/updated-at 1656149045097}
  {:block/name "epicteto",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "escribir",
+  :block/created-at 1656150122677,
+  :block/updated-at 1656150122677}
  {:block/name "escritura",
   :block/created-at 1655937688596,
   :block/updated-at 1655937688596}
@@ -139,9 +151,9 @@
  {:block/name "later",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
- {:block/name "lawson, harold _bud_",
-  :block/created-at 1651787489041,
-  :block/updated-at 1651787489041}
+ {:block/name "lawson, harold \"bud\"",
+  :block/created-at 1656149185643,
+  :block/updated-at 1656149185643}
  {:block/name "lecturas",
   :block/created-at 1655937875166,
   :block/updated-at 1655937894653}
@@ -154,6 +166,9 @@
  {:block/name "li, jeffrey",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "libro",
+  :block/created-at 1656150122679,
+  :block/updated-at 1656150122679}
  {:block/name "lickfold, casey",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -187,6 +202,9 @@
  {:block/name "parra, nicanor",
   :block/created-at 1653338926322,
   :block/updated-at 1653338926322}
+ {:block/name "patricio reyes",
+  :block/created-at 1656149045095,
+  :block/updated-at 1656149045095}
  {:block/name "pessoa, fernando",
   :block/created-at 1651578170939,
   :block/updated-at 1651578170939}
@@ -199,12 +217,15 @@
  {:block/name "plumb, gregory",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "principiosdeprogramación",
+  :block/created-at 1656150129961,
+  :block/updated-at 1656150129961}
  {:block/name "programaciónfuncional",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
  {:block/name "prólogo libro andros",
   :block/created-at 1656027635035,
-  :block/updated-at 1656027799579}
+  :block/updated-at 1656079949477}
  {:block/name "rabbani, rosa",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -229,6 +250,9 @@
  {:block/name "sat, 19-02-2022",
   :block/created-at 1645228800000,
   :block/updated-at 1645228800000}
+ {:block/name "sat, 25-06-2022",
+  :block/created-at 1656117472363,
+  :block/updated-at 1656117472363}
  {:block/name "shakarian, paulo",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}

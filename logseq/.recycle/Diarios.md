@@ -1,14 +1,16 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
   title:: Diarios
+- [[Sat, 25-06-2022]]
+-
 - [[Fri, 24-06-2022]]
+  collapsed:: true
 	- Me junte con el Pato a tomar un café como siempre. Otra cuestión fue que Claudio me ofreció a ayudarme con el tema de la presentación de avance del PhD, sobre todo, con el tema del inglés.
 	- Terminé el prólogo del libro de Andros. Al menos la versión en español: ahora debo traducirlo.
-	-
 - [[Thu, 23-06-2022]]
 	- ¡He vuelto a logseq!
 	- Hoy voy a conocer el MareNostrum en el BSC. Una invitación de Patricio.
 		- Estuvo bastante entretenido. Me quedo con esto: que en una capilla haya un superordenador ya es raro y brutal jaja
-	- TODO He comenzando a escribir el prólogo para el libro de Andros Fellanosa. [[Prólogo libro Andros]]
+	- DONE He comenzando a escribir el prólogo para el libro de Andros Fellanosa. [[Prólogo libro Andros]]
 - [[Wed, 24-05-2022]] a [[Wed, 22-06-2022]]
 	- He seguido avanzando en mi libro: Principios de programación. Veo lento pero llegaré. #escritura
 - [[Wed, 18-05-2022]] a [[Mon, 23-05-2022]]
