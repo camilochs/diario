@@ -11,7 +11,7 @@
 - There are many types of real-time applications. The first ones that come to mind are social networks or messaging applications, since they are among us on a daily basis. I am reminded of their importance every time I send a message and a read or viewed appears without a reply: there I realize their power over us. Despite this prosaic detail, we like to receive information instantly because we don't need to refresh the page to know if an event has occurred. We don't want to wait. We are impatient. Learning to develop them gives us an advantage when it comes to finding new techniques to start a software project.
 -
 - Por otro lado, Andros combina su conocimiento en WebSocket con Python (su gran amor, luego de la programación funcional, claro),  en particular, con el framework web más influyente en dicho lenguaje: Django. Sumado al uso de diversas herramientas que hacen más fácil el desarrollo y despliegue de una aplicación, por ejemplo, Docker.
-- On the other hand, Andros combines his knowledge in WebSocket with Python (his great love, after functional programming, of course), in particular, with the most influential web framework in that language: Django. Added to the use of various tools that make it easier to develop and deploy an application, for example, Docker.
+- On the other hand, Andros combines his knowledge in WebSocket with Python (his great love, after functional programming, of course), in particular, with the most influential web framework in that language: Django. In addition to presenting a variety of tools that make it easier to develop and deploy an application, for example, Docker.
 -
 - Si pudiera definir a Andros con una frase sería: pasión por enseñar.
 - If I could define Andros in one sentence it would be: passion for teaching.
@@ -20,7 +20,9 @@
 - Dear reader, I am sure that you will be able to notice that passion in this book, in every page, in every chapter. And that you will be able, at the end of this book, to transform yourself into a developer who *moves in real time*.
 -
 - Me gustaría terminar este breve prólogo citando a Mario Bunge, un filósofo de la ciencia que admiro, «Haz tu propio intento. Tu recompensa será hacerlo, tu castigo haberlo hecho». Andros a ganado su castigo.
-- I would like to end this brief foreword by quoting Mario Bunge, a philosopher of science I admire, "Make your own attempt. Your reward will be to have done it, your punishment will be to have done it." Andros has earned his punishment.
+- I would like to end this brief foreword by quoting Mario Bunge, a philosopher of science I admire, "Make your own attempt. Your reward will be to have done it, your punishment will be to have done it."
+-
+- Andros has earned his punishment.
 -
 - - Camilo Chacón Sartori, desde una cafetería en algún rincon de Barcelona.
 - PhD (c) in Artificial Intelligence.
