@@ -12,5 +12,7 @@
 	  Status:: [[Reading]]
 	  Start:: [[Sat, 25-06-2022]] 
 	  End::
-	  Link::
+	  Link:: https://paperpile.com/app/p/70ea713b-9883-00f1-bade-66b28b9c08b2
 	- ## Notes
+	-
+-
