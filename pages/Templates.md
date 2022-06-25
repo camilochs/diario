@@ -1,16 +1,16 @@
 template:: Paper**
-**Title:****
+**Title:**
 
 	- **Metadata**:
-	- **Autor**:
-	- **Revista**:
-	- **Idioma**:
-	- **Año**:
-	- **Tipo**:
-	- **Categorías**:
-	- **Enlace**:
-	- **Contenido**:
-		- **Resumen**:
+		- **Author**:
+		- **Journal**:
+		- **Language**:
+		- **Year**:
+		- **Type**:
+		- **Category**:
+		- **Link**:
+		- **Content**:
+			- **Resumen**:
 -
 - **Metadata**:
 	- **Autor**:
