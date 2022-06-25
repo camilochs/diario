@@ -21,6 +21,7 @@
 	- ## Metadata
 	  Title:: 
 	  Author::
+	  Edition::
 	  Cover::
 	  Journal::
 	  Language::
