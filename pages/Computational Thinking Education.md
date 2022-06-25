@@ -1,8 +1,9 @@
-- ## Paper
+- ## Book
   background-color:: #49767b
 	- ## Metadata
-	  Title:: 
+	  Title:: Computational Thinking Education
 	  Author::
+	  Cover::
 	  Journal::
 	  Language::
 	  Type::
@@ -12,5 +13,5 @@
 	  Start::
 	  End::
 	  Link::
-	- ## Abstract
 	- ## Notes
+-

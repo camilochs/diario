@@ -17,6 +17,7 @@
 	- ## Notes
 - ## Book
   background-color:: #49767b
+  template:: Book template
 	- ## Metadata
 	  Title:: 
 	  Author::
