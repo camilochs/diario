@@ -36,9 +36,9 @@
 					- ¿Cómo se puede atacar a un sistema de DL?
 						- ![image.png](../assets/image_1656170105020_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/mZ0rfyhEL)
 					- ML es una IA débil. No tienen conciencia  y ellos no puede pensar por sí mismos. Ellos no entiende realmente las características del mundo tales como la relaciones causales.
-						- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/7OZSjTn9Q)
-						- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/1btjmIRmN)
-						- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/ZEMPQqjjK)
+						- ![image.png](../assets/image_1656170115012_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/7OZSjTn9Q)
+						- ![image.png](../assets/image_1656170123540_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/1btjmIRmN)
+						- ![image.png](../assets/image_1656170139167_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/ZEMPQqjjK)
 						- También está el problema en los coches autónomos, ¿se debe siempre privilegiar a los pasajeros?
 						-
 			- Vulnerabilidades humanas: El sistema ML puede trabajar tan bien que el humano es vulnerable al trabajar o interactuar con este sistema.
@@ -53,11 +53,11 @@
 				  3. pensar racionalmente.
 				  4. actuar racionalmente.
 					- Los sistemas de IA requieren hacer funciones cognitivas: pensar, aprender y resolver-problemas.
-					- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/t42uYW8TT)
+					- ![image.png](../assets/image_1656170149336_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/t42uYW8TT)
 						- Una forma de IA es la simbólica. Dominada por los sistemas expertos. No sabía que un sistema experto se puede modelar a través de grafos dentro de una base de datos. Bueno ahora que lo pienso, no es raro.
 					- Otra forma es ML.
 					- Y la actual y más popular es DL. Que comenzó a ser útil gracias al poder de cómputo y almacenamiento, y al trabajo en nuevos tipos de redes neuronales propuestas por Geoffrey Hinton, Yann LeCun y Yoshua Bengio.
-						- ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/I-qiOJ8NQ)
+						- ![image.png](../assets/image_1656170160853_0.png) ![](https://hypernotes.zenkit.com/api/v1/lists/2362182/files/I-qiOJ8NQ)
 							- DL usa las capas de nodos para detectar, ajustar las características de un conjunto de datos en pos de minimizar la perdida en precisión (accuracy). Para hacer esto hace uso de la técnica back-propagation, el cual obtiene el error entre el valor esperado y el valor actual, y ajusta los pesos en la dirección (nodos) de menor errores. Al hacer esto, toda la red se propaga para predecir mejores respuestas.
 							-
 					- Hay diferentes tipos de redes neuronales, por ejemplo, las recurrentes  (RNNs), las cuales tiene un tipo de memoria que es útil para resolver problemas con datos temporales como la predicción de secuencia de palabras. Otra son las convoluciones (CNNs), las cuales son buenas para reconocer patrones a través del espacio, en particular buenos para clasificación de imágenes y tareas de visión por computadora.
