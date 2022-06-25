@@ -2,20 +2,21 @@
   template:: Paper template
   background-color:: #49767b
 	- **Metadata**:
-		- **Status:**
-		- **Start:**
-		- **End:**
 		- **Author**:
 		- **Journal**:
 		- **Language**:
-		- **Year**:
 		- **Type**:
 		- **Category**:
+		- **Year**:
+		- **Status:**
+		- **Start:**
+		- **End:**
 		- **Link**:
 		- **Content**:
 			- **Abstract**:
 	- **Notes:**
 - ## Book
+  background-color:: #49767b
 	- **Metadata**:
 		- **Status:**
 		- **Start:**
