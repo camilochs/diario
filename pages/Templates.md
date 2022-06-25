@@ -9,12 +9,12 @@
 	  Type::
 	  Keywords::
 	  Year::
-		- **Status:**
-		- **Start:**
-		- **End:**
-		- **Link**:
-		- **Content**:
-			- **Abstract**:
+	  Status::
+	  Start::
+	  End::
+	  Link::
+	- Content::
+	  Abstract**:
 	- **Notes:**
 - ## Book
   background-color:: #49767b
