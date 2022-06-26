@@ -1,5 +1,5 @@
-- ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
-  title:: Diario personal
+title:: Diario personal
+
 - [[Mon, 27-06-2022]]
 	- TODO Escribir al menos una página del artículo sobre filosofía de la informática.
 	- TODO Escribir 5 entradas al diccionario.
