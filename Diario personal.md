@@ -5,7 +5,7 @@ title:: Diario personal
 	- TODO Escribir 5 entradas al diccionario.
 - [[Sun, 26-06-2022]]
 	- TODO Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 20300, objetivo: > 21300. #libro #escribir #principiosdeprogramación
-	- LATER  Rotar el slider de la web STN.
+	- DONE  Rotar el slider de la web STN.
 	- DONE Leer un capítulo de Computational Artefacts.
 	- TODO Escribir las preguntas de la entrevista a Pato.
 	- TODO Leer al menos 10 páginas del libro de Teoría de juegos.
