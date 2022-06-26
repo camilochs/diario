@@ -4,12 +4,12 @@
 	- TODO Escribir al menos una página del artículo sobre filosofía de la informática.
 - [[Sun, 26-06-2022]]
 	- TODO Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 20300, objetivo: > 21300. #libro #escribir #principiosdeprogramación
-	- TODO Leer un capítulo de Computational Artefacts.
+	- LATER  Rotar el slider de la web STN.
+	- DONE Leer un capítulo de Computational Artefacts.
 	- TODO Escribir las preguntas de la entrevista a Pato.
 	- TODO Escribir 5 entradas al diccionario.
 	- TODO Leer al menos 10 páginas del libro de Teoría de juegos.
 	- TODO Hacer al menos 3 slides de la presentación del PhD en LaTeX.
-	- TODO  Arreglar los problemas de la web STN.
 - [[Sat, 25-06-2022]]
 	- DONE Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 19288, objetivo: > 20288. #libro #escribir #principiosdeprogramación
 		- Hoy estaré escribiendo sobre recursión.
