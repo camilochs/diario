@@ -2,12 +2,12 @@
   title:: Diario personal
 - [[Mon, 27-06-2022]]
 	- TODO Escribir al menos una página del artículo sobre filosofía de la informática.
+	- TODO Escribir 5 entradas al diccionario.
 - [[Sun, 26-06-2022]]
 	- TODO Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 20300, objetivo: > 21300. #libro #escribir #principiosdeprogramación
 	- LATER  Rotar el slider de la web STN.
 	- DONE Leer un capítulo de Computational Artefacts.
 	- TODO Escribir las preguntas de la entrevista a Pato.
-	- TODO Escribir 5 entradas al diccionario.
 	- TODO Leer al menos 10 páginas del libro de Teoría de juegos.
 	- TODO Hacer al menos 3 slides de la presentación del PhD en LaTeX.
 - [[Sat, 25-06-2022]]
