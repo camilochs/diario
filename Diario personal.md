@@ -1,7 +1,7 @@
 - ### Este es mi diario personal. Contiene reflexiones y recomendaciones según lo que voy viviendo.
   title:: Diario personal
 - [[Sun, 26-06-2022]]
-	- TODO Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 20300, objetivo: > 20288. #libro #escribir #principiosdeprogramación
+	- TODO Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 20300, objetivo: > 21300. #libro #escribir #principiosdeprogramación
 	- TODO Leer un capítulo de Computational Artefacts.
 	- TODO Escribir al menos una página del artículo sobre filosofía de la informática.
 	- TODO Escribir las preguntas de la entrevista a Pato.
