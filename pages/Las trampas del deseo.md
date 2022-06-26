@@ -21,6 +21,6 @@
 	- Es imposible para el cerebro humano huir de las tentaciones cuando se encuentra en una situación particular, por ejemplo, cuando se está muy excitado el cerebro es proclive a tomar opciones inmorales que en otras circunstancias no haría; para evitar ello, trate de no  combatir contras las tentaciones en el momento (hay pocas probabilidades de éxito), en cambio, **evite llegar a esos eventos, previamente, no se exponga a la tentación**.
 	- El placebo es una fuerza poderosa en los #[[Seres humanos]], hay muchos estudios que demuestran que personas que «sienten mejor»
 		- * Y el precio también, cuando un placebo cuesta más dinero es todavía mayor el efecto.
-	- Sobre todo, si no se hace de manera tan explicita, por ejemplo, es menos probable ser deshonesto con el #Dinero físico, pero si hay algún objeto o algo intermedio, las probabilidades de caer en actitudes deshonestas es mayor.
+	- Sobre todo, si no se hace de manera tan explicita, por ejemplo, es menos probable ser deshonesto con el dinero físico, pero si hay algún objeto o algo intermedio, las probabilidades de caer en actitudes deshonestas es mayor.
 		- * Incluso personas que son responsables, educadas y honestas, si se dan las circunstancias, el entorno, ¡pueden llegar a tener comportamientos deshonestos!
 	- [https://youtu.be/xmiL94yx28U](https://youtu.be/xmiL94yx28U)
