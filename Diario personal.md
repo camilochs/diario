@@ -1,14 +1,15 @@
 title:: Diario personal
+[[Tue, 28-06-2022]]
 
+	- TODO  Rotar el slider de la web STN.
+	- TODO Hacer al menos 3 slides de la presentación del PhD en LaTeX.
+	- TODO Leer al menos 10 páginas del libro de Teoría de juegos.
+	- TODO Escribir al menos una página del artículo sobre filosofía de la informática.
+	- TODO Escribir 5 entradas al diccionario.
 - [[Mon, 27-06-2022]]
 	- DOING Terminar la propuesta del libro para Catalyst.
 	- TODO  Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 21000, objetivo: > 22000. #libro #escribir #principiosdeprogramación
-	- TODO Escribir al menos una página del artículo sobre filosofía de la informática.
-	- TODO Escribir 5 entradas al diccionario.
 	- DONE Escribir las preguntas de la [[Entrevista a Patricio Reyes]] .
-	- TODO Leer al menos 10 páginas del libro de Teoría de juegos.
-	- TODO Hacer al menos 3 slides de la presentación del PhD en LaTeX.
-	- TODO  Rotar el slider de la web STN.
 - [[Sun, 26-06-2022]]
 	- DONE Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 20300, objetivo: > 21000. #libro #escribir #principiosdeprogramación
 	- DONE Leer un capítulo de Computational Artefacts.
