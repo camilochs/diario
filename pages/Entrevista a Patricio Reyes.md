@@ -4,7 +4,7 @@
 	  ¿Para ti cuál es la diferencia entre las matemáticas y la informática?
 	  ¿Cuál es el stack de herramientas que usas a diario?
 	  ¿Tienes alguna herramienta predilecta?
-	  ¿Cómo abordas un problema que nunca has resuelto antes?
+	  ¿Cómo abordas un problema que nunca has resuelto antes y cuál ha sido el problema más interesante que has resuelto¿
 	  ¿Qué es la ciencia de datos y cómo lo conectas con la matemática?
 	- ¿Me cuentas algunos de los proyectos que has realizado  o estas trabajando en el BSC? (de aquí podrían surgir varias preguntas)
 - Más personal
