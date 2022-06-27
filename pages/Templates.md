@@ -34,9 +34,12 @@
 	  Link::
 	- ## Notes
 - ## Podcast (Entrevista)
+  template:: Podcast Interview
 	- ## Metadata
 		- Name::
 		  Date::
 		  Title::
 		  Description::
 		  Keywords::
+		  Link::
+	- ## Questions
