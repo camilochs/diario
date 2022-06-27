@@ -35,11 +35,12 @@
 	- ## Notes
 - ## Podcast (Entrevista)
   template:: Podcast Interview
+  background-color:: #978626
 	- ## Metadata
-		- Name::
-		  Date::
-		  Title::
-		  Description::
-		  Keywords::
-		  Link::
+	  Name::
+	  Date::
+	  Title::
+	  Description::
+	  Keywords::
+	  Link::
 	- ## Questions
