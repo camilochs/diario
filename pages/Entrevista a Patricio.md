@@ -1,0 +1,4 @@
+- Más técnica
+-
+- Más personal
+	-
