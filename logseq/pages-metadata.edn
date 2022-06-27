@@ -1,7 +1,4 @@
-[{:block/name "\"caterine, christopher l.\"",
-  :block/created-at 1656149187062,
-  :block/updated-at 1656149187062}
- {:block/name "\"keshav, s.\"",
+[{:block/name "\"keshav, s.\"",
   :block/created-at 1656326690175,
   :block/updated-at 1656326690175}
  {:block/name "2022-05-07t21_50_45",
@@ -61,6 +58,9 @@
  {:block/name "c",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "c++",
+  :block/created-at 1656332924432,
+  :block/updated-at 1656332924432}
  {:block/name "card",
   :block/created-at 1651494487013,
   :block/updated-at 1651494487013}
@@ -73,6 +73,9 @@
  {:block/name "chen, valerie",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "church, alonzo",
+  :block/created-at 1656332924435,
+  :block/updated-at 1656332924435}
  {:block/name "ciencia",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -82,12 +85,15 @@
  {:block/name "contents",
   :block/created-at 1653339006634,
   :block/updated-at 1653339006634}
+ {:block/name "cálculo lambda",
+  :block/created-at 1656332924439,
+  :block/updated-at 1656332924439}
  {:block/name "deep learning",
   :block/created-at 1651493260228,
   :block/updated-at 1651493260228}
- {:block/name "diario personal",
-  :block/created-at 1656063942331,
-  :block/updated-at 1656159760686}
+ {:block/name "diarios",
+  :block/created-at 1651787489070,
+  :block/updated-at 1656028279634}
  {:block/name "doing",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -103,9 +109,6 @@
  {:block/name "epicteto",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
- {:block/name "escribir",
-  :block/created-at 1656150122677,
-  :block/updated-at 1656150122677}
  {:block/name "escritura",
   :block/created-at 1655937688596,
   :block/updated-at 1655937688596}
@@ -160,6 +163,9 @@
  {:block/name "guo, yulan",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "gödel, kurt",
+  :block/created-at 1656332924602,
+  :block/updated-at 1656332924602}
  {:block/name "hamilton, william l.",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -184,6 +190,9 @@
  {:block/name "jacobson, ivar",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "java",
+  :block/created-at 1656332924432,
+  :block/updated-at 1656332924432}
  {:block/name "joyner, jack",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -214,9 +223,9 @@
  {:block/name "later",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
- {:block/name "lawson, harold \"bud\"",
-  :block/created-at 1656149185643,
-  :block/updated-at 1656149185643}
+ {:block/name "lawson, harold _bud_",
+  :block/created-at 1651787489041,
+  :block/updated-at 1651787489041}
  {:block/name
   "leading to much wasted effort. this article outlines a practical and efficient three-pass method for reading research papers. i also describe how to use this method to do a literature survey.",
   :block/created-at 1656326690286,
@@ -231,15 +240,15 @@
  {:block/name "leer",
   :block/created-at 1651787489029,
   :block/updated-at 1651787489029}
+ {:block/name "lenguajes imperativos",
+  :block/created-at 1656332924433,
+  :block/updated-at 1656332924433}
  {:block/name "levi-montalcini, rita",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
  {:block/name "li, jeffrey",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
- {:block/name "libro",
-  :block/created-at 1656150122679,
-  :block/updated-at 1656150122679}
  {:block/name "lickfold, casey",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -268,6 +277,9 @@
  {:block/name "meyer, patrick",
   :block/created-at 1656326688995,
   :block/updated-at 1656326688995}
+ {:block/name "modelo de computación",
+  :block/created-at 1656332924437,
+  :block/updated-at 1656332924437}
  {:block/name "mohammadi, mehrdad",
   :block/created-at 1656326688993,
   :block/updated-at 1656326688993}
@@ -289,6 +301,9 @@
  {:block/name "moore, g. e.",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "máquina de turing",
+  :block/created-at 1656332924435,
+  :block/updated-at 1656332924435}
  {:block/name "ng, pan-wei",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -337,9 +352,9 @@
  {:block/name "plumb, gregory",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
- {:block/name "principiosdeprogramación",
-  :block/created-at 1656150129961,
-  :block/updated-at 1656150129961}
+ {:block/name "programación funcional",
+  :block/created-at 1656332924434,
+  :block/updated-at 1656332924434}
  {:block/name "programaciónfuncional",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -352,6 +367,9 @@
  {:block/name "psicología cognitiva",
   :block/created-at 1656326689217,
   :block/updated-at 1656326689217}
+ {:block/name "python",
+  :block/created-at 1656332924431,
+  :block/updated-at 1656332924431}
  {:block/name "quantum computing",
   :block/created-at 1656326688615,
   :block/updated-at 1656326688615}
@@ -472,6 +490,9 @@
  {:block/name "tue, 24-05-2022",
   :block/created-at 1655937636479,
   :block/updated-at 1655937636479}
+ {:block/name "turing, alan",
+  :block/created-at 1656332924605,
+  :block/updated-at 1656332924605}
  {:block/name "ullman, jeffrey",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
