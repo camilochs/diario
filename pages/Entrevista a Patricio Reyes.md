@@ -6,6 +6,7 @@
 	  ¿Tienes alguna herramienta predilecta?
 	  ¿Cómo abordas un problema que nunca has resuelto antes?
 	  ¿Qué es la ciencia de datos y cómo lo conectas con la matemática?
-	- ¿Me cuentas algunos proyectos que has realizado  o estas trabajando en el BSC? (de aquí podrían surgir varias preguntas)
+	- ¿Me cuentas algunos de los proyectos que has realizado  o estas trabajando en el BSC? (de aquí podrían surgir varias preguntas)
 - Más personal
+	- ¿Cómo te interesaste en la investigación?
 	- ¿Qué consejos le darias a alguien que este interesado en estudiar matemática y dedicarse al analisis de datos?
