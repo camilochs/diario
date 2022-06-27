@@ -1,7 +1,7 @@
 - ## Podcast (Entrevista)
   background-color:: #978626
 	- ## Metadata
-	  Name::
+	  Name:: [[Reyes, Patricio]]
 	  Date::
 	  Title::
 	  Description::
