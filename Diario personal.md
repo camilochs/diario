@@ -1,6 +1,7 @@
 title:: Diario personal
 
 - [[Mon, 27-06-2022]]
+	- TODO  Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 21700, objetivo: > 22700. #libro #escribir #principiosdeprogramación
 	- TODO Escribir al menos una página del artículo sobre filosofía de la informática.
 	- TODO Escribir 5 entradas al diccionario.
 	- TODO Escribir las preguntas de la entrevista a Pato.
