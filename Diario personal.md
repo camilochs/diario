@@ -1,14 +1,14 @@
 title:: Diario personal
 
 - [[Mon, 27-06-2022]]
-	- TODO  Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 21700, objetivo: > 22700. #libro #escribir #principiosdeprogramación
+	- TODO  Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 21000, objetivo: > 22000. #libro #escribir #principiosdeprogramación
 	- TODO Escribir al menos una página del artículo sobre filosofía de la informática.
 	- TODO Escribir 5 entradas al diccionario.
 	- TODO Escribir las preguntas de la entrevista a Pato.
 	- TODO Leer al menos 10 páginas del libro de Teoría de juegos.
 	- TODO Hacer al menos 3 slides de la presentación del PhD en LaTeX.
 - [[Sun, 26-06-2022]]
-	- DONE Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 20300, objetivo: > 21700. #libro #escribir #principiosdeprogramación
+	- DONE Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 20300, objetivo: > 21000. #libro #escribir #principiosdeprogramación
 	- DONE  Rotar el slider de la web STN.
 	- DONE Leer un capítulo de Computational Artefacts.
 	- DONE Reunión con Pato, Andrés y Alvaro, para ver las diferencias entre Logseq y Obsidian.
