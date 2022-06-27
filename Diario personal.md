@@ -7,7 +7,8 @@ title:: Diario personal
 	- TODO Escribir las preguntas de la entrevista a Pato.
 	- TODO Leer al menos 10 páginas del libro de Teoría de juegos.
 	- TODO Hacer al menos 3 slides de la presentación del PhD en LaTeX.
-	- LATER  Rotar el slider de la web STN.
+	- TODO  Rotar el slider de la web STN.
+	- DOING Terminar la propuesta del libro para Catalyst.
 - [[Sun, 26-06-2022]]
 	- DONE Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 20300, objetivo: > 21000. #libro #escribir #principiosdeprogramación
 	- DONE Leer un capítulo de Computational Artefacts.
