@@ -7,7 +7,7 @@ title:: Diario personal
 	- TODO Escribir al menos una página del artículo sobre filosofía de la informática.
 	- TODO Escribir 5 entradas al diccionario.
 - [[Mon, 27-06-2022]]
-	- DOING Terminar la propuesta del libro para Catalyst.
+	- DONE Terminar la propuesta del libro para Catalyst.
 	- TODO  Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 21000, objetivo: > 22000. #libro #escribir #principiosdeprogramación
 	- DONE Escribir las preguntas de la [[Entrevista a Patricio Reyes]] .
 - [[Sun, 26-06-2022]]
