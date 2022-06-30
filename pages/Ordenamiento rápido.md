@@ -1,1 +1,3 @@
 - [[Quicksort]]
+# Ordenamiento rápido
+- [[Quicksort]]
