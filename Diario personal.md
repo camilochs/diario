@@ -1,14 +1,15 @@
 title:: Diario personal
 
-- [[Wed, 29-06-2022]]
-	- DONE  Leer el paper de movilidad (bycicles) con Pato
-	-
-- [[Tue, 28-06-2022]]
-	- TODO  Rotar el slider de la web STN.
-	- TODO Hacer al menos 3 slides de la presentación del PhD en LaTeX.
+- [[Thu, 30-06-2022]]
 	- TODO Leer al menos 10 páginas del libro de Teoría de juegos.
 	- TODO Escribir al menos una página del artículo sobre filosofía de la informática.
 	- TODO Escribir 5 entradas al diccionario.
+	- TODO Hacer al menos 3 slides de la presentación del PhD en LaTeX.
+	- TODO  Rotar el slider de la web STN.
+- [[Wed, 29-06-2022]]
+	- DONE  Leer el paper de movilidad (bycicles) con Pato
+- [[Tue, 28-06-2022]]
+	- DONE Corregir el prólogo para Andros
 - [[Mon, 27-06-2022]]
 	- DONE Terminar la propuesta del libro para Catalyst.
 	- TODO  Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 21000, objetivo: > 22000. #libro #escribir #principiosdeprogramación
