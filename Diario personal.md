@@ -203,7 +203,7 @@ title:: Diario personal
 	- The Car That Knew Too Much: Can a Machine Be Moral? | [[Bonnefon, Jean-Francois]]
 		- Nota: Interesante libro sobre un investigador que se adentró en el área de la moral y la ética de los coches autónomos. No solo se aprende de los temas morales y los desafíos que involucran, sino también, de cómo es la vida de un investigador.
 - 20/01/2022
-	- Two Reasons Why You Found Learning Haskell Hard https://schooloffp.co/2020/12/27/two-reasons-why-you-found-learning-haskell-hard.html | #programaciónfuncional #Haskell
+	- Two Reasons Why You Found Learning Haskell Hard https://schooloffp.co/2020/12/27/two-reasons-why-you-found-learning-haskell-hard.html | #programación-funcional #Haskell
 		- Nota: En este breve artículo se explica el porqué es difícil aprender Haskell y, lo contrapone, con el estilo imperativo (mostrando algunos ejemplos de código).
 	- How to Teach Mathematical Disciplines for IT Specialties https://cacm.acm.org/blogs/blog-cacm/257923-how-to-teach-mathematical-disciplines-for-it-specialties/fulltext | [[Sukhov, Andrei]]
 		- Nota: Una propuesta sobre las áreas matemáticas que necesita un informático, y cómo estas, pueden ser de utilidad para construir herramientas.
