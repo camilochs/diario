@@ -1,7 +1,7 @@
 # Cálculo lambda
 - (_Cálculo lambda / Lambda calculus_) - Es un [[Modelo de computación]] que representa funciones computable, que puede simular una [[Máquina de Turing]], por ello se consideran equivalente. Originalmente propuesto por [[Church, Alonzo]] en el artículo _A set of postulates for the foundation of logic_ en 1932. Se puede dividir en dos categorías principales: libre de tipos y con tipos. El primero fue presentado por el mismo Church en el artículo _An unsolvable problem of elementary number theory_ en 1936; el segundo, se incorpora la noción de añadir un tipo a una expresión, que son restricciones, se considera el fundamento teórico de la [[Programación funcional]] y ha influenciado a lenguajes como [[Haskell]]. 
   
-  Su influencia no solo se reduce a lenguajes de programación funcionales; algunas de sus características han sido recogidas en las últimas versiones de [[Lenguajes imperativos]], tan populares como [[C++]], [[Java]] y [[Python]], al añadir funciones anónimas, que son construcciones típicas del cálculo lambda.
+  Su influencia no solo se reduce a lenguajes de programación funcionales; algunas de sus características han sido recogidas en las últimas versiones de #[[Lenguajes imperativos]], tan populares como [[C++]], [[Java]] y [[Python]], al añadir funciones anónimas, que son construcciones típicas del cálculo lambda.
   
   Véase: 
   
