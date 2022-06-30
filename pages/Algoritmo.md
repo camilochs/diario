@@ -10,4 +10,4 @@
 	  Para el estudio sobre análisis de algoritmo, puede ver:
 	- Sedgewick, Robert, y Philippe Flajolet. An Introduction to the Analysis of Algorithms. 2nd ed, Addison-Wesley, 2013.
 	- Y, en cuanto a la metodología del diseño de algoritmos, puede revisar:
-	- Levitin, Anany. Introduction to the Design \& Analysis of Algorithms. 3rd ed, Pearson, 2012.
+		- Levitin, Anany. Introduction to the Design \& Analysis of Algorithms. 3rd ed, Pearson, 2012.
