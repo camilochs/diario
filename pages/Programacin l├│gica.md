@@ -1,2 +1,0 @@
-# Programación lógica
-

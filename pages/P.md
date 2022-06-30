@@ -3,9 +3,9 @@
 - [[Programa]]
 - [[Programación funcional]]
 - [[Python]]
-- #pruebas
-- #[[Programación orientada a objetos]]
-- #[[Programación lógica]]
-- #[[Programación imperativa]]
-- #[[Premio Turing]]
-- #Proceso
+- pruebas
+- [[Programación orientada a objetos]]
+- [[Programación lógica]]
+- [[Programación imperativa]]
+- [[Premio Turing]]
+- [[Proceso]]
