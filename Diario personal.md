@@ -1,6 +1,9 @@
 title:: Diario personal
-[[Tue, 28-06-2022]]
 
+- [[Wed, 29-06-2022]]
+	- DONE  Leer el paper de movilidad (bycicles) con Pato
+	-
+- [[Tue, 28-06-2022]]
 	- TODO  Rotar el slider de la web STN.
 	- TODO Hacer al menos 3 slides de la presentación del PhD en LaTeX.
 	- TODO Leer al menos 10 páginas del libro de Teoría de juegos.
