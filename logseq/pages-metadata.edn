@@ -1,0 +1,982 @@
+[{:block/name "\"caterine, christopher l.\"",
+  :block/created-at 1656332977142,
+  :block/updated-at 1656332977142}
+ {:block/name "\"keshav, s.\"",
+  :block/created-at 1656326690175,
+  :block/updated-at 1656326690175}
+ {:block/name "2022-05-07t21_50_45",
+  :block/created-at 1656063942331,
+  :block/updated-at 1656063942331}
+ {:block/name "26-02-2022",
+  :block/created-at 1651494648547,
+  :block/updated-at 1651494648547}
+ {:block/name "a",
+  :block/created-at 1644843240331,
+  :block/updated-at 1656595095591}
+ {:block/name "abelson, harold",
+  :block/created-at 1656326690875,
+  :block/updated-at 1656326690875}
+ {:block/name "ahmed, awadelrahman m. a.",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "aho, alfred",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "algol-60",
+  :block/created-at 1656594727293,
+  :block/updated-at 1656594727293}
+ {:block/name "algoritmo",
+  :block/created-at 1656594727292,
+  :block/updated-at 1656595378687}
+ {:block/name "alonso, josé a.",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "an introduction to quantum machine learning",
+  :block/created-at 1656326688623,
+  :block/updated-at 1656326688623}
+ {:block/name "apl",
+  :block/created-at 1656594727292,
+  :block/updated-at 1656594727292}
+ {:block/name "aplicacin",
+  :block/created-at 1656594727282,
+  :block/updated-at 1656594727282}
+ {:block/name "aplicación",
+  :block/created-at 1656594727293,
+  :block/updated-at 1656594727293}
+ {:block/name "arendt, hannah",
+  :block/created-at 1651787489027,
+  :block/updated-at 1651787489027}
+ {:block/name "ariely, daniel",
+  :block/created-at 1656326689213,
+  :block/updated-at 1656326689213}
+ {:block/name "artificial intelligence",
+  :block/created-at 1656326690392,
+  :block/updated-at 1656326690392}
+ {:block/name "b",
+  :block/created-at 1644843240331,
+  :block/updated-at 1656594897722}
+ {:block/name "backus, john",
+  :block/created-at 1656594727605,
+  :block/updated-at 1656594727605}
+ {:block/name "backusjohn",
+  :block/created-at 1656594727625,
+  :block/updated-at 1656594727625}
+ {:block/name "base de datos",
+  :block/created-at 1656594727604,
+  :block/updated-at 1656594727604}
+ {:block/name "bennamoun, mohammed",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "biamonte, jacob",
+  :block/created-at 1656326690059,
+  :block/updated-at 1656326690059}
+ {:block/name "bloqueo mutuo",
+  :block/created-at 1656594727605,
+  :block/updated-at 1656594727605}
+ {:block/name "bnf",
+  :block/created-at 1656594727604,
+  :block/updated-at 1656594727604}
+ {:block/name "bonnefon, jean-francois",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "book",
+  :block/created-at 1656326689216,
+  :block/updated-at 1656326689216}
+ {:block/name "bruderer, herbert",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "bunge, mario",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "c",
+  :block/created-at 1644843240331,
+  :block/updated-at 1656594981720}
+ {:block/name "c++",
+  :block/created-at 1656332924432,
+  :block/updated-at 1656332924432}
+ {:block/name "card",
+  :block/created-at 1651494487013,
+  :block/updated-at 1651494487013}
+ {:block/name "caterine, christopher l.",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "chacón sartori, camilo",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "chen, valerie",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "church, alonzo",
+  :block/created-at 1656332924435,
+  :block/updated-at 1656332924435}
+ {:block/name "churchalonzo",
+  :block/created-at 1656594727718,
+  :block/updated-at 1656594727718}
+ {:block/name "ciencia",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "cluster",
+  :block/created-at 1656594727751,
+  :block/updated-at 1656594727751}
+ {:block/name "complejidad computacional",
+  :block/created-at 1656594728063,
+  :block/updated-at 1656594728063}
+ {:block/name "complejidadcomputacional",
+  :block/created-at 1656594728319,
+  :block/updated-at 1656594728319}
+ {:block/name "computacin",
+  :block/created-at 1656594727753,
+  :block/updated-at 1656594727753}
+ {:block/name "computador",
+  :block/created-at 1656594727734,
+  :block/updated-at 1656594727734}
+ {:block/name "computational thinking education",
+  :block/created-at 1656326690950,
+  :block/updated-at 1656326690950}
+ {:block/name "concurrencia",
+  :block/created-at 1656594727579,
+  :block/updated-at 1656594727579}
+ {:block/name "contents",
+  :block/created-at 1653339006634,
+  :block/updated-at 1653339006634}
+ {:block/name "coq",
+  :block/created-at 1656594727740,
+  :block/updated-at 1656594727740}
+ {:block/name "csp",
+  :block/created-at 1656594727711,
+  :block/updated-at 1656594727711}
+ {:block/name "cálculo lambda",
+  :block/created-at 1656332924439,
+  :block/updated-at 1656595343343}
+ {:block/name "d",
+  :block/created-at 1656594727775,
+  :block/updated-at 1656596089413}
+ {:block/name "daemon",
+  :block/created-at 1656594727763,
+  :block/updated-at 1656594727763}
+ {:block/name "davis, martin",
+  :block/created-at 1656594727772,
+  :block/updated-at 1656594727772}
+ {:block/name "davismartin",
+  :block/created-at 1656594727786,
+  :block/updated-at 1656594727786}
+ {:block/name "deadlock",
+  :block/created-at 1656594727772,
+  :block/updated-at 1656594727772}
+ {:block/name "deep learning",
+  :block/created-at 1651493260228,
+  :block/updated-at 1651493260228}
+ {:block/name "demonio",
+  :block/created-at 1656594727763,
+  :block/updated-at 1656594727763}
+ {:block/name "diario personal",
+  :block/created-at 1656332976552,
+  :block/updated-at 1656593982257}
+ {:block/name "diccionario de informática",
+  :block/created-at 1656594727976,
+  :block/updated-at 1656594828118}
+ {:block/name "dijkstra, edsger w.",
+  :block/created-at 1656594727774,
+  :block/updated-at 1656594727774}
+ {:block/name "dijkstraedsger w",
+  :block/created-at 1656594727871,
+  :block/updated-at 1656594727871}
+ {:block/name "dividir para conquistar",
+  :block/created-at 1656594727774,
+  :block/updated-at 1656594727774}
+ {:block/name "dividirpara conquistar",
+  :block/created-at 1656594728324,
+  :block/updated-at 1656594728324}
+ {:block/name "doing",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "done",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "e",
+  :block/created-at 1656594727855,
+  :block/updated-at 1656595113763}
+ {:block/name "economía conductual",
+  :block/created-at 1656326689218,
+  :block/updated-at 1656326689218}
+ {:block/name "entrevista a patricio reyes",
+  :block/created-at 1656593868201,
+  :block/updated-at 1656593868201}
+ {:block/name "entrevistas podcast",
+  :block/created-at 1656149045097,
+  :block/updated-at 1656149045097}
+ {:block/name "epicteto",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "escribir",
+  :block/created-at 1656332976469,
+  :block/updated-at 1656332976469}
+ {:block/name "escritura",
+  :block/created-at 1655937688596,
+  :block/updated-at 1655937688596}
+ {:block/name "español",
+  :block/created-at 1656326689214,
+  :block/updated-at 1656326689214}
+ {:block/name "especificación",
+  :block/created-at 1656594727582,
+  :block/updated-at 1656595548610}
+ {:block/name "ethic",
+  :block/created-at 1656326690397,
+  :block/updated-at 1656326690397}
+ {:block/name "ethics of artificial intelligence",
+  :block/created-at 1656326690446,
+  :block/updated-at 1656326690446}
+ {:block/name "eur. j. oper. res.",
+  :block/created-at 1656326689018,
+  :block/updated-at 1656326689018}
+ {:block/name "f",
+  :block/created-at 1656594727864,
+  :block/updated-at 1656606632418}
+ {:block/name "fauvel, john",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "favorites",
+  :block/created-at 1651494487013,
+  :block/updated-at 1651494487013}
+ {:block/name "filosofía",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "flood, raymond",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "fri, 06-05-2022",
+  :block/created-at 1651932091220,
+  :block/updated-at 1651932091220}
+ {:block/name "fri, 13-05-2022",
+  :block/created-at 1653338926326,
+  :block/updated-at 1653338926326}
+ {:block/name "fri, 22-04-2022",
+  :block/created-at 1653338926345,
+  :block/updated-at 1653338926345}
+ {:block/name "fri, 24-06-2022",
+  :block/created-at 1656021602248,
+  :block/updated-at 1656021602248}
+ {:block/name "fri, 25-02-2022",
+  :block/created-at 1645747200000,
+  :block/updated-at 1645747200000}
+ {:block/name "funcin computable",
+  :block/created-at 1656594728329,
+  :block/updated-at 1656594728329}
+ {:block/name "funcional",
+  :block/created-at 1656594727864,
+  :block/updated-at 1656594727864}
+ {:block/name "función computable",
+  :block/created-at 1656594727752,
+  :block/updated-at 1656594727752}
+ {:block/name "g",
+  :block/created-at 1656594727971,
+  :block/updated-at 1656595660574}
+ {:block/name "geometría computacional",
+  :block/created-at 1656594728042,
+  :block/updated-at 1656595686290}
+ {:block/name "gordon, rachel",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "gosling, emily",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "gramtica de libre contexto",
+  :block/created-at 1656594728053,
+  :block/updated-at 1656594728053}
+ {:block/name "gramática de libre contexto",
+  :block/created-at 1656594728041,
+  :block/updated-at 1656594728041}
+ {:block/name "gregg, john r.",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "guo, yulan",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "gödel, kurt",
+  :block/created-at 1656332924602,
+  :block/updated-at 1656332924602}
+ {:block/name "h",
+  :block/created-at 1656594727971,
+  :block/updated-at 1656595041667}
+ {:block/name "hamilton, william l.",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "hardware",
+  :block/created-at 1656594727733,
+  :block/updated-at 1656594727733}
+ {:block/name "haskell",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "hoare, c. a. r.",
+  :block/created-at 1656594728074,
+  :block/updated-at 1656595593945}
+ {:block/name "hoarec",
+  :block/created-at 1656594728194,
+  :block/updated-at 1656606675281}
+ {:block/name "how to read a paper",
+  :block/created-at 1656326690742,
+  :block/updated-at 1656326690742}
+ {:block/name "i",
+  :block/created-at 1656594727971,
+  :block/updated-at 1656595966451}
+ {:block/name "idea",
+  :block/created-at 1655937954648,
+  :block/updated-at 1655937954648}
+ {:block/name "imperativo",
+  :block/created-at 1656594728090,
+  :block/updated-at 1656594728090}
+ {:block/name "implementación",
+  :block/created-at 1656594727581,
+  :block/updated-at 1656594727581}
+ {:block/name "in-progress",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "informtica",
+  :block/created-at 1656594728349,
+  :block/updated-at 1656594728349}
+ {:block/name "informática",
+  :block/created-at 1656594727750,
+  :block/updated-at 1656594727750}
+ {:block/name "inglés",
+  :block/created-at 1656326688606,
+  :block/updated-at 1656326688606}
+ {:block/name "inteligencia artificial",
+  :block/created-at 1656594728089,
+  :block/updated-at 1656594728089}
+ {:block/name "inteligenciaartificial",
+  :block/created-at 1656594728110,
+  :block/updated-at 1656594728110}
+ {:block/name "interoperabilidad",
+  :block/created-at 1656594728090,
+  :block/updated-at 1656594728090}
+ {:block/name "introduction to recursive programming",
+  :block/created-at 1656326690803,
+  :block/updated-at 1656326690803}
+ {:block/name "j",
+  :block/created-at 1656594727971,
+  :block/updated-at 1656596050947}
+ {:block/name "jacobson, ivar",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "java",
+  :block/created-at 1656332924432,
+  :block/updated-at 1656332924432}
+ {:block/name "java bytecode",
+  :block/created-at 1656594728124,
+  :block/updated-at 1656594728124}
+ {:block/name "javabytecode",
+  :block/created-at 1656594728170,
+  :block/updated-at 1656594728170}
+ {:block/name "jdk",
+  :block/created-at 1656594728116,
+  :block/updated-at 1656594728116}
+ {:block/name "joyner, jack",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "jvm",
+  :block/created-at 1656594728123,
+  :block/updated-at 1656595758418}
+ {:block/name "k",
+  :block/created-at 1656594727970,
+  :block/updated-at 1656606622693}
+ {:block/name "karimi-mamaghan, amir mohammad",
+  :block/created-at 1656326688996,
+  :block/updated-at 1656326688996}
+ {:block/name "karimi-mamaghan, maryam",
+  :block/created-at 1656326688989,
+  :block/updated-at 1656326688989}
+ {:block/name "keshav, s. ",
+  :block/created-at 1656326690734,
+  :block/updated-at 1656326690734}
+ {:block/name "kim, joon sik",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "kladov, aleksey",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "knuth, donald",
+  :block/created-at 1656594727632,
+  :block/updated-at 1656594727632}
+ {:block/name "knuthdonald",
+  :block/created-at 1656594728176,
+  :block/updated-at 1656594728176}
+ {:block/name "kong, siu-cheung",
+  :block/created-at 1656326690874,
+  :block/updated-at 1656326690874}
+ {:block/name "krakovsky, marina",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "l",
+  :block/created-at 1656594727970,
+  :block/updated-at 1656595513849}
+ {:block/name "landin, peter",
+  :block/created-at 1656594728192,
+  :block/updated-at 1656594728192}
+ {:block/name "landinpeter",
+  :block/created-at 1656594728211,
+  :block/updated-at 1656594728211}
+ {:block/name "las trampas del deseo",
+  :block/created-at 1656326689643,
+  :block/updated-at 1656326689643}
+ {:block/name "later",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "lawson, harold \"bud\"",
+  :block/created-at 1656332976518,
+  :block/updated-at 1656332976518}
+ {:block/name
+  "leading to much wasted effort. this article outlines a practical and efficient three-pass method for reading research papers. i also describe how to use this method to do a literature survey.",
+  :block/created-at 1656326690286,
+  :block/updated-at 1656326690286}
+ {:block/name
+  "leading to much wasted effort. this article outlines a practical and efficient three-pass method for reading research papers. i also describe how to use this method to do a literature survey._",
+  :block/created-at 1656326690251,
+  :block/updated-at 1656326690251}
+ {:block/name "lecturas",
+  :block/created-at 1655937875166,
+  :block/updated-at 1655937894653}
+ {:block/name "leer",
+  :block/created-at 1651787489029,
+  :block/updated-at 1651787489029}
+ {:block/name "lenguaje de programación",
+  :block/created-at 1656594727619,
+  :block/updated-at 1656595816116}
+ {:block/name "lenguajes de especificación",
+  :block/created-at 1656607232255,
+  :block/updated-at 1656607232255}
+ {:block/name "lenguajes imperativos",
+  :block/created-at 1656332924433,
+  :block/updated-at 1656332924433}
+ {:block/name "lenguajesde especificaci├│n",
+  :block/created-at 1656594728293,
+  :block/updated-at 1656594728293}
+ {:block/name "lenguajesimperativos",
+  :block/created-at 1656594728299,
+  :block/updated-at 1656594728299}
+ {:block/name "levi-montalcini, rita",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "lgica bivalente",
+  :block/created-at 1656594728315,
+  :block/updated-at 1656594728315}
+ {:block/name "lgica booleana",
+  :block/created-at 1656594728303,
+  :block/updated-at 1656594728303}
+ {:block/name "lgica de hoare",
+  :block/created-at 1656594728358,
+  :block/updated-at 1656594728358}
+ {:block/name "lgico",
+  :block/created-at 1656594728837,
+  :block/updated-at 1656594728837}
+ {:block/name "li, jeffrey",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "libro",
+  :block/created-at 1656332976470,
+  :block/updated-at 1656332976470}
+ {:block/name "lickfold, casey",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "literatura",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "lloyd, seth",
+  :block/created-at 1656326690069,
+  :block/updated-at 1656326690069}
+ {:block/name "lógica bivalente",
+  :block/created-at 1656594728245,
+  :block/updated-at 1656594728245}
+ {:block/name "lógica booleana",
+  :block/created-at 1656594728245,
+  :block/updated-at 1656594728245}
+ {:block/name "lógica clásica",
+  :block/created-at 1656594728245,
+  :block/updated-at 1656594728245}
+ {:block/name "lógica de hoare",
+  :block/created-at 1656594728193,
+  :block/updated-at 1656594728193}
+ {:block/name "lógica difusa",
+  :block/created-at 1656594728244,
+  :block/updated-at 1656595929102}
+ {:block/name "lógico",
+  :block/created-at 1656594728246,
+  :block/updated-at 1656594728246}
+ {:block/name "m",
+  :block/created-at 1656594727970,
+  :block/updated-at 1656595999678}
+ {:block/name "machine learning",
+  :block/created-at 1656326688617,
+  :block/updated-at 1656326688617}
+ {:block/name
+  "machine learning at the service of meta-heuristics for solving combinatorial optimization problems: a state-of-the-art",
+  :block/created-at 1656326689050,
+  :block/updated-at 1656326689050}
+ {:block/name "machinelearning",
+  :block/created-at 1656594728382,
+  :block/updated-at 1656594728382}
+ {:block/name "matthew liao, s",
+  :block/created-at 1656326690390,
+  :block/updated-at 1656326690390}
+ {:block/name "meseguer, pedro",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "metaheuristics",
+  :block/created-at 1656326689037,
+  :block/updated-at 1656326689037}
+ {:block/name "meyer, patrick",
+  :block/created-at 1656326688995,
+  :block/updated-at 1656326688995}
+ {:block/name "modelo de computación",
+  :block/created-at 1656332924437,
+  :block/updated-at 1656595259111}
+ {:block/name "mohammadi, mehrdad",
+  :block/created-at 1656326688993,
+  :block/updated-at 1656326688993}
+ {:block/name "mon, 02-05-2022",
+  :block/created-at 1651494635192,
+  :block/updated-at 1651494635192}
+ {:block/name "mon, 09-05-2022",
+  :block/created-at 1653338926332,
+  :block/updated-at 1653338926332}
+ {:block/name "mon, 16-05-2022",
+  :block/created-at 1653338926323,
+  :block/updated-at 1653338926323}
+ {:block/name "mon, 23-05-2022",
+  :block/created-at 1653339063914,
+  :block/updated-at 1653339063914}
+ {:block/name "mon, 27-06-2022",
+  :block/created-at 1656324620765,
+  :block/updated-at 1656324620765}
+ {:block/name "moore, g. e.",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "mquina de turing",
+  :block/created-at 1656594728434,
+  :block/updated-at 1656594728434}
+ {:block/name "mquina virtual",
+  :block/created-at 1656594728457,
+  :block/updated-at 1656594728457}
+ {:block/name "máquina de turing",
+  :block/created-at 1656332924435,
+  :block/updated-at 1656332924435}
+ {:block/name "máquina virtual",
+  :block/created-at 1656594728162,
+  :block/updated-at 1656594728162}
+ {:block/name "n",
+  :block/created-at 1656594727969,
+  :block/updated-at 1656596007672}
+ {:block/name "naur, peter",
+  :block/created-at 1656594727633,
+  :block/updated-at 1656594727633}
+ {:block/name "naurpeter",
+  :block/created-at 1656594728453,
+  :block/updated-at 1656594728453}
+ {:block/name "ng, pan-wei",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "nosql",
+  :block/created-at 1656594727669,
+  :block/updated-at 1656594727669}
+ {:block/name "now",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "o",
+  :block/created-at 1656594727969,
+  :block/updated-at 1656596259023}
+ {:block/name "objetos",
+  :block/created-at 1656594728026,
+  :block/updated-at 1656594728026}
+ {:block/name "optimization",
+  :block/created-at 1656326689032,
+  :block/updated-at 1656326689032}
+ {:block/name "ordenador",
+  :block/created-at 1656594728475,
+  :block/updated-at 1656594728475}
+ {:block/name "ordenamiento rápido",
+  :block/created-at 1656594728476,
+  :block/updated-at 1656596271891}
+ {:block/name "orientado a objetos",
+  :block/created-at 1656594728476,
+  :block/updated-at 1656594728476}
+ {:block/name "p",
+  :block/created-at 1656594727969,
+  :block/updated-at 1656595872690}
+ {:block/name "pancotti, nicola",
+  :block/created-at 1656326690062,
+  :block/updated-at 1656326690062}
+ {:block/name "paper",
+  :block/created-at 1656326688609,
+  :block/updated-at 1656326688609}
+ {:block/name "paper de prueba",
+  :block/created-at 1656326690198,
+  :block/updated-at 1656326690198}
+ {:block/name "papert, seymour",
+  :block/created-at 1656326690943,
+  :block/updated-at 1656326690943}
+ {:block/name "paradigmas de la programación",
+  :block/created-at 1656594728228,
+  :block/updated-at 1656594728228}
+ {:block/name "parra, nicanor",
+  :block/created-at 1653338926322,
+  :block/updated-at 1653338926322}
+ {:block/name "patricio reyes",
+  :block/created-at 1656149045095,
+  :block/updated-at 1656149045095}
+ {:block/name "pessoa, fernando",
+  :block/created-at 1651578170939,
+  :block/updated-at 1651578170939}
+ {:block/name "petruccione, f",
+  :block/created-at 1656326688604,
+  :block/updated-at 1656326688604}
+ {:block/name "phd",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "philosophy",
+  :block/created-at 1656326690398,
+  :block/updated-at 1656326690398}
+ {:block/name "piglia, ricardo",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "planeta",
+  :block/created-at 1656326689214,
+  :block/updated-at 1656326689214}
+ {:block/name "plumb, gregory",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "premio turing",
+  :block/created-at 1656594728190,
+  :block/updated-at 1656594728190}
+ {:block/name "premioturing",
+  :block/created-at 1656594728582,
+  :block/updated-at 1656594728582}
+ {:block/name "principiosdeprogramación",
+  :block/created-at 1656332976469,
+  :block/updated-at 1656332976469}
+ {:block/name "proceso",
+  :block/created-at 1656594728493,
+  :block/updated-at 1656594728493}
+ {:block/name "programa",
+  :block/created-at 1656594727582,
+  :block/updated-at 1656595435540}
+ {:block/name "programacin l├│gica",
+  :block/created-at 1656594728593,
+  :block/updated-at 1656594728593}
+ {:block/name "programación funcional",
+  :block/created-at 1656332924434,
+  :block/updated-at 1656332924434}
+ {:block/name "programación imperativa",
+  :block/created-at 1656594728343,
+  :block/updated-at 1656594728343}
+ {:block/name "programación lógica",
+  :block/created-at 1656594728492,
+  :block/updated-at 1656594728492}
+ {:block/name "programación orientada a objetos",
+  :block/created-at 1656594728491,
+  :block/updated-at 1656594728491}
+ {:block/name "programación-funcional",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "programas",
+  :block/created-at 1656594728646,
+  :block/updated-at 1656594728646}
+ {:block/name "programming",
+  :block/created-at 1656326690797,
+  :block/updated-at 1656326690797}
+ {:block/name "pruebas",
+  :block/created-at 1656594728103,
+  :block/updated-at 1656594728103}
+ {:block/name "prólogo libro andros",
+  :block/created-at 1656027635035,
+  :block/updated-at 1656079949477}
+ {:block/name "psicología cognitiva",
+  :block/created-at 1656326689217,
+  :block/updated-at 1656326689217}
+ {:block/name "python",
+  :block/created-at 1656332924431,
+  :block/updated-at 1656332924431}
+ {:block/name "q",
+  :block/created-at 1656594727968,
+  :block/updated-at 1656595986843}
+ {:block/name "quantum computing",
+  :block/created-at 1656326688615,
+  :block/updated-at 1656326688615}
+ {:block/name "quantum machine learning",
+  :block/created-at 1656326688611,
+  :block/updated-at 1656326688611}
+ {:block/name "quicksort",
+  :block/created-at 1656594728193,
+  :block/updated-at 1656595612934}
+ {:block/name "r",
+  :block/created-at 1656594727968,
+  :block/updated-at 1656606641615}
+ {:block/name "rabbani, rosa",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "ramón y cajal, santiago",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "reading",
+  :block/created-at 1656326690800,
+  :block/updated-at 1656326690800}
+ {:block/name "reading list",
+  :block/created-at 1656326690114,
+  :block/updated-at 1656326690114}
+ {:block/name "readme",
+  :block/created-at 1644843240331,
+  :block/updated-at 1651607676363}
+ {:block/name "rebentrost, patrick",
+  :block/created-at 1656326690063,
+  :block/updated-at 1656326690063}
+ {:block/name "recursive",
+  :block/created-at 1656326690798,
+  :block/updated-at 1656326690798}
+ {:block/name "reglas de derivación",
+  :block/created-at 1656594728228,
+  :block/updated-at 1656594728228}
+ {:block/name "reyes, patricio",
+  :block/created-at 1656593868198,
+  :block/updated-at 1656593868198}
+ {:block/name "root-bernstein, michelle",
+  :block/created-at 1651493260228,
+  :block/updated-at 1651493260228}
+ {:block/name "root-bernstein, robert",
+  :block/created-at 1651493260227,
+  :block/updated-at 1651493260227}
+ {:block/name "s",
+  :block/created-at 1656594727967,
+  :block/updated-at 1656596035630}
+ {:block/name "sat, 07-05-2022",
+  :block/created-at 1653338926336,
+  :block/updated-at 1653338926336}
+ {:block/name "sat, 14-05-2022",
+  :block/created-at 1653338926325,
+  :block/updated-at 1653338926325}
+ {:block/name "sat, 19-02-2022",
+  :block/created-at 1645228800000,
+  :block/updated-at 1645228800000}
+ {:block/name "sat, 25-06-2022",
+  :block/created-at 1656117472363,
+  :block/updated-at 1656165253144}
+ {:block/name "schuld, m",
+  :block/created-at 1656326688598,
+  :block/updated-at 1656326688598}
+ {:block/name "schulzrinne, henning",
+  :block/created-at 1656326689941,
+  :block/updated-at 1656326689941}
+ {:block/name "semntica",
+  :block/created-at 1656594728868,
+  :block/updated-at 1656594728868}
+ {:block/name "semántica",
+  :block/created-at 1656594728229,
+  :block/updated-at 1656594728229}
+ {:block/name "seres humanos",
+  :block/created-at 1656326689619,
+  :block/updated-at 1656326689619}
+ {:block/name "servicio",
+  :block/created-at 1656594727878,
+  :block/updated-at 1656594727878}
+ {:block/name "shakarian, paulo",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "sinayskiy, i",
+  :block/created-at 1656326688601,
+  :block/updated-at 1656326688601}
+ {:block/name "sintaxis",
+  :block/created-at 1656594728230,
+  :block/updated-at 1656594728230}
+ {:block/name "sistema de tipos",
+  :block/created-at 1656594728027,
+  :block/updated-at 1656594728027}
+ {:block/name "sistema operativo",
+  :block/created-at 1656594727732,
+  :block/updated-at 1656595064158}
+ {:block/name "sistemade tipos",
+  :block/created-at 1656594728893,
+  :block/updated-at 1656594728893}
+ {:block/name "sistemas distribuidos",
+  :block/created-at 1656594728715,
+  :block/updated-at 1656596302578}
+ {:block/name "software",
+  :block/created-at 1656594728646,
+  :block/updated-at 1656594728646}
+ {:block/name "softwareengineering",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "sql",
+  :block/created-at 1656594727669,
+  :block/updated-at 1656594727669}
+ {:block/name "sukhov, andrei",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "sun, 08-05-2022",
+  :block/created-at 1653338926334,
+  :block/updated-at 1653338926334}
+ {:block/name "sun, 15-05-2022",
+  :block/created-at 1653338926324,
+  :block/updated-at 1653338926324}
+ {:block/name "sun, 20-02-2022",
+  :block/created-at 1645315200000,
+  :block/updated-at 1645315200000}
+ {:block/name "sun, 26-06-2022",
+  :block/created-at 1656198911567,
+  :block/updated-at 1656198911567}
+ {:block/name "sánchez, manuel rubio",
+  :block/created-at 1656326690794,
+  :block/updated-at 1656326690794}
+ {:block/name "t",
+  :block/created-at 1656594727967,
+  :block/updated-at 1656595420478}
+ {:block/name "talbi, el-ghazali",
+  :block/created-at 1656326688997,
+  :block/updated-at 1656326688997}
+ {:block/name "talwalkar, ameet",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "tarea",
+  :block/created-at 1656594728572,
+  :block/updated-at 1656595425832}
+ {:block/name "templates",
+  :block/created-at 1656326690140,
+  :block/updated-at 1656326690140}
+ {:block/name "teora de la computabilidad",
+  :block/created-at 1656594728754,
+  :block/updated-at 1656594728754}
+ {:block/name "teoría de la computabilidad",
+  :block/created-at 1656594727580,
+  :block/updated-at 1656594727580}
+ {:block/name "thagard, paul",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "thu, 05-05-2022",
+  :block/created-at 1651932091222,
+  :block/updated-at 1651932091222}
+ {:block/name "thu, 12-05-2022",
+  :block/created-at 1653338926327,
+  :block/updated-at 1653338926327}
+ {:block/name "thu, 23-06-2022",
+  :block/created-at 1655937767382,
+  :block/updated-at 1655937767382}
+ {:block/name "thu, 30-06-2022",
+  :block/created-at 1656593868108,
+  :block/updated-at 1656593868108}
+ {:block/name "tla",
+  :block/created-at 1656594728740,
+  :block/updated-at 1656594728740}
+ {:block/name "tla+",
+  :block/created-at 1656594728028,
+  :block/updated-at 1656594728028}
+ {:block/name "todo",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "tolerancia a fallos",
+  :block/created-at 1656594728688,
+  :block/updated-at 1656594728688}
+ {:block/name "tue, 03-05-2022",
+  :block/created-at 1651576851159,
+  :block/updated-at 1651576851159}
+ {:block/name "tue, 10-05-2022",
+  :block/created-at 1653338926330,
+  :block/updated-at 1653338926330}
+ {:block/name "tue, 15-02-2022",
+  :block/created-at 1644883200000,
+  :block/updated-at 1644883200000}
+ {:block/name "tue, 17-05-2022",
+  :block/created-at 1653339041239,
+  :block/updated-at 1653339041239}
+ {:block/name "tue, 24-05-2022",
+  :block/created-at 1655937636479,
+  :block/updated-at 1655937636479}
+ {:block/name "tue, 28-06-2022",
+  :block/created-at 1656593894891,
+  :block/updated-at 1656593894891}
+ {:block/name "turing, alan",
+  :block/created-at 1656332924605,
+  :block/updated-at 1656332924605}
+ {:block/name "turingalan",
+  :block/created-at 1656594728758,
+  :block/updated-at 1656594728758}
+ {:block/name "u",
+  :block/created-at 1656594727967,
+  :block/updated-at 1656606607484}
+ {:block/name "ullman, jeffrey",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "unix",
+  :block/created-at 1656594727878,
+  :block/updated-at 1656594727878}
+ {:block/name "v",
+  :block/created-at 1656594727966,
+  :block/updated-at 1656596014870}
+ {:block/name "veličković, petar",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "verificacin formal",
+  :block/created-at 1656594728775,
+  :block/updated-at 1656594728775}
+ {:block/name "verificación formal",
+  :block/created-at 1656594728028,
+  :block/updated-at 1656594728028}
+ {:block/name "w",
+  :block/created-at 1656594727966,
+  :block/updated-at 1656596011110}
+ {:block/name "wait",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "waiting",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "ward, isaac ronald",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "wed, 04-05-2022",
+  :block/created-at 1651787489027,
+  :block/updated-at 1651787489027}
+ {:block/name "wed, 11-05-2022",
+  :block/created-at 1653338926329,
+  :block/updated-at 1653338926329}
+ {:block/name "wed, 16-02-2022",
+  :block/created-at 1644969600000,
+  :block/updated-at 1644969600000}
+ {:block/name "wed, 18-05-2022",
+  :block/created-at 1653339050997,
+  :block/updated-at 1653339050997}
+ {:block/name "wed, 22-06-2022",
+  :block/created-at 1655937652940,
+  :block/updated-at 1655937652940}
+ {:block/name "wed, 29-06-2022",
+  :block/created-at 1656593929558,
+  :block/updated-at 1656593929558}
+ {:block/name "weston, anthony",
+  :block/created-at 1653338926337,
+  :block/updated-at 1653338926337}
+ {:block/name "wiebe, nathan",
+  :block/created-at 1656326690065,
+  :block/updated-at 1656326690065}
+ {:block/name "wilson, robin",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "wing, jeanette",
+  :block/created-at 1656326690945,
+  :block/updated-at 1656326690945}
+ {:block/name "wittek, peter",
+  :block/created-at 1656326690060,
+  :block/updated-at 1656326690060}
+ {:block/name "writing technical articles",
+  :block/created-at 1656326689964,
+  :block/updated-at 1656326689964}
+ {:block/name "x",
+  :block/created-at 1656594727966,
+  :block/updated-at 1656596064924}
+ {:block/name "y",
+  :block/created-at 1656594727965,
+  :block/updated-at 1656606587245}
+ {:block/name "z",
+  :block/created-at 1656594727965,
+  :block/updated-at 1656596062052}
+ {:block/name "zadeh, lotfi",
+  :block/created-at 1656594728373,
+  :block/updated-at 1656594728373}
+ {:block/name "zadehlotfi",
+  :block/created-at 1656594728842, 
+  :block/updated-at 1656594728842}]
+
