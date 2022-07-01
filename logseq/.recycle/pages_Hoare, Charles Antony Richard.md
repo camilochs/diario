@@ -1,4 +1,4 @@
-# Hoare, C. A. R.
+- # Hoare, Charles Antony Richard
 - (Hoare, Charles Antony Richard) $$\bullet$$ Es un científico británico nacido en Sri Lanka en 1934. Realizó diversos aportes al área de algoritmos, lenguajes de programación y axiomatización de programas computacionales. Es conocido por ser el autor del algoritmo [[Quicksort]], la [[Lógica de Hoare]] y el lenguaje formal [[CSP]] (_Communicating sequential processes_). Este último fue presentado en un artículo que es, hasta nuestros días, uno de los más citados en la historia de la ciencia de la computación. 
   
   Lideró el equipo que creo el primer compilador comercial de [[ALGOL-60]] para la empresa Elliot Brothers, su primera versión apareció durante 1962; para este trabajo, antes —en 1961—, como anécdota él asistió junto a su equipo a un curso de capacitación en ALGOL-60, los instructores fueron: [[Landin, Peter]], [[Dijkstra, Edsger W.]] y  [[Naur, Peter]] los dos últimos ganadores del [[Premio Turing]]).
