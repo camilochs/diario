@@ -1,0 +1,11 @@
+# P
+- [[Paradigmas de la programación]]
+- [[Programa]]
+- [[Programación funcional]]
+- [[Python]]
+- pruebas
+- [[Programación orientada a objetos]]
+- [[Programación lógica]]
+- [[Programación imperativa]]
+- [[Premio Turing]]
+- [[Proceso]]

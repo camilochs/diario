@@ -1,0 +1,3 @@
+# lógico
+
+- [[Programación lógica]]

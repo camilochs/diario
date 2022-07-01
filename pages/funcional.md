@@ -1,0 +1,3 @@
+# funcional
+
+- [[Programación funcional]]

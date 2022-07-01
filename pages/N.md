@@ -1,0 +1,3 @@
+# N
+- [[Naur, Peter]]
+- NoSQL

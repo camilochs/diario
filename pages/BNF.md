@@ -1,0 +1,3 @@
+# BNF
+
+- (_Backus-Naur Form / Notación de Backus-Naur_) $$\bullet$$ Es un meta-lenguaje (o notación formal) para describir gramática libre contexto, es decir, lenguajes formales en donde se encuentra, por ejemplo, los lenguajes de programación. El primero en desarrollar fue [[Backus, John]] para describir las gramáticas libre de contextos creadas por Chomsky. Luego, [[Naur, Peter]] simplifico la sintaxis para el informe de ALGOL-60, en principio, Naur la llamo _Backus Normal Form_ (Forma normal de Backus), pero a sugerencia de [[Knuth, Donald]] se cambió el «Normal» por «Naur» para evitar confusiones, ya que no era una forma normal en el sentido de una forma normal de Chomsky.

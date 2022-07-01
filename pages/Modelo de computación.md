@@ -1,3 +1,2 @@
--
-# Modelo de computación
+- # Modelo de computación
 - (_Modelo de computación / Model of computation_) $$\bullet$$ Es una representación matemática de lo que se conoce como *computación. Presenta un sistema formal para explicar un mecanismo que resuelve un problema, a este se le conoce como algoritmo. En principio se originó en la primera parte del siglo XX en el trabajo de [[Turing, Alan]]( [[Máquina de Turing]] ), [[Church, Alonzo]] ( [[Cálculo lambda]] ), [[Gödel, Kurt]]. Permite comprender qué es computable y qué no, además de establecer sus límites.
