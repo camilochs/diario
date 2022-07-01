@@ -10,9 +10,6 @@
  {:block/name "26-02-2022",
   :block/created-at 1651494648547,
   :block/updated-at 1651494648547}
- {:block/name "30",
-  :block/created-at 1656328962695,
-  :block/updated-at 1656328962695}
  {:block/name "a",
   :block/created-at 1644843240331,
   :block/updated-at 1656595095591}
@@ -174,7 +171,7 @@
   :block/updated-at 1656594727763}
  {:block/name "diario personal",
   :block/created-at 1656332976552,
-  :block/updated-at 1656593982257}
+  :block/updated-at 1656657185397}
  {:block/name "diccionario de informática",
   :block/created-at 1656594727976,
   :block/updated-at 1656594828118}
@@ -316,15 +313,12 @@
  {:block/name "hoare, c",
   :block/created-at 1656656654735,
   :block/updated-at 1656656654735}
- {:block/name "hoare, c. a. r.",
-  :block/created-at 1656594728074,
-  :block/updated-at 1656595593945}
  {:block/name "hoare, c/ a",
   :block/created-at 1656656654738,
   :block/updated-at 1656656654738}
- {:block/name "hoare, c/ a/ r",
+ {:block/name "hoare, charles antony richard",
   :block/created-at 1656656654731,
-  :block/updated-at 1656656654731}
+  :block/updated-at 1656657380119}
  {:block/name "how to read a paper",
   :block/created-at 1656326690742,
   :block/updated-at 1656326690742}
@@ -685,9 +679,6 @@
  {:block/name "programación-funcional",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
- {:block/name "programaciónfuncional",
-  :block/created-at 1644843240331,
-  :block/updated-at 1644843240331}
  {:block/name "programas",
   :block/created-at 1656594728646,
   :block/updated-at 1656594728646}
@@ -869,8 +860,8 @@
   :block/created-at 1655937767382,
   :block/updated-at 1655937767382}
  {:block/name "thu, 30-06-2022",
-  :block/created-at 1656593868108,
-  :block/updated-at 1656593868108}
+  :block/created-at 1656657139494,
+  :block/updated-at 1656657139494}
  {:block/name "tla",
   :block/created-at 1656594728740,
   :block/updated-at 1656594728740}
