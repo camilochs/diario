@@ -1,5 +1,5 @@
 # Quicksort
-- (_Quicksort / [[Ordenamiento rápido]]_) $$\bullet$$ Es un algoritmo que permite ordenar elementos según un proceso de _particionamiento_ de los mismos. Cada nueva partición reduce el problema a uno más simple para ser resuelto, este proceso se mantiene de manera iterativa hasta que ya no es posible crear una partición más pequeña. En 1961, fue propuesto por [[Hoare, C. A. R.]]. 
+- (_Quicksort / [[Ordenamiento rápido]]_) $$\bullet$$ Es un algoritmo que permite ordenar elementos según un proceso de _particionamiento_ de los mismos. Cada nueva partición reduce el problema a uno más simple para ser resuelto, este proceso se mantiene de manera iterativa hasta que ya no es posible crear una partición más pequeña. En 1961, fue propuesto por [[Hoare, Charles Antony Richard]]. 
   
   Este algoritmo se encuentra dentro de la categoría de [[dividir para conquistar]]. En la actualidad es usado en el método sort() de los principales lenguajes de programación, aunque no el mismo propuesto por Hoare, dado que existen nuevas variantes que han obtenido un mejor rendimiento (menor tiempo de cómputo) en pruebas experimentales. 
   
