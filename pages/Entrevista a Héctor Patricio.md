@@ -1,4 +1,11 @@
 - Parte técnica:
--
+	- ¿Cómo surgió tu interés por la informática y, en particular, por la programación?
+	- ¿La universidad aún es importante en la enseñanza de la informática?
+	- ¿Qué opinas del dilema: calidad vs. eficiencia? ¿Cómo saber elegir una herramienta según el tipo de problema?
+	- ¿Qué es para ti ser un buen programador? ¿Es mejor un programador el que sabe muchos lenguajes? ¿Es necesario aprender a diseñar lenguajes para llegar a serlo?
+	- ¿Cuándo alguien se transforma en un ingeniero de software?
+	- ¿La informática es una ciencia o una ingeniería o algo más?
+	- ¿Cómo hacer un software escalable a millones de usuarios? ¿Qué se necesita saber?
+	- ¿Cómo saber que metodología de desarrollo es más adecuada para un problema y un equipo de trabajo?
 - Parte personal:
 	- ¿Cómo surgió la idea The Dojo MX?
