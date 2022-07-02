@@ -10,3 +10,5 @@
 	- ¿La informática se volverá multidisciplinar, es decir, los informáticos van a tener que saber de humanidades y de muchas otras áreas, sobre todo, con el avance de la IA?
 - Parte personal:
 	- ¿Cómo surgió la idea The Dojo MX?
+	- ¿Cómo ves el futuro de la programación con los sistemas de IA que generan código de manera automática?
+	- ¿Qué consejos le darías a alguien joven que quiera aprender informática?
