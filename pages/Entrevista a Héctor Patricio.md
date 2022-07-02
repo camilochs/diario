@@ -7,8 +7,9 @@
 	- ¿La informática es una ciencia o una ingeniería o algo más?
 	- ¿Cómo saber que metodología de desarrollo es más adecuada para un problema y un equipo de trabajo?
 	- ¿Cuál es tu stack de herramientas diario y por qué?
+	- ¿Cómo ves el futuro de la programación con los sistemas de IA que generan código de manera automática?
 	- ¿La informática se volverá multidisciplinar, es decir, los informáticos van a tener que saber de humanidades y de muchas otras áreas, sobre todo, con el avance de la IA?
 - Parte personal:
 	- ¿Cómo surgió la idea The Dojo MX?
-	- ¿Cómo ves el futuro de la programación con los sistemas de IA que generan código de manera automática?
+	- Sé de tu pasión por leer. ¿Qué libros podrías recomendar a nuestros oyentes? (General, no tiene por )
 	- ¿Qué consejos le darías a alguien joven que quiera aprender informática?
