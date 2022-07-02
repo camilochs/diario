@@ -6,6 +6,7 @@
 	- ¿Cuándo alguien se transforma en un ingeniero de software?
 	- ¿La informática es una ciencia o una ingeniería o algo más?
 	- ¿Cómo saber que metodología de desarrollo es más adecuada para un problema y un equipo de trabajo?
-	- ¿La informática se volverá multidisciplinar, es decir, los informáticos van a tener que saber de humanidades a medida que la IA avanza?
+	- ¿Cuál es tu stack de herramientas diario y por qué?
+	- ¿La informática se volverá multidisciplinar, es decir, los informáticos van a tener que saber de humanidades y de muchas otras áreas, sobre todo, con el avance de la IA?
 - Parte personal:
 	- ¿Cómo surgió la idea The Dojo MX?
