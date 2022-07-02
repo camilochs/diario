@@ -1,0 +1,4 @@
+- Parte técnica:
+-
+- Parte personal:
+	- ¿Cómo surgió la idea The Dojo MX?
