@@ -11,5 +11,5 @@
 	- ¿La informática se volverá multidisciplinar, es decir, los informáticos van a tener que saber de humanidades y de muchas otras áreas, sobre todo, con el avance de la IA?
 - Parte personal:
 	- ¿Cómo surgió la idea The Dojo MX?
-	- Sé de tu pasión por leer. ¿Qué libros podrías recomendar a nuestros oyentes? (General, no tiene por )
+	- Sé de tu pasión por leer. ¿Qué libros podrías recomendar a nuestros oyentes? (Los que quieras, no tiene que ser de informática).
 	- ¿Qué consejos le darías a alguien joven que quiera aprender informática?
