@@ -1,7 +1,9 @@
 title:: Diario personal
+[[Sat, 02-07-2022]]
 
+	- DOING Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 21900, objetivo: > 23000. #libro #escribir #principiosdeprogramación
 - [[Fri, 01-07-2022]]
-	- TODO  Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 21000, objetivo: > 21900. #libro #escribir #principiosdeprogramación
+	- DONE  Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 21000, objetivo: > 21900. #libro #escribir #principiosdeprogramación
 	- TODO Leer al menos 10 páginas del libro de Teoría de juegos.
 	- TODO Escribir al menos una página del artículo sobre filosofía de la informática.
 	- TODO Escribir 5 entradas al diccionario.
