@@ -1,7 +1,8 @@
 title:: Diario personal
-[[Sat, 02-07-2022]]
 
-	- DOING Avanzar en mi libro, escribir más de 1000 palabras. Palabras actuales: 21900, objetivo: > 23000. #libro #escribir #principiosdeprogramación
+-
+- [[Sat, 02-07-2022]]
+	- DONE Avanzar en mi libro, palabras actuales: 22180. #libro #escribir #principiosdeprogramación
 	- #idea Escribir un libro de algoritmos, explicando su historia y su parte técnica. Ensayo y técnico.
 	- [[Entrevista a Héctor Patricio]]
 - [[Fri, 01-07-2022]]
