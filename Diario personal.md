@@ -1,5 +1,8 @@
 title:: Diario personal
 
+- [[Mon, 04-07-2022]]
+	- Esta en una semana interesante pues voy a recibir la respuesta de varias cosas:
+		-
 - [[Sun, 03-07-2022]]
 	- Hoy me junté con Pato y Miguel (su amigo, matemático, de Chile)
 - [[Sat, 02-07-2022]]
