@@ -174,7 +174,7 @@
   :block/updated-at 1656594727763}
  {:block/name "diario personal",
   :block/created-at 1656332976552,
-  :block/updated-at 1656657185397}
+  :block/updated-at 1656925361168}
  {:block/name "diccionario de informática",
   :block/created-at 1656594727976,
   :block/updated-at 1656594828118}
@@ -202,6 +202,9 @@
  {:block/name "economía conductual",
   :block/created-at 1656326689218,
   :block/updated-at 1656326689218}
+ {:block/name "entrevista a héctor patricio",
+  :block/created-at 1656758621637,
+  :block/updated-at 1656759176779}
  {:block/name "entrevista a patricio reyes",
   :block/created-at 1656593868201,
   :block/updated-at 1656593868201}
@@ -538,6 +541,9 @@
  {:block/name "mon, 02-05-2022",
   :block/created-at 1651494635192,
   :block/updated-at 1651494635192}
+ {:block/name "mon, 04-07-2022",
+  :block/created-at 1656918034539,
+  :block/updated-at 1656918034539}
  {:block/name "mon, 09-05-2022",
   :block/created-at 1653338926332,
   :block/updated-at 1653338926332}
@@ -746,8 +752,8 @@
   :block/created-at 1656594727967,
   :block/updated-at 1656596035630}
  {:block/name "sat, 02-07-2022",
-  :block/created-at 1656712837457,
-  :block/updated-at 1656712837457}
+  :block/created-at 1656720000000,
+  :block/updated-at 1656720000000}
  {:block/name "sat, 07-05-2022",
   :block/created-at 1653338926336,
   :block/updated-at 1653338926336}
@@ -811,6 +817,9 @@
  {:block/name "sukhov, andrei",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "sun, 03-07-2022",
+  :block/created-at 1656805759272,
+  :block/updated-at 1656805759272}
  {:block/name "sun, 08-05-2022",
   :block/created-at 1653338926334,
   :block/updated-at 1653338926334}
