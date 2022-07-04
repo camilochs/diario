@@ -1,7 +1,7 @@
 title:: Diario personal
 
 - [[Mon, 04-07-2022]]
-	- Esta es una semana interesante pues voy a recibir las respuestas de varias cosas:
+	- En esta semana voy a recibir las respuestas de varias cosas:
 		- Si paso la preselección mi relato corto en Inspira ciencia.
 			- Rechazado.
 		- ¿Algunos de los dos talleres enviados a la PyCon fue seleccionado?
