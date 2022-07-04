@@ -1,7 +1,7 @@
 title:: Diario personal
 
 - [[Sun, 03-07-2022]]
-	-
+	- Hoy me junté con Pato y Miguel (su amigo, matemático, de Chile)
 - [[Sat, 02-07-2022]]
 	- DONE Avanzar en mi libro, palabras actuales: 22180. #libro #escribir #principiosdeprogramación
 	- #idea Escribir un libro de algoritmos, explicando su historia y su parte técnica. Ensayo y técnico.
