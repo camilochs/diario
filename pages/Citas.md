@@ -2,8 +2,8 @@
 	- Algorithms + Data Structures = Programs, 1976
 		- The power of recursion evidently lies in the possibility of defining an infinite set of objects by a finite statement. In the same manner, an infinite number of computations can be described by a finite recursive program, even if this program contains no explicit repetitions.
 - [[Swartz, Aaron]]
-- Tengan curiosidad. Lean ampliamente. Prueben cosas nuevas. Creo que mucho de
-      lo que la gente llama la inteligencia se reduce a la curiosidad.
+	- Tengan curiosidad. Lean ampliamente. Prueben cosas nuevas. Creo que mucho de
+	      lo que la gente llama la inteligencia se reduce a la curiosidad.
 - [[ Watts, Alan]]
 	- El desapego significa no sentir ningún remordimiento por el pasado ni miedo por el futuro; dejar que la vida siga su curso sin intentar interferir en su movimiento y cambio, sin intentar prolongar las cosas placenteras ni provocar la desaparición de las desagradables. Actuar de este modo es moverse al ritmo de la vida, estar en perfecta armonía con su música cambiante, a esto se llama iluminación.
 	- Este es el verdadero secreto de la vida: Estar completamente comprometido con lo que haces en el aquí y ahora. Y en lugar de llamarlo trabajo, date cuenta de que es un juego.
@@ -20,6 +20,7 @@
 	- Ser diferente no es ni bueno ni malo, simplemente significa que tienes el suficiente coraje para ser tú mismo.
 	- Todas las desgracias de los hombres provienen de no hablar claro.
 - [[Einstein, Albert]]
+  collapsed:: true
 	- Cada día sabemos más y entendemos menos.
 	- Debe evitarse hablar a los jóvenes del éxito como si se tratase del principal objetivo en la vida. La razón más importante para trabajar en la escuela y en la vida es el placer de trabajar, el placer de su resultado y el conocimiento del valor del resultado para la comunidad.
 	- El científico encuentra su recompensa en lo que Henri Poincare llama el placer de la comprensión, y no en las posibilidades de aplicación que cualquier descubrimiento pueda conllevar.
@@ -50,6 +51,7 @@
 	- Una teoría es más impresionante cuanto mayor es la simplicidad de sus premisas, más diferentes tipos de cosas se relacionan y más amplia es su área de aplicación.
 	- Una vez que dejas de aprender, empiezas a morir.
 - [[Whitehead, Alfred North]]
+  collapsed:: true
 	- Desde los primeros pasos de su educación el niño debe experimentar el placer del descubrimiento.
 	- El objetivo de la ciencia es buscar explicaciones sencillas para hechos complejos.
 	- La civilización avanza ampliando el número de operaciones importantes que podemos realizar sin pensar en ellas.
@@ -58,6 +60,7 @@
 	- Pensamos en generalidades, pero vivimos en detalles.
 	- Se requiere una mente muy inusual para llevar a cabo el análisis de lo obvio.
 - [[Machado, Antonio]]
+  collapsed:: true
 	- Aprendió tantas cosas, que no tuvo tiempo para pensar en ninguna de ellas.
 	- Ayudadme a comprender lo que os digo, y os lo explicaré más despacio.
 	- Caminante, no hay camino:
