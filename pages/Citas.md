@@ -551,5 +551,46 @@
 	- Mi vida ha estado llena de terribles desgracias, la mayoría de las cuales nunca sucedieron.
 	- Nuestra opinión pone precio a las cosas.
 	- Yo no cito a otros más que para expresar mejor mi pensamiento.
+- [[Wilde, Oscar]]
+	- Cuando estoy de acuerdo con todos sospecho que estoy equivocado.
+	- Cuanto más conservadoras son las ideas, más revolucionarios los discursos.
+	- El trabajo es el refugio de los que no tienen nada que hacer.
+	- El único amor consecuente, fiel, comprensivo, que todo perdona, que nunca nos defrauda y que nos acompaña hasta la muerte es el amor propio.
+	- Hoy día la gente conoce el precio de todo y el valor de nada.
+	- La educación es una cosa admirable, pero es bueno recordar de vez en cuando, que nada que valga la pena saber puede ser enseñado.
+	- La experiencia no tiene valor ético alguno, es simplemente el nombre que damos a nuestros errores.
+	- La vida es demasiado corta para desperdiciarla en cumplir los sueños de los demás.
+	- No soy tan joven como para saberlo todo.
+	- Nunca des explicaciones. Tus amigos no las necesitan. Tus enemigos no las creen.
+	- Para la mayoría de nosotros la verdadera vida es la vida que no llevamos.
+	- Pienso que es sano pasar tiempo a solas. Necesitas aprender a estar solo, y no ser definido por alguien más.
+	- Ser natural es la más difícil de las poses.
+	- Si usted me conoce basado en lo que yo era hace un año, usted ya no me conoce. Mi evolución es constante. Permítame presentarme de nuevo.
+	- Un cínico es un hombre que conoce el precio de todo y no da valor a nada.
+- [[Platón]]
+	- El hombre es un ser en busca de significado.
+	- El matemático es perfecto sólo en la medida en que es un hombre perfecto, en la medida en que siente en sí mismo la belleza de la verdad; sólo entonces su trabajo será minucioso, transparente, prudente, puro, claro y elegante.
+	- La belleza es el esplendor de la verdad.
+	- La justicia no es otra cosa que la conveniencia del más fuerte.
+	- La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos.
+	- Lo que se busca se encuentra, lo que se descuida se pierde.
+	- Los sabios son los que buscan la sabiduría; los necios piensan ya haberla encontrado.
+	- Nada sucede por casualidad, en el fondo las cosas tienen su plan secreto, aunque nosotros no lo entendamos.
+	- Los sabios hablan porque tienen algo que decir, los tontos hablan porque tienen que decir algo.
+- [[Descartes, René]]
+	- Cada problema que resolví se convirtió en una regla que sirvió después para resolver otros problemas. Así, cada verdad descubierta era una regla disponible en el descubrimiento de las siguientes.
+	- Cuando surge un problema, deberíamos ser capaces de ver pronto si será rentable examinar otros problemas primero, y qué otros, y en qué orden.
+	- Daría todo lo que sé por la mitad de lo que ignoro.
+	- Dicen que el mono es tan inteligente que no habla para que no lo hagan trabajar.
+	- Divide las dificultades que examinas en tantas partes como sea posible para su mejor solución.
+	- Dos cosas contribuyen a avanzar: ir más deprisa que los otros o ir por el buen camino.
+	- El buen sentido es lo que mejor repartido está entre todo el mundo, pues cada cual piensa que posee buena provisión de él.
+	- Leer buenos libros es como conversar con las mejores mentes del pasado.
+	- Lo poco que he aprendido carece de valor, comparado con lo que ignoro y no desespero en aprender.
+	- No hay nada repartido de modo más equitativo en el mundo que la razón: todo el mundo está convencido de tener suficiente.
+	- Para buscar la verdad, es necesario, una vez en el curso de nuestra vida, dudar, en la medida de lo posible, de todas las cosas.
+	- Para mejorar nuestro conocimiento debemos aprender menos y contemplar más.
+	- Para saber lo que la gente piensa realmente, hay que fijarse en lo que hace, más que en lo que dicen.
+	- Pensad antes de obrar y no comencéis nada sin haber consultado las circunstancias bien a fondo.
 -
 	-
