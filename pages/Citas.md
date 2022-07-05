@@ -523,5 +523,33 @@
 	- Si logras separar, de lo que al parecer te aflige, la opinión que te haces de ello evitarás muchos sufrimientos.
 	- Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad.
 	- Tú tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza.
+- [[Bunge, Mario]]
+	- De todos los enemigos de la educación, uno de los peores es el pedagogo que asegura que el modo de enseñar es más importante que lo que se enseña.
+	- Hay que educar a la gente. No basta saber que a la tía María le fue bien con el acupunturista o con el homeópata, porque el efecto placebo siempre está en la cabecera de los enfermos. Y no sólo de los enfermos, sino también de los votantes.
+	- Hay que formar cerebros porque solamente el cerebro bien formado puede, no solamente usar la técnica existente, sino mejorarla con ideas nuevas y originales gracias a su curiosidad y a que está investigando. Si se insiste con la misma información a la gente, en lugar de cultivar su curiosidad, terminará por aburrirse.
+	- Para poder aprender algo nuevo y útil debemos usar filtros; es decir, debemos ignorar la mayor parte de la información que recibimos. O sea, hay que ignorar mucho para llegar a saber algo. Paradójico pero cierto.
+	- Si bien uno está contento de pertenecer a una red cultural, llega un momento en que se necesita más tiempo para la reflexión. De lo contrario, ésta es superficial, demasiado rápida, sin tiempo para asimilar, criticar, sopesar. Hace falta más tiempo para ensimismarse, para reflexionar en silencio y soledad.
+	- Sólo los fanáticos odian a las personas tanto como las doctrinas. Uno puede ser intolerante con las teorías falsas, pero tolerante con quienes las sustentan, a condición de que no medren con ellas.
+- [[Twain, Mark]]
+	- Cada vez que se encuentre usted del lado de la mayoría, es tiempo de hacer una pausa y reflexionar.
+	- Dale a cada día la oportunidad de convertirse en el mejor día de tu vida.
+	- Dentro de veinte años, estarás más decepcionado por lo que no hiciste que por lo que hiciste. Explora, sueña y descubre.
+	- El secreto para salir adelante es empezar.
+	- Es más fácil engañar a la gente que convencerlos de que han sido engañados.
+	- He tenido muchas preocupaciones en mi vida, la mayoría de las cuales nunca han ocurrido.
+	- Los dos días más importantes en tu vida son el día en que naces, y el día en que encuentras por qué.
+	- Nunca discutas con un ignorante, te hará descender a su nivel y ahí te vencerá por experiencia.
+	- Nunca intentes enseñar a un cerdo a cantar. Te hará perder el tiempo y molestará al cerdo.
+	- Todo lo que necesitas en esta vida es ignorancia y confianza, y entonces el éxito es seguro.
+	- Un pesimista es un optimista bien informado.
+- [[Montaigne, Michel de]]
+	- A quienes me preguntan la razón de mis viajes les contesto que sé bien de qué huyo pero ignoro lo que busco.
+	- Cuando soy atacado por pensamientos sombríos, nada me ayuda tanto como correr hacia mis libros. Rápidamente me absorben y hacen desaparecer las nubes de mi mente.
+	- Cuando me llevan la contraria, despiertan mi atención, no mi cólera; me ofrezco a quien me contradice, que me instruye. La causa de la verdad debería ser la causa común de uno y otro.
+	- El signo más cierto de la sabiduría es la serenidad constante.
+	- La señal más clara de la sabiduría es el gozo constante. Ama la vida, ama la belleza y la salud. Su tarea propia es saber usar esos bienes de manera mesurada, y saberlos perder con entereza. El alma, en efecto, se ensancha a medida que se llena.
+	- Mi vida ha estado llena de terribles desgracias, la mayoría de las cuales nunca sucedieron.
+	- Nuestra opinión pone precio a las cosas.
+	- Yo no cito a otros más que para expresar mejor mi pensamiento.
 -
 	-
