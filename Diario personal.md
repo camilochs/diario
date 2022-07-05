@@ -1,7 +1,9 @@
 title:: Diario personal
 
 - [[Tue, 05-07-2022]]
-	- Terminar la presentación para el IIIA (PhD).
+	- TODO Terminar la presentación para el IIIA (PhD).
+	-
+	-
 - [[Mon, 04-07-2022]]
 	- Esta semana voy a recibir cuatro respuestas binarias (aceptado o rechazado) de varias cosas:
 		- Si paso la preselección mi relato corto en Inspira ciencia.
