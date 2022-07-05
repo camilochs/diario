@@ -49,4 +49,46 @@
 	- ¡Triste época la nuestra! Es más fácil desintegrar un átomo que un prejuicio.
 	- Una teoría es más impresionante cuanto mayor es la simplicidad de sus premisas, más diferentes tipos de cosas se relacionan y más amplia es su área de aplicación.
 	- Una vez que dejas de aprender, empiezas a morir.
+- [[Whitehead, Alfred North]]
+	- Desde los primeros pasos de su educación el niño debe experimentar el placer del descubrimiento.
+	- El objetivo de la ciencia es buscar explicaciones sencillas para hechos complejos.
+	- La civilización avanza ampliando el número de operaciones importantes que podemos realizar sin pensar en ellas.
+	- No hay verdades absolutas; todas las verdades son medias verdades. El mal surge de quererlas tratar como verdades absolutas.
+	- No la ignorancia, sino la ignorancia de la ignorancia es la muerte del conocimiento.
+	- Pensamos en generalidades, pero vivimos en detalles.
+	- Se requiere una mente muy inusual para llevar a cabo el análisis de lo obvio.
+- [[Machado, Antonio]]
+	- Aprendió tantas cosas, que no tuvo tiempo para pensar en ninguna de ellas.
+	- Ayudadme a comprender lo que os digo, y os lo explicaré más despacio.
+	- Caminante, no hay camino:
+	  se hace camino al andar.
+	- De cada diez novedades que pretenden descubrirnos, nueve son tonterías. La décima y última, que no es necedad, resulta a última hora que tampoco es nueva.
+	- Despacito y buena letra:
+	  el hacer las cosas bien \ importa más que el hacerlas.
+	- El escepticismo es una posición vital, no lógica, que ni afirma ni niega, se limita a preguntar, y no se asusta de las contradicciones.
+	- Entre hacer las cosas bien y hacerlas mal está el no hacerlas, como término medio, a veces aceptable, que consiste en no hacerlas.
+	- Es el mejor de los buenos quien sabe que en esta vida todo es cuestión de medida: un poco más, algo menos…
+	- Es propio de hombres de cabezas medianas embestir contra todo aquello que no
+	- Hay que tener los ojos muy abiertos para ver las cosas como son; aún más abiertos para verlas otras de lo que son; más abiertos todavía para verlas mejores de lo que son.
+	- Huid de escenarios, púlpitos, plataformas y pedestales. Nunca perdáis contacto con el suelo; porque sólo así tendréis una idea aproximada de vuestra estatura.
+	- Juzgarnos o corregirnos supone aplicar la medida ajena al paño propio.
+	- La página escrita nunca recuerda todo lo que se ha intentado, sino lo poco que se ha conseguido.
+	- La política, señores, es una actividad importantísima. Yo no os aconsejaré nunca el apoliticismo, sino el desdeño de la política mala, que hacen trepadores y cucañistas, sin otro propósito que el de obtener ganancia y colocar parientes. Vosotros debéis hacer política, aunque otra cosa os digan los que pretenden hacerla sin vosotros, y, naturalmente, contra vosotros. Solo me atrevo a aconsejaros que la hagáis a cara descubierta… Y a quien os eche en cara vuestros pocos años bien podéis decirle que la política no ha de ser necesariamente cosa de viejos. Hay movimientos políticos que tienen su punto de arranque en una justificada rebelión de menores contra la inepcia de los sedicentes padres de la patria…Hasta las madres os pudieran aconsejar: “Toma el volante, niño, porque estoy viendo que tu papá nos va a estrellar a todos -de una vez- en la cuneta del camino.
+	- Las razones no se transmiten, se engendran, por cooperación, en el diálogo.
+	- Lo corriente en el hombre es la tendencia a creer verdadero cuanto le reporta alguna utilidad. Por eso hay tantos hombres capaces de comulgar con ruedas de molino.
+	- Para pensar es preciso evitar dos escollos: lo visto y lo soñado.
+	- Preguntadlo todo, como hacen los niños. ¿Por qué esto? ¿Por qué lo otro? ¿Por qué lo de más allá? En España no se dialoga porque nadie pregunta, como no sea para responderse a sí mismo.
+	- Nunca traces tu frontera
+	  ni cuides de tu perfil; \ todo eso es cosa de fuera.
+	- Por mucho que un hombre valga, nunca tendrá valor más alto que el de ser hombre.
+	- Porque toda visión requiere distancia, no hay manera de ver las cosas sin salirse de ellas.
+	- Sed hombres de mal gusto. Yo os aconsejo el mal gusto para combatir los excesos de la moda.
+	- Si es bueno vivir, todavía es mejor soñar, y lo mejor de todo, despertar.
+	- Todo necio
+	  confunde valor y precio.
+	- ¡Qué difícil es,
+	  cuando todo baja, \ no bajar también!.
+	- ¿Tu verdad? No, la Verdad,
+	  y ven conmigo a buscarla. \ La tuya guárdatela.
+	- Y nadie pregunta ni nadie contesta, todos hablan solos.
 -
