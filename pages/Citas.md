@@ -405,4 +405,41 @@
 	- Los únicos interesados en cambiar el mundo son los pesimistas, porque los optimistas están encantados con lo que hay.
 	- Nuestra mayor tragedia es no saber qué hacer con nuestras vidas.
 	- Para qué sirve el arrepentimiento, si eso no borra nada de lo que ha pasado. El mejor arrepentimiento es sencillamente cambiar.
+- [[Popper, Karl]]
+	- El futuro está abierto. Todos somos responsables de lo que el futuro nos depare. Por tanto, nuestro deber no es profetizar el mal, sino más bien luchar por un mundo mejor.
+	- Es imposible hablar de tal manera que no se pueda ser mal interpretado.
+	- La ignorancia no consiste en la ausencia de conocimientos sino en rehusar adquirirlos.
+	- Ningún argumento racional tendrá un efecto racional en un hombre que no quiere adoptar una actitud racional.
+	- Nuestro conocimiento es necesariamente finito, mientras que nuestra ignorancia es necesariamente infinita.
+	- Si somos absolutamente tolerantes, incluso con los intolerantes, y no defendemos la sociedad tolerante contra sus asaltos, los tolerantes serán aniquilados y junto con ellos la tolerancia.
+- [[Lao-Tse]]
+	- Conocer a los demás es inteligencia; conocerte a ti mismo es la verdadera sabiduría. Dominar a otros es fuerza; el dominio de sí mismo es verdadero poder.
+	- Conténtate con lo que tienes; alégrate de cómo son las cosas. Cuando te das cuenta de que no te falta nada, el mundo entero te pertenecerá.
+	- El Sabio actúa sin hacer nada.
+	- El sabio brega todo el día sin dejar el trabajo duro. No obstante, haciendo esto, permanece en el estado de tranquilidad perfecta.
+	- No hacer nada es mejor que estar ocupado sin hacer nada.
+	- No valores las cosas difíciles de obtener, verás que nadie se entregará a la codicia.
+	- Preocúpate por lo que otros piensen de ti y siempre serás su prisionero.
+	- Proyecta lo difícil partiendo de donde aún es fácil.
+	- Quien cree en sí mismo no tiene necesidad de convencer a los demás.
+	- Saber que no se sabe, eso es humildad. Pensar que uno sabe lo que no sabe, eso es enfermedad.
+	- Si eres flexible, te mantendrás recto.
+	- Si estás deprimido, estás viviendo en el pasado. Si estás ansioso, estás viviendo en el futuro. Si estás feliz, estás viviendo en el presente.
+	- Si te preocupa lo que piensan los demás, siempre serás su prisionero.
+	- Sin salir más allá de tu puerta, puedes conocer los asuntos del mundo. Sin espiar a través de las ventanas, puedes ver el Camino del Cielo. Cuanto más lejos vas, menos conoces. Así pues, el Sabio conoce sin viajar, ve sin mirar, y logra sin Actuar.
+	- Sólo quien sabe cuándo es suficiente tendrá siempre bastante.
+	- ¿Tienes la paciencia de esperar hasta que el lodo se asiente y el agua esté clara?
+- [[Vinci, Leonardo de]]
+	- Así como el hierro se oxida por falta de uso, también la inactividad destruye el intelecto.
+	- Date cuenta de que todo está conectado con todo lo demás.
+	- De vez en cuando desaparece, tómate un pequeño descanso, para que cuando vuelvas a tu trabajo tu juicio sea más acertado. Toma cierta distancia, porque así el trabajo parece más pequeño, la mayor parte se puede asimilar en un abrir y cerrar de ojos, y la falta de armonía y la proporción es más fácil de ver.
+	- El aprendizaje es lo único que la mente nunca agota, nunca teme y de lo que nunca se arrepiente.
+	- El placer más noble es el júbilo de comprender.
+	- La naturaleza benigna provee de manera que en cualquier parte halles algo que aprender.
+	- La sabiduría es hija de la experiencia.
+	- La simplicidad es la máxima sofisticación.
+	- Los que se enamoran de la práctica sin la teoría son como los pilotos sin timón ni brújula, que nunca podrán saber a dónde van.
+	- Quien de verdad sabe de qué habla, no encuentra razones para levantar la voz.
+	- Quien piensa poco, se equivoca mucho.
 -
+	-
