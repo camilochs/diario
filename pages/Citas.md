@@ -592,5 +592,20 @@
 	- Para mejorar nuestro conocimiento debemos aprender menos y contemplar más.
 	- Para saber lo que la gente piensa realmente, hay que fijarse en lo que hace, más que en lo que dicen.
 	- Pensad antes de obrar y no comencéis nada sin haber consultado las circunstancias bien a fondo.
+- [[Ramón y Cajal, Santiago]]
+	- La desdicha de nuestro país consiste, como se ha dicho hartas veces, en que el interés individual ignora el interés colectivo.
+	- Lo peor no es cometer un error, sino tratar de justificarlo, en vez de aprovecharlo como aviso providencial de nuestra ligereza o ignorancia.
+	- ¿No tienes enemigos? ¿Es que jamás dijiste la verdad o jamás amaste la justicia?
+	- O se tienen muchas ideas y pocos amigos o muchos amigos y pocas ideas.
+	- Razonar y convencer, ¡qué difícil, largo y trabajoso! ¿Sugestionar? ¡Qué fácil, rápido y barato!
+- [[Sócrates]]
+	- El grado sumo del saber es contemplar el porqué.
+	- El hombre que no piensa sino en vivir, no vive.
+	- El paso del tiempo arruga tu piel, pero la falta de entusiasmo arruga tu alma.
+	- El verdadero viaje no es el que nos lleva lejos, sino el que conduce a nuestro interior.
+	- Habla para que yo pueda conocerte.
+	- La ciencia humana consiste más en destruir errores que en descubrir verdades.
+	- La gente inteligente aprende de todo y de todos, la normal aprende de sus experiencias, la gente estúpida ya tiene todas sus respuestas.
+	- Sólo hay un bien: el conocimiento. Sólo hay un mal: la ignorancia.
+- [[Eco, Umberto]]
 -
-	-
