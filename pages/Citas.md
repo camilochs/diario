@@ -377,4 +377,32 @@
 	- Si no pretendiéramos saber todo con tanta exactitud puede que conociéramos mejor las cosas.
 	- Todos los días deberíamos oír un poco de música, leer una buena poesía, contemplar un cuadro hermoso y si es posible, decir algunas palabras sensatas.
 	- Trata a un ser humano tal como es, y seguirá siendo lo que es; trátalo como puede y debe ser, y se convertirá en lo que puede y debe ser.
+- [[Borges, Jorge Luis]]
+	- Aristóteles ha escrito que el origen de la filosofía era el asombro. Usted mira algo y no comprende, entonces comienza a hacer filosofía.
+	- Buscar la serenidad me parece una ambición más razonable que buscar la felicidad. Y quizás la serenidad sea una forma de felicidad.
+	- La duda es uno de los nombres de la inteligencia.
+	- En cuanto al fracaso y la fama, me parecen irrelevantes y no me preocupan. Lo que quiero ahora es la paz, el placer del pensamiento y de la amistad. Y aunque parezca demasiado ambicioso, la sensación de amar y ser amado.
+	- Los españoles siempre están pensando en la envídia. Para decir que algo es bueno dicen: “Es envidiable”.
+	- Maestro no es el que se aplica a la tarea de enseñar cosas, porque una enciclopedia, en tal caso, sería mejor. El maestro no enseña cosas sino una manera de tratar con las cosas, una manera de tratar con el incesante universo.
+	- Nuestra cobardía y nuestra desidia tienen la culpa de que el mañana y el ayer sean iguales.
+	- Nuestro vivir es una serie de adaptaciones, vale decir, una educación del olvido.
+	- Que otros se jacten de las páginas que han escrito; a mi me enorgullecen las que he leído.
+	- Siempre imaginé que el Paraíso sería algún tipo de biblioteca.
+- [[Saramago, José]]
+	- El mundo se está convirtiendo en una caverna igual que la de Platón: todos mirando imágenes y creyendo que son la realidad.
+	- En la comunicación directa intervienen la mirada, el olor. En una carta puede caer una lágrima, pero el correo electrónico no puede ir acompañado de emociones. Los hombres terminarán encerrados en una habitación con pantalla, comunicando con todo el mundo pero solos-
+	- Escribo para intentar comprender, y porque no tengo nada mejor que hacer.
+	- ¡Hay un dicho que es tan común como falso: El pasado, pasado está, creemos. Pero el pasado no pasa nunca, si hay algo que no pasa es el pasado, el pasado está siempre, somos memoria de nosotros mismos y de los demás…
+	- He aprendido a no intentar convencer a nadie. El trabajo de convencer es una falta de respeto, es un intento de colonización del otro.
+	- La derrota tiene algo positivo, nunca es definitiva. En cambio la victoria tiene algo negativo, jamás es definitiva.
+	- La esperanza nunca ha sido de fiar.
+	- La peor ceguera es la mental, que hace que no reconozcamos lo que tenemos delante.
+	- Las tres enfermedades del hombre actual son la incomunicación, la revolución tecnológica y su vida centrada en su triunfo personal.
+	- Lo difícil no es vivir con las personas, lo difícil es comprenderlas.
+	- Lo malo no es tener opinión; lo malo es tenerla sin saber de qué se habla.
+	- Lo peor es que se está armando un sistema en el que las pequeñas cosas son las que ocupan los espacios, la información y la preocupación de la gente. Los grandes temas aparecen entonces diluidos, por detrás, y no los vemos.
+	- Los cerebros están llenos de palabras que viven en paz y en armonía con sus contrarias y enemigas. Por eso la gente hace lo contrario de lo que piensa creyendo pensar lo que hace.
+	- Los únicos interesados en cambiar el mundo son los pesimistas, porque los optimistas están encantados con lo que hay.
+	- Nuestra mayor tragedia es no saber qué hacer con nuestras vidas.
+	- Para qué sirve el arrepentimiento, si eso no borra nada de lo que ha pasado. El mejor arrepentimiento es sencillamente cambiar.
 -
