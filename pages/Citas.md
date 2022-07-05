@@ -322,4 +322,28 @@
 	- Incluso en los juegos de niños hay cosas para interesar al matemático más grande.
 	- La música es el placer que experimenta la mente humana al contar sin darse cuenta de que está contando.
 	- La razón me enseña que no hay nada que contribuya más al bien general. de todos los hombres que lo que perfecciona la razón.
-- []
+- [[Frege, Gottlob]]
+	- El objetivo de la prueba es, de hecho, no sólo poner la verdad de una proposición más allá de toda duda, sino también darnos una idea de la dependencia de una verdad con respecto a otra. Después de habernos convencido de que una roca es inamovible, al intentar moverla sin éxito, queda la siguiente pregunta, ¿qué es lo que lo sostiene de forma tan segura?
+	- Realmente vale la pena inventar un nuevo símbolo si podemos eliminar no pocas dificultades lógicas y asegurar el rigor de las pruebas. Pero muchos matemáticos parecen tener tan poca sensación de pureza lógica y precisión que usarán una palabra que significa tres o cuatro cosas diferentes, antes de tomar la terrible decisión de inventar una nueva palabra.
+	- Todo buen matemático es al menos medio filósofo, y todo buen filósofo es al menos medio matemático.
+- [[Hesse, Hermann]]
+	- Algunos de nosotros pensamos que aferrarnos nos hace fuertes; pero a veces es soltarnos lo que nos fortalece.
+	- Aprende a tomar en serio solo lo que es digno de ello, y ríete de todo lo demás.
+	- Cuando realmente somos nosotros mismos, muchas personas se alejan, pero esto crea el espacio necesario para que la gente adecuada llegue.
+	- El héroe no es el ciudadano obediente, apacible, cumplidor. Heroico sólo puede ser el individuo que ha erigido su propio sentido, su noble y natural obstinación, en su destino.
+	- Hacer versos malos depara mucha más felicidad que leer los más bellos.
+	- La educación se ha esforzado por arrebatarnos la libertad y la personalidad y por meternos desde la más tierna infancia en una situación de forzoso trajín y sin una pausa de respiro, se ha producido una decadencia y una falta de ejercicio de la ociosidad.
+	- La mayoría de los hombres son como hojas que caen de los árboles, revolotean en el aire, vacilan y caen al suelo. Pero otros, unos pocos, son como estrellas que recorren un camino fijo, no les alcanza el viento y llevan en sí su propia ley y su propio rumbo.
+	- La paciencia es la cosa más dura para el espíritu. Pero es lo más duro y lo único que merece la pena aprender. Todo lo que es naturaleza, desarrollo, paz, prosperidad y belleza en el mundo, descansa en la paciencia; requiere tiempo, silencio, confianza.
+	- Nunca he perdido el sentimiento de contradicción que hay detrás de todo conocimiento.
+	- Para que pueda surgir lo posible es preciso intentar una y otra vez lo imposible.
+	- Si quieres ser fuerte es importante aprender a estar solo.
+	- ¿Y de qué sirve hablar, si ya sabes que los demás no sienten lo que sientes?
+- [[Kant, Immanuel]]
+	- La ciencia es la organización del conocimiento, pero la sabiduría es la organización de la vida.
+	- El sabio puede cambiar de opinión. El necio, nunca.
+	- Nunca discutas con un idiota. La gente podría no notar la diferencia.
+	- Ser es hacer.
+	- Tan solo por la educación puede el hombre llegar a ser hombre. El hombre no es más que lo que la educación hace de él.
+	- Vemos las cosas, no como son, sino como somos nosotros.
+-
