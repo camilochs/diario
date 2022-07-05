@@ -241,4 +241,36 @@
 	- Las frases concisas son como clavos afilados que clavan la verdad en nuestra memoria.
 	- No arrepentirse ni hacer reproches a los demás, son los pasos de la sabiduría.
 	- Una idiotez común es creer que el que tiene más clientes es el más hábil.
--
+- [[Hubbard, Elbert]]
+	- Cultiva solo aquellos hábitos que quisieras que dominaran tu vida.
+	- Cuando la vida te de limones, haz limonada.
+	- El conocimiento es la esencia destilada de nuestras intuiciones, corroborada por la experiencia.
+	- El mayor error que puedes cometer en la vida es temer continuamente que cometerás uno.
+	- Hacer que los hombres vivan en tres mundos a la vez - pasado, presente y futuro - ha sido el principal daño que ha hecho la religión organizada.
+	- La educación académica es el acto de memorizar cosas leídas en libros, y cosas contadas por profesores universitarios que obtuvieron su educación principalmente memorizando cosas leídas en libros.
+	- La experiencia es el nombre que todos le dan a sus errores.
+	- Las inteligencias poco capaces se interesan en lo extraordinario; las inteligencias poderosas en las cosas ordinarias.
+	- Nadie necesita más unas vacaciones que el que acaba de tenerlas.
+	- No arrojes tus penas sobre las personas; guarda la triste historia de tu vida para ti. Los problemas crecen contándolos.
+	- No hagas nada, no digas nada y no seas nada, y nunca serás criticado.
+	- No te tomes la vida demasiado en serio, nunca saldrás vivo de ella.
+	- Nunca des explicaciones: tus amigos no lo necesitan y tus enemigos no te creerán de ninguna manera.
+	- Si desea un trabajo bien hecho, seleccione un hombre ocupado, el otro tipo no tiene tiempo.
+	- Suministrar un pensamiento es un masaje mental; pero desarrollar un pensamiento propio es un logro. Pensar es un ejercicio mental, y ninguna facultad crece, salvo cuando se ejercita.
+	- Todo hombre es un maldito tonto durante al menos cinco minutos al día. La sabiduría consiste en no exceder el límite.
+	- Un especialista es uno que se limita a sí mismo al tipo de ignorancia que ha elegido.
+	- Un fracasado es un hombre que ha cometido un error y no es capaz de convertirlo en experiencia.
+- [[Epicteto]]
+	- Complace a todos y no complacerás a nadie.
+	- Cuando alguien está debidamente arraigado en la vida, no debería tener que buscar aprobación fuera de sí mismo.
+	- Dos cosas hay que quitarles a los hombres: la vanidad y la desconfianza.
+	- El error del anciano es que pretende enjuiciar el hoy con el criterio del ayer.
+	- Está en la naturaleza del sabio resistirse a los placeres, pero el necio es esclavo de ellos.
+	- Lo que perturba a los hombres no son las cosas, sino su manera de enjuiciarlas.
+	- No nos perturban las cosas sino las opiniones que de ellas tenemos.
+	- Si alguna vez tienes la tentación de buscar la aprobación externa, ten en cuenta que has comprometido tu integridad.
+	- Si no quieres ver tus deseos frustrados, no desees jamás sino aquéllo que sólo de ti depende.
+	- Solo ten en cuenta que cuanto más valoramos las cosas que están fuera de nuestro control, menos control tenemos.
+	- También en la moderación hay un término medio, y quien no da con él es víctima de un error parecido al de quien se excede por desenfreno.
+	- Te conviertes en aquello a lo que prestas tu atención… Si tú mismo no eliges a qué pensamientos e imágenes te expones, alguien más lo hará.
+	- Todos los asuntos tienen dos asas: por una son manejables, por la otra no.
