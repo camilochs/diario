@@ -116,8 +116,8 @@
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
  {:block/name "citas",
-  :block/created-at 1656661014740,
-  :block/updated-at 1656661057084}
+  :block/created-at 1657051385587,
+  :block/updated-at 1657051385587}
  {:block/name "cluster",
   :block/created-at 1656594727751,
   :block/updated-at 1656594727751}
@@ -203,8 +203,8 @@
   :block/created-at 1656326689218,
   :block/updated-at 1656326689218}
  {:block/name "entrevista a héctor patricio",
-  :block/created-at 1656758621637,
-  :block/updated-at 1656759176779}
+  :block/created-at 1657051385630,
+  :block/updated-at 1657051385630}
  {:block/name "entrevista a patricio reyes",
   :block/created-at 1656593868201,
   :block/updated-at 1656593868201}
@@ -251,8 +251,8 @@
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
  {:block/name "fri, 01-07-2022",
-  :block/created-at 1656656455053,
-  :block/updated-at 1656656455053}
+  :block/created-at 1657051386224,
+  :block/updated-at 1657051386224}
  {:block/name "fri, 06-05-2022",
   :block/created-at 1651932091220,
   :block/updated-at 1651932091220}
@@ -316,9 +316,15 @@
  {:block/name "haskell",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "hoare, c. a. r.",
+  :block/created-at 1656594728074,
+  :block/updated-at 1656595593945}
  {:block/name "hoare, charles antony richard",
-  :block/created-at 1656657428919,
-  :block/updated-at 1656657649587}
+  :block/created-at 1657051385699,
+  :block/updated-at 1657051385699}
+ {:block/name "hoarec",
+  :block/created-at 1656594728194,
+  :block/updated-at 1656606675281}
  {:block/name "how to read a paper",
   :block/created-at 1656326690742,
   :block/updated-at 1656326690742}
@@ -542,8 +548,8 @@
   :block/created-at 1651494635192,
   :block/updated-at 1651494635192}
  {:block/name "mon, 04-07-2022",
-  :block/created-at 1656918034539,
-  :block/updated-at 1656918034539}
+  :block/created-at 1657051386215,
+  :block/updated-at 1657051386215}
  {:block/name "mon, 09-05-2022",
   :block/created-at 1653338926332,
   :block/updated-at 1653338926332}
@@ -667,6 +673,9 @@
  {:block/name "programa",
   :block/created-at 1656594727582,
   :block/updated-at 1656595435540}
+ {:block/name "programacin l├│gica",
+  :block/created-at 1656594728593,
+  :block/updated-at 1656594728593}
  {:block/name "programación funcional",
   :block/created-at 1656332924434,
   :block/updated-at 1656332924434}
@@ -752,8 +761,8 @@
   :block/created-at 1656594727967,
   :block/updated-at 1656596035630}
  {:block/name "sat, 02-07-2022",
-  :block/created-at 1656720000000,
-  :block/updated-at 1656720000000}
+  :block/created-at 1657051386219,
+  :block/updated-at 1657051386219}
  {:block/name "sat, 07-05-2022",
   :block/created-at 1653338926336,
   :block/updated-at 1653338926336}
@@ -818,8 +827,8 @@
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
  {:block/name "sun, 03-07-2022",
-  :block/created-at 1656805759272,
-  :block/updated-at 1656805759272}
+  :block/created-at 1657051386219,
+  :block/updated-at 1657051386219}
  {:block/name "sun, 08-05-2022",
   :block/created-at 1653338926334,
   :block/updated-at 1653338926334}
@@ -886,6 +895,9 @@
  {:block/name "tue, 03-05-2022",
   :block/created-at 1651576851159,
   :block/updated-at 1651576851159}
+ {:block/name "tue, 05-07-2022",
+  :block/created-at 1657051385389,
+  :block/updated-at 1657051385389}
  {:block/name "tue, 10-05-2022",
   :block/created-at 1653338926330,
   :block/updated-at 1653338926330}
@@ -971,8 +983,8 @@
   :block/created-at 1656326690945,
   :block/updated-at 1656326690945}
  {:block/name "wirth, niklaus",
-  :block/created-at 1656661028448,
-  :block/updated-at 1656661028448}
+  :block/created-at 1657051385585,
+  :block/updated-at 1657051385585}
  {:block/name "wittek, peter",
   :block/created-at 1656326690060,
   :block/updated-at 1656326690060}
