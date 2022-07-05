@@ -274,3 +274,19 @@
 	- También en la moderación hay un término medio, y quien no da con él es víctima de un error parecido al de quien se excede por desenfreno.
 	- Te conviertes en aquello a lo que prestas tu atención… Si tú mismo no eliges a qué pensamientos e imágenes te expones, alguien más lo hará.
 	- Todos los asuntos tienen dos asas: por una son manejables, por la otra no.
+- [[Sábato, Ernesto]]
+	- A la vida le basta el espacio de una grieta para renacer.
+	- Como dice Whitehead, la naturaleza es una triste cosa, sin colores ni sonidos ni fragancias: todos esos atributos son puramente humanos. Radical e inevitablemente (pero ¿por qué evitarlo?) nuestra visión del mundo es subjetiva, y cada uno de nosotros está creando colores y músicas, groseros o delicados, complejos o simples, según nuestra sensibilidad, nuestra imaginación y nuestro talento.
+	- Es gracias a ese imposible que nos elevamos por encima de todo lo posible. Es el entusiasmo el que nos mantiene vivos.
+	- La vida debe ser sostenida y fecundada en la ilusión.
+	- La vida del espíritu es un diálogo, en el que la verdad va saliendo tortuosamente, a menudo con violencia, en una larga y complicada contraposición de opiniones.
+	- Nada hay tan pasajero como lo que está a la moda, ni tan grotesco cuando ha pasado de moda.
+	- ¿Qué se puede hacer con ochenta años? Probablemente, empezar a darse cuenta de cómo habría que vivir y cuáles son las tres o cuatro cosas que valen la pena.
+	- Un buen escritor expresa grandes cosas con pequeñas palabras; a la inversa del mal escritor, que dice cosas insignificantes con palabras grandiosas.
+- [[Quevedo, Francisco de]]
+	- El que quiere de esta vida todas las cosas a su gusto, tendrá muchos disgustos.
+	- Lo mucho se vuelve poco con desear otro poco más.
+	- Las palabras son como las monedas, que una vale por muchas como muchas no valen por una.
+	- Nadie ofrece tanto como el que no va a cumplir.
+	- ¿No ha de haber un espíritu valiente? ¿Siempre se ha de sentir lo que se dice? ¿Nunca se ha de decir lo que se siente?
+-
