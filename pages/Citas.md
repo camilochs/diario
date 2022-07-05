@@ -11,3 +11,42 @@
 	- Las palabras no pueden expresar más que un pequeño fragmento del conocimiento humano, porque lo que podemos decir y pensar es siempre inmensamente menor de lo que experimentamos.
 	- Muy feliz era el ciempiés, hasta que un sapo una vez, le preguntó “¿Qué orden al andar siguen tus remos?” lo cual forzó su mente a tal extremo que a una zanja, distraído, fue a caer mientras pensaba cómo hacer para correr.
 	- Una característica típica del estilo zen es que en la acción se compromete a fondo y va hasta las últimas consecuencias. En todo se entrega total y libremente sin consideración de sí mismo. No confunde la espiritualidad con el pensar en Dios mientras uno pela patatas. La espiritualidad zen consiste justamente en pelar patatas.
+- [[Camus, Albert]]
+	- A pesar de todos mis esfuerzos y razonamientos, me es imposible sacudirme esta tristeza que ya ni siquiera comprendo.
+	- Cada generación, sin duda, se cree destinada a rehacer el mundo. La mía sabe, sin embargo, que no lo rehará. Pero su tarea acaso sea más grande. Consiste en impedir que el mundo se deshaga.
+	- Envejecer es pasar de la pasión a la compasión.
+	- Inocente es quien no necesita explicarse.
+	- La gente nunca está convencida de tus razones, de tu sinceridad, de tu seriedad o tus sufrimientos, salvo si te mueres.
+	- Ser diferente no es ni bueno ni malo, simplemente significa que tienes el suficiente coraje para ser tú mismo.
+	- Todas las desgracias de los hombres provienen de no hablar claro.
+- [[Einstein, Albert]]
+	- Cada día sabemos más y entendemos menos.
+	- Debe evitarse hablar a los jóvenes del éxito como si se tratase del principal objetivo en la vida. La razón más importante para trabajar en la escuela y en la vida es el placer de trabajar, el placer de su resultado y el conocimiento del valor del resultado para la comunidad.
+	- El científico encuentra su recompensa en lo que Henri Poincare llama el placer de la comprensión, y no en las posibilidades de aplicación que cualquier descubrimiento pueda conllevar.
+	- El mundo no está en peligro por las malas personas sino por aquellas que permiten la maldad.
+	- El planteamiento de un problema es más importante que su solución.
+	- El sentido común es el conjunto de prejuicios acumulados a través de los siglos.
+	- Es más fácil destruir un átomo que un prejuicio.
+	- Hay dos cosas infinitas: el Universo y la estupidez humana. Y del Universo no estoy seguro.
+	- La diferencia entre la genialidad y la estupidez es que la genialidad tiene sus límites.
+	- La escuela debe siempre plantearse como objetivo que el joven salga de ella con una personalidad armónica y no como un especialista. En mi opinión, esto es aplicable, en cierto sentido, incluso a las escuelas técnicas, cuyos alumnos se dedicarán a una profesión totalmente definida. Lo primero debería ser, siempre, desarrollar la capacidad general para el pensamiento y el juicio independientes y no la adquisición de conocimientos especializados.
+	- La medida de la inteligencia es la capacidad de cambiar.
+	- La monotonía y la soledad de una vida tranquila estimula la mente creativa.
+	- La vida es muy peligrosa. No por las personas que hacen el mal, sino por las que se sientan a ver lo que pasa.
+	- Los grandes espíritus siempre han encontrado una violenta oposición por parte de las mentes mediocres.
+	- Los intelectuales resuelven los problemas; los genios, los evitan.
+	- No entiendes realmente algo a menos que seas capaz de explicárselo a tu abuela.
+	- No guardes nunca en la cabeza aquello que te quepa en un bolsillo.
+	- No permitas que tu felicidad dependa de alguien porque no siempre esa persona será como crees.
+	- No tengo ningún talento especial pero si soy profundamente curioso.
+	- Si buscas resultados distintos, no hagas siempre lo mismo.
+	- Si no sabes explicar algo de manera sencilla, es que no lo entiendes del todo.
+	- Si quieres una vida feliz, átala a un objetivo y no a personas o cosas.
+	- Tengo una pregunta que a veces me tortura, ¿estoy loco yo o los locos son los demás?
+	- Todo lo que es realmente grande e inspirador es creado por el individuo que puede trabajar en libertad.
+	- Todos somos muy ignorantes. Lo que ocurre es que no todos ignoramos las mismas cosas.
+	- Todos somos unos genios. Pero si juzgas a un pez por su habilidad de escalar un árbol, vivirá su vida entera creyendo que es estúpido.
+	- ¡Triste época la nuestra! Es más fácil desintegrar un átomo que un prejuicio.
+	- Una teoría es más impresionante cuanto mayor es la simplicidad de sus premisas, más diferentes tipos de cosas se relacionan y más amplia es su área de aplicación.
+	- Una vez que dejas de aprender, empiezas a morir.
+-
