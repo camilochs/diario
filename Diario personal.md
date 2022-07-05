@@ -6,6 +6,7 @@ title:: Diario personal
 			- Rechazado.
 		- ¿Algunos de los dos talleres enviados a la PyCon fue seleccionado?
 		- ¿Mi artículo fue aceptado en la FedCIS?
+	- DONE 22800 palabras en mi libro.
 - [[Sun, 03-07-2022]]
 	- Hoy me junté con Pato y Miguel (su amigo, matemático, de Chile)
 - [[Sat, 02-07-2022]]
