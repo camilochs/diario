@@ -188,4 +188,28 @@
 	- No se muestra la grandeza por estar en un extremo, sino tocando los dos a la vez y llenando el espacio intermedio.
 	- Toda la miseria de los hombres proviene de una única cosa, que es no saber permanecer en reposo en una habitación.
 	- Vale más saber alguna cosa de todo, que saberlo todo de una sola cosa.
+- [[Jung, Carl Gustav]]
+	- El zapato que le ajusta a un hombre le aprieta a otro; no hay receta para la vida que funcione en todos los casos.
+	- Eres lo que haces, no lo que dices que vas a hacer.
+	- Hasta que no hagas consciente lo inconsciente, éste dirigirá tu vida y lo llamarás destino.
+	- La soledad es peligrosa. Es adictiva. Una vez que te das cuenta de cuánta paz hay en ella, no quieres lidiar con la gente…
+	- La soledad no consiste en no tener personas alrededor, sino en no poder comunicar las cosas que a uno le parecen importantes, o callar ciertos puntos de vista.
+	- No soy lo que me pasó, soy lo que elijo ser.
+	- Pensar es difícil. Por eso la mayoría de la gente prefiere juzgar.
+	- Queremos tener certezas y no tener dudas - resultados y no experimentos - sin ver que las certezas sólo pueden surgir a través de la duda y los resultados sólo a través del experimento.
+	- Todo lo que nos irrita de los demás, nos puede ayudar a entendernos mejor a nosotros mismos.
+	- Uno recuerda con aprecio a sus maestros brillantes, pero con gratitud a aquellos que tocaron nuestros sentimientos.
+- [[Cicerón]]
+	- Hay que atender no sólo a lo que cada cual dice, sino a lo que siente y al motivo porque lo siente.
+	- Humano es errar; pero sólo los estúpidos perseveran en el error.
+	- La necedad es la madre de todos los males.
+	- Mi conciencia tiene para mí más peso que la opinión de todo el mundo.
+	- No hay ventaja alguna en conocer el futuro; al contrario, es doloroso atormentarse sin provecho.
+	- Pensar es como vivir dos veces.
+	- ¿Qué cosa más grande que tener a alguien con quien te atrevas a hablar como contigo mismo?
+	- Si cerca de la biblioteca tienes un jardín ya no te faltará de nada.
+	- Si quieres aprender, enseña.
+	- Si quieres ser viejo mucho tiempo, hazte viejo pronto.
+	- Una cosa es saber y otra saber enseñar.
+	- Vivir es pensar.
 -
