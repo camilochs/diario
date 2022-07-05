@@ -441,5 +441,22 @@
 	- Los que se enamoran de la práctica sin la teoría son como los pilotos sin timón ni brújula, que nunca podrán saber a dónde van.
 	- Quien de verdad sabe de qué habla, no encuentra razones para levantar la voz.
 	- Quien piensa poco, se equivoca mucho.
+	- El que ama la práctica sin teoría es como el marinero que se embarca sin timón ni brújula y nunca sabe dónde puede ir.
+	- La simplicidad es la máxima sofisticación.
+	- Los que se enamoran de la práctica sin la teoría son como los pilotos sin timón ni brújula, que nunca podrán saber a dónde van.
+- [[Tolstói, León]]
+	- En cuanto sientas las cosquillas del amor propio que anteceden al deseo de contar algo de ti mismo, reflexiona. Guarda silencio.
+	- Hay quien cruza el bosque y sólo ve leña para el fuego.
+	- La felicidad no está en hacer lo que se quiere, sino en querer lo que se hace.
+	- La palabra es la expresión del pensamiento y puede servir para unir o para separar a las personas; por eso hay que ser prudente con su uso.
+	- La verdadera fuerza humana no reside en los estallidos de energía, sino en la calma indestructible.
+	- Mi felicidad consiste en que sé apreciar lo que tengo y no deseo con exceso lo que no tengo.
+	- Un hombre es como una fracción cuyo numerador corresponde a lo que él es, en tanto que el denominador es lo que cree ser. Cuanto más grande es el denominador, más pequeña es la fracción.
+- [[Carroll, Lewis]]
+	- Alicia se daba por lo general muy buenos consejos a sí misma, aunque rara vez los seguía.
+	- “Alicia a través del espejo” (Alianza, 1983) p. 116
+	- La cuestión, insistió Alicia, es si se puede hacer que las palabras signifiquen tantas cosas diferentes.
+	- La cuestión, zanjó Zanco Panco, es saber quién es el que manda,…, eso es todo.
+	- Por el contrario, si fuera así, podría ser; y si lo fuera, sería; pero como no lo es, no es. Eso es lógica.
 -
 	-
