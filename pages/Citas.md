@@ -289,4 +289,37 @@
 	- Las palabras son como las monedas, que una vale por muchas como muchas no valen por una.
 	- Nadie ofrece tanto como el que no va a cumplir.
 	- ¿No ha de haber un espíritu valiente? ¿Siempre se ha de sentir lo que se dice? ¿Nunca se ha de decir lo que se siente?
+- [[Kafka, Franz]]
+	- Es sólo a causa de su estupidez que son capaces de estar tan seguros de sí mismos.
+	- La alegría es nuestro deber diario.
+	- La desgracia de Don Quijote no fue su fantasía, sino Sancho Panza.
+	- La juventud es feliz porque tiene la capacidad de ver la belleza. Cualquiera que conserve la capacidad de ver la belleza jamás envejece.
+	- Necesito estar solo mucho tiempo. Todo lo que he conseguido hacer es producto únicamente de mi soledad.
+	- Prefiero la calma de la soledad, que la decepción de una mala compañía.
+	- Quien conserva la facultad de ver la belleza no envejece.
+- [[Nietzsche, Friedrich]]
+	- A veces la gente no quiere oír la verdad porque no quiere que sus ilusiones sean destruidas.
+	- Aquel que tiene un por qué para vivir se puede enfrentar a todos los cómos.
+	- Asegurémonos de no perdernos por el miedo a ser diferentes: Conviértete en quien eres.
+	- Desde que me cansé de buscar he aprendido a hallar.
+	- Digan lo que digan, los espíritus grandes son escépticos. Zaratustra es un escéptico. La fuerza, la libertad nacida en la fuerza y plenitud del espíritu, se prueba por el escepticismo. Los hombres de convicción no cuentan para las cuestiones fundamentales de valor. Las convicciones son cárceles.
+	- El individuo ha luchado siempre para no ser absorbido por la tribu. Si lo intentas, a menudo estarás solo, y a veces asustado. Pero ningún precio es demasiado alto por el privilegio de ser uno mismo.
+	- Es más cómodo obedecer a la conciencia que a la razón; la conciencia halla en sí misma una excusa y un aliento. Por eso hay aún tantas personas concienzudas y tan pocas personas razonables.
+	- Hay dos tipos diferentes de personas en el mundo, los que quieren saber y los que quieren creer.
+	- La persona que tiene mucha alegría es necesariamente buena: pero tal vez no sea la más lista, aunque consigue precisamente aquello que la más lista trata de conseguir con toda su listeza.
+	- La ventaja de tener mala memoria es que se goza muchas veces con las mismas cosas.
+	- Lo que mucho ocupa termina por preocupar.
+	- Mi fórmula para expresar la grandeza en el hombre es el _amor fati_: no querer que nada sea distinto, ni en el pasado, ni en el futuro, ni por toda la eternidad. No sólo soportar lo necesario y menos aún disimularlo —todo idealismo es una forma de mentira frente a lo necesario—, sino amarlo.
+	- Mi soledad no depende de la presencia o ausencia de las personas; al contrario, odio a quien roba mi soledad sin, a cambio, ofrecerme compañía de verdad.
+	- Quien no dispone de dos tercios del día para sí mismo es un esclavo.
+	- Quien se sabe profundo, se esfuerza por ser claro; quien desea parecer profundo a la gran masa, se esfuerza por ser oscuro.
+	- Se puede vivir y vivir felizmente sin recordar, pero es imposible vivir sin olvidar.
+- [[Leibniz, Gottfried]]
+	- Dos cosas son idénticas si una puede ser sustituida por la otra sin afectar la verdad.
+	- El placer que obtenemos de la música proviene de contar, pero contando inconscientemente. La música no es más que aritmética inconsciente.
+	- En el ámbito del espíritu, busca la claridad; en el mundo material, busca la utilidad.
+	- Es indigno que hombres notables pierdan su tiempo como esclavos del cálculo cuando podrían dejar ese trabajo en manos de cualquiera si se usaran las máquinas.
+	- Incluso en los juegos de niños hay cosas para interesar al matemático más grande.
+	- La música es el placer que experimenta la mente humana al contar sin darse cuenta de que está contando.
+	- La razón me enseña que no hay nada que contribuya más al bien general. de todos los hombres que lo que perfecciona la razón.
 -
