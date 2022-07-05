@@ -458,5 +458,11 @@
 	- La cuestión, insistió Alicia, es si se puede hacer que las palabras signifiquen tantas cosas diferentes.
 	- La cuestión, zanjó Zanco Panco, es saber quién es el que manda,…, eso es todo.
 	- Por el contrario, si fuera así, podría ser; y si lo fuera, sería; pero como no lo es, no es. Eso es lógica.
+- [[Yutang, Lin]]
+	- A veces es más importante descubrir lo que uno no puede hacer, que lo que sí puede.
+	- Bromear es una de las cosas amenas de la vida, pero cuesta muchos años de aprendizaje.
+	- El hombre superior ama su alma; el hombre inferior ama su propiedad.
+	- La sabiduría de la vida consiste en la eliminación de lo no esencial. En reducir los problemas de la filosofía a unos pocos solamente: el goce del hogar, de la vida, de la naturaleza, de la cultura.
+	- Un placer como el de una conversación perfecta es necesariamente raro, porque los sabios rara vez hablan y los que hablan rara vez son sabios.
 -
 	-
