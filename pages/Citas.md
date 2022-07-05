@@ -346,4 +346,35 @@
 	- Ser es hacer.
 	- Tan solo por la educación puede el hombre llegar a ser hombre. El hombre no es más que lo que la educación hace de él.
 	- Vemos las cosas, no como son, sino como somos nosotros.
+- [[Asimov, Isaac]]
+	- El aspecto más triste de la vida actual es que la ciencia gana en conocimiento más rápidamente que la sociedad en sabiduría.
+	- Las normas establecidas con razón y con justicia, pueden dejar de ser útiles al cambiar las circunstancias, pero al permitir que continuen vigentes por la fuerza de la inercia, entonces, no sólo es justo, sino también útil, quebrantar aquellas que nos anuncian el hecho de que son inútiles, o incluso realmente perjudiciales.
+	- Nunca permitas que el sentido de la moral te impida hacer lo que está bien.
+	- Tal vez la felicidad sea esto: no sentir que debes estar en otro lado, haciendo otra cosa, siendo alguien distinto.
+- [[Goethe, Johann Wolfgang von]]
+	- Con el conocimiento se acrecientan las dudas.
+	- El hombre siempre aspira a lo que no es.
+	- El niño es realista; el muchacho, idealista; el hombre, escéptico; y el viejo, místico.
+	- El único hombre que no se equivoca es el que nunca hace nada.
+	- En cuanto confíes en ti mismo, sabrás cómo vivir.
+	- Hablar es una necesidad, escuchar es un arte.
+	- Hay quien porque golpea la pared con un martillo, se cree que clava clavos.
+	- El único hombre que no se equivoca es el que nunca hace nada.
+	- Las personas ven en el mundo lo que llevan en su corazón.
+	- Lo más importante en este mundo no es donde estamos, sino en qué dirección nos movemos.
+	- Lo importante no es hacer cosas nuevas, sino hacerlas como si nunca nadie las hubiera hecho antes.
+	- Los perezosos siempre hablan de lo que piensan hacer, de lo que harán; los que de veras hacen algo no tienen tiempo de hablar ni de lo que hacen.
+	- Muchos odian la soledad porque no se soportan a sí mismos.
+	- Nadie es más esclavo que el que se tiene por libre sin serlo.
+	- No hay nada más espantoso que la ignorancia en acción.
+	- No importa las vueltas que dé el hombre ni lo que emprenda, que siempre regresará al camino que en su día la naturaleza predeterminó para él.
+	- Pensar es fácil. Actuar es difícil. Pero actuar de acuerdo con lo que piensas es lo más difícil del mundo.
+	- Por qué buscar conspiraciones cuando la estupidez puede explicar tantas cosas.
+	- Quien produce con alegría y se alegra de lo producido es feliz.
+	- Se tiende a poner palabras allí donde faltan las ideas.
+	- Sea lo que sea que puedas o sueñes que puedas, comiénzalo. El atrevimiento posee genio, poder y magia. Comiénzalo ahora.
+	- Si califico de malo a lo que es malo, ¿qué habré ganado con eso? Por otra parte, si tacho de malo a lo que es bueno, acabaré causando un gran perjuicio. Quien quiera obrar adecuadamente, no deberá criticar nunca nada ni preocuparse de lo que esté mal, sino limitarse a hacer bien las cosas. De lo que se trata no es de destrozar, sino de construir algo que le procure un gozo intachable a la humanidad.
+	- Si no pretendiéramos saber todo con tanta exactitud puede que conociéramos mejor las cosas.
+	- Todos los días deberíamos oír un poco de música, leer una buena poesía, contemplar un cuadro hermoso y si es posible, decir algunas palabras sensatas.
+	- Trata a un ser humano tal como es, y seguirá siendo lo que es; trátalo como puede y debe ser, y se convertirá en lo que puede y debe ser.
 -
