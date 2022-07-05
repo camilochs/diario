@@ -212,4 +212,33 @@
 	- Si quieres ser viejo mucho tiempo, hazte viejo pronto.
 	- Una cosa es saber y otra saber enseñar.
 	- Vivir es pensar.
+- [[Confucio]]
+	- Aprender sin pensar es inútil. Pensar sin aprender, peligroso.
+	- El hombre que hace una pregunta es un tonto por un minuto, el hombre que no pregunta es un tonto de por vida.
+	- El hombre que mueve una montaña empieza por arrastrar una pequeña piedra.
+	- El que por la mañana ha conseguido conocer la verdad, ya puede morir por la tarde.
+	- El silencio es el único amigo que jamás traiciona.
+	- Escoge un trabajo que te guste, y nunca tendrás que trabajar ni un sólo día de tu vida.
+	- Exígete mucho a ti mismo y espera poco de los demás. Así te ahorraras disgustos.
+	- Lo que quiere el sabio lo busca en sí mismo; el vulgo, lo busca en los demás.
+	- Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo aprendí.
+	- ¿Me preguntas por qué compro arroz y flores? Compro arroz para vivir y flores para tener algo por lo que vivir.
+	- No importa lo lento que vayas, siempre y cuando no te detengas.
+	- No maldigas la oscuridad, enciende una vela.
+	- Podemos aprender la sabiduría por tres métodos: primero, por la reflexión, que es el más noble; segundo, por la imitación, que es el más fácil; y tercero por la experiencia, que es el más difícil.
+	- Saber que se sabe lo que se sabe y que no se sabe lo que no se sabe; he aquí el verdadero saber.
+	- Ser ofendido no es nada a menos que continúes recordándolo.
+	- Si persigues dos conejos, no atrapas ninguno.
+	- Un hombre es grande no porque no haya fallado; un hombre es grande porque el fracaso no lo ha detenido.
+- [[Hume, David]]
+	- Cada solución da pie a una nueva pregunta.
+	- Cuando los hombres son más seguros y arrogantes suelen equivocarse más.
+	- Estoy convencido de que cuando los hombres están más seguros y son más arrogantes están normalmente más equivocados, y han dado riendas a la pasión sin esa adecuada deliberación y duda, que son las únicas que pueden librarles de los absurdos más burdos.
+	- La belleza de las cosas existe en el espíritu de quien las contempla.
+	- La rutina es la gran guía de la vida humana.
+- [[Diderot, Denis]]
+	- Cuidado con el hombre que habla de poner las cosas en orden. Poner las cosas en orden siempre significa poner las cosas bajo su control.
+	- Las frases concisas son como clavos afilados que clavan la verdad en nuestra memoria.
+	- No arrepentirse ni hacer reproches a los demás, son los pasos de la sabiduría.
+	- Una idiotez común es creer que el que tiene más clientes es el más hábil.
 -
