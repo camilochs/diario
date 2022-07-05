@@ -608,4 +608,44 @@
 	- La gente inteligente aprende de todo y de todos, la normal aprende de sus experiencias, la gente estúpida ya tiene todas sus respuestas.
 	- Sólo hay un bien: el conocimiento. Sólo hay un mal: la ignorancia.
 - [[Eco, Umberto]]
+	- Cuando se dispone de poco tiempo lo peor es perder la calma. Debemos actuar como si tuviésemos la eternidad por delante.
+	- El mundo está lleno de libros preciosos que nadie lee.
+	- No todas las verdades son para todos los oídos.
+	- Una de las primeras cosas que se han de hacer para empezar a trabajar con una tesis es escribir el título, la introducción y el índice final; esto es, precisamente las cosas que todos los autores hacen al final.
+- [[Hugo, Victor]]
+	- El agua que no corre hace un pantano; la mente que no trabaja hace un tonto.
+	- El éxito es una cosa bastante repugnante. Su falsa semejanza con el mérito engaña a los hombres.
+	- Lo que bien se piensa, bien se expresa.
+	- Nada tan estúpido como vencer; la verdadera gloria está en convencer.
+	- ¿Sabe cuál es mi enfermedad? La utopía. ¿Sabe cuál es la suya? La rutina. La utopía es el porvenir que se esfuerza en nacer. La rutina es el pasado que se obstina en seguir.
+- [[Frankl, Viktor]]
+	- La felicidad es como una mariposa. Cuanto más la persigues, más huye. Pero si vuelves la atención hacia otras cosas, ella viene y suavemente se posa en tu hombro. La felicidad no es una posada en el camino, sino una forma de caminar por la vida.
+	- La vida no es principalmente una búsqueda del placer, como creía Freud, ni una búsqueda de poder, como lo enseñó Alfred Adler, sino una búsqueda de sentido. La mejor tarea para cualquier persona es encontrarle sentido a su propia vida.
+	- Si no está en tus manos cambiar una situación que te produce dolor, siempre podrás escoger la actitud con la que afrontes ese sufrimiento.
+- [[Voltaire]]
+	- A los tontos todo les maravilla en un autor apreciado; pero yo, que leo para mí, sólo apruebo lo que me gusta.
+	- Al ser incapaz de hacer que la gente sea más razonable, he preferido ser feliz lejos de ellos.
+	- Algunos están destinados a razonar erróneamente, otros a no razonar en absoluto, y otros a perseguir a los que razonan.
+	- Cuando uno no vive como piensa, acaba pensando como vive.
+	- Cuanto más lee uno, más se instruye; cuanto más medita, más se halla en situación de afirmar que no sabe nada.
+	- Decimos una tontería y a fuerza de repetirla acabamos creyéndola.
+	- El arte de la medicina consiste en mantener al paciente en buen estado de
+	- El cerebro humano es un órgano complejo con el maravilloso poder de permitirle al hombre encontrar razones para seguir creyendo lo que sea que quiera creer.
+	- El secreto de aburrir a la gente consiste en decirlo todo.
+	- En geometría, como en la mayoría de las ciencias, es muy raro que una proposición aislada sea de utilidad inmediata. Pero las teorías más poderosas en la práctica están formadas por proposiciones que sólo la curiosidad sacó a la luz, y que durante mucho tiempo permanecieron inútiles sin poder adivinar de qué manera deberían dejar de serlo un día. En este sentido, se puede decir que en la ciencia real, ninguna teoría, ninguna investigación, es en efecto inútil.
+	- El secreto de aburrir a la gente consiste en decirlo todo.
+	- Es difícil liberar a los necios de las cadenas que veneran.
+	- Es peligroso tener razón cuando el Gobierno está equivocado.
+	- He decidido hacer lo que me gusta porque es bueno para la salud.
+	- La decisión más importante que se toma es estar de buen humor.
+	- La estupidez es una enfermedad extraordinaria, no es el enfermo el que sufre por ella, sino los demás.
+	- La ignorancia afirma o niega rotundamente; la ciencia duda.
+	- La ilusión es el primero de todos los placeres.
+	- La más feliz de todas las vidas es una soledad atareada.
+	- La política es el camino para que los hombres sin principios puedan dirigir a los hombres sin memoria.
+	- La Tierra está llena de gente con la que no vale la pena hablar.
+	- Los prejuicios son la razón de los tontos.
+	- Pensad por cuenta propia y dejad que los demás disfruten del derecho a hacer lo mismo.
+	- Una colección de pensamientos debe ser una farmacia donde se encuentra remedio a todos los males.
+	- Quienes creen que el dinero lo hace todo, terminan haciendo todo por dinero.
 -
