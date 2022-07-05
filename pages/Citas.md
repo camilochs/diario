@@ -5,29 +5,9 @@
 - Tengan curiosidad. Lean ampliamente. Prueben cosas nuevas. Creo que mucho de
       lo que la gente llama la inteligencia se reduce a la curiosidad.
 - [[ Watts, Alan]]
-	- El desapego significa no sentir ningún remordimiento por el pasado ni miedo
-	      por el futuro; dejar que la vida siga su curso sin intentar interferir en
-	      su movimiento y cambio, sin intentar prolongar las cosas placenteras ni
-	      provocar la desaparición de las desagradables. Actuar de este modo es
-	      moverse al ritmo de la vida, estar en perfecta armonía con su música
-	      cambiante, a esto se llama iluminación.
-	    + Este es el verdadero secreto de la vida: Estar completamente comprometido
-	      con lo que haces en el aquí y ahora. Y en lugar de llamarlo trabajo, date
-	      cuenta de que es un juego.
-	    + La verdadera disciplina del Zen comienza sólo en el punto en que el
-	      individuo ha dejado completamente de intentar mejorarse a sí mismo. (...)
-	      La razón es que el intento de mejorar o de actuar sobre uno mismo es una
-	      forma de encerrar la acción en un círculo vicioso, es como tratar de
-	      morderse los propios dientes.
-	    + Las palabras no pueden expresar más que un pequeño fragmento del
-	      conocimiento humano, porque lo que podemos decir y pensar es siempre
-	      inmensamente menor de lo que experimentamos.
-	    + Muy feliz era el ciempiés, hasta que un sapo una vez, le preguntó "¿Qué
-	      orden al andar siguen tus remos?" lo cual forzó su mente a tal extremo que
-	      a una zanja, distraído, fue a caer mientras pensaba cómo hacer para correr.
-	    + Una característica típica del estilo zen es que en la acción se compromete
-	      a fondo y va hasta las últimas consecuencias. En todo se entrega total y
-	      libremente sin consideración de sí mismo. No confunde la espiritualidad con
-	      el pensar en Dios mientras uno pela patatas. La espiritualidad zen consiste
-	      justamente en pelar patatas.
-	  ```
+	- El desapego significa no sentir ningún remordimiento por el pasado ni miedo por el futuro; dejar que la vida siga su curso sin intentar interferir en su movimiento y cambio, sin intentar prolongar las cosas placenteras ni provocar la desaparición de las desagradables. Actuar de este modo es moverse al ritmo de la vida, estar en perfecta armonía con su música cambiante, a esto se llama iluminación.
+	- Este es el verdadero secreto de la vida: Estar completamente comprometido con lo que haces en el aquí y ahora. Y en lugar de llamarlo trabajo, date cuenta de que es un juego.
+	- La verdadera disciplina del Zen comienza sólo en el punto en que el individuo ha dejado completamente de intentar mejorarse a sí mismo. (…) La razón es que el intento de mejorar o de actuar sobre uno mismo es una forma de encerrar la acción en un círculo vicioso, es como tratar de morderse los propios dientes.
+	- Las palabras no pueden expresar más que un pequeño fragmento del conocimiento humano, porque lo que podemos decir y pensar es siempre inmensamente menor de lo que experimentamos.
+	- Muy feliz era el ciempiés, hasta que un sapo una vez, le preguntó “¿Qué orden al andar siguen tus remos?” lo cual forzó su mente a tal extremo que a una zanja, distraído, fue a caer mientras pensaba cómo hacer para correr.
+	- Una característica típica del estilo zen es que en la acción se compromete a fondo y va hasta las últimas consecuencias. En todo se entrega total y libremente sin consideración de sí mismo. No confunde la espiritualidad con el pensar en Dios mientras uno pela patatas. La espiritualidad zen consiste justamente en pelar patatas.
