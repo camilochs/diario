@@ -648,4 +648,19 @@
 	- Pensad por cuenta propia y dejad que los demás disfruten del derecho a hacer lo mismo.
 	- Una colección de pensamientos debe ser una farmacia donde se encuentra remedio a todos los males.
 	- Quienes creen que el dinero lo hace todo, terminan haciendo todo por dinero.
+- [[James, William]]
+	- Cuando debemos hacer una elección y no la haces, esto ya es una elección.
+	- Dejad pensar al pueblo que gobierna y se dejará gobernar.
+	- El arte de ser sabio es el arte de saber qué pasar por alto.
+	- El camino voluntario y soberano hacia la alegría, si perdemos la alegría, consiste en proceder con alegría, actuar y hablar con alegría, como si esa alegría estuviera ya con nosotros.
+	- El objetivo de la ciencia es siempre reducir la complejidad a la simplicidad.
+	- El pájaro no canta porque sea feliz, sino que es feliz porque canta.
+	- El principio más profundo del carácter humano es el anhelo de ser apreciado.
+	- La unión del matemático con el poeta, el fervor con la medida, la pasión con la corrección, este seguramente es el ideal.
+	- Muchas personas creen que piensan, pero están reordenando sus prejuicios.
+	- No hay mentira peor que una verdad mal entendida por los que la oyen.
+	- No temas a la vida. Cree que la vida es digna de ser vivida, y tu creencia ayudará a crear el hecho.
+	- Primero una nueva teoría es tachada de absurda; luego se admite que es cierta, pero obvia e insignificante; finalmente, se ve tan importante que sus adversarios afirman que ellos mismos la descubrieron.
+	- Un gran número de personas piensan que están pensando cuando no hacen más que reordenar sus prejuicios.
+	- Una cosa es importante si alguien la cree importante.
 -
