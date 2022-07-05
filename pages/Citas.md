@@ -464,5 +464,64 @@
 	- El hombre superior ama su alma; el hombre inferior ama su propiedad.
 	- La sabiduría de la vida consiste en la eliminación de lo no esencial. En reducir los problemas de la filosofía a unos pocos solamente: el goce del hogar, de la vida, de la naturaleza, de la cultura.
 	- Un placer como el de una conversación perfecta es necesariamente raro, porque los sabios rara vez hablan y los que hablan rara vez son sabios.
+- [[Séneca, Lucio Anneo]]
+	- Atribuimos al lugar y al tiempo algunos de nuestros defectos, mas éstos a cualquier sitio que nos traslademos nos han de acompañar.
+	- Brevísima y agitadísima es la vida de aquellos que olvidan el pasado, descuidan el presente y temen el futuro.
+	- Como el suelo, por rico que sea, no puede dar fruto si no se cultiva, la mente sin cultivo tampoco puede producir.
+	- El ataque de las contrariedades no trastorna el espíritu del hombre fuerte: se mantiene en su posición y cuanto le sucede lo acomoda a su estilo de vida, pues es más poderoso que sus circunstancias.
+	- El lenguaje de la verdad debe ser, sin duda alguna, simple y sin artificios.
+	- El mayor impedimento al vivir es la espera, que, por estar pendiente al día de mañana, pierde el de hoy.
+	- El temor moderado mantiene el control sobre los espíritus, pero, cuando es constante, intenso y apunta a medidas extremas, provoca la audacia de los que están sojuzgados y los convence de que hay que intentarlo todo.
+	- Elige por maestro aquél a quien admires, más por lo que en él vieres que por lo que escuchares de sus labios.
+	- Enseñando aprendemos.
+	- Es propio de un alma grande menospreciar lo grandioso y preferir la moderación a la desmesura.
+	- ¡Estudia! No para saber una cosa más, sino para saberla mejor.
+	- Hasta que empezamos a prescindir de ellos, no nos damos cuenta de lo innecesarias que son muchas cosas. Los hemos estado usando no porque los necesitáramos sino porque los teníamos.
+	- Importa mucho más lo que tú piensas de ti mismo que lo que los otros opinen de ti.
+	- La recompensa de una buena acción está en haberla hecho.
+	- La vida es como una leyenda, no importa que sea larga, sino que esté bien narrada.
+	- Largo es el camino de la enseñanza por medio de teorías; breve y eficaz por medio de ejemplos.
+	- Lee siempre autores reconocidos y, si en alguna ocasión te agradare recurrir a otros, vuelve luego a los primeros.
+	- Lo importante no es qué soportas, sino de qué manera.
+	- Los hombres aprenden mientras enseñan.
+	- Mientras esperamos la vida, la vida pasa.
+	- Muchas veces lo que no se halla cuando se busca, sale al encuentro cuando no se busca.
+	- Muy pocos aciertan antes de errar.
+	- Nada impide tanto la curación como el cambio frecuente de remedios.
+	- Nada nos enreda en mayores males que el atenernos a los rumores, en la creencia de que lo mejor es lo aceptado por consentimiento de muchos, y el seguir los ejemplos más numerosos, rigiéndonos, no por la razón, sino por la imitación de los demás.
+	- No es la dificultad lo que impide que nos arriesguemos, sino que toda la dificultad viene de no arriesgarnos.
+	- No es pobre el que tiene poco, sino el que ambiciona más.
+	- No es que tengamos poco tiempo, sino que desperdiciamos mucho. La vida, si sabes usarla, es larga.
+	- No está en ningún lugar quien está en todas partes.
+	- No puede vivir felizmente aquel que sólo se contempla a sí mismo, que lo refiere todo a su propio provecho: has de vivir para el prójimo, si quieres vivir para ti.
+	- Nos perdemos por el ejemplo de los demás; nos curaremos sólo con que nos separemos del montón.
+	- Para ser felices se necesita eliminar dos cosas: el temor a un mal futuro y el recuerdo de un mal pasado.
+	- Pesa las opiniones, no las cuentes.
+	- Quizás suceda lo peor, quizás no, hasta entonces, espera cosas mejores.
+	- Sea esta la regla de nuestra vida: decir lo que sentimos, sentir lo que decimos. En suma, que la palabra vaya de acuerdo con los hechos.
+	- Si un hombre no sabe hacia qué puerto navega, ningún viento es favorable.
+	- Sin estudiar enferma el alma.
+	- Sufrimos más en la imaginación que en la realidad.
+	- Un hombre que sufre antes de lo necesario, sufre más de lo necesario.
+	- Un lugar austero robustece el vigor del alma.
+- [[Aurelio, Marco]]
+	- Acostúmbrate a prestar atención a lo que dice otra persona y, en la medida de lo posible, procura entrar en su mente. Por lo general, primero hay que aprender muchas cosas antes de poder juzgar la acción de otro con conocimiento.
+	- Acuérdate de esto siempre: para vivir felizmente basta con muy poco.
+	- Cuando te levantes por la mañana, piensa en el privilegio de vivir: respirar, pensar, disfrutar, amar.
+	- El talento, si no nacemos con él, se vuelve algo imposible de obtener.
+	- El universo es cambio; nuestra vida es lo que hacen nuestros pensamientos.
+	- El verdadero modo de vengarse de un enemigo es no parecérsele.
+	- En ninguna parte puede hallar el hombre un retiro tan apacible y tranquilo como en la intimidad de su alma.
+	- Es ridículo no intentar evitar tu propia maldad, lo cual es posible, y en cambio intentar evitar la de los demás, lo cual es imposible.
+	- La mayoría de lo que hacemos y decimos no es esencial. Si lo puedes eliminar ganarás tiempo y tranquilidad. Pregúntate en todo momento, ¿es esto necesario?
+	- La sabiduría es el arte de aceptar aquello que no puede ser cambiado, de cambiar aquello que puede ser cambiado y, sobre todo, de conocer la diferencia.
+	- La vida de un hombre es lo que sus pensamientos hacen de ella.
+	- No lo hagas si no conviene. No lo digas si no es verdad.
+	- No tiene sentido enfadarse por cosas que no puedes controlar.
+	- Nunca deja de sorprenderme: todos nos queremos más a nosotros mismos que a los demás, pero nos importan más sus opiniones que las nuestras.
+	- Quien vive en armonía consigo mismo, vive en armonía con el universo.
+	- Si logras separar, de lo que al parecer te aflige, la opinión que te haces de ello evitarás muchos sufrimientos.
+	- Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad.
+	- Tú tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza.
 -
 	-
