@@ -322,4 +322,4 @@
 	- Incluso en los juegos de niños hay cosas para interesar al matemático más grande.
 	- La música es el placer que experimenta la mente humana al contar sin darse cuenta de que está contando.
 	- La razón me enseña que no hay nada que contribuya más al bien general. de todos los hombres que lo que perfecciona la razón.
--
+- []
