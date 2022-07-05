@@ -125,4 +125,67 @@
 	- Somos lo que hacemos día a día. De modo que la excelencia no es un acto, sino un hábito.
 	- Uno no sabe lo que sabe hasta que puede enseñar a otro.
 - [[Schopenhauer, Arthur]]
-	-
+	- Así como no sentimos la salud de todo nuestro cuerpo sino solo el punto donde nos aprieta el zapato, tampoco pensamos en todos nuestros asuntos que marchan perfectamente bien sino en alguna pequeñez insignificante que nos disgusta.
+	- Cuanto más sea lo que tiene alguien en su interior, tanto menos requerirá de fuera y, por consiguiente, tanto menos significarán los otros para él. De ahí que la eminencia del espíritu conduzca a la misantropía.
+	- El alquimista, en su búsqueda del oro encontró muchas otras cosas de gran valor.
+	- El joven debe, tempranamente, estar capacitado para soportar estar solo; ya que es una fuente de felicidad y paz mental.
+	- El mundo en el cual cada uno vive depende de cómo lo conciba, y se ajusta, por ello, a las diferencias mentales: según sea cada mente, ese mundo resultará más pobre, anodino y superficial, o rico, interesante y lleno de sentido.
+	- El mundo es mi representación: esta verdad es aplicable a todo ser que vive y conoce, aunque sólo al hombre le sea dado tener conciencia de ella; llegar a conocerla es poseer el sentido filosófico. Cuando el hombre conoce esta verdad estará para él claramente demostrado que no conoce ni un sol ni unta tierra, y sí únicamente un ojo que ve el sol y una mano que siente el contacto con la tierra; que el mundo que le rodea no existe más que como representación, esto es, en relación con otro ser: aquel que le percibe, o sea él mismo. Si hay alguna verdad a priori es ésta, pues expresa la forma general de la experiencia, la más general de todas, incluidas las de espacio, tiempo y causalidad, puesto que la suponen.
+	- En consecuencia el presente siempre resulta insatisfactorio, pero el futuro es incierto y el pasado irrevocable.
+	- Es difícil encontrar la felicidad dentro de uno mismo, pero es imposible encontrarla en otro lugar.
+	- Es una gran torpeza perder en lo interno para ganar en lo externo; es decir, sacrificar parcial o totalmente la tranquilidad, la independencia y el ocio de uno mismo en aras del brillo, el rango, el lujo, los títulos o los honores.
+	- La influencia tan benéfica que ejerce una vida retraída sobre nuestra serenidad de ánimo se basa casi siempre en que evita que tengamos que estar continuamente bajo la mirada de los demás, nos libra de preocuparnos de cuáles puedan ser las opiniones de estos y nos restituye el control de nuestro ser.
+	- La magia de la lejanía nos presenta paraísos que desaparecen como ilusiones ópticas cuando nos lanzamos hacia ellos.
+	- La soledad concede al hombre dotado de grandes cualidades intelectuales una doble ventaja: primero, le proporciona la posibilidad de estar consigo mismo; y, segundo, la de no estar con los demás.
+	- Lo que se opone más al hallazgo de la verdad no es la falsa apariencia que surge de las cosas, llevando al error, ni tampoco inmediatamente la debilidad de la inteligencia, sino la opinión presupuesta, el prejuicio que se impone como impedimento a priori a la verdad.
+	- Los alquimistas en su búsqueda de oro descubrieron muchas otras cosas de mayor valor.
+	- Los hombres han inventado la vida de sociedad porque les es más fácil soportar a los demás que soportarse a sí mismos.
+	- Los sucesos de nuestra vida se parecen a las imágenes de un caleidoscopio en el que vemos algo diferente cada vez que lo hacemos girar, aunque en el fondo siempre tengamos lo mismo frente a nuestros ojos.
+	- No hay mayor goce espiritual que la lectura de los antiguos clásicos: su lectura, aunque de una media hora, nos purifica, recrea, refresca, eleva y fortalece, como si se hubiese bebido en una fresca fuente que mana entre rocas.
+	- Nuestra felicidad depende más de lo que tenemos en nuestras cabezas que en nuestros bolsillos.
+	- Nuestra vida práctica y real es, cuando no la mueven las pasiones, aburrida e insulsa; y cuando la mueven, no tarda en volverse dolorosa; de ahí que sólo sean felices quienes han recibido una cantidad de inteligencia que excede en grado mayor o menor la que se requiere para el servicio de la voluntad. Pues ello les permite llevar, junto a su vida real, una vida intelectual que los ocupa y entretiene continuamente de forma indolora y, sin embargo, animada.
+	- Querer es esencialmente sufrir, y como vivir es querer, toda vida es por esencia dolor.
+	- Sufrimos al no obtener lo que deseamos y, si lo obtenemos, nos aburre inmediatamente; nuestra vida oscila entre el deseo, el dolor y el tedio.
+	- Todos buscan el porqué en vez de considerar el qué; aspiran a lo lejano en vez de tomar lo cercano; se dirigen hacia fuera en todas direcciones en vez de ir hacia sí mismos, donde todo enigma se resuelve.
+	- Un obstáculo capital del progreso del género humano es que la gente no escucha a quienes hablan con sensatez sino a quienes hablan más alto.
+- [[Russell, Bertrand]]
+	- Al contrario del esquema habitual me he hecho gradualmente más rebelde a medida que envejezco.
+	- Aunque esto pueda parecer una paradoja, toda la ciencia exacta está dominada por la idea de aproximación. Cuando un hombre te dice que sabe la verdad exacta sobre cualquier cosa, puedes deducir que es un hombre inexacto.
+	- Cuando se quiere enseñar a los niños a pensar, se empieza por tratarlos seriamente cuando son pequeños, darles responsabilidades, hablarles con franqueza, darles privacidad y soledad, y hacerlos lectores y pensadores de pensamientos significativos desde el principio. Eso es si quieres enseñarles a pensar.
+	- El hecho de que una opinión haya estado muy difundida no es prueba alguna de que no sea totalmente absurda.
+	- El mayor desafío para cualquier pensador es plantear el problema de una manera que permita una solución.
+	- El mayor problema del mundo es que los locos y los fanáticos están seguros de sí mismos y los sabios llenos de dudas.
+	- El método de establecer como postulado lo que queramos tiene muchas ventajas. Las mismas que tiene el robo sobre el trabajo honrado.
+	- El tiempo que disfrutes desperdiciándolo no es tiempo desperdiciado.
+	- El verdadero espíritu del deleite, la exaltación que es la piedra de toque de la más alta excelencia, se encuentra en las matemáticas tanto como en la poesía.
+	- En todas las actividades es saludable, de vez en cuando, poner un signo de interrogación sobre aquellas cosas que por mucho tiempo se han dado como seguras.
+	- Gran parte de las dificultades por las que atraviesa el mundo se deben a que los ignorantes están completamente seguros y los instruidos llenos de dudas.
+	- La ciencia es lo que sabes, la filosofía es lo que no sabes.
+	- La matemática, correctamente vista, posee no sólo la verdad, sino la belleza suprema - una belleza fría y austera, como la de la escultura, sin apelar a ninguna parte de nuestra naturaleza más débil, sin los hermosos adornos de la pintura o la música, pero sublimemente pura, y capaz de una perfección severa como sólo el arte más grande puede mostrar.
+	- La mayoría de los grandes males que los hombres han infligido a los hombres han llegado a través de gente que se sentía completamente segura de algo que, en realidad era falso.
+	- Los hombres nacen ignorantes, no estúpidos. Es la educación lo que puede hacerles estúpidos.
+	- Mucha gente preferiría morir antes que pensar. De hecho, lo hacen.
+	- Una vida feliz tiene que ser, en gran medida, una vida tranquila, pues solo en un ambiente tranquilo puede vivir la auténtica alegría.
+	- Decálogo:
+		- No estés absolutamente seguro de nada.
+		- No creas conveniente actuar ocultando pruebas, pues las pruebas terminan por salir a la luz.
+		- Nunca intentes oponerte al raciocino, pues seguramente lo conseguirás.
+		- Cuando encuentres oposición, aunque provenga de tu esposo o de tus hijos, trata de superarla por medio de la razón y no de la autoridad, pues una victoria que dependa de la autoridad es irreal e ilusoria.
+		- No respetes la autoridad de los demás, pues siempre se encuentran autoridades enfrentadas.
+		- No utilices la fuerza para suprimir las ideas que crees perniciosas, pues si lo haces, ellas te suprimirán a ti.
+		- No temas ser extravagante en tus ideas, pues todas la ideas ahora aceptadas fueron en su día extravagantes.
+		- Disfruta más con la discrepancia inteligente que con la conformidad pasiva, pues si valoras la inteligencia como debieras, aquélla significa un acuerdo más profundo que ésta.
+		- Muéstrate escrupuloso en la verdad, aunque la verdad sea incómoda, pues más incómoda es cuando tratas de ocultarla.
+		- No sientas envidia de la felicidad de los que viven en el paraíso de los necios, pues sólo un necio pensará que eso es la felicidad.
+- [[Pascal, Blaise]]
+	- El hombre está dispuesto siempre a negar todo aquello que no comprende.
+	- Es mucho mejor conocer algo acerca de todo, que acerca de una sola cosa. Lo universal es siempre mejor.
+	- He descubierto que toda la maldad humana proviene de la incapacidad del ser humano de sentarse en calma en una habitación.
+	- He redactado esta carta más extensa de lo usual porque carezco de tiempo para escribirla más breve.
+	- La mayoría de los males les vienen a los hombres por no quedarse en casa.
+	- La verdadera función de la razón es mostrar al hombre que algunas cosas están más allá de la razón
+	- Ni la contradicción es indicio de falsedad, ni la falta de contradicción es indicio de verdad.
+	- No se muestra la grandeza por estar en un extremo, sino tocando los dos a la vez y llenando el espacio intermedio.
+	- Toda la miseria de los hombres proviene de una única cosa, que es no saber permanecer en reposo en una habitación.
+	- Vale más saber alguna cosa de todo, que saberlo todo de una sola cosa.
+-
