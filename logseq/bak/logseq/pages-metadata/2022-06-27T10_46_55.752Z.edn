@@ -1,0 +1,366 @@
+[{:block/name "\"caterine, christopher l.\"",
+  :block/created-at 1656149187062,
+  :block/updated-at 1656149187062}
+ {:block/name "2022-05-07t21_50_45",
+  :block/created-at 1656063942331,
+  :block/updated-at 1656063942331}
+ {:block/name "26-02-2022",
+  :block/created-at 1651494648547,
+  :block/updated-at 1651494648547}
+ {:block/name "@schulzrinne2021",
+  :block/created-at 1656162361862,
+  :block/updated-at 1656162644532}
+ {:block/name "a",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "ahmed, awadelrahman m. a.",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "aho, alfred",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "alonso, josé a.",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "arendt, hannah",
+  :block/created-at 1651787489027,
+  :block/updated-at 1651787489027}
+ {:block/name "b",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "bennamoun, mohammed",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "bonnefon, jean-francois",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "bruderer, herbert",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "bunge, mario",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "c",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "card",
+  :block/created-at 1651494487013,
+  :block/updated-at 1651494487013}
+ {:block/name "caterine, christopher l.",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "chacón sartori, camilo",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "chen, valerie",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "ciencia",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "contents",
+  :block/created-at 1653339006634,
+  :block/updated-at 1653339006634}
+ {:block/name "deep learning",
+  :block/created-at 1651493260228,
+  :block/updated-at 1651493260228}
+ {:block/name "diario personal",
+  :block/created-at 1656063942331,
+  :block/updated-at 1656159760686}
+ {:block/name "doing",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "done",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "entrevistas podcast",
+  :block/created-at 1656149045097,
+  :block/updated-at 1656149045097}
+ {:block/name "epicteto",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "escribir",
+  :block/created-at 1656150122677,
+  :block/updated-at 1656150122677}
+ {:block/name "escritura",
+  :block/created-at 1655937688596,
+  :block/updated-at 1655937688596}
+ {:block/name "fauvel, john",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "favorites",
+  :block/created-at 1651494487013,
+  :block/updated-at 1651494487013}
+ {:block/name "filosofía",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "flood, raymond",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "fri, 06-05-2022",
+  :block/created-at 1651932091220,
+  :block/updated-at 1651932091220}
+ {:block/name "fri, 13-05-2022",
+  :block/created-at 1653338926326,
+  :block/updated-at 1653338926326}
+ {:block/name "fri, 22-04-2022",
+  :block/created-at 1653338926345,
+  :block/updated-at 1653338926345}
+ {:block/name "fri, 24-06-2022",
+  :block/created-at 1656021602248,
+  :block/updated-at 1656021602248}
+ {:block/name "fri, 25-02-2022",
+  :block/created-at 1645747200000,
+  :block/updated-at 1645747200000}
+ {:block/name "gordon, rachel",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "gosling, emily",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "gregg, john r.",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "guo, yulan",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "hamilton, william l.",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "haskell",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "idea",
+  :block/created-at 1655937954648,
+  :block/updated-at 1655937954648}
+ {:block/name "in-progress",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "inglés",
+  :block/created-at 1656166148414,
+  :block/updated-at 1656166148414}
+ {:block/name "jacobson, ivar",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "joyner, jack",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "kim, joon sik",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "kladov, aleksey",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "krakovsky, marina",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "later",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "lawson, harold \"bud\"",
+  :block/created-at 1656149185643,
+  :block/updated-at 1656149185643}
+ {:block/name "lecturas",
+  :block/created-at 1655937875166,
+  :block/updated-at 1655937894653}
+ {:block/name "leer",
+  :block/created-at 1651787489029,
+  :block/updated-at 1651787489029}
+ {:block/name "levi-montalcini, rita",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "li, jeffrey",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "libro",
+  :block/created-at 1656150122679,
+  :block/updated-at 1656150122679}
+ {:block/name "lickfold, casey",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "literatura",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "meseguer, pedro",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "mon, 02-05-2022",
+  :block/created-at 1651494635192,
+  :block/updated-at 1651494635192}
+ {:block/name "mon, 09-05-2022",
+  :block/created-at 1653338926332,
+  :block/updated-at 1653338926332}
+ {:block/name "mon, 16-05-2022",
+  :block/created-at 1653338926323,
+  :block/updated-at 1653338926323}
+ {:block/name "mon, 23-05-2022",
+  :block/created-at 1653339063914,
+  :block/updated-at 1653339063914}
+ {:block/name "moore, g. e.",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "ng, pan-wei",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "now",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "parra, nicanor",
+  :block/created-at 1653338926322,
+  :block/updated-at 1653338926322}
+ {:block/name "patricio reyes",
+  :block/created-at 1656149045095,
+  :block/updated-at 1656149045095}
+ {:block/name "pessoa, fernando",
+  :block/created-at 1651578170939,
+  :block/updated-at 1651578170939}
+ {:block/name "phd",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "piglia, ricardo",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "plumb, gregory",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "principiosdeprogramación",
+  :block/created-at 1656150129961,
+  :block/updated-at 1656150129961}
+ {:block/name "programaciónfuncional",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "prólogo libro andros",
+  :block/created-at 1656027635035,
+  :block/updated-at 1656079949477}
+ {:block/name "rabbani, rosa",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "ramón y cajal, santiago",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "read",
+  :block/created-at 1656166148414,
+  :block/updated-at 1656166148414}
+ {:block/name "readme",
+  :block/created-at 1644843240331,
+  :block/updated-at 1651607676363}
+ {:block/name "research",
+  :block/created-at 1656166148414,
+  :block/updated-at 1656166148414}
+ {:block/name "root-bernstein, michelle",
+  :block/created-at 1651493260228,
+  :block/updated-at 1651493260228}
+ {:block/name "root-bernstein, robert",
+  :block/created-at 1651493260227,
+  :block/updated-at 1651493260227}
+ {:block/name "sat, 07-05-2022",
+  :block/created-at 1653338926336,
+  :block/updated-at 1653338926336}
+ {:block/name "sat, 14-05-2022",
+  :block/created-at 1653338926325,
+  :block/updated-at 1653338926325}
+ {:block/name "sat, 19-02-2022",
+  :block/created-at 1645228800000,
+  :block/updated-at 1645228800000}
+ {:block/name "sat, 25-06-2022",
+  :block/created-at 1656117472363,
+  :block/updated-at 1656165253144}
+ {:block/name "schulzrinne, henning",
+  :block/created-at 1656166148414,
+  :block/updated-at 1656166148414}
+ {:block/name "shakarian, paulo",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "softwareengineering",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "sukhov, andrei",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "sun, 08-05-2022",
+  :block/created-at 1653338926334,
+  :block/updated-at 1653338926334}
+ {:block/name "sun, 15-05-2022",
+  :block/created-at 1653338926324,
+  :block/updated-at 1653338926324}
+ {:block/name "sun, 20-02-2022",
+  :block/created-at 1645315200000,
+  :block/updated-at 1645315200000}
+ {:block/name "talwalkar, ameet",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "templates",
+  :block/created-at 1656162713928,
+  :block/updated-at 1656166099952}
+ {:block/name "thagard, paul",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "thu, 05-05-2022",
+  :block/created-at 1651932091222,
+  :block/updated-at 1651932091222}
+ {:block/name "thu, 12-05-2022",
+  :block/created-at 1653338926327,
+  :block/updated-at 1653338926327}
+ {:block/name "thu, 23-06-2022",
+  :block/created-at 1655937767382,
+  :block/updated-at 1655937767382}
+ {:block/name "todo",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "tue, 03-05-2022",
+  :block/created-at 1651576851159,
+  :block/updated-at 1651576851159}
+ {:block/name "tue, 10-05-2022",
+  :block/created-at 1653338926330,
+  :block/updated-at 1653338926330}
+ {:block/name "tue, 15-02-2022",
+  :block/created-at 1644883200000,
+  :block/updated-at 1644883200000}
+ {:block/name "tue, 17-05-2022",
+  :block/created-at 1653339041239,
+  :block/updated-at 1653339041239}
+ {:block/name "tue, 24-05-2022",
+  :block/created-at 1655937636479,
+  :block/updated-at 1655937636479}
+ {:block/name "técnicas de estudio",
+  :block/created-at 1656166148414,
+  :block/updated-at 1656166148414}
+ {:block/name "ullman, jeffrey",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "veličković, petar",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "wait",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "waiting",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "ward, isaac ronald",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "web",
+  :block/created-at 1656162393962,
+  :block/updated-at 1656162393962}
+ {:block/name "wed, 04-05-2022",
+  :block/created-at 1651787489027,
+  :block/updated-at 1651787489027}
+ {:block/name "wed, 11-05-2022",
+  :block/created-at 1653338926329,
+  :block/updated-at 1653338926329}
+ {:block/name "wed, 16-02-2022",
+  :block/created-at 1644969600000,
+  :block/updated-at 1644969600000}
+ {:block/name "wed, 18-05-2022",
+  :block/created-at 1653339050997,
+  :block/updated-at 1653339050997}
+ {:block/name "wed, 22-06-2022",
+  :block/created-at 1655937652940,
+  :block/updated-at 1655937652940}
+ {:block/name "weston, anthony",
+  :block/created-at 1653338926337,
+  :block/updated-at 1653338926337}
+ {:block/name "wilson, robin",
+  :block/created-at 1644843240331, 
+  :block/updated-at 1644843240331}]

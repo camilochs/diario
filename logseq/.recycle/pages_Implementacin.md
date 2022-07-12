@@ -1,0 +1,3 @@
+# Implementación
+
+- (Implementación / Implementation) $$\bullet$$ Etapa donde se utiliza la [[Especificación]] de un requerimiento para desarrollar un [[Programa]] usando un [[Lenguaje de programación]]. Así, podemos concluir que la «implementación» es cuando una solución pasa de ser una definición abstracta a algo concreto, funcional. Aunque, adicionalmente, no asegura un funcionamiento correcto del programa, pues, para ello es necesario pasar a la fase de [[pruebas]].
