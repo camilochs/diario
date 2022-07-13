@@ -1,4 +1,665 @@
 - [[Wirth, Niklaus]]
 	- Algorithms + Data Structures = Programs, 1976
 		- The power of recursion evidently lies in the possibility of defining an infinite set of objects by a finite statement. In the same manner, an infinite number of computations can be described by a finite recursive program, even if this program contains no explicit repetitions.
+- [[Swartz, Aaron]]
+	- Tengan curiosidad. Lean ampliamente. Prueben cosas nuevas. Creo que mucho de lo que la gente llama la inteligencia se reduce a la curiosidad.
+- [[ Watts, Alan]]
+	- El desapego significa no sentir ningún remordimiento por el pasado ni miedo por el futuro; dejar que la vida siga su curso sin intentar interferir en su movimiento y cambio, sin intentar prolongar las cosas placenteras ni provocar la desaparición de las desagradables. Actuar de este modo es moverse al ritmo de la vida, estar en perfecta armonía con su música cambiante, a esto se llama iluminación.
+	- Este es el verdadero secreto de la vida: Estar completamente comprometido con lo que haces en el aquí y ahora. Y en lugar de llamarlo trabajo, date cuenta de que es un juego.
+	- La verdadera disciplina del Zen comienza sólo en el punto en que el individuo ha dejado completamente de intentar mejorarse a sí mismo. (…) La razón es que el intento de mejorar o de actuar sobre uno mismo es una forma de encerrar la acción en un círculo vicioso, es como tratar de morderse los propios dientes.
+	- Las palabras no pueden expresar más que un pequeño fragmento del conocimiento humano, porque lo que podemos decir y pensar es siempre inmensamente menor de lo que experimentamos.
+	- Muy feliz era el ciempiés, hasta que un sapo una vez, le preguntó “¿Qué orden al andar siguen tus remos?” lo cual forzó su mente a tal extremo que a una zanja, distraído, fue a caer mientras pensaba cómo hacer para correr.
+	- Una característica típica del estilo zen es que en la acción se compromete a fondo y va hasta las últimas consecuencias. En todo se entrega total y libremente sin consideración de sí mismo. No confunde la espiritualidad con el pensar en Dios mientras uno pela patatas. La espiritualidad zen consiste justamente en pelar patatas.
+- [[Camus, Albert]]
+	- A pesar de todos mis esfuerzos y razonamientos, me es imposible sacudirme esta tristeza que ya ni siquiera comprendo.
+	- Cada generación, sin duda, se cree destinada a rehacer el mundo. La mía sabe, sin embargo, que no lo rehará. Pero su tarea acaso sea más grande. Consiste en impedir que el mundo se deshaga.
+	- Envejecer es pasar de la pasión a la compasión.
+	- Inocente es quien no necesita explicarse.
+	- La gente nunca está convencida de tus razones, de tu sinceridad, de tu seriedad o tus sufrimientos, salvo si te mueres.
+	- Ser diferente no es ni bueno ni malo, simplemente significa que tienes el suficiente coraje para ser tú mismo.
+	- Todas las desgracias de los hombres provienen de no hablar claro.
+- [[Einstein, Albert]]
+	- Cada día sabemos más y entendemos menos.
+	- Debe evitarse hablar a los jóvenes del éxito como si se tratase del principal objetivo en la vida. La razón más importante para trabajar en la escuela y en la vida es el placer de trabajar, el placer de su resultado y el conocimiento del valor del resultado para la comunidad.
+	- El científico encuentra su recompensa en lo que Henri Poincare llama el placer de la comprensión, y no en las posibilidades de aplicación que cualquier descubrimiento pueda conllevar.
+	- El mundo no está en peligro por las malas personas sino por aquellas que permiten la maldad.
+	- El planteamiento de un problema es más importante que su solución.
+	- El sentido común es el conjunto de prejuicios acumulados a través de los siglos.
+	- Es más fácil destruir un átomo que un prejuicio.
+	- Hay dos cosas infinitas: el Universo y la estupidez humana. Y del Universo no estoy seguro.
+	- La diferencia entre la genialidad y la estupidez es que la genialidad tiene sus límites.
+	- La escuela debe siempre plantearse como objetivo que el joven salga de ella con una personalidad armónica y no como un especialista. En mi opinión, esto es aplicable, en cierto sentido, incluso a las escuelas técnicas, cuyos alumnos se dedicarán a una profesión totalmente definida. Lo primero debería ser, siempre, desarrollar la capacidad general para el pensamiento y el juicio independientes y no la adquisición de conocimientos especializados.
+	- La medida de la inteligencia es la capacidad de cambiar.
+	- La monotonía y la soledad de una vida tranquila estimula la mente creativa.
+	- La vida es muy peligrosa. No por las personas que hacen el mal, sino por las que se sientan a ver lo que pasa.
+	- Los grandes espíritus siempre han encontrado una violenta oposición por parte de las mentes mediocres.
+	- Los intelectuales resuelven los problemas; los genios, los evitan.
+	- No entiendes realmente algo a menos que seas capaz de explicárselo a tu abuela.
+	- No guardes nunca en la cabeza aquello que te quepa en un bolsillo.
+	- No permitas que tu felicidad dependa de alguien porque no siempre esa persona será como crees.
+	- No tengo ningún talento especial pero si soy profundamente curioso.
+	- Si buscas resultados distintos, no hagas siempre lo mismo.
+	- Si no sabes explicar algo de manera sencilla, es que no lo entiendes del todo.
+	- Si quieres una vida feliz, átala a un objetivo y no a personas o cosas.
+	- Tengo una pregunta que a veces me tortura, ¿estoy loco yo o los locos son los demás?
+	- Todo lo que es realmente grande e inspirador es creado por el individuo que puede trabajar en libertad.
+	- Todos somos muy ignorantes. Lo que ocurre es que no todos ignoramos las mismas cosas.
+	- Todos somos unos genios. Pero si juzgas a un pez por su habilidad de escalar un árbol, vivirá su vida entera creyendo que es estúpido.
+	- ¡Triste época la nuestra! Es más fácil desintegrar un átomo que un prejuicio.
+	- Una teoría es más impresionante cuanto mayor es la simplicidad de sus premisas, más diferentes tipos de cosas se relacionan y más amplia es su área de aplicación.
+	- Una vez que dejas de aprender, empiezas a morir.
+- [[Whitehead, Alfred North]]
+	- Desde los primeros pasos de su educación el niño debe experimentar el placer del descubrimiento.
+	- El objetivo de la ciencia es buscar explicaciones sencillas para hechos complejos.
+	- La civilización avanza ampliando el número de operaciones importantes que podemos realizar sin pensar en ellas.
+	- No hay verdades absolutas; todas las verdades son medias verdades. El mal surge de quererlas tratar como verdades absolutas.
+	- No la ignorancia, sino la ignorancia de la ignorancia es la muerte del conocimiento.
+	- Pensamos en generalidades, pero vivimos en detalles.
+	- Se requiere una mente muy inusual para llevar a cabo el análisis de lo obvio.
+- [[Machado, Antonio]]
+	- Aprendió tantas cosas, que no tuvo tiempo para pensar en ninguna de ellas.
+	- Ayudadme a comprender lo que os digo, y os lo explicaré más despacio.
+	- Caminante, no hay camino:
+	  se hace camino al andar.
+	- De cada diez novedades que pretenden descubrirnos, nueve son tonterías. La décima y última, que no es necedad, resulta a última hora que tampoco es nueva.
+	- Despacito y buena letra:
+	  el hacer las cosas bien \ importa más que el hacerlas.
+	- El escepticismo es una posición vital, no lógica, que ni afirma ni niega, se limita a preguntar, y no se asusta de las contradicciones.
+	- Entre hacer las cosas bien y hacerlas mal está el no hacerlas, como término medio, a veces aceptable, que consiste en no hacerlas.
+	- Es el mejor de los buenos quien sabe que en esta vida todo es cuestión de medida: un poco más, algo menos…
+	- Es propio de hombres de cabezas medianas embestir contra todo aquello que no
+	- Hay que tener los ojos muy abiertos para ver las cosas como son; aún más abiertos para verlas otras de lo que son; más abiertos todavía para verlas mejores de lo que son.
+	- Huid de escenarios, púlpitos, plataformas y pedestales. Nunca perdáis contacto con el suelo; porque sólo así tendréis una idea aproximada de vuestra estatura.
+	- Juzgarnos o corregirnos supone aplicar la medida ajena al paño propio.
+	- La página escrita nunca recuerda todo lo que se ha intentado, sino lo poco que se ha conseguido.
+	- La política, señores, es una actividad importantísima. Yo no os aconsejaré nunca el apoliticismo, sino el desdeño de la política mala, que hacen trepadores y cucañistas, sin otro propósito que el de obtener ganancia y colocar parientes. Vosotros debéis hacer política, aunque otra cosa os digan los que pretenden hacerla sin vosotros, y, naturalmente, contra vosotros. Solo me atrevo a aconsejaros que la hagáis a cara descubierta… Y a quien os eche en cara vuestros pocos años bien podéis decirle que la política no ha de ser necesariamente cosa de viejos. Hay movimientos políticos que tienen su punto de arranque en una justificada rebelión de menores contra la inepcia de los sedicentes padres de la patria…Hasta las madres os pudieran aconsejar: “Toma el volante, niño, porque estoy viendo que tu papá nos va a estrellar a todos -de una vez- en la cuneta del camino.
+	- Las razones no se transmiten, se engendran, por cooperación, en el diálogo.
+	- Lo corriente en el hombre es la tendencia a creer verdadero cuanto le reporta alguna utilidad. Por eso hay tantos hombres capaces de comulgar con ruedas de molino.
+	- Para pensar es preciso evitar dos escollos: lo visto y lo soñado.
+	- Preguntadlo todo, como hacen los niños. ¿Por qué esto? ¿Por qué lo otro? ¿Por qué lo de más allá? En España no se dialoga porque nadie pregunta, como no sea para responderse a sí mismo.
+	- Nunca traces tu frontera
+	  ni cuides de tu perfil; \ todo eso es cosa de fuera.
+	- Por mucho que un hombre valga, nunca tendrá valor más alto que el de ser hombre.
+	- Porque toda visión requiere distancia, no hay manera de ver las cosas sin salirse de ellas.
+	- Sed hombres de mal gusto. Yo os aconsejo el mal gusto para combatir los excesos de la moda.
+	- Si es bueno vivir, todavía es mejor soñar, y lo mejor de todo, despertar.
+	- Todo necio
+	  confunde valor y precio.
+	- ¡Qué difícil es,
+	  cuando todo baja, \ no bajar también!.
+	- ¿Tu verdad? No, la Verdad,
+	  y ven conmigo a buscarla. \ La tuya guárdatela.
+	- Y nadie pregunta ni nadie contesta, todos hablan solos.
+- [[Chéjov, Antón]]
+	- Los hombre inteligentes quieren aprender. Los demás, enseñar.
+	- Anónimo
+		- Conócete a tí mismo.
+		- Cuando crees que sabes todas las respuestas, la vida te cambia todas las preguntas.
+		- En todo la medida.
+		- Hay quienes cruzan el bosque y sólo ven leña para el fuego.
+		- La palabra y la piedra suelta no tienen vuelta.
+		- La vida crece en las orillas, no en las aguas turbulentas.
+		- La vida es un espejo; si le sonries, te sonreirá; si le pones mala cara, te la pondrá.
+		- Las mentes brillantes manejan ideas; las corrientes hablan de actualidades; las mediocres hablan de los demás.
+		- Las personas inteligentes son capaces de simplificar lo complejo; los tontos, en cambio, suelen complicar lo sencillo.
+		- Los errores son como una colección por fascículos: cada uno te enseña una lección, pero el precio es cada vez más alto.
+		- Poco basta cada día, si cada día se logra ese poco.
+		- Sólo se comprende cuando se deja de obedecer, sólo se obedece cuando no se comprende.
+- [[Arístoteles]]
+	- Cualquiera puede enfadarse, eso es algo muy sencillo. Pero enfadarse con la persona adecuada, en el grado exacto, en el momento oportuno, con el propósito justo y del modo correcto, eso, ciertamente, no resulta tan sencillo.
+	- El género humano tiene, para saber conducirse, el arte y el razonamiento.
+	- El hombre de mentalidad superior debe preocuparse más de la verdad que de lo que piensa la gente.
+	- El ignorante afirma, el sabio duda y reflexiona.
+	- El que no busca la felicidad es el que la encuentra.
+	- El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice.
+	- En primer lugar, tener un ideal definido, claro y práctico; una meta, un objetivo. En segundo lugar, acopiar los medios necesarios para alcanzar los fines: sabiduría, dinero, materiales y métodos. En tercer lugar, ajustar todos los medios a ese exclusivo fin.
+	- Es ignorancia no saber distinguir entre lo que necesita demostración y lo que no la necesita.
+	- La felicidad es de quienes se bastan a sí mismos.
+	- La habilidad de exponer una idea es tan importante como la idea en sí misma.
+	- Mercaderes e industriales no deben ser admitidos a la ciudanía, porque su género de vida es abyecto y contrario a la virtud.
+	- No basta decir solamente la verdad, mas conviene mostrar la causa de la falsedad.
+	- Sé un libre pensador y no aceptes todo lo que oyes como verdad. Sé crítico y evalúa lo que crees.
+	- Sólo hay una manera de evitar la crítica: no hagas nada, no digas nada, y no seas nada.
+	- Sólo una mente educada puede comprender un pensamiento diferente al suyo sin necesidad de aceptarlo.
+	- Somos lo que hacemos día a día. De modo que la excelencia no es un acto, sino un hábito.
+	- Uno no sabe lo que sabe hasta que puede enseñar a otro.
+- [[Schopenhauer, Arthur]]
+	- Así como no sentimos la salud de todo nuestro cuerpo sino solo el punto donde nos aprieta el zapato, tampoco pensamos en todos nuestros asuntos que marchan perfectamente bien sino en alguna pequeñez insignificante que nos disgusta.
+	- Cuanto más sea lo que tiene alguien en su interior, tanto menos requerirá de fuera y, por consiguiente, tanto menos significarán los otros para él. De ahí que la eminencia del espíritu conduzca a la misantropía.
+	- El alquimista, en su búsqueda del oro encontró muchas otras cosas de gran valor.
+	- El joven debe, tempranamente, estar capacitado para soportar estar solo; ya que es una fuente de felicidad y paz mental.
+	- El mundo en el cual cada uno vive depende de cómo lo conciba, y se ajusta, por ello, a las diferencias mentales: según sea cada mente, ese mundo resultará más pobre, anodino y superficial, o rico, interesante y lleno de sentido.
+	- El mundo es mi representación: esta verdad es aplicable a todo ser que vive y conoce, aunque sólo al hombre le sea dado tener conciencia de ella; llegar a conocerla es poseer el sentido filosófico. Cuando el hombre conoce esta verdad estará para él claramente demostrado que no conoce ni un sol ni unta tierra, y sí únicamente un ojo que ve el sol y una mano que siente el contacto con la tierra; que el mundo que le rodea no existe más que como representación, esto es, en relación con otro ser: aquel que le percibe, o sea él mismo. Si hay alguna verdad a priori es ésta, pues expresa la forma general de la experiencia, la más general de todas, incluidas las de espacio, tiempo y causalidad, puesto que la suponen.
+	- En consecuencia el presente siempre resulta insatisfactorio, pero el futuro es incierto y el pasado irrevocable.
+	- Es difícil encontrar la felicidad dentro de uno mismo, pero es imposible encontrarla en otro lugar.
+	- Es una gran torpeza perder en lo interno para ganar en lo externo; es decir, sacrificar parcial o totalmente la tranquilidad, la independencia y el ocio de uno mismo en aras del brillo, el rango, el lujo, los títulos o los honores.
+	- La influencia tan benéfica que ejerce una vida retraída sobre nuestra serenidad de ánimo se basa casi siempre en que evita que tengamos que estar continuamente bajo la mirada de los demás, nos libra de preocuparnos de cuáles puedan ser las opiniones de estos y nos restituye el control de nuestro ser.
+	- La magia de la lejanía nos presenta paraísos que desaparecen como ilusiones ópticas cuando nos lanzamos hacia ellos.
+	- La soledad concede al hombre dotado de grandes cualidades intelectuales una doble ventaja: primero, le proporciona la posibilidad de estar consigo mismo; y, segundo, la de no estar con los demás.
+	- Lo que se opone más al hallazgo de la verdad no es la falsa apariencia que surge de las cosas, llevando al error, ni tampoco inmediatamente la debilidad de la inteligencia, sino la opinión presupuesta, el prejuicio que se impone como impedimento a priori a la verdad.
+	- Los alquimistas en su búsqueda de oro descubrieron muchas otras cosas de mayor valor.
+	- Los hombres han inventado la vida de sociedad porque les es más fácil soportar a los demás que soportarse a sí mismos.
+	- Los sucesos de nuestra vida se parecen a las imágenes de un caleidoscopio en el que vemos algo diferente cada vez que lo hacemos girar, aunque en el fondo siempre tengamos lo mismo frente a nuestros ojos.
+	- No hay mayor goce espiritual que la lectura de los antiguos clásicos: su lectura, aunque de una media hora, nos purifica, recrea, refresca, eleva y fortalece, como si se hubiese bebido en una fresca fuente que mana entre rocas.
+	- Nuestra felicidad depende más de lo que tenemos en nuestras cabezas que en nuestros bolsillos.
+	- Nuestra vida práctica y real es, cuando no la mueven las pasiones, aburrida e insulsa; y cuando la mueven, no tarda en volverse dolorosa; de ahí que sólo sean felices quienes han recibido una cantidad de inteligencia que excede en grado mayor o menor la que se requiere para el servicio de la voluntad. Pues ello les permite llevar, junto a su vida real, una vida intelectual que los ocupa y entretiene continuamente de forma indolora y, sin embargo, animada.
+	- Querer es esencialmente sufrir, y como vivir es querer, toda vida es por esencia dolor.
+	- Sufrimos al no obtener lo que deseamos y, si lo obtenemos, nos aburre inmediatamente; nuestra vida oscila entre el deseo, el dolor y el tedio.
+	- Todos buscan el porqué en vez de considerar el qué; aspiran a lo lejano en vez de tomar lo cercano; se dirigen hacia fuera en todas direcciones en vez de ir hacia sí mismos, donde todo enigma se resuelve.
+	- Un obstáculo capital del progreso del género humano es que la gente no escucha a quienes hablan con sensatez sino a quienes hablan más alto.
+- [[Russell, Bertrand]]
+	- Al contrario del esquema habitual me he hecho gradualmente más rebelde a medida que envejezco.
+	- Aunque esto pueda parecer una paradoja, toda la ciencia exacta está dominada por la idea de aproximación. Cuando un hombre te dice que sabe la verdad exacta sobre cualquier cosa, puedes deducir que es un hombre inexacto.
+	- Cuando se quiere enseñar a los niños a pensar, se empieza por tratarlos seriamente cuando son pequeños, darles responsabilidades, hablarles con franqueza, darles privacidad y soledad, y hacerlos lectores y pensadores de pensamientos significativos desde el principio. Eso es si quieres enseñarles a pensar.
+	- El hecho de que una opinión haya estado muy difundida no es prueba alguna de que no sea totalmente absurda.
+	- El mayor desafío para cualquier pensador es plantear el problema de una manera que permita una solución.
+	- El mayor problema del mundo es que los locos y los fanáticos están seguros de sí mismos y los sabios llenos de dudas.
+	- El método de establecer como postulado lo que queramos tiene muchas ventajas. Las mismas que tiene el robo sobre el trabajo honrado.
+	- El tiempo que disfrutes desperdiciándolo no es tiempo desperdiciado.
+	- El verdadero espíritu del deleite, la exaltación que es la piedra de toque de la más alta excelencia, se encuentra en las matemáticas tanto como en la poesía.
+	- En todas las actividades es saludable, de vez en cuando, poner un signo de interrogación sobre aquellas cosas que por mucho tiempo se han dado como seguras.
+	- Gran parte de las dificultades por las que atraviesa el mundo se deben a que los ignorantes están completamente seguros y los instruidos llenos de dudas.
+	- La ciencia es lo que sabes, la filosofía es lo que no sabes.
+	- La matemática, correctamente vista, posee no sólo la verdad, sino la belleza suprema - una belleza fría y austera, como la de la escultura, sin apelar a ninguna parte de nuestra naturaleza más débil, sin los hermosos adornos de la pintura o la música, pero sublimemente pura, y capaz de una perfección severa como sólo el arte más grande puede mostrar.
+	- La mayoría de los grandes males que los hombres han infligido a los hombres han llegado a través de gente que se sentía completamente segura de algo que, en realidad era falso.
+	- Los hombres nacen ignorantes, no estúpidos. Es la educación lo que puede hacerles estúpidos.
+	- Mucha gente preferiría morir antes que pensar. De hecho, lo hacen.
+	- Una vida feliz tiene que ser, en gran medida, una vida tranquila, pues solo en un ambiente tranquilo puede vivir la auténtica alegría.
+	- Decálogo:
+		- No estés absolutamente seguro de nada.
+		- No creas conveniente actuar ocultando pruebas, pues las pruebas terminan por salir a la luz.
+		- Nunca intentes oponerte al raciocino, pues seguramente lo conseguirás.
+		- Cuando encuentres oposición, aunque provenga de tu esposo o de tus hijos, trata de superarla por medio de la razón y no de la autoridad, pues una victoria que dependa de la autoridad es irreal e ilusoria.
+		- No respetes la autoridad de los demás, pues siempre se encuentran autoridades enfrentadas.
+		- No utilices la fuerza para suprimir las ideas que crees perniciosas, pues si lo haces, ellas te suprimirán a ti.
+		- No temas ser extravagante en tus ideas, pues todas la ideas ahora aceptadas fueron en su día extravagantes.
+		- Disfruta más con la discrepancia inteligente que con la conformidad pasiva, pues si valoras la inteligencia como debieras, aquélla significa un acuerdo más profundo que ésta.
+		- Muéstrate escrupuloso en la verdad, aunque la verdad sea incómoda, pues más incómoda es cuando tratas de ocultarla.
+		- No sientas envidia de la felicidad de los que viven en el paraíso de los necios, pues sólo un necio pensará que eso es la felicidad.
+- [[Pascal, Blaise]]
+	- El hombre está dispuesto siempre a negar todo aquello que no comprende.
+	- Es mucho mejor conocer algo acerca de todo, que acerca de una sola cosa. Lo universal es siempre mejor.
+	- He descubierto que toda la maldad humana proviene de la incapacidad del ser humano de sentarse en calma en una habitación.
+	- He redactado esta carta más extensa de lo usual porque carezco de tiempo para escribirla más breve.
+	- La mayoría de los males les vienen a los hombres por no quedarse en casa.
+	- La verdadera función de la razón es mostrar al hombre que algunas cosas están más allá de la razón
+	- Ni la contradicción es indicio de falsedad, ni la falta de contradicción es indicio de verdad.
+	- No se muestra la grandeza por estar en un extremo, sino tocando los dos a la vez y llenando el espacio intermedio.
+	- Toda la miseria de los hombres proviene de una única cosa, que es no saber permanecer en reposo en una habitación.
+	- Vale más saber alguna cosa de todo, que saberlo todo de una sola cosa.
+- [[Jung, Carl Gustav]]
+	- El zapato que le ajusta a un hombre le aprieta a otro; no hay receta para la vida que funcione en todos los casos.
+	- Eres lo que haces, no lo que dices que vas a hacer.
+	- Hasta que no hagas consciente lo inconsciente, éste dirigirá tu vida y lo llamarás destino.
+	- La soledad es peligrosa. Es adictiva. Una vez que te das cuenta de cuánta paz hay en ella, no quieres lidiar con la gente…
+	- La soledad no consiste en no tener personas alrededor, sino en no poder comunicar las cosas que a uno le parecen importantes, o callar ciertos puntos de vista.
+	- No soy lo que me pasó, soy lo que elijo ser.
+	- Pensar es difícil. Por eso la mayoría de la gente prefiere juzgar.
+	- Queremos tener certezas y no tener dudas - resultados y no experimentos - sin ver que las certezas sólo pueden surgir a través de la duda y los resultados sólo a través del experimento.
+	- Todo lo que nos irrita de los demás, nos puede ayudar a entendernos mejor a nosotros mismos.
+	- Uno recuerda con aprecio a sus maestros brillantes, pero con gratitud a aquellos que tocaron nuestros sentimientos.
+- [[Cicerón]]
+	- Hay que atender no sólo a lo que cada cual dice, sino a lo que siente y al motivo porque lo siente.
+	- Humano es errar; pero sólo los estúpidos perseveran en el error.
+	- La necedad es la madre de todos los males.
+	- Mi conciencia tiene para mí más peso que la opinión de todo el mundo.
+	- No hay ventaja alguna en conocer el futuro; al contrario, es doloroso atormentarse sin provecho.
+	- Pensar es como vivir dos veces.
+	- ¿Qué cosa más grande que tener a alguien con quien te atrevas a hablar como contigo mismo?
+	- Si cerca de la biblioteca tienes un jardín ya no te faltará de nada.
+	- Si quieres aprender, enseña.
+	- Si quieres ser viejo mucho tiempo, hazte viejo pronto.
+	- Una cosa es saber y otra saber enseñar.
+	- Vivir es pensar.
+- [[Confucio]]
+	- Aprender sin pensar es inútil. Pensar sin aprender, peligroso.
+	- El hombre que hace una pregunta es un tonto por un minuto, el hombre que no pregunta es un tonto de por vida.
+	- El hombre que mueve una montaña empieza por arrastrar una pequeña piedra.
+	- El que por la mañana ha conseguido conocer la verdad, ya puede morir por la tarde.
+	- El silencio es el único amigo que jamás traiciona.
+	- Escoge un trabajo que te guste, y nunca tendrás que trabajar ni un sólo día de tu vida.
+	- Exígete mucho a ti mismo y espera poco de los demás. Así te ahorraras disgustos.
+	- Lo que quiere el sabio lo busca en sí mismo; el vulgo, lo busca en los demás.
+	- Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo aprendí.
+	- ¿Me preguntas por qué compro arroz y flores? Compro arroz para vivir y flores para tener algo por lo que vivir.
+	- No importa lo lento que vayas, siempre y cuando no te detengas.
+	- No maldigas la oscuridad, enciende una vela.
+	- Podemos aprender la sabiduría por tres métodos: primero, por la reflexión, que es el más noble; segundo, por la imitación, que es el más fácil; y tercero por la experiencia, que es el más difícil.
+	- Saber que se sabe lo que se sabe y que no se sabe lo que no se sabe; he aquí el verdadero saber.
+	- Ser ofendido no es nada a menos que continúes recordándolo.
+	- Si persigues dos conejos, no atrapas ninguno.
+	- Un hombre es grande no porque no haya fallado; un hombre es grande porque el fracaso no lo ha detenido.
+- [[Hume, David]]
+	- Cada solución da pie a una nueva pregunta.
+	- Cuando los hombres son más seguros y arrogantes suelen equivocarse más.
+	- Estoy convencido de que cuando los hombres están más seguros y son más arrogantes están normalmente más equivocados, y han dado riendas a la pasión sin esa adecuada deliberación y duda, que son las únicas que pueden librarles de los absurdos más burdos.
+	- La belleza de las cosas existe en el espíritu de quien las contempla.
+	- La rutina es la gran guía de la vida humana.
+- [[Diderot, Denis]]
+	- Cuidado con el hombre que habla de poner las cosas en orden. Poner las cosas en orden siempre significa poner las cosas bajo su control.
+	- Las frases concisas son como clavos afilados que clavan la verdad en nuestra memoria.
+	- No arrepentirse ni hacer reproches a los demás, son los pasos de la sabiduría.
+	- Una idiotez común es creer que el que tiene más clientes es el más hábil.
+- [[Hubbard, Elbert]]
+	- Cultiva solo aquellos hábitos que quisieras que dominaran tu vida.
+	- Cuando la vida te de limones, haz limonada.
+	- El conocimiento es la esencia destilada de nuestras intuiciones, corroborada por la experiencia.
+	- El mayor error que puedes cometer en la vida es temer continuamente que cometerás uno.
+	- Hacer que los hombres vivan en tres mundos a la vez - pasado, presente y futuro - ha sido el principal daño que ha hecho la religión organizada.
+	- La educación académica es el acto de memorizar cosas leídas en libros, y cosas contadas por profesores universitarios que obtuvieron su educación principalmente memorizando cosas leídas en libros.
+	- La experiencia es el nombre que todos le dan a sus errores.
+	- Las inteligencias poco capaces se interesan en lo extraordinario; las inteligencias poderosas en las cosas ordinarias.
+	- Nadie necesita más unas vacaciones que el que acaba de tenerlas.
+	- No arrojes tus penas sobre las personas; guarda la triste historia de tu vida para ti. Los problemas crecen contándolos.
+	- No hagas nada, no digas nada y no seas nada, y nunca serás criticado.
+	- No te tomes la vida demasiado en serio, nunca saldrás vivo de ella.
+	- Nunca des explicaciones: tus amigos no lo necesitan y tus enemigos no te creerán de ninguna manera.
+	- Si desea un trabajo bien hecho, seleccione un hombre ocupado, el otro tipo no tiene tiempo.
+	- Suministrar un pensamiento es un masaje mental; pero desarrollar un pensamiento propio es un logro. Pensar es un ejercicio mental, y ninguna facultad crece, salvo cuando se ejercita.
+	- Todo hombre es un maldito tonto durante al menos cinco minutos al día. La sabiduría consiste en no exceder el límite.
+	- Un especialista es uno que se limita a sí mismo al tipo de ignorancia que ha elegido.
+	- Un fracasado es un hombre que ha cometido un error y no es capaz de convertirlo en experiencia.
+- [[Epicteto]]
+	- Complace a todos y no complacerás a nadie.
+	- Cuando alguien está debidamente arraigado en la vida, no debería tener que buscar aprobación fuera de sí mismo.
+	- Dos cosas hay que quitarles a los hombres: la vanidad y la desconfianza.
+	- El error del anciano es que pretende enjuiciar el hoy con el criterio del ayer.
+	- Está en la naturaleza del sabio resistirse a los placeres, pero el necio es esclavo de ellos.
+	- Lo que perturba a los hombres no son las cosas, sino su manera de enjuiciarlas.
+	- No nos perturban las cosas sino las opiniones que de ellas tenemos.
+	- Si alguna vez tienes la tentación de buscar la aprobación externa, ten en cuenta que has comprometido tu integridad.
+	- Si no quieres ver tus deseos frustrados, no desees jamás sino aquéllo que sólo de ti depende.
+	- Solo ten en cuenta que cuanto más valoramos las cosas que están fuera de nuestro control, menos control tenemos.
+	- También en la moderación hay un término medio, y quien no da con él es víctima de un error parecido al de quien se excede por desenfreno.
+	- Te conviertes en aquello a lo que prestas tu atención… Si tú mismo no eliges a qué pensamientos e imágenes te expones, alguien más lo hará.
+	- Todos los asuntos tienen dos asas: por una son manejables, por la otra no.
+- [[Sábato, Ernesto]]
+	- A la vida le basta el espacio de una grieta para renacer.
+	- Como dice Whitehead, la naturaleza es una triste cosa, sin colores ni sonidos ni fragancias: todos esos atributos son puramente humanos. Radical e inevitablemente (pero ¿por qué evitarlo?) nuestra visión del mundo es subjetiva, y cada uno de nosotros está creando colores y músicas, groseros o delicados, complejos o simples, según nuestra sensibilidad, nuestra imaginación y nuestro talento.
+	- Es gracias a ese imposible que nos elevamos por encima de todo lo posible. Es el entusiasmo el que nos mantiene vivos.
+	- La vida debe ser sostenida y fecundada en la ilusión.
+	- La vida del espíritu es un diálogo, en el que la verdad va saliendo tortuosamente, a menudo con violencia, en una larga y complicada contraposición de opiniones.
+	- Nada hay tan pasajero como lo que está a la moda, ni tan grotesco cuando ha pasado de moda.
+	- ¿Qué se puede hacer con ochenta años? Probablemente, empezar a darse cuenta de cómo habría que vivir y cuáles son las tres o cuatro cosas que valen la pena.
+	- Un buen escritor expresa grandes cosas con pequeñas palabras; a la inversa del mal escritor, que dice cosas insignificantes con palabras grandiosas.
+- [[Quevedo, Francisco de]]
+	- El que quiere de esta vida todas las cosas a su gusto, tendrá muchos disgustos.
+	- Lo mucho se vuelve poco con desear otro poco más.
+	- Las palabras son como las monedas, que una vale por muchas como muchas no valen por una.
+	- Nadie ofrece tanto como el que no va a cumplir.
+	- ¿No ha de haber un espíritu valiente? ¿Siempre se ha de sentir lo que se dice? ¿Nunca se ha de decir lo que se siente?
+- [[Kafka, Franz]]
+	- Es sólo a causa de su estupidez que son capaces de estar tan seguros de sí mismos.
+	- La alegría es nuestro deber diario.
+	- La desgracia de Don Quijote no fue su fantasía, sino Sancho Panza.
+	- La juventud es feliz porque tiene la capacidad de ver la belleza. Cualquiera que conserve la capacidad de ver la belleza jamás envejece.
+	- Necesito estar solo mucho tiempo. Todo lo que he conseguido hacer es producto únicamente de mi soledad.
+	- Prefiero la calma de la soledad, que la decepción de una mala compañía.
+	- Quien conserva la facultad de ver la belleza no envejece.
+- [[Nietzsche, Friedrich]]
+	- A veces la gente no quiere oír la verdad porque no quiere que sus ilusiones sean destruidas.
+	- Aquel que tiene un por qué para vivir se puede enfrentar a todos los cómos.
+	- Asegurémonos de no perdernos por el miedo a ser diferentes: Conviértete en quien eres.
+	- Desde que me cansé de buscar he aprendido a hallar.
+	- Digan lo que digan, los espíritus grandes son escépticos. Zaratustra es un escéptico. La fuerza, la libertad nacida en la fuerza y plenitud del espíritu, se prueba por el escepticismo. Los hombres de convicción no cuentan para las cuestiones fundamentales de valor. Las convicciones son cárceles.
+	- El individuo ha luchado siempre para no ser absorbido por la tribu. Si lo intentas, a menudo estarás solo, y a veces asustado. Pero ningún precio es demasiado alto por el privilegio de ser uno mismo.
+	- Es más cómodo obedecer a la conciencia que a la razón; la conciencia halla en sí misma una excusa y un aliento. Por eso hay aún tantas personas concienzudas y tan pocas personas razonables.
+	- Hay dos tipos diferentes de personas en el mundo, los que quieren saber y los que quieren creer.
+	- La persona que tiene mucha alegría es necesariamente buena: pero tal vez no sea la más lista, aunque consigue precisamente aquello que la más lista trata de conseguir con toda su listeza.
+	- La ventaja de tener mala memoria es que se goza muchas veces con las mismas cosas.
+	- Lo que mucho ocupa termina por preocupar.
+	- Mi fórmula para expresar la grandeza en el hombre es el _amor fati_: no querer que nada sea distinto, ni en el pasado, ni en el futuro, ni por toda la eternidad. No sólo soportar lo necesario y menos aún disimularlo —todo idealismo es una forma de mentira frente a lo necesario—, sino amarlo.
+	- Mi soledad no depende de la presencia o ausencia de las personas; al contrario, odio a quien roba mi soledad sin, a cambio, ofrecerme compañía de verdad.
+	- Quien no dispone de dos tercios del día para sí mismo es un esclavo.
+	- Quien se sabe profundo, se esfuerza por ser claro; quien desea parecer profundo a la gran masa, se esfuerza por ser oscuro.
+	- Se puede vivir y vivir felizmente sin recordar, pero es imposible vivir sin olvidar.
+- [[Leibniz, Gottfried]]
+	- Dos cosas son idénticas si una puede ser sustituida por la otra sin afectar la verdad.
+	- El placer que obtenemos de la música proviene de contar, pero contando inconscientemente. La música no es más que aritmética inconsciente.
+	- En el ámbito del espíritu, busca la claridad; en el mundo material, busca la utilidad.
+	- Es indigno que hombres notables pierdan su tiempo como esclavos del cálculo cuando podrían dejar ese trabajo en manos de cualquiera si se usaran las máquinas.
+	- Incluso en los juegos de niños hay cosas para interesar al matemático más grande.
+	- La música es el placer que experimenta la mente humana al contar sin darse cuenta de que está contando.
+	- La razón me enseña que no hay nada que contribuya más al bien general. de todos los hombres que lo que perfecciona la razón.
+- [[Frege, Gottlob]]
+	- El objetivo de la prueba es, de hecho, no sólo poner la verdad de una proposición más allá de toda duda, sino también darnos una idea de la dependencia de una verdad con respecto a otra. Después de habernos convencido de que una roca es inamovible, al intentar moverla sin éxito, queda la siguiente pregunta, ¿qué es lo que lo sostiene de forma tan segura?
+	- Realmente vale la pena inventar un nuevo símbolo si podemos eliminar no pocas dificultades lógicas y asegurar el rigor de las pruebas. Pero muchos matemáticos parecen tener tan poca sensación de pureza lógica y precisión que usarán una palabra que significa tres o cuatro cosas diferentes, antes de tomar la terrible decisión de inventar una nueva palabra.
+	- Todo buen matemático es al menos medio filósofo, y todo buen filósofo es al menos medio matemático.
+- [[Hesse, Hermann]]
+	- Algunos de nosotros pensamos que aferrarnos nos hace fuertes; pero a veces es soltarnos lo que nos fortalece.
+	- Aprende a tomar en serio solo lo que es digno de ello, y ríete de todo lo demás.
+	- Cuando realmente somos nosotros mismos, muchas personas se alejan, pero esto crea el espacio necesario para que la gente adecuada llegue.
+	- El héroe no es el ciudadano obediente, apacible, cumplidor. Heroico sólo puede ser el individuo que ha erigido su propio sentido, su noble y natural obstinación, en su destino.
+	- Hacer versos malos depara mucha más felicidad que leer los más bellos.
+	- La educación se ha esforzado por arrebatarnos la libertad y la personalidad y por meternos desde la más tierna infancia en una situación de forzoso trajín y sin una pausa de respiro, se ha producido una decadencia y una falta de ejercicio de la ociosidad.
+	- La mayoría de los hombres son como hojas que caen de los árboles, revolotean en el aire, vacilan y caen al suelo. Pero otros, unos pocos, son como estrellas que recorren un camino fijo, no les alcanza el viento y llevan en sí su propia ley y su propio rumbo.
+	- La paciencia es la cosa más dura para el espíritu. Pero es lo más duro y lo único que merece la pena aprender. Todo lo que es naturaleza, desarrollo, paz, prosperidad y belleza en el mundo, descansa en la paciencia; requiere tiempo, silencio, confianza.
+	- Nunca he perdido el sentimiento de contradicción que hay detrás de todo conocimiento.
+	- Para que pueda surgir lo posible es preciso intentar una y otra vez lo imposible.
+	- Si quieres ser fuerte es importante aprender a estar solo.
+	- ¿Y de qué sirve hablar, si ya sabes que los demás no sienten lo que sientes?
+- [[Kant, Immanuel]]
+	- La ciencia es la organización del conocimiento, pero la sabiduría es la organización de la vida.
+	- El sabio puede cambiar de opinión. El necio, nunca.
+	- Nunca discutas con un idiota. La gente podría no notar la diferencia.
+	- Ser es hacer.
+	- Tan solo por la educación puede el hombre llegar a ser hombre. El hombre no es más que lo que la educación hace de él.
+	- Vemos las cosas, no como son, sino como somos nosotros.
+- [[Asimov, Isaac]]
+	- El aspecto más triste de la vida actual es que la ciencia gana en conocimiento más rápidamente que la sociedad en sabiduría.
+	- Las normas establecidas con razón y con justicia, pueden dejar de ser útiles al cambiar las circunstancias, pero al permitir que continuen vigentes por la fuerza de la inercia, entonces, no sólo es justo, sino también útil, quebrantar aquellas que nos anuncian el hecho de que son inútiles, o incluso realmente perjudiciales.
+	- Nunca permitas que el sentido de la moral te impida hacer lo que está bien.
+	- Tal vez la felicidad sea esto: no sentir que debes estar en otro lado, haciendo otra cosa, siendo alguien distinto.
+- [[Goethe, Johann Wolfgang von]]
+	- Con el conocimiento se acrecientan las dudas.
+	- El hombre siempre aspira a lo que no es.
+	- El niño es realista; el muchacho, idealista; el hombre, escéptico; y el viejo, místico.
+	- El único hombre que no se equivoca es el que nunca hace nada.
+	- En cuanto confíes en ti mismo, sabrás cómo vivir.
+	- Hablar es una necesidad, escuchar es un arte.
+	- Hay quien porque golpea la pared con un martillo, se cree que clava clavos.
+	- El único hombre que no se equivoca es el que nunca hace nada.
+	- Las personas ven en el mundo lo que llevan en su corazón.
+	- Lo más importante en este mundo no es donde estamos, sino en qué dirección nos movemos.
+	- Lo importante no es hacer cosas nuevas, sino hacerlas como si nunca nadie las hubiera hecho antes.
+	- Los perezosos siempre hablan de lo que piensan hacer, de lo que harán; los que de veras hacen algo no tienen tiempo de hablar ni de lo que hacen.
+	- Muchos odian la soledad porque no se soportan a sí mismos.
+	- Nadie es más esclavo que el que se tiene por libre sin serlo.
+	- No hay nada más espantoso que la ignorancia en acción.
+	- No importa las vueltas que dé el hombre ni lo que emprenda, que siempre regresará al camino que en su día la naturaleza predeterminó para él.
+	- Pensar es fácil. Actuar es difícil. Pero actuar de acuerdo con lo que piensas es lo más difícil del mundo.
+	- Por qué buscar conspiraciones cuando la estupidez puede explicar tantas cosas.
+	- Quien produce con alegría y se alegra de lo producido es feliz.
+	- Se tiende a poner palabras allí donde faltan las ideas.
+	- Sea lo que sea que puedas o sueñes que puedas, comiénzalo. El atrevimiento posee genio, poder y magia. Comiénzalo ahora.
+	- Si califico de malo a lo que es malo, ¿qué habré ganado con eso? Por otra parte, si tacho de malo a lo que es bueno, acabaré causando un gran perjuicio. Quien quiera obrar adecuadamente, no deberá criticar nunca nada ni preocuparse de lo que esté mal, sino limitarse a hacer bien las cosas. De lo que se trata no es de destrozar, sino de construir algo que le procure un gozo intachable a la humanidad.
+	- Si no pretendiéramos saber todo con tanta exactitud puede que conociéramos mejor las cosas.
+	- Todos los días deberíamos oír un poco de música, leer una buena poesía, contemplar un cuadro hermoso y si es posible, decir algunas palabras sensatas.
+	- Trata a un ser humano tal como es, y seguirá siendo lo que es; trátalo como puede y debe ser, y se convertirá en lo que puede y debe ser.
+- [[Borges, Jorge Luis]]
+	- Aristóteles ha escrito que el origen de la filosofía era el asombro. Usted mira algo y no comprende, entonces comienza a hacer filosofía.
+	- Buscar la serenidad me parece una ambición más razonable que buscar la felicidad. Y quizás la serenidad sea una forma de felicidad.
+	- La duda es uno de los nombres de la inteligencia.
+	- En cuanto al fracaso y la fama, me parecen irrelevantes y no me preocupan. Lo que quiero ahora es la paz, el placer del pensamiento y de la amistad. Y aunque parezca demasiado ambicioso, la sensación de amar y ser amado.
+	- Los españoles siempre están pensando en la envídia. Para decir que algo es bueno dicen: “Es envidiable”.
+	- Maestro no es el que se aplica a la tarea de enseñar cosas, porque una enciclopedia, en tal caso, sería mejor. El maestro no enseña cosas sino una manera de tratar con las cosas, una manera de tratar con el incesante universo.
+	- Nuestra cobardía y nuestra desidia tienen la culpa de que el mañana y el ayer sean iguales.
+	- Nuestro vivir es una serie de adaptaciones, vale decir, una educación del olvido.
+	- Que otros se jacten de las páginas que han escrito; a mi me enorgullecen las que he leído.
+	- Siempre imaginé que el Paraíso sería algún tipo de biblioteca.
+- [[Saramago, José]]
+	- El mundo se está convirtiendo en una caverna igual que la de Platón: todos mirando imágenes y creyendo que son la realidad.
+	- En la comunicación directa intervienen la mirada, el olor. En una carta puede caer una lágrima, pero el correo electrónico no puede ir acompañado de emociones. Los hombres terminarán encerrados en una habitación con pantalla, comunicando con todo el mundo pero solos-
+	- Escribo para intentar comprender, y porque no tengo nada mejor que hacer.
+	- ¡Hay un dicho que es tan común como falso: El pasado, pasado está, creemos. Pero el pasado no pasa nunca, si hay algo que no pasa es el pasado, el pasado está siempre, somos memoria de nosotros mismos y de los demás…
+	- He aprendido a no intentar convencer a nadie. El trabajo de convencer es una falta de respeto, es un intento de colonización del otro.
+	- La derrota tiene algo positivo, nunca es definitiva. En cambio la victoria tiene algo negativo, jamás es definitiva.
+	- La esperanza nunca ha sido de fiar.
+	- La peor ceguera es la mental, que hace que no reconozcamos lo que tenemos delante.
+	- Las tres enfermedades del hombre actual son la incomunicación, la revolución tecnológica y su vida centrada en su triunfo personal.
+	- Lo difícil no es vivir con las personas, lo difícil es comprenderlas.
+	- Lo malo no es tener opinión; lo malo es tenerla sin saber de qué se habla.
+	- Lo peor es que se está armando un sistema en el que las pequeñas cosas son las que ocupan los espacios, la información y la preocupación de la gente. Los grandes temas aparecen entonces diluidos, por detrás, y no los vemos.
+	- Los cerebros están llenos de palabras que viven en paz y en armonía con sus contrarias y enemigas. Por eso la gente hace lo contrario de lo que piensa creyendo pensar lo que hace.
+	- Los únicos interesados en cambiar el mundo son los pesimistas, porque los optimistas están encantados con lo que hay.
+	- Nuestra mayor tragedia es no saber qué hacer con nuestras vidas.
+	- Para qué sirve el arrepentimiento, si eso no borra nada de lo que ha pasado. El mejor arrepentimiento es sencillamente cambiar.
+- [[Popper, Karl]]
+	- El futuro está abierto. Todos somos responsables de lo que el futuro nos depare. Por tanto, nuestro deber no es profetizar el mal, sino más bien luchar por un mundo mejor.
+	- Es imposible hablar de tal manera que no se pueda ser mal interpretado.
+	- La ignorancia no consiste en la ausencia de conocimientos sino en rehusar adquirirlos.
+	- Ningún argumento racional tendrá un efecto racional en un hombre que no quiere adoptar una actitud racional.
+	- Nuestro conocimiento es necesariamente finito, mientras que nuestra ignorancia es necesariamente infinita.
+	- Si somos absolutamente tolerantes, incluso con los intolerantes, y no defendemos la sociedad tolerante contra sus asaltos, los tolerantes serán aniquilados y junto con ellos la tolerancia.
+- [[Lao-Tse]]
+	- Conocer a los demás es inteligencia; conocerte a ti mismo es la verdadera sabiduría. Dominar a otros es fuerza; el dominio de sí mismo es verdadero poder.
+	- Conténtate con lo que tienes; alégrate de cómo son las cosas. Cuando te das cuenta de que no te falta nada, el mundo entero te pertenecerá.
+	- El Sabio actúa sin hacer nada.
+	- El sabio brega todo el día sin dejar el trabajo duro. No obstante, haciendo esto, permanece en el estado de tranquilidad perfecta.
+	- No hacer nada es mejor que estar ocupado sin hacer nada.
+	- No valores las cosas difíciles de obtener, verás que nadie se entregará a la codicia.
+	- Preocúpate por lo que otros piensen de ti y siempre serás su prisionero.
+	- Proyecta lo difícil partiendo de donde aún es fácil.
+	- Quien cree en sí mismo no tiene necesidad de convencer a los demás.
+	- Saber que no se sabe, eso es humildad. Pensar que uno sabe lo que no sabe, eso es enfermedad.
+	- Si eres flexible, te mantendrás recto.
+	- Si estás deprimido, estás viviendo en el pasado. Si estás ansioso, estás viviendo en el futuro. Si estás feliz, estás viviendo en el presente.
+	- Si te preocupa lo que piensan los demás, siempre serás su prisionero.
+	- Sin salir más allá de tu puerta, puedes conocer los asuntos del mundo. Sin espiar a través de las ventanas, puedes ver el Camino del Cielo. Cuanto más lejos vas, menos conoces. Así pues, el Sabio conoce sin viajar, ve sin mirar, y logra sin Actuar.
+	- Sólo quien sabe cuándo es suficiente tendrá siempre bastante.
+	- ¿Tienes la paciencia de esperar hasta que el lodo se asiente y el agua esté clara?
+- [[Vinci, Leonardo de]]
+	- Así como el hierro se oxida por falta de uso, también la inactividad destruye el intelecto.
+	- Date cuenta de que todo está conectado con todo lo demás.
+	- De vez en cuando desaparece, tómate un pequeño descanso, para que cuando vuelvas a tu trabajo tu juicio sea más acertado. Toma cierta distancia, porque así el trabajo parece más pequeño, la mayor parte se puede asimilar en un abrir y cerrar de ojos, y la falta de armonía y la proporción es más fácil de ver.
+	- El aprendizaje es lo único que la mente nunca agota, nunca teme y de lo que nunca se arrepiente.
+	- El placer más noble es el júbilo de comprender.
+	- La naturaleza benigna provee de manera que en cualquier parte halles algo que aprender.
+	- La sabiduría es hija de la experiencia.
+	- La simplicidad es la máxima sofisticación.
+	- Los que se enamoran de la práctica sin la teoría son como los pilotos sin timón ni brújula, que nunca podrán saber a dónde van.
+	- Quien de verdad sabe de qué habla, no encuentra razones para levantar la voz.
+	- Quien piensa poco, se equivoca mucho.
+	- El que ama la práctica sin teoría es como el marinero que se embarca sin timón ni brújula y nunca sabe dónde puede ir.
+	- La simplicidad es la máxima sofisticación.
+	- Los que se enamoran de la práctica sin la teoría son como los pilotos sin timón ni brújula, que nunca podrán saber a dónde van.
+- [[Tolstói, León]]
+	- En cuanto sientas las cosquillas del amor propio que anteceden al deseo de contar algo de ti mismo, reflexiona. Guarda silencio.
+	- Hay quien cruza el bosque y sólo ve leña para el fuego.
+	- La felicidad no está en hacer lo que se quiere, sino en querer lo que se hace.
+	- La palabra es la expresión del pensamiento y puede servir para unir o para separar a las personas; por eso hay que ser prudente con su uso.
+	- La verdadera fuerza humana no reside en los estallidos de energía, sino en la calma indestructible.
+	- Mi felicidad consiste en que sé apreciar lo que tengo y no deseo con exceso lo que no tengo.
+	- Un hombre es como una fracción cuyo numerador corresponde a lo que él es, en tanto que el denominador es lo que cree ser. Cuanto más grande es el denominador, más pequeña es la fracción.
+- [[Carroll, Lewis]]
+	- Alicia se daba por lo general muy buenos consejos a sí misma, aunque rara vez los seguía.
+	- “Alicia a través del espejo” (Alianza, 1983) p. 116
+	- La cuestión, insistió Alicia, es si se puede hacer que las palabras signifiquen tantas cosas diferentes.
+	- La cuestión, zanjó Zanco Panco, es saber quién es el que manda,…, eso es todo.
+	- Por el contrario, si fuera así, podría ser; y si lo fuera, sería; pero como no lo es, no es. Eso es lógica.
+- [[Yutang, Lin]]
+	- A veces es más importante descubrir lo que uno no puede hacer, que lo que sí puede.
+	- Bromear es una de las cosas amenas de la vida, pero cuesta muchos años de aprendizaje.
+	- El hombre superior ama su alma; el hombre inferior ama su propiedad.
+	- La sabiduría de la vida consiste en la eliminación de lo no esencial. En reducir los problemas de la filosofía a unos pocos solamente: el goce del hogar, de la vida, de la naturaleza, de la cultura.
+	- Un placer como el de una conversación perfecta es necesariamente raro, porque los sabios rara vez hablan y los que hablan rara vez son sabios.
+- [[Séneca, Lucio Anneo]]
+	- Atribuimos al lugar y al tiempo algunos de nuestros defectos, mas éstos a cualquier sitio que nos traslademos nos han de acompañar.
+	- Brevísima y agitadísima es la vida de aquellos que olvidan el pasado, descuidan el presente y temen el futuro.
+	- Como el suelo, por rico que sea, no puede dar fruto si no se cultiva, la mente sin cultivo tampoco puede producir.
+	- El ataque de las contrariedades no trastorna el espíritu del hombre fuerte: se mantiene en su posición y cuanto le sucede lo acomoda a su estilo de vida, pues es más poderoso que sus circunstancias.
+	- El lenguaje de la verdad debe ser, sin duda alguna, simple y sin artificios.
+	- El mayor impedimento al vivir es la espera, que, por estar pendiente al día de mañana, pierde el de hoy.
+	- El temor moderado mantiene el control sobre los espíritus, pero, cuando es constante, intenso y apunta a medidas extremas, provoca la audacia de los que están sojuzgados y los convence de que hay que intentarlo todo.
+	- Elige por maestro aquél a quien admires, más por lo que en él vieres que por lo que escuchares de sus labios.
+	- Enseñando aprendemos.
+	- Es propio de un alma grande menospreciar lo grandioso y preferir la moderación a la desmesura.
+	- ¡Estudia! No para saber una cosa más, sino para saberla mejor.
+	- Hasta que empezamos a prescindir de ellos, no nos damos cuenta de lo innecesarias que son muchas cosas. Los hemos estado usando no porque los necesitáramos sino porque los teníamos.
+	- Importa mucho más lo que tú piensas de ti mismo que lo que los otros opinen de ti.
+	- La recompensa de una buena acción está en haberla hecho.
+	- La vida es como una leyenda, no importa que sea larga, sino que esté bien narrada.
+	- Largo es el camino de la enseñanza por medio de teorías; breve y eficaz por medio de ejemplos.
+	- Lee siempre autores reconocidos y, si en alguna ocasión te agradare recurrir a otros, vuelve luego a los primeros.
+	- Lo importante no es qué soportas, sino de qué manera.
+	- Los hombres aprenden mientras enseñan.
+	- Mientras esperamos la vida, la vida pasa.
+	- Muchas veces lo que no se halla cuando se busca, sale al encuentro cuando no se busca.
+	- Muy pocos aciertan antes de errar.
+	- Nada impide tanto la curación como el cambio frecuente de remedios.
+	- Nada nos enreda en mayores males que el atenernos a los rumores, en la creencia de que lo mejor es lo aceptado por consentimiento de muchos, y el seguir los ejemplos más numerosos, rigiéndonos, no por la razón, sino por la imitación de los demás.
+	- No es la dificultad lo que impide que nos arriesguemos, sino que toda la dificultad viene de no arriesgarnos.
+	- No es pobre el que tiene poco, sino el que ambiciona más.
+	- No es que tengamos poco tiempo, sino que desperdiciamos mucho. La vida, si sabes usarla, es larga.
+	- No está en ningún lugar quien está en todas partes.
+	- No puede vivir felizmente aquel que sólo se contempla a sí mismo, que lo refiere todo a su propio provecho: has de vivir para el prójimo, si quieres vivir para ti.
+	- Nos perdemos por el ejemplo de los demás; nos curaremos sólo con que nos separemos del montón.
+	- Para ser felices se necesita eliminar dos cosas: el temor a un mal futuro y el recuerdo de un mal pasado.
+	- Pesa las opiniones, no las cuentes.
+	- Quizás suceda lo peor, quizás no, hasta entonces, espera cosas mejores.
+	- Sea esta la regla de nuestra vida: decir lo que sentimos, sentir lo que decimos. En suma, que la palabra vaya de acuerdo con los hechos.
+	- Si un hombre no sabe hacia qué puerto navega, ningún viento es favorable.
+	- Sin estudiar enferma el alma.
+	- Sufrimos más en la imaginación que en la realidad.
+	- Un hombre que sufre antes de lo necesario, sufre más de lo necesario.
+	- Un lugar austero robustece el vigor del alma.
+- [[Aurelio, Marco]]
+	- Acostúmbrate a prestar atención a lo que dice otra persona y, en la medida de lo posible, procura entrar en su mente. Por lo general, primero hay que aprender muchas cosas antes de poder juzgar la acción de otro con conocimiento.
+	- Acuérdate de esto siempre: para vivir felizmente basta con muy poco.
+	- Cuando te levantes por la mañana, piensa en el privilegio de vivir: respirar, pensar, disfrutar, amar.
+	- El talento, si no nacemos con él, se vuelve algo imposible de obtener.
+	- El universo es cambio; nuestra vida es lo que hacen nuestros pensamientos.
+	- El verdadero modo de vengarse de un enemigo es no parecérsele.
+	- En ninguna parte puede hallar el hombre un retiro tan apacible y tranquilo como en la intimidad de su alma.
+	- Es ridículo no intentar evitar tu propia maldad, lo cual es posible, y en cambio intentar evitar la de los demás, lo cual es imposible.
+	- La mayoría de lo que hacemos y decimos no es esencial. Si lo puedes eliminar ganarás tiempo y tranquilidad. Pregúntate en todo momento, ¿es esto necesario?
+	- La sabiduría es el arte de aceptar aquello que no puede ser cambiado, de cambiar aquello que puede ser cambiado y, sobre todo, de conocer la diferencia.
+	- La vida de un hombre es lo que sus pensamientos hacen de ella.
+	- No lo hagas si no conviene. No lo digas si no es verdad.
+	- No tiene sentido enfadarse por cosas que no puedes controlar.
+	- Nunca deja de sorprenderme: todos nos queremos más a nosotros mismos que a los demás, pero nos importan más sus opiniones que las nuestras.
+	- Quien vive en armonía consigo mismo, vive en armonía con el universo.
+	- Si logras separar, de lo que al parecer te aflige, la opinión que te haces de ello evitarás muchos sufrimientos.
+	- Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad.
+	- Tú tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza.
+- [[Bunge, Mario]]
+	- De todos los enemigos de la educación, uno de los peores es el pedagogo que asegura que el modo de enseñar es más importante que lo que se enseña.
+	- Hay que educar a la gente. No basta saber que a la tía María le fue bien con el acupunturista o con el homeópata, porque el efecto placebo siempre está en la cabecera de los enfermos. Y no sólo de los enfermos, sino también de los votantes.
+	- Hay que formar cerebros porque solamente el cerebro bien formado puede, no solamente usar la técnica existente, sino mejorarla con ideas nuevas y originales gracias a su curiosidad y a que está investigando. Si se insiste con la misma información a la gente, en lugar de cultivar su curiosidad, terminará por aburrirse.
+	- Para poder aprender algo nuevo y útil debemos usar filtros; es decir, debemos ignorar la mayor parte de la información que recibimos. O sea, hay que ignorar mucho para llegar a saber algo. Paradójico pero cierto.
+	- Si bien uno está contento de pertenecer a una red cultural, llega un momento en que se necesita más tiempo para la reflexión. De lo contrario, ésta es superficial, demasiado rápida, sin tiempo para asimilar, criticar, sopesar. Hace falta más tiempo para ensimismarse, para reflexionar en silencio y soledad.
+	- Sólo los fanáticos odian a las personas tanto como las doctrinas. Uno puede ser intolerante con las teorías falsas, pero tolerante con quienes las sustentan, a condición de que no medren con ellas.
+- [[Twain, Mark]]
+	- Cada vez que se encuentre usted del lado de la mayoría, es tiempo de hacer una pausa y reflexionar.
+	- Dale a cada día la oportunidad de convertirse en el mejor día de tu vida.
+	- Dentro de veinte años, estarás más decepcionado por lo que no hiciste que por lo que hiciste. Explora, sueña y descubre.
+	- El secreto para salir adelante es empezar.
+	- Es más fácil engañar a la gente que convencerlos de que han sido engañados.
+	- He tenido muchas preocupaciones en mi vida, la mayoría de las cuales nunca han ocurrido.
+	- Los dos días más importantes en tu vida son el día en que naces, y el día en que encuentras por qué.
+	- Nunca discutas con un ignorante, te hará descender a su nivel y ahí te vencerá por experiencia.
+	- Nunca intentes enseñar a un cerdo a cantar. Te hará perder el tiempo y molestará al cerdo.
+	- Todo lo que necesitas en esta vida es ignorancia y confianza, y entonces el éxito es seguro.
+	- Un pesimista es un optimista bien informado.
+- [[Montaigne, Michel de]]
+	- A quienes me preguntan la razón de mis viajes les contesto que sé bien de qué huyo pero ignoro lo que busco.
+	- Cuando soy atacado por pensamientos sombríos, nada me ayuda tanto como correr hacia mis libros. Rápidamente me absorben y hacen desaparecer las nubes de mi mente.
+	- Cuando me llevan la contraria, despiertan mi atención, no mi cólera; me ofrezco a quien me contradice, que me instruye. La causa de la verdad debería ser la causa común de uno y otro.
+	- El signo más cierto de la sabiduría es la serenidad constante.
+	- La señal más clara de la sabiduría es el gozo constante. Ama la vida, ama la belleza y la salud. Su tarea propia es saber usar esos bienes de manera mesurada, y saberlos perder con entereza. El alma, en efecto, se ensancha a medida que se llena.
+	- Mi vida ha estado llena de terribles desgracias, la mayoría de las cuales nunca sucedieron.
+	- Nuestra opinión pone precio a las cosas.
+	- Yo no cito a otros más que para expresar mejor mi pensamiento.
+- [[Wilde, Oscar]]
+	- Cuando estoy de acuerdo con todos sospecho que estoy equivocado.
+	- Cuanto más conservadoras son las ideas, más revolucionarios los discursos.
+	- El trabajo es el refugio de los que no tienen nada que hacer.
+	- El único amor consecuente, fiel, comprensivo, que todo perdona, que nunca nos defrauda y que nos acompaña hasta la muerte es el amor propio.
+	- Hoy día la gente conoce el precio de todo y el valor de nada.
+	- La educación es una cosa admirable, pero es bueno recordar de vez en cuando, que nada que valga la pena saber puede ser enseñado.
+	- La experiencia no tiene valor ético alguno, es simplemente el nombre que damos a nuestros errores.
+	- La vida es demasiado corta para desperdiciarla en cumplir los sueños de los demás.
+	- No soy tan joven como para saberlo todo.
+	- Nunca des explicaciones. Tus amigos no las necesitan. Tus enemigos no las creen.
+	- Para la mayoría de nosotros la verdadera vida es la vida que no llevamos.
+	- Pienso que es sano pasar tiempo a solas. Necesitas aprender a estar solo, y no ser definido por alguien más.
+	- Ser natural es la más difícil de las poses.
+	- Si usted me conoce basado en lo que yo era hace un año, usted ya no me conoce. Mi evolución es constante. Permítame presentarme de nuevo.
+	- Un cínico es un hombre que conoce el precio de todo y no da valor a nada.
+- [[Platón]]
+	- El hombre es un ser en busca de significado.
+	- El matemático es perfecto sólo en la medida en que es un hombre perfecto, en la medida en que siente en sí mismo la belleza de la verdad; sólo entonces su trabajo será minucioso, transparente, prudente, puro, claro y elegante.
+	- La belleza es el esplendor de la verdad.
+	- La justicia no es otra cosa que la conveniencia del más fuerte.
+	- La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos.
+	- Lo que se busca se encuentra, lo que se descuida se pierde.
+	- Los sabios son los que buscan la sabiduría; los necios piensan ya haberla encontrado.
+	- Nada sucede por casualidad, en el fondo las cosas tienen su plan secreto, aunque nosotros no lo entendamos.
+	- Los sabios hablan porque tienen algo que decir, los tontos hablan porque tienen que decir algo.
+- [[Descartes, René]]
+	- Cada problema que resolví se convirtió en una regla que sirvió después para resolver otros problemas. Así, cada verdad descubierta era una regla disponible en el descubrimiento de las siguientes.
+	- Cuando surge un problema, deberíamos ser capaces de ver pronto si será rentable examinar otros problemas primero, y qué otros, y en qué orden.
+	- Daría todo lo que sé por la mitad de lo que ignoro.
+	- Dicen que el mono es tan inteligente que no habla para que no lo hagan trabajar.
+	- Divide las dificultades que examinas en tantas partes como sea posible para su mejor solución.
+	- Dos cosas contribuyen a avanzar: ir más deprisa que los otros o ir por el buen camino.
+	- El buen sentido es lo que mejor repartido está entre todo el mundo, pues cada cual piensa que posee buena provisión de él.
+	- Leer buenos libros es como conversar con las mejores mentes del pasado.
+	- Lo poco que he aprendido carece de valor, comparado con lo que ignoro y no desespero en aprender.
+	- No hay nada repartido de modo más equitativo en el mundo que la razón: todo el mundo está convencido de tener suficiente.
+	- Para buscar la verdad, es necesario, una vez en el curso de nuestra vida, dudar, en la medida de lo posible, de todas las cosas.
+	- Para mejorar nuestro conocimiento debemos aprender menos y contemplar más.
+	- Para saber lo que la gente piensa realmente, hay que fijarse en lo que hace, más que en lo que dicen.
+	- Pensad antes de obrar y no comencéis nada sin haber consultado las circunstancias bien a fondo.
+- [[Ramón y Cajal, Santiago]]
+	- La desdicha de nuestro país consiste, como se ha dicho hartas veces, en que el interés individual ignora el interés colectivo.
+	- Lo peor no es cometer un error, sino tratar de justificarlo, en vez de aprovecharlo como aviso providencial de nuestra ligereza o ignorancia.
+	- ¿No tienes enemigos? ¿Es que jamás dijiste la verdad o jamás amaste la justicia?
+	- O se tienen muchas ideas y pocos amigos o muchos amigos y pocas ideas.
+	- Razonar y convencer, ¡qué difícil, largo y trabajoso! ¿Sugestionar? ¡Qué fácil, rápido y barato!
+- [[Sócrates]]
+	- El grado sumo del saber es contemplar el porqué.
+	- El hombre que no piensa sino en vivir, no vive.
+	- El paso del tiempo arruga tu piel, pero la falta de entusiasmo arruga tu alma.
+	- El verdadero viaje no es el que nos lleva lejos, sino el que conduce a nuestro interior.
+	- Habla para que yo pueda conocerte.
+	- La ciencia humana consiste más en destruir errores que en descubrir verdades.
+	- La gente inteligente aprende de todo y de todos, la normal aprende de sus experiencias, la gente estúpida ya tiene todas sus respuestas.
+	- Sólo hay un bien: el conocimiento. Sólo hay un mal: la ignorancia.
+- [[Eco, Umberto]]
+	- Cuando se dispone de poco tiempo lo peor es perder la calma. Debemos actuar como si tuviésemos la eternidad por delante.
+	- El mundo está lleno de libros preciosos que nadie lee.
+	- No todas las verdades son para todos los oídos.
+	- Una de las primeras cosas que se han de hacer para empezar a trabajar con una tesis es escribir el título, la introducción y el índice final; esto es, precisamente las cosas que todos los autores hacen al final.
+- [[Hugo, Victor]]
+	- El agua que no corre hace un pantano; la mente que no trabaja hace un tonto.
+	- El éxito es una cosa bastante repugnante. Su falsa semejanza con el mérito engaña a los hombres.
+	- Lo que bien se piensa, bien se expresa.
+	- Nada tan estúpido como vencer; la verdadera gloria está en convencer.
+	- ¿Sabe cuál es mi enfermedad? La utopía. ¿Sabe cuál es la suya? La rutina. La utopía es el porvenir que se esfuerza en nacer. La rutina es el pasado que se obstina en seguir.
+- [[Frankl, Viktor]]
+	- La felicidad es como una mariposa. Cuanto más la persigues, más huye. Pero si vuelves la atención hacia otras cosas, ella viene y suavemente se posa en tu hombro. La felicidad no es una posada en el camino, sino una forma de caminar por la vida.
+	- La vida no es principalmente una búsqueda del placer, como creía Freud, ni una búsqueda de poder, como lo enseñó Alfred Adler, sino una búsqueda de sentido. La mejor tarea para cualquier persona es encontrarle sentido a su propia vida.
+	- Si no está en tus manos cambiar una situación que te produce dolor, siempre podrás escoger la actitud con la que afrontes ese sufrimiento.
+- [[Voltaire]]
+	- A los tontos todo les maravilla en un autor apreciado; pero yo, que leo para mí, sólo apruebo lo que me gusta.
+	- Al ser incapaz de hacer que la gente sea más razonable, he preferido ser feliz lejos de ellos.
+	- Algunos están destinados a razonar erróneamente, otros a no razonar en absoluto, y otros a perseguir a los que razonan.
+	- Cuando uno no vive como piensa, acaba pensando como vive.
+	- Cuanto más lee uno, más se instruye; cuanto más medita, más se halla en situación de afirmar que no sabe nada.
+	- Decimos una tontería y a fuerza de repetirla acabamos creyéndola.
+	- El arte de la medicina consiste en mantener al paciente en buen estado de
+	- El cerebro humano es un órgano complejo con el maravilloso poder de permitirle al hombre encontrar razones para seguir creyendo lo que sea que quiera creer.
+	- El secreto de aburrir a la gente consiste en decirlo todo.
+	- En geometría, como en la mayoría de las ciencias, es muy raro que una proposición aislada sea de utilidad inmediata. Pero las teorías más poderosas en la práctica están formadas por proposiciones que sólo la curiosidad sacó a la luz, y que durante mucho tiempo permanecieron inútiles sin poder adivinar de qué manera deberían dejar de serlo un día. En este sentido, se puede decir que en la ciencia real, ninguna teoría, ninguna investigación, es en efecto inútil.
+	- El secreto de aburrir a la gente consiste en decirlo todo.
+	- Es difícil liberar a los necios de las cadenas que veneran.
+	- Es peligroso tener razón cuando el Gobierno está equivocado.
+	- He decidido hacer lo que me gusta porque es bueno para la salud.
+	- La decisión más importante que se toma es estar de buen humor.
+	- La estupidez es una enfermedad extraordinaria, no es el enfermo el que sufre por ella, sino los demás.
+	- La ignorancia afirma o niega rotundamente; la ciencia duda.
+	- La ilusión es el primero de todos los placeres.
+	- La más feliz de todas las vidas es una soledad atareada.
+	- La política es el camino para que los hombres sin principios puedan dirigir a los hombres sin memoria.
+	- La Tierra está llena de gente con la que no vale la pena hablar.
+	- Los prejuicios son la razón de los tontos.
+	- Pensad por cuenta propia y dejad que los demás disfruten del derecho a hacer lo mismo.
+	- Una colección de pensamientos debe ser una farmacia donde se encuentra remedio a todos los males.
+	- Quienes creen que el dinero lo hace todo, terminan haciendo todo por dinero.
+- [[James, William]]
+	- Cuando debemos hacer una elección y no la haces, esto ya es una elección.
+	- Dejad pensar al pueblo que gobierna y se dejará gobernar.
+	- El arte de ser sabio es el arte de saber qué pasar por alto.
+	- El camino voluntario y soberano hacia la alegría, si perdemos la alegría, consiste en proceder con alegría, actuar y hablar con alegría, como si esa alegría estuviera ya con nosotros.
+	- El objetivo de la ciencia es siempre reducir la complejidad a la simplicidad.
+	- El pájaro no canta porque sea feliz, sino que es feliz porque canta.
+	- El principio más profundo del carácter humano es el anhelo de ser apreciado.
+	- La unión del matemático con el poeta, el fervor con la medida, la pasión con la corrección, este seguramente es el ideal.
+	- Muchas personas creen que piensan, pero están reordenando sus prejuicios.
+	- No hay mentira peor que una verdad mal entendida por los que la oyen.
+	- No temas a la vida. Cree que la vida es digna de ser vivida, y tu creencia ayudará a crear el hecho.
+	- Primero una nueva teoría es tachada de absurda; luego se admite que es cierta, pero obvia e insignificante; finalmente, se ve tan importante que sus adversarios afirman que ellos mismos la descubrieron.
+	- Un gran número de personas piensan que están pensando cuando no hacen más que reordenar sus prejuicios.
+	- Una cosa es importante si alguien la cree importante.
 -
