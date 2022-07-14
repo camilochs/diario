@@ -10,3 +10,4 @@
 	- ¿Me cuentas algunos de los proyectos que has realizado  o estás trabajando en el BSC? (de aquí podrían surgir varias preguntas)
 	- ¿Cómo te interesaste en la investigación?
 	- ¿Qué consejos le darías a alguien que este interesado en estudiar matemática y dedicarse al análisis de datos?
+- Es un gusto tener a la persona que por su culpa me han
