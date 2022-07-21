@@ -1,4 +1,7 @@
-[{:block/name "\"caterine, christopher l.\"",
+[{:block/name " watts, alan",
+  :block/created-at 1658185388441,
+  :block/updated-at 1658185388441}
+ {:block/name "\"caterine, christopher l.\"",
   :block/created-at 1656332977142,
   :block/updated-at 1656332977142}
  {:block/name "\"keshav, s.\"",
@@ -10,6 +13,9 @@
  {:block/name "26-02-2022",
   :block/created-at 1651494648547,
   :block/updated-at 1651494648547}
+ {:block/name "@schulzrinne2021",
+  :block/created-at 1656162361862,
+  :block/updated-at 1656162644532}
  {:block/name "a",
   :block/created-at 1644843240331,
   :block/updated-at 1656595095591}
@@ -52,6 +58,15 @@
  {:block/name "artificial intelligence",
   :block/created-at 1656326690392,
   :block/updated-at 1656326690392}
+ {:block/name "arístoteles",
+  :block/created-at 1658185388454,
+  :block/updated-at 1658185388454}
+ {:block/name "asimov, isaac",
+  :block/created-at 1658185388485,
+  :block/updated-at 1658185388485}
+ {:block/name "aurelio, marco",
+  :block/created-at 1658185388503,
+  :block/updated-at 1658185388503}
  {:block/name "b",
   :block/created-at 1644843240331,
   :block/updated-at 1656594897722}
@@ -82,6 +97,9 @@
  {:block/name "book",
   :block/created-at 1656326689216,
   :block/updated-at 1656326689216}
+ {:block/name "borges, jorge luis",
+  :block/created-at 1658185388488,
+  :block/updated-at 1658185388488}
  {:block/name "bruderer, herbert",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -94,15 +112,15 @@
  {:block/name "c++",
   :block/created-at 1656332924432,
   :block/updated-at 1656332924432}
- {:block/name "canceled",
-  :block/created-at 1657051452255,
-  :block/updated-at 1657051452255}
- {:block/name "cancelled",
-  :block/created-at 1657051452254,
-  :block/updated-at 1657051452254}
+ {:block/name "camus, albert",
+  :block/created-at 1658185388442,
+  :block/updated-at 1658185388442}
  {:block/name "card",
   :block/created-at 1651494487013,
   :block/updated-at 1651494487013}
+ {:block/name "carroll, lewis",
+  :block/created-at 1658185388497,
+  :block/updated-at 1658185388497}
  {:block/name "caterine, christopher l.",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -118,6 +136,12 @@
  {:block/name "churchalonzo",
   :block/created-at 1656594727718,
   :block/updated-at 1656594727718}
+ {:block/name "chéjov, antón",
+  :block/created-at 1658185388452,
+  :block/updated-at 1658185388452}
+ {:block/name "cicerón",
+  :block/created-at 1658185388464,
+  :block/updated-at 1658185388464}
  {:block/name "ciencia",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -145,9 +169,12 @@
  {:block/name "concurrencia",
   :block/created-at 1656594727579,
   :block/updated-at 1656594727579}
+ {:block/name "confucio",
+  :block/created-at 1658185388466,
+  :block/updated-at 1658185388466}
  {:block/name "contents",
   :block/created-at 1653339006634,
-  :block/updated-at 1653339006634}
+  :block/updated-at 1656263102707}
  {:block/name "coq",
   :block/created-at 1656594727740,
   :block/updated-at 1656594727740}
@@ -178,12 +205,18 @@
  {:block/name "demonio",
   :block/created-at 1656594727763,
   :block/updated-at 1656594727763}
+ {:block/name "descartes, rené",
+  :block/created-at 1658185388512,
+  :block/updated-at 1658185388512}
  {:block/name "diario personal",
   :block/created-at 1656332976552,
   :block/updated-at 1656925361168}
  {:block/name "diccionario de informática",
   :block/created-at 1656594727976,
   :block/updated-at 1656594828118}
+ {:block/name "diderot, denis",
+  :block/created-at 1658185388470,
+  :block/updated-at 1658185388470}
  {:block/name "dijkstra, edsger w.",
   :block/created-at 1656594727774,
   :block/updated-at 1656594727774}
@@ -205,9 +238,15 @@
  {:block/name "e",
   :block/created-at 1656594727855,
   :block/updated-at 1656595113763}
+ {:block/name "eco, umberto",
+  :block/created-at 1658185388516,
+  :block/updated-at 1658185388516}
  {:block/name "economía conductual",
   :block/created-at 1656326689218,
   :block/updated-at 1656326689218}
+ {:block/name "einstein, albert",
+  :block/created-at 1658185388443,
+  :block/updated-at 1658185388443}
  {:block/name "entrevista a héctor patricio",
   :block/created-at 1657051385630,
   :block/updated-at 1657051385630}
@@ -256,6 +295,12 @@
  {:block/name "flood, raymond",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "frankl, viktor",
+  :block/created-at 1658185388518,
+  :block/updated-at 1658185388518}
+ {:block/name "frege, gottlob",
+  :block/created-at 1658185388481,
+  :block/updated-at 1658185388481}
  {:block/name "fri, 01-07-2022",
   :block/created-at 1657051386224,
   :block/updated-at 1657051386224}
@@ -289,6 +334,9 @@
  {:block/name "geometría computacional",
   :block/created-at 1656594728042,
   :block/updated-at 1656595686290}
+ {:block/name "goethe, johann wolfgang von",
+  :block/created-at 1658185388486,
+  :block/updated-at 1658185388486}
  {:block/name "gordon, rachel",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -322,18 +370,24 @@
  {:block/name "haskell",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
- {:block/name "hoare, c. a. r.",
-  :block/created-at 1656594728074,
-  :block/updated-at 1656595593945}
+ {:block/name "hesse, hermann",
+  :block/created-at 1658185388482,
+  :block/updated-at 1658185388482}
  {:block/name "hoare, charles antony richard",
   :block/created-at 1657051385699,
   :block/updated-at 1657051385699}
- {:block/name "hoarec",
-  :block/created-at 1656594728194,
-  :block/updated-at 1656606675281}
  {:block/name "how to read a paper",
   :block/created-at 1656326690742,
   :block/updated-at 1656326690742}
+ {:block/name "hubbard, elbert",
+  :block/created-at 1658185388471,
+  :block/updated-at 1658185388471}
+ {:block/name "hugo, victor",
+  :block/created-at 1658185388517,
+  :block/updated-at 1658185388517}
+ {:block/name "hume, david",
+  :block/created-at 1658185388467,
+  :block/updated-at 1658185388467}
  {:block/name "i",
   :block/created-at 1656594727971,
   :block/updated-at 1656595966451}
@@ -376,6 +430,9 @@
  {:block/name "jacobson, ivar",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "james, william",
+  :block/created-at 1658185388521,
+  :block/updated-at 1658185388521}
  {:block/name "java",
   :block/created-at 1656332924432,
   :block/updated-at 1656332924432}
@@ -391,12 +448,21 @@
  {:block/name "joyner, jack",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "jung, carl gustav",
+  :block/created-at 1658185388463,
+  :block/updated-at 1658185388463}
  {:block/name "jvm",
   :block/created-at 1656594728123,
   :block/updated-at 1656595758418}
  {:block/name "k",
   :block/created-at 1656594727970,
   :block/updated-at 1656606622693}
+ {:block/name "kafka, franz",
+  :block/created-at 1658185388477,
+  :block/updated-at 1658185388477}
+ {:block/name "kant, immanuel",
+  :block/created-at 1658185388484,
+  :block/updated-at 1658185388484}
  {:block/name "karimi-mamaghan, amir mohammad",
   :block/created-at 1656326688996,
   :block/updated-at 1656326688996}
@@ -433,6 +499,9 @@
  {:block/name "landinpeter",
   :block/created-at 1656594728211,
   :block/updated-at 1656594728211}
+ {:block/name "lao-tse",
+  :block/created-at 1658185388493,
+  :block/updated-at 1658185388493}
  {:block/name "las trampas del deseo",
   :block/created-at 1656326689643,
   :block/updated-at 1656326689643}
@@ -456,6 +525,9 @@
  {:block/name "leer",
   :block/created-at 1651787489029,
   :block/updated-at 1651787489029}
+ {:block/name "leibniz, gottfried",
+  :block/created-at 1658185388480,
+  :block/updated-at 1658185388480}
  {:block/name "lenguaje de programación",
   :block/created-at 1656594727619,
   :block/updated-at 1656595816116}
@@ -522,6 +594,9 @@
  {:block/name "m",
   :block/created-at 1656594727970,
   :block/updated-at 1656595999678}
+ {:block/name "machado, antonio",
+  :block/created-at 1658185388449,
+  :block/updated-at 1658185388449}
  {:block/name "machine learning",
   :block/created-at 1656326688617,
   :block/updated-at 1656326688617}
@@ -554,8 +629,8 @@
   :block/created-at 1651494635192,
   :block/updated-at 1651494635192}
  {:block/name "mon, 04-07-2022",
-  :block/created-at 1657051386215,
-  :block/updated-at 1657051386215}
+  :block/created-at 1658185387608,
+  :block/updated-at 1658185387608}
  {:block/name "mon, 09-05-2022",
   :block/created-at 1653338926332,
   :block/updated-at 1653338926332}
@@ -568,6 +643,9 @@
  {:block/name "mon, 27-06-2022",
   :block/created-at 1656324620765,
   :block/updated-at 1656324620765}
+ {:block/name "montaigne, michel de",
+  :block/created-at 1658185388507,
+  :block/updated-at 1658185388507}
  {:block/name "moore, g. e.",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -595,6 +673,9 @@
  {:block/name "ng, pan-wei",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "nietzsche, friedrich",
+  :block/created-at 1658185388478,
+  :block/updated-at 1658185388478}
  {:block/name "nosql",
   :block/created-at 1656594727669,
   :block/updated-at 1656594727669}
@@ -640,6 +721,9 @@
  {:block/name "parra, nicanor",
   :block/created-at 1653338926322,
   :block/updated-at 1653338926322}
+ {:block/name "pascal, blaise",
+  :block/created-at 1658185388462,
+  :block/updated-at 1658185388462}
  {:block/name "patricio reyes",
   :block/created-at 1656149045095,
   :block/updated-at 1656149045095}
@@ -661,9 +745,15 @@
  {:block/name "planeta",
   :block/created-at 1656326689214,
   :block/updated-at 1656326689214}
+ {:block/name "platón",
+  :block/created-at 1658185388511,
+  :block/updated-at 1658185388511}
  {:block/name "plumb, gregory",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "popper, karl",
+  :block/created-at 1658185388492,
+  :block/updated-at 1658185388492}
  {:block/name "premio turing",
   :block/created-at 1656594728190,
   :block/updated-at 1656594728190}
@@ -679,9 +769,6 @@
  {:block/name "programa",
   :block/created-at 1656594727582,
   :block/updated-at 1656595435540}
- {:block/name "programacin l├│gica",
-  :block/created-at 1656594728593,
-  :block/updated-at 1656594728593}
  {:block/name "programación funcional",
   :block/created-at 1656332924434,
   :block/updated-at 1656332924434}
@@ -695,6 +782,9 @@
   :block/created-at 1656594728491,
   :block/updated-at 1656594728491}
  {:block/name "programación-funcional",
+  :block/created-at 1644843240331,
+  :block/updated-at 1644843240331}
+ {:block/name "programaciónfuncional",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
  {:block/name "programas",
@@ -724,6 +814,9 @@
  {:block/name "quantum machine learning",
   :block/created-at 1656326688611,
   :block/updated-at 1656326688611}
+ {:block/name "quevedo, francisco de",
+  :block/created-at 1658185388476,
+  :block/updated-at 1658185388476}
  {:block/name "quicksort",
   :block/created-at 1656594728193,
   :block/updated-at 1656595612934}
@@ -736,6 +829,9 @@
  {:block/name "ramón y cajal, santiago",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "read",
+  :block/created-at 1656166148414,
+  :block/updated-at 1656166148414}
  {:block/name "reading",
   :block/created-at 1656326690800,
   :block/updated-at 1656326690800}
@@ -754,6 +850,9 @@
  {:block/name "reglas de derivación",
   :block/created-at 1656594728228,
   :block/updated-at 1656594728228}
+ {:block/name "research",
+  :block/created-at 1656166148414,
+  :block/updated-at 1656166148414}
  {:block/name "reyes, patricio",
   :block/created-at 1656593868198,
   :block/updated-at 1656593868198}
@@ -763,9 +862,15 @@
  {:block/name "root-bernstein, robert",
   :block/created-at 1651493260227,
   :block/updated-at 1651493260227}
+ {:block/name "russell, bertrand",
+  :block/created-at 1658185388459,
+  :block/updated-at 1658185388459}
  {:block/name "s",
   :block/created-at 1656594727967,
   :block/updated-at 1656596035630}
+ {:block/name "saramago, josé",
+  :block/created-at 1658185388490,
+  :block/updated-at 1658185388490}
  {:block/name "sat, 02-07-2022",
   :block/created-at 1657051386219,
   :block/updated-at 1657051386219}
@@ -781,6 +886,9 @@
  {:block/name "sat, 25-06-2022",
   :block/created-at 1656117472363,
   :block/updated-at 1656165253144}
+ {:block/name "schopenhauer, arthur",
+  :block/created-at 1658185388455,
+  :block/updated-at 1658185388455}
  {:block/name "schuld, m",
   :block/created-at 1656326688598,
   :block/updated-at 1656326688598}
@@ -833,8 +941,8 @@
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
  {:block/name "sun, 03-07-2022",
-  :block/created-at 1657051386219,
-  :block/updated-at 1657051386219}
+  :block/created-at 1658185387612,
+  :block/updated-at 1658185387612}
  {:block/name "sun, 08-05-2022",
   :block/created-at 1653338926334,
   :block/updated-at 1653338926334}
@@ -847,9 +955,21 @@
  {:block/name "sun, 26-06-2022",
   :block/created-at 1656198911567,
   :block/updated-at 1656198911567}
+ {:block/name "swartz, aaron",
+  :block/created-at 1658185388439,
+  :block/updated-at 1658185388439}
+ {:block/name "sábato, ernesto",
+  :block/created-at 1658185388475,
+  :block/updated-at 1658185388475}
  {:block/name "sánchez, manuel rubio",
   :block/created-at 1656326690794,
   :block/updated-at 1656326690794}
+ {:block/name "séneca, lucio anneo",
+  :block/created-at 1658185388499,
+  :block/updated-at 1658185388499}
+ {:block/name "sócrates",
+  :block/created-at 1658185388515,
+  :block/updated-at 1658185388515}
  {:block/name "t",
   :block/created-at 1656594727967,
   :block/updated-at 1656595420478}
@@ -898,12 +1018,15 @@
  {:block/name "tolerancia a fallos",
   :block/created-at 1656594728688,
   :block/updated-at 1656594728688}
+ {:block/name "tolstói, león",
+  :block/created-at 1658185388496,
+  :block/updated-at 1658185388496}
  {:block/name "tue, 03-05-2022",
   :block/created-at 1651576851159,
   :block/updated-at 1651576851159}
  {:block/name "tue, 05-07-2022",
-  :block/created-at 1657051385389,
-  :block/updated-at 1657051385389}
+  :block/created-at 1658185387603,
+  :block/updated-at 1658185387603}
  {:block/name "tue, 10-05-2022",
   :block/created-at 1653338926330,
   :block/updated-at 1653338926330}
@@ -913,6 +1036,9 @@
  {:block/name "tue, 17-05-2022",
   :block/created-at 1653339041239,
   :block/updated-at 1653339041239}
+ {:block/name "tue, 19-07-2022",
+  :block/created-at 1658185386641,
+  :block/updated-at 1658185386641}
  {:block/name "tue, 24-05-2022",
   :block/created-at 1655937636479,
   :block/updated-at 1655937636479}
@@ -925,6 +1051,12 @@
  {:block/name "turingalan",
   :block/created-at 1656594728758,
   :block/updated-at 1656594728758}
+ {:block/name "twain, mark",
+  :block/created-at 1658185388506,
+  :block/updated-at 1658185388506}
+ {:block/name "técnicas de estudio",
+  :block/created-at 1656166148414,
+  :block/updated-at 1656166148414}
  {:block/name "u",
   :block/created-at 1656594727967,
   :block/updated-at 1656606607484}
@@ -946,6 +1078,12 @@
  {:block/name "verificación formal",
   :block/created-at 1656594728028,
   :block/updated-at 1656594728028}
+ {:block/name "vinci, leonardo de",
+  :block/created-at 1658185388494,
+  :block/updated-at 1658185388494}
+ {:block/name "voltaire",
+  :block/created-at 1658185388519,
+  :block/updated-at 1658185388519}
  {:block/name "w",
   :block/created-at 1656594727966,
   :block/updated-at 1656596011110}
@@ -958,12 +1096,18 @@
  {:block/name "ward, isaac ronald",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
+ {:block/name "web",
+  :block/created-at 1656162393962,
+  :block/updated-at 1656162393962}
  {:block/name "wed, 04-05-2022",
   :block/created-at 1651787489027,
   :block/updated-at 1651787489027}
  {:block/name "wed, 11-05-2022",
   :block/created-at 1653338926329,
   :block/updated-at 1653338926329}
+ {:block/name "wed, 13-07-2022",
+  :block/created-at 1657747535927,
+  :block/updated-at 1657747535927}
  {:block/name "wed, 16-02-2022",
   :block/created-at 1644969600000,
   :block/updated-at 1644969600000}
@@ -979,9 +1123,15 @@
  {:block/name "weston, anthony",
   :block/created-at 1653338926337,
   :block/updated-at 1653338926337}
+ {:block/name "whitehead, alfred north",
+  :block/created-at 1658185388446,
+  :block/updated-at 1658185388446}
  {:block/name "wiebe, nathan",
   :block/created-at 1656326690065,
   :block/updated-at 1656326690065}
+ {:block/name "wilde, oscar",
+  :block/created-at 1658185388509,
+  :block/updated-at 1658185388509}
  {:block/name "wilson, robin",
   :block/created-at 1644843240331,
   :block/updated-at 1644843240331}
@@ -1003,6 +1153,9 @@
  {:block/name "y",
   :block/created-at 1656594727965,
   :block/updated-at 1656606587245}
+ {:block/name "yutang, lin",
+  :block/created-at 1658185388498,
+  :block/updated-at 1658185388498}
  {:block/name "z",
   :block/created-at 1656594727965,
   :block/updated-at 1656596062052}
