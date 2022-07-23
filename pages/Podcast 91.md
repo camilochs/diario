@@ -2,6 +2,7 @@
 	- En 1960 comenzaron a surgir los primeros lenguajes estructurados, goto
 	- En 1980, estructura anidadas como Algol, Pascal, Ada, luego OOP smalltalk, eiffel, C++.
 	- En 1990 ya surgen los lenguajes scripting como Python y Ruby.
+- Me parece un buen halago que se vaya a dormir con mi voz.
 - Compilers: Principles, Techniques, and Tools, 1986, 2006
 	- Es como el vino, aunque a mi no me gusta el vino, pero la analogía es buena
 	- Alfred Aho, Jeffrey Ulmman, Monica Lam, Ravi Sethi,
