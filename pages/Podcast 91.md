@@ -7,6 +7,7 @@
 - Compilers: Principles, Techniques, and Tools, 1986, 2006
 	- Es como el vino, aunque a mi no me gusta el vino, pero la analogía es buena
 	- Alfred Aho, Jeffrey Ulmman, Monica Lam, Ravi Sethi,
+- Programming language pragmatics, 4 ed. Michael Scott
 -
 - Numba es un JIT compiler, LLVM, para algoritmos númericos.
 - Cling se construyo sobre LLVM y clang
