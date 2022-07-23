@@ -13,4 +13,4 @@
 - Cling se construyo sobre LLVM y clang
 - Ahora la siguiente pregunta es ¿por qué algunos lenguajes tienen más compiladores que otros?
 - Árbol de sintaxis abstracta
--
+- 21- 1:16:30
