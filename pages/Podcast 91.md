@@ -2,7 +2,9 @@
 	- En 1960 comenzaron a surgir los primeros lenguajes estructurados, goto
 	- En 1980, estructura anidadas como Algol, Pascal, Ada, luego OOP smalltalk, eiffel, C++.
 	- En 1990 ya surgen los lenguajes scripting como Python y Ruby.
-- Alfred aho, Jeffrey Ulmman
+- Compilers: Principles, Techniques, and Tools
+	- Es como el vino, aunque a mi no me gusta el vino, pero la analogía es buena
+	- Alfred aho, Jeffrey Ulmman
 - Numba es un JIT compiler, LLVM, para algoritmos númericos.
 - Cling se construyo sobre LLVM
 - Árbol de sintaxis abstracta
