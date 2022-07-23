@@ -1,0 +1,9 @@
+- Es un problema de denotación, ¿qué es un lenguaje?
+	- En 1960 comenzaron a surgir los primeros lenguajes estructurados, goto
+	- En 1980, estructura anidadas como Algol, Pascal, Ada, luego OOP smalltalk, eiffel, C++.
+	- En 1990 ya surgen los lenguajes scripting como Python y Ruby.
+- Alfred aho, Jeffrey Ulmman
+- Numba es un JIT compiler, LLVM, para algoritmos númericos.
+- Cling se construyo sobre LLVM
+- Árbol de sintaxis abstracta
+-
