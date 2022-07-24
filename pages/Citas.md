@@ -1,3 +1,12 @@
+-
+- [[Bernard Shaw, George]]
+	- The reasonable man adapts
+	  himself to the world;
+	  the unreasonable one persists
+	  in trying to adapt the world to himself.
+	  Therefore all progress depends
+	  on the unreasonable man.
+	  Maxims for Revolutionists
 - [[Wirth, Niklaus]]
 	- Algorithms + Data Structures = Programs, 1976
 		- The power of recursion evidently lies in the possibility of defining an infinite set of objects by a finite statement. In the same manner, an infinite number of computations can be described by a finite recursive program, even if this program contains no explicit repetitions.
