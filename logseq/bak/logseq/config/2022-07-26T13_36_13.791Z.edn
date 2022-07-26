@@ -8,7 +8,7 @@
  ;; Value is either ":now" for NOW/LATER style,
  ;; or ":todo" for TODO/DOING style.
  :preferred-workflow :now
-
+ 
  ;; The app will ignore those directories or files.
  ;; E.g. "/archived" "/test.md"
  :hidden []
@@ -162,10 +162,11 @@
  :journal/page-title-format "E, dd-MM-yyyy"
  :ui/show-brackets? false
  :feature/enable-timetracking? false
- :feature/enable-journals? false
- :default-home {:page "README"}
- :favorites ["readme"]
- :graph/settings {:journal? false}
+ :feature/enable-journals? true
+ :default-home {:page "DIARIO"}
+ :favorites ["Citas" "Diccionario de informática" "Reading List" "Templates" "Diario personal"]
+ :graph/settings {:journal? true}
+ :publishing/all-pages-public? true
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
