@@ -1,8 +1,9 @@
 - ¿Qué es el computacionalismo?
 	- Teoria computacional de la mente.
+	- Cognitivas:
 	- operaciones (input/output) y representaciones (transformaciones)
 	-
-	- Significa que las capacidad cognitivas son computación: , por ejemplo aprender un lenguaje.
+	- Significa que las capacidad cognitivas (memoria, atención, comprensión, lenguaje, razonamiento) son computación: , por ejemplo aprender un lenguaje.
 	- Ejemplo: Descargar la mente e instalarla en un computador, inmortalidad.
 		-
 	- Mecanicismo. Siglo 17. Leibniz, Descartes. No es algo nuevo.
