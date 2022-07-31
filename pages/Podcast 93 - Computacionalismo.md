@@ -5,6 +5,7 @@
 	-
 	- Significa que las capacidad cognitivas (memoria, atención, comprensión, lenguaje, razonamiento) son computación: , por ejemplo aprender un lenguaje.
 	- Ejemplo: Descargar la mente e instalarla en un computador, inmortalidad.
+		- Esto me da una idea, ojalá pudiera borrar algunas mentas como si fuera un software. Limpieza profunda.
 		-
 	- Mecanicismo. Siglo 17. Leibniz, Descartes. No es algo nuevo.
 		- Copeland mostro que partes del cuerpo pueden ser análogas a las partes mecánicas de una máquina. Lo mismo presentaba Descartes.
