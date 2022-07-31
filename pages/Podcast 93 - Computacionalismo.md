@@ -1,6 +1,7 @@
 - ¿Qué es el computacionalismo?
+	- Capacidad cognitivas, por ejemplo aprender un lenguaje.
 	- Ejemplo: Descargar la mente e instalarla en un computador, inmortalidad.
-		- Capacidad
+		-
 	- Mecanicismo. Siglo 17. Leibniz, Descartes. No es algo nuevo.
 	- El problema de la semántica. Teoría de la información de Shannon solo es estadística no dice nada del aspecto semántico.
 	- La habitación china de Searle.
