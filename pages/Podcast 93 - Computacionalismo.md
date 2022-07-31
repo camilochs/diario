@@ -4,6 +4,8 @@
 		-
 	- Mecanicismo. Siglo 17. Leibniz, Descartes. No es algo nuevo.
 		- Copeland mostro que partes del cuerpo pueden ser análogas a las partes mecánicas de una máquina.
+		- ![image.png](../assets/image_1659303031878_0.png)
+		-
 	- El problema de la semántica. Teoría de la información de Shannon solo es estadística no dice nada del aspecto semántico.
 	-
 	- MARCIN MIŁKOWSKI Objeciones:
