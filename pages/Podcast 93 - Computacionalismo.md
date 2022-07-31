@@ -6,6 +6,7 @@
 	- El problema de la semántica. Teoría de la información de Shannon solo es estadística no dice nada del aspecto semántico.
 	- La habitación china de Searle.
 	- MARCIN MIŁKOWSKI Objeciones:
-		- Metafora del computador
+		- Relacionadas con la natural de la computación
+		- Relacionadas con la semántica
 	-
 -
