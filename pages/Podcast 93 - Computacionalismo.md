@@ -11,11 +11,11 @@
 		- ![image.png](../assets/image_1659303031878_0.png)
 		-
 	- El problema de la semántica. Teoría de la información de Shannon solo es estadística no dice nada del aspecto semántico.
-	-
+		- Ejemplo de Barbara, 1 o 0, si o no, vamos a tal lugar.
 	- MARCIN MIŁKOWSKI Objeciones:
 		- Relacionadas con la natural de la computación. El cerebro no es digital.
 		- Relacionadas con la semántica. La habitación china de Searle.
-			- Ejemplo de Barbara
+			-
 		- Relacionadas contra funcionalismo computacional.  El sentido común no puede formalizado.
 	-
 -
