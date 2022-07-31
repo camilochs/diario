@@ -8,6 +8,6 @@
 	- MARCIN MIŁKOWSKI Objeciones:
 		- Relacionadas con la natural de la computación.
 		- Relacionadas con la semántica. La habitación china de Searle.
-		- Relacionadas con el funcionalismo.
+		- Relacionadas contra funcionalismo computacional.  El sentido común no puede formalizado.
 	-
 -
