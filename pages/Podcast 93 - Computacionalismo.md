@@ -1,5 +1,6 @@
 - ¿Qué es el computacionalismo?
-	- Ejemplo: Descargar la menta e instalarla en un computador, inmortalidad.
+	- Ejemplo: Descargar la mente e instalarla en un computador, inmortalidad.
+		- Capacidad
 	- Mecanicismo. Siglo 17. Leibniz, Descartes. No es algo nuevo.
 	- El problema de la semántica. Teoría de la información de Shannon solo es estadística no dice nada del aspecto semántico.
 	- La habitación china de Searle.
