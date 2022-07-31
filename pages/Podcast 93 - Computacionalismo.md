@@ -15,6 +15,7 @@
 	- MARCIN MIŁKOWSKI Objeciones:
 		- Relacionadas con la natural de la computación. El cerebro no es digital.
 		- Relacionadas con la semántica. La habitación china de Searle.
+			- Ejemplo de Barbara
 		- Relacionadas contra funcionalismo computacional.  El sentido común no puede formalizado.
 	-
 -
