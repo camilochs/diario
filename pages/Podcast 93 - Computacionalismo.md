@@ -1,5 +1,6 @@
 - ¿Qué es el computacionalismo?
-	- Capacidad cognitivas son computación: operaciones (input/output) y representaciones (transformaciones), por ejemplo aprender un lenguaje.
+	- operaciones (input/output) y representaciones (transformaciones)
+	- Significa que las capacidad cognitivas son computación: , por ejemplo aprender un lenguaje.
 	- Ejemplo: Descargar la mente e instalarla en un computador, inmortalidad.
 		-
 	- Mecanicismo. Siglo 17. Leibniz, Descartes. No es algo nuevo.
