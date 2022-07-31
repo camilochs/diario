@@ -1,2 +1,5 @@
-- ¿Que?
+- ¿Qué es el computacionalismo?
+	- Ejemplo: Descargar la menta e instalarla en un computador, inmortalidad.
+	- Mecanicismo. Siglo Leibniz, Descartes. No es algo nuevo.
+	-
 -
